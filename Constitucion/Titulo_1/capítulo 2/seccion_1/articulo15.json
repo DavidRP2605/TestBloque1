@@ -1,0 +1,74 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
+    "question": "Según la Constitución, ¿cuál de las siguientes afirmaciones no es correcta?",
+    "options": [
+      "La pena de muerte está abolida.",
+      "La pena de muerte está abolida en España en el campo militar en tiempo de paz.",
+      "La pena de muerte está abolida incluso en tiempo de guerra.",
+      "La pena de muerte está abolida en todos los casos."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 15 establece que la pena de muerte queda abolida, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra. Fue abolida totalmente en 1995."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
+    "question": "¿Cuales de los siguientes derechos están recogidos en el articulo 15 de la Constitucion Española?",
+    "options": [
+      "A. Derecho a la libertad y a la seguridad.",
+      "B. Derecho a la vida y a la integridad fisica y moral.",
+      "C. Derecho a la intimidad personal y familiar y a la propia imagen.",
+      "D. Derecho a elegir libremente su residencia y a circular por el territorio nacional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
+    "question": "Cual NO es un derecho fundamental?",
+    "options": [
+      "A. Derecho a la vida y a la integridad fisica y moral.",
+      "B. Derecho a la educacion.",
+      "C. Derecho de asociacion.",
+      "D. Derecho al secreto de las comunicaciones."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
+    "question": "De acuerdo con el articulo 15 de la Constitucion Española, ¿Quienes tienen derecho a la vida y a la integridad fisica y moral, sin que, en ningun caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes?",
+    "options": [
+      "A. Los ciudadanos.",
+      "B. Los españoles.",
+      "C. Todos.",
+      "D. Los españoles de origen y los extranjeros con residencia legal en España."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
+    "question": "De acuerdo con el articulo 15 de la Constitucion Española, todos tienen derecho a la vida y a la integridad física y moral:",
+    "options": [
+      "A. Pudiendo ser sometidos a tortura ni a penas o tratos inhumanos o degradantes, de conformidad con lo dispuesto por las leyes penales militares.",
+      "B. Sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes.",
+      "C. De conformidad con la Declaracion Universal de Derechos Humanos.",
+      "D. No pudiendo ser sometidos a tratos degradantes, de conformidad con los tratados y acuerdos internacionales ratificados por España."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
+    "question": "Según el artículo 15 de la Constitucion Española, ¿Está la pena de muerte abolida por la Constitucion?",
+    "options": [
+      "A. Sí, excepto para los delitos de terrorismo.",
+      "B. Sí, salvo para los delitos de traición o contra la seguridad del Estado.",
+      "C. Sí, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+      "D. No, la Constitucion no trata sobre la abolición de la pena de muerte."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

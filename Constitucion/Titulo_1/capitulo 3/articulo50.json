@@ -1,0 +1,50 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "La suficiencia económica de los ciudadanos durante la tercera edad, es considerada por el artículo 50 de la Constitución:",
+    "options": [
+      "A. Un derecho fundamental.",
+      "B. Un principio rector de la política social y económica.",
+      "C. Un deber.",
+      "D. Una libertad."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "Según el artículo 50 de la Constitución Española, los poderes públicos garantizarán la suficiencia económica a los ciudadanos durante la tercera edad mediante:",
+    "options": [
+      "A. Subsidios adecuados de cuantía suficiente.",
+      "B. Pensiones adecuadas y periódicamente actualizadas.",
+      "C. Asignaciones y servicios sociales adecuados.",
+      "D. Las indemnizaciones económicas de carácter asistencial que resulten necesarias."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "Según el artículo 50 de la Constitución Española, los poderes públicos promoverán el bienestar de los ciudadanos durante la tercera edad, atendiendo sus problemas específicos de salud, vivienda, cultura y ocio mediante un sistema de:",
+    "options": [
+      "A. Servicios sociales.",
+      "B. Ayudas asistenciales.",
+      "C. Auxilios discrecionales.",
+      "D. Subsidios económicos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "El artículo 50 de la Constitución establece la atención que los poderes públicos deben prestar a los ciudadanos durante la tercera edad y, en particular, menciona que el sistema de servicios sociales atenderá a:",
+    "options": [
+      "A. Todas las respuestas son correctas.",
+      "B. Problemas de cultura y ocio.",
+      "C. Problemas de salud.",
+      "D. Problemas de vivienda."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

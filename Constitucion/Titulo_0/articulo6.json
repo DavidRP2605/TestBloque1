@@ -1,0 +1,98 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "Según el artículo 6 de la Constitución Española, los partidos políticos:",
+    "options": [
+      "Concurren a la formación de la voluntad institucional",
+      "Expresan el pluralismo ideológico en todos los campos",
+      "Son instrumento fundamental para la participación política",
+      "Participan en la manifestación de la voluntad de las agrupaciones política"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "Según el artículo 6 de la Constitución Española, la creación y el ejercicio de la actividad de los partidos políticos, dentro del respeto a la Constitución y a la ley, son:",
+    "options": [
+      "Democráticos",
+      "Libres",
+      "Reglados",
+      "Una manifestación de la voluntad popular"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política:",
+    "options": [
+      "los sindicatos de trabajadores y las asociaciones empresariales",
+      "Los poderes públicos",
+      "Los partidos políticos",
+      "Las Fuerzas Armadas"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "Los partidos políticos:",
+    "options": [
+      "Son instrumento fundamental para la participación política.",
+      "Expresan el pluralismo ideológico en todos los campos.",
+      "Concurren a la formación de la voluntad institucional.",
+      "Participan en la manifestación de la voluntad de las agrupaciones políticas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "De acuerdo con el artículo 6 de la Constitución Española, los partidos políticos:",
+    "options": [
+      "Expresan el pluralismo político, concurren a la formación de la voluntad institucional y son instrumento fundamental para la participación política",
+      "Expresan el pluralismo político, concurren a la formación de la voluntad popular y son instrumento fundamental para la participación política",
+      "Expresan el pluralismo político, concurren a la formación de la voluntad ciudadana y son instrumento fundamental para la participación política",
+      "Expresan el pluralismo político, concurren a la formación de la voluntad española y son instrumento fundamental para la participación política"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "De acuerdo con el artículo 6 de la Constitución Española, los partidos políticos expresan el pluralismo político, concurren a la formación de la voluntad popular y son instrumento fundamental para la participación política. Su estructura interna y funcionamiento deben ser:",
+    "options": [
+      "Libres y democráticos",
+      "Estructurados y jerárquicos",
+      "Democráticos",
+      "Estructurados y democráticos"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "¿Qué instrumento fundamental para la participación política menciona la Constitución?",
+    "options": [
+      "Los partidos políticos.",
+      "Los sindicatos.",
+      "Las asociaciones empresariales.",
+      "Las Fuerzas Armadas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "La creación y el ejercicio de la actividad de los Partidos Políticos:",
+    "options": [
+      "Es libre, dentro del respeto a la dignidad de las personas y de las instituciones públicas.",
+      "Es libre, dentro del respeto a la Constitución y a la Ley.",
+      "Es libre, dentro del respeto a las reglas del juego democrático establecidas en la Ley reguladora de los Partidos Políticos.",
+      "Es libre, sin limitación de clase alguna."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

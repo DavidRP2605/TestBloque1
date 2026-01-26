@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "¿Cual de las siguientes funciones del Rey requiere autorizacion previa de las Cortes Generales?",
+    "options": [
+      "A. Acreditar a los embajadores y otros representantes diplomaticos.",
+      "B. Manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados.",
+      "C. Declarar la guerra y hacer la paz.",
+      "D. Ejercer el derecho de gracia con arreglo a la ley."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

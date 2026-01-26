@@ -1,0 +1,62 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 21"],
+    "question": "¿Qué tipo de ley es necesaria para regular el desarrollo del artículo 21 de la Constitución española de 1978?",
+    "options": [
+      "A. Ley marco.",
+      "B. Ley de bases.",
+      "C. Ley orgánica.",
+      "D. Ley ordinaria."
+    ],
+    "answer": 2,
+    "explicacion": "El desarrollo normativo del derecho de reunión recogido en el artículo 21 debe realizarse mediante Ley Orgánica."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 21"],
+    "question": "En virtud del artículo 21.1 de la Constitución, se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho:",
+    "options": [
+      "A. Necesitará autorización previa.",
+      "B. Deberá comunicarse previamente a la autoridad, en todo caso.",
+      "C. Sólo en el caso de manifestaciones, se dará comunicación previa a la autoridad, que en ningún caso podrá prohibirlas.",
+      "D. No necesitará autorización previa."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 21"],
+    "question": "De conformidad con el articulo 21 de la Constitucion Española, se reconoce:",
+    "options": [
+      "A. El derecho de reunion pacifica y sin armas, cuyo ejercicio necesitará de autorizacion previa.",
+      "B. El derecho de reunion pacifica y sin armas, debiendo solicitarse autorizacion en los casos de reuniones en lugares de transito publico y manifestaciones, de acuerdo con los requisitos reglamentariamente establecidos.",
+      "C. El derecho de reunion pacifica y sin armas, y de manifestacion, no sujetos a autorizacion previa ni comunicacion.",
+      "D. El derecho de reunion pacifica y sin armas, cuyo ejercicio no necesitará de autorizacion previa."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 21"],
+    "question": "Según el articulo 21.1 de la Constitucion Española, el derecho de reunion pacifica y sin armas:",
+    "options": [
+      "A. Solo precisará autorizacion previa cuando la reunion se vaya a celebrar alterando el orden publico.",
+      "B. Precisará para su ejercicio autorizacion previa.",
+      "C. Solo precisará autorizacion previa cuando se prevea que la reunion no va a discurrir por cauces pacificos.",
+      "D. No necesitará autorizacion previa."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 21"],
+    "question": "Según el articulo 21.1 de la Constitucion Española, se reconoce el derecho de reunion pacífica y sin armas; estableciéndose en el articulo 21.2, que en los casos de reuniones en lugares de tránsito público y manifestaciones:",
+    "options": [
+      "A. Sólo podrán ser prohibidas si su celebración implica un peligro para las personas.",
+      "B. No necesitará autorización previa ni comunicación de la misma, a la autoridad competente.",
+      "C. Se dará comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.",
+      "D. Se necesitará autorización previa para el ejercicio de este derecho, que en ningún caso, podrá prohibirlas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

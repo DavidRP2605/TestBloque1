@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 19"],
+    "question": "Segun el articulo 19 de la Constitucion, una de las siguientes afirmaciones no es exacta:",
+    "options": [
+      "A. Los españoles tienen derecho a salir libremente de España en los terminos que la ley establezca.",
+      "B. Los españoles podran ver limitado su derecho a circular por el territorio nacional por motivos politicos.",
+      "C. Los españoles tienen derecho a entrar libremente a España en los terminos que la ley establezca.",
+      "D. Los españoles tienen derecho a elegir libremente su residencia."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 19"],
+    "question": "De conformidad con el articulo 19 de la Constitucion, los españoles tienen derecho a entrar y salir libremente de España:",
+    "options": [
+      "A. En los terminos que una ley organica establezca. Este derecho podrá ser limitado por motivos politicos o ideologicos.",
+      "B. En los terminos que la ley establezca. Este derecho podrá ser limitado por motivos politicos o ideologicos.",
+      "C. En los terminos que una ley organica establezca. Este derecho no podrá ser limitado por motivos politicos o ideologicos.",
+      "D. En los terminos que la ley establezca. Este derecho no podrá ser limitado por motivos politicos o ideologicos."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 19"],
+    "question": "En virtud del artículo 19 de la Constitucion Española, ¿Establece la Constitucion la libertad de residencia y circulacion por el territorio nacional?",
+    "options": [
+      "A. Sí, para los españoles.",
+      "B. Sí, para los españoles y los extranjeros.",
+      "C. No, aunque tampoco lo prohíbe.",
+      "D. Sólo en los términos que establezca la ley."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

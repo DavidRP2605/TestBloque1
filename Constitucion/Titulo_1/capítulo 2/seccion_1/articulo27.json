@@ -1,0 +1,74 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 27"],
+    "question": "La educación tendrá por objeto:",
+    "options": [
+      "El pleno desarrollo de la personalidad humana en el respeto de los principios democráticos marcados por cada colectivo educativo.",
+      "El desarrollo de la personalidad humana conforme a las líneas educativas marcadas por el Consejo Escolar Nacional.",
+      "El pleno desarrollo de la personalidad humana en el respeto de los principios democráticos de convivencia y a los derechos y libertades fundamentales.",
+      "El pleno desarrollo de la personalidad humana conforme a los planes educativos aprobados por el Consejo Escolar Nacional a instancia de las Asociaciones Nacionales de Padres de Alumnos."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 27.2 establece que la educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 27"],
+    "question": "De acuerdo con el artículo 27.3 de la Constitución, los poderes públicos garantizan el derecho que asiste a los padres para que sus hijos:",
+    "options": [
+      "A. No reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones.",
+      "B. Reciban la formación religiosa y moral de acuerdo con lo establecido por ley.",
+      "C. Reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones.",
+      "D. Reciban la formación religiosa y moral de acuerdo con lo establecido por ley orgánica."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 27"],
+    "question": "De acuerdo con el articulo 27.4 de la Constitucion Española, la enseñanza:",
+    "options": [
+      "A. Universitaria es obligatoria y gratuita.",
+      "B. Basica es obligatoria pero no gratuita.",
+      "C. Basica es obligatoria y gratuita.",
+      "D. Universitaria es obligatoria en los terminos previstos en la Constitucion."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 27"],
+    "question": "De acuerdo con el articulo 27.8 de la Constitucion Española, con respecto al sistema educativo, los poderes publicos:",
+    "options": [
+      "A. Garantizarán su caracter obligatorio y gratuito.",
+      "B. Promoverán su gratuidad.",
+      "C. Procurarán el desarrollo pleno de la personalidad humana.",
+      "D. Inspeccionarán y homologarán para garantizar el cumplimiento de las leyes."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 27"],
+    "question": "De conformidad con el artículo 27.5 de la Constitucion Española, los poderes públicos garantizan el derecho de todos a la educacion:",
+    "options": [
+      "A. Con la gestión de centros docentes.",
+      "B. Mediante una programación general de la enseñanza.",
+      "C. Con participación orientativa de todos los sectores afectados.",
+      "D. Mediante una programación particular de la enseñanza, con participación equitativa de todos los sectores afectados y con la coordinación de centros docentes."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 27"],
+    "question": "De acuerdo con el artículo 27 de la Constitucion Española, todos tienen el derecho a la educacion. Se reconoce la libertad de enseñanza. ¿Cuál de las siguientes afirmaciones no es cierta?",
+    "options": [
+      "A. Los profesores, los padres y, en su caso, los alumnos intervendrán en el control y gestión de todos los centros sostenidos por la Administración con fondos públicos, en los términos que la ley establezca.",
+      "B. Los poderes públicos inspeccionarán, pero no homologarán el sistema educativo para garantizar el cumplimiento de las leyes.",
+      "C. Se reconoce la autonomía de las Universidades, en los términos que la ley establezca.",
+      "D. Los poderes públicos ayudarán a los centros docentes que reúnan los requisitos que la ley establezca."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

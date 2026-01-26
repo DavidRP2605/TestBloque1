@@ -1,0 +1,86 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 39"],
+    "question": "¿Trata la Constitución Española sobre la investigación de la paternidad?",
+    "options": [
+      "A. Sí, la prohíbe expresamente.",
+      "B. Sí, la impone en todos los casos en que se produzca hijos fuera del matrimonio.",
+      "C. Sí, establece que la ley lo posibilitará.",
+      "D. No la menciona."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 39"],
+    "question": "Según el artículo 39 de la Constitución, ¿a qué hijos deberán prestar los padres asistencia de todo orden?:",
+    "options": [
+      "A. Únicamente a los habidos dentro del matrimonio.",
+      "B. Solo a los habidos fuera del matrimonio.",
+      "C. A los hijos que ellos decidan.",
+      "D. A los hijos habidos tanto dentro como fuera del matrimonio."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 39"],
+    "question": "¿Contempla la Constitución española alguna mención a que los niños gocen de la protección prevista en los acuerdos internacionales?",
+    "options": [
+      "A. Sí, en el artículo 39.",
+      "B. No.",
+      "C. Sí, en el artículo 24.",
+      "D. Sí, en el artículo 94."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 39"],
+    "question": "¿A quiénes deben prestar asistencia de todo tipo los padres según el artículo 39 de la Constitución?",
+    "options": [
+      "A. A los hijos durante su minoría de edad y en otros casos según la ley, asegurando su formación y reconversión profesional.",
+      "B. A los hijos habidos dentro del matrimonio.",
+      "C. A los hijos habidos tanto dentro como fuera del matrimonio, durante su minoría de edad y en otros casos según la ley.",
+      "D. A los hijos únicamente durante su minoría de edad."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 39"],
+    "question": "De acuerdo con el artículo 39 de la Constitución Española, los poderes públicos aseguran la protección social, económica y jurídica de la familia. Asimismo, aseguran:",
+    "options": [
+      "A. La protección de las madres, cualquiera que sea su estado civil.",
+      "B. La protección de los hijos matrimoniales.",
+      "C. La investigación de la paternidad que en determinados casos previstos en la ley, podrá impedirse.",
+      "D. La protección de los hijos legítimos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 39"],
+    "question": "En virtud del artículo 39.2 de la Constitución, ¿Quiénes aseguran, la protección integral de los hijos, iguales éstos ante la ley con independencia de su filiación, y de las madres, cualquiera que sea su estado civil?",
+    "options": [
+      "A. Los centros de los servicios sociales.",
+      "B. El Estado.",
+      "C. Los poderes públicos.",
+      "D. Los padres."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 39"],
+    "question": "Según el artículo 39.1 de la Constitución, una de las siguientes afirmaciones es verdadera. Los poderes públicos:",
+    "options": [
+      "A. Promoverán y tutelarán exclusivamente, la protección social de la familia.",
+      "B. Aseguran la protección social, económica y jurídica de la familia.",
+      "C. Velarán especialmente por la salvaguardia de los derechos jurídicos de la familia.",
+      "D. Garantizarán exclusivamente la protección social de la familia y atenderán a los derechos económicos de los ciudadanos a fin de equiparar el nivel de vida de todos los españoles."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

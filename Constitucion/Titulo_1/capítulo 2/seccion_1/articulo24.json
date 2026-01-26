@@ -1,0 +1,122 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "Una de las siguientes afirmaciones no es correcta:",
+    "options": [
+      "Toda persona tiene derecho a obtener la tutela efectiva de los Jueces y Tribunales.",
+      "En ningún caso puede producirse indefensión como consecuencia de la actuación de Juzgados y Tribunales a los que acudan los ciudadanos ejerciendo sus derechos o intereses legítimos.",
+      "La tutela judicial se recabará en el ejercicio de derechos e intereses legítimos.",
+      "La indefensión exclusivamente podrá producirse en los casos previstos constitucionalmente."
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 24 establece que en ningún caso puede producirse indefensión, por lo que la afirmación sobre que puede producirse en casos constitucionales es incorrecta."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "El ciudadano no tiene derecho:",
+    "options": [
+      "A la defensa y asistencia de Abogado.",
+      "A ser informado de la acusación formulada contra él.",
+      "A un Juez especial predeterminado por la Ley.",
+      "A un proceso público sin dilaciones indebidas."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 24 garantiza el derecho al juez ordinario predeterminado por la ley, no a uno especial."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "De conformidad con el artículo 24 de la Constitución, la presunción de inocencia se encuadra dentro de:",
+    "options": [
+      "A. El derecho al honor.",
+      "B. El derecho de petición.",
+      "C. El principio de legalidad penal.",
+      "D. El derecho a la tutela judicial efectiva."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "De acuerdo con el articulo 24.1 de la Constitucion, ¿Quienes tienen derecho a obtener la tutela efectiva de jueces y tribunales en el ejercicio de sus derechos e intereses legitimos, sin que, en ningun caso pueda producirse indefension?",
+    "options": [
+      "A. A los ciudadanos españoles y, en algunos casos, los nacionales de paises de la Union Europea con residencia legal y efectiva en España.",
+      "B. Todos los ciudadanos de la Union Europea y los españoles, pero en ningun caso, los extranjeros con residencia legal es España.",
+      "C. Todas las personas.",
+      "D. Todos los españoles."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "De conformidad con el articulo 24.2 de la Constitucion, ¿A que no tienen derecho los ciudadanos?",
+    "options": [
+      "A. A un proceso publico sin dilaciones indebidas y con todas las garantias.",
+      "B. A utilizar cualquier medio de prueba para su defensa.",
+      "C. A no declarar contra si mismos.",
+      "D. A no confesarse culpables y a la presuncion de inocencia."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "Según el articulo 24.1 de la Constitucion, todas las personas tienen derecho a obtener la tutela judicial efectiva de los Jueces y Tribunales:",
+    "options": [
+      "A. En el ejercicio de sus derechos, obligaciones economicas e intereses propios, en los casos en que pueda producirse indefension.",
+      "B. En la titularidad y ejercicio de los derechos y intereses propios, en los casos en que pueda producirse indefension.",
+      "C. En el ejercicio de sus derechos e intereses legitimos, sin que, en ningun caso, pueda producirse indefension.",
+      "D. En el ejercicio de intereses economicos, sin que, en ningun caso, pueda producirse indefension."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "De conformidad con el articulo 24.1 de la Constitucion, de los jueces y tribunales, en el ejercicio de sus derechos e intereses legitimos:",
+    "options": [
+      "A. Todas las personas tienen derecho a obtener indefension.",
+      "B. Todas las personas tienen derecho a obtener la tutela efectiva.",
+      "C. Todas las personas tienen derecho a un Juez especial predeterminado por la ley.",
+      "D. Todas las personas tienen derecho a confesarse culpable y a la presuncion de inocencia."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "La tutela efectiva de los jueces y tribunales a que se refiere el articulo 24.1 de la Constitucion Española, afecta:",
+    "options": [
+      "A. Al ejercicio de los derechos e intereses legitimos de todas los españoles.",
+      "B. A la titularidad y ejercicio de los derechos de las personas fisicas y juridicas.",
+      "C. Al ejercicio de los derechos e intereses legitimos de todas las personas.",
+      "D. Al ejercicio de los derechos e intereses directos y legitimos de los ciudadanos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "De conformidad con el artículo 24 de la Constitucion Española, que reconoce el derecho a la tutela judicial efectiva, no se menciona:",
+    "options": [
+      "A. La presuncion de inocencia.",
+      "B. El derecho a la defensa y a la asistencia del letrado.",
+      "C. El derecho a no confesarse culpable.",
+      "D. El procedimiento de \"habeas corpus\"."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 24"],
+    "question": "De acuerdo con el artículo 24 de la Constitucion Española, ¿Cuál de los siguientes derechos no se engloba en el derecho a la tutela judicial efectiva?",
+    "options": [
+      "A. A un proceso público sin dilaciones indebidas y con todas las garantías.",
+      "B. A no declarar contra sí mismos, a no confesarse culpables y a la presuncion de inocencia.",
+      "C. Al juez subsidiario predeterminado por la ley.",
+      "D. A la defensa y a la asistencia de letrado, a ser informados de la acusacion formulada contra ellos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

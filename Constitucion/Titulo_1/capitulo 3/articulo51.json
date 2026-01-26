@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "Según el artículo 51 de la Constitución, el comercio interior se regulará mediante:",
+    "options": [
+      "A. Ley orgánica.",
+      "B. Reglamento.",
+      "C. Ley.",
+      "D. Reales decretos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "Según lo contemplado en el artículo 51 de la Constitución, los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo:",
+    "options": [
+      "A. La seguridad.",
+      "B. La salud.",
+      "C. Los legítimos intereses económicos de los mismos.",
+      "D. Todas son correctas y se harán mediante procedimientos eficaces."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "En virtud del artículo 51.1 de la Constitución, los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo mediante procedimientos eficaces:",
+    "options": [
+      "A. La seguridad, la salud y los legítimos intereses económicos de los mismos.",
+      "B. La libre competencia, la salud y los legítimos intereses económicos de los mismos.",
+      "C. La economía de mercado, la salud y los legítimos intereses económicos de los mismos.",
+      "D. La independencia de los consumidores, la salud y los legítimos intereses económicos de los mismos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

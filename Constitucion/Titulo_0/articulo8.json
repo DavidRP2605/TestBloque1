@@ -1,0 +1,110 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "Segun el artículo 8 de la Constitución Española, cuál de las siguientes afirmaciones es falsa",
+    "options": [
+      "Las Fuerzas Armadas tienen como misión garantizar la independencia de España",
+      "Las Fuerzas Armadas tienen como misión defender la integridad territorial de España",
+      "Las Fuerzas Armadas tienen como misión garantizar el ordenamiento anticonstitucional",
+      "Las Fuerzas Armadas están constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "De conformidad con el artículo 8 de la Constitución Española, las bases de la organización militar conforme a los principios constitucionales:",
+    "options": [
+      "Se regulan en la propia Constitución, en el Título Primero",
+      "Se regulan por Ley Orgánica",
+      "Se regulan por Ley Ordinaria",
+      "Se regulan en el Título Segundo"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "Segun el artículo 8.1 de la Constitución Española, las Fuerzas Armadas tienen como misión:",
+    "options": [
+      "Garantizar la soberanía e independencia de España, defender su integridad territorial, el ordenamiento constitucional y el orden público",
+      "Garantizar la soberanía e independencia de España, defender sus regiones y el ordenamiento constitucional",
+      "Garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional",
+      "Garantizar la soberanía e independencia de España, defender sus nacionalidades y el ordenamiento constitucional"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "Las Fuerzas Armadas están constituidas por:",
+    "options": [
+      "El Ejército de Tierra, la Armada y el Ejército del Aire.",
+      "La Junta de Jefes de Estado Mayor.",
+      "El conjunto de unidades autorizadas al uso de armas de guerra.",
+      "El Ejército de Tierra, la Armada, el Ejército del Aire, y el conjunto de cuerpos y fuerzas de Seguridad del Estado."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "Regulará las bases de la organización militar conforme a los principios de la presente Constitución:",
+    "options": [
+      "Una ley orgánica",
+      "Un decreto ley",
+      "Una norma con rango de ley",
+      "Una ley de bases"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "Una de las siguientes afirmaciones referentes a las misiones de las Fuerzas Armadas, no es cierta:",
+    "options": [
+      "Defienden el ordenamiento constitucional, impidiendo, por ejemplo, un golpe de estado antidemocrático",
+      "Defienden la integridad territorial del Estado, lo cual no es obstáculo para que consientan la independencia de alguna o algunas nacionalidades o regiones de España, tras decisión libremente adoptada al efecto en referéndum de autodeterminación",
+      "Garantizan la independencia de España, luchando, por ejemplo, contra la invasión militar de nuestro territorio por un ejército extranjero",
+      "Defienden la integridad territorial del Estado, no consintiendo, por ejemplo, la ruptura de la unidad de España"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "Las Fuerzas Armadas, constituidas por:",
+    "options": [
+      "El Ejército de Tierra, el Ejercito de Mar, y el Ejército de Aire, la Guardia Civil y la Policía, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+      "El Ejército de Tierra, el Ejercito de Mar, y el Ejército de Aviación, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+      "El Ejército de Tierra, el Ejercito de Mar, y el Ejército de Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+      "El Ejército de Tierra, la Armada, y el Ejército de Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "Las bases de la organización militar conforme a los principios constitucionales:",
+    "options": [
+      "Se regulan por Ley Ordinaria, conforme al mandato constitucional.",
+      "Se regulan por Ley Orgánica, conforme al mandato constitucional.",
+      "Se regulan por Ley Orgánica, conforme al mandato regional.",
+      "Se regulan por Ley Ordinaria, conforme al mandato militar."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 8"],
+    "question": "¿Cuál es la misión de las Fuerzas Armadas según la Constitución?",
+    "options": [
+      "Defender únicamente la integridad territorial.",
+      "Proteger a los ciudadanos en caso de catástrofes.",
+      "Velar por el cumplimiento de las leyes.",
+      "Garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

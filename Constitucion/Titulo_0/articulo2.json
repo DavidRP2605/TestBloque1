@@ -1,0 +1,122 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "¿Cuál es la unidad de la nación española según la Constitución?",
+    "options": [
+      "La unidad de los ciudadanos.",
+      "La unidad de la soberanía nacional.",
+      "La unidad de la lengua.",
+      "La unidad de la nación española, patria común e indivisible de todos los españoles."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "¿Qué garantiza la Constitución respecto a las nacionalidades y regiones?",
+    "options": [
+      "Su autonomía.",
+      "Su independencia.",
+      "Su soberanía.",
+      "Su igualdad absoluta."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "¿Qué principio garantiza la Constitución respecto a la unidad de España?",
+    "options": [
+      "La indivisibilidad de la nación española.",
+      "La descentralización total.",
+      "La independencia de las regiones.",
+      "La soberanía compartida."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "De acuerdo con el artículo 2 de la Constitución Española, se reconoce y garantiza:",
+    "options": [
+      "El derecho a la autonomía de las regiones y nacionalidades de España que la interiorizan y la solidaridad entre todas ellas.",
+      "El deber a la autonomía de las regiones y nacionalidades de España que la interiorizan y la solidaridad entre todas ellas.",
+      "El deber a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "El derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "En relación con el artículo 2, respecto a las nacionalidades y regiones que integran a la Nación española, la Constitución les reconoce y garantiza:",
+    "options": [
+      "El derecho a la solidaridad entre ellas, pero no el derecho a la autonomía políticamente entendida",
+      "El derecho a la autonomía",
+      "El derecho a la libre autodeterminación",
+      "El derecho a su libre federación y confederación"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "De acuerdo con el artículo 2 de la Constitución Española, la autonomía de las nacionalidades y regiones:",
+    "options": [
+      "Es un deber que se reconoce y garantiza",
+      "Es un derecho que se reconoce y garantiza",
+      "Es un derecho y un deber que se reconoce y garantiza",
+      "Es una obligación que se reconoce y garantiza"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "La Constitución se fundamenta en:",
+    "options": [
+      "La autonomía de la Nación Española",
+      "La imprescindible unidad de la Nación Española",
+      "La indisoluble unidad de la Nación Española.",
+      "Ninguna es correcta"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "¿Qué reconoce y garantiza la Constitución respecto a las nacionalidades y regiones?",
+    "options": [
+      "La independencia de las nacionalidades y regiones.",
+      "El derecho de autodeterminación.",
+      "El derecho a la autonomía.",
+      "La igualdad absoluta entre todas las regiones."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "De acuerdo con el articulo 2, ¿Cuál es el fundamento de la Constitucion?",
+    "options": [
+      "A. El derecho a la autonomía de las nacionalidades y regiones.",
+      "B. La solidaridad de todos los españoles y regiones de España.",
+      "C. La indisoluble unidad de la Nacion española.",
+      "D. La solidaridad de todos las nacionalidades y regiones de España."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 2"],
+    "question": "El artículo 2 de la Constitución fundamenta la organizacion territorial del Estado en tres principios. ¿Cuáles son?",
+    "options": [
+      "A. Unidad, autonomía y solidaridad",
+      "B. Solidaridad, unidad y cooperación",
+      "C. Descentralizacion, autonomía e igualdad",
+      "D. Unidad, subsidiariedad y autonomía"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

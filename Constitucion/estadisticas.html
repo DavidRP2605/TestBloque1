@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>📊 Estadísticas TAI</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f4f4f4;
+        margin: 0;
+        padding: 0;
+      }
+      #stats-container {
+        max-width: 900px;
+        margin: 30px auto;
+        background: #fff;
+        border-radius: 10px;
+        padding: 20px 30px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h2,
+      h3,
+      h4 {
+        color: #333;
+        margin-bottom: 10px;
+      }
+      h2 {
+        text-align: center;
+      }
+      .tema,
+      .bloque,
+      .capitulo,
+      .articulo {
+        margin-bottom: 15px;
+        padding: 10px;
+        border-radius: 8px;
+        background: #fafafa;
+        border: 1px solid #ddd;
+      }
+      .bloque {
+        background: #e8f0fe;
+      }
+      .tema {
+        background: #eef7ff;
+        margin-left: 15px;
+      }
+      .capitulo {
+        background: #f3fbff;
+        margin-left: 25px;
+      }
+      .articulo {
+        background: #f9fcff;
+        margin-left: 40px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+      }
+      th,
+      td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+        text-align: left;
+      }
+      th {
+        background: #007bff;
+        color: #fff;
+      }
+      button {
+        background: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        padding: 8px 14px;
+        cursor: pointer;
+      }
+      button:hover {
+        background: #0056b3;
+      }
+      a {
+        display: inline-block;
+        margin-top: 15px;
+        text-decoration: none;
+        color: #007bff;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      .percent {
+        font-weight: bold;
+      }
+      header {
+        color: white;
+        width: 100%;
+        text-align: center;
+        padding: 2rem 0;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="index.html" hover="color:red">🏠 Volver al Test</a>
+      <a href="estadisticas.html">📊 Ver Estadísticas</a>
+    </header>
+    <div id="stats-container">
+      <h2>📊 Estadísticas de Tests TAI</h2>
+      <div id="stats"></div>
+      <div style="text-align: center; margin-top: 20px">
+        <button onclick="resetStats()">🔄 Reiniciar estadísticas</button>
+        <a href="index.html">🏠 Volver al inicio</a>
+      </div>
+    </div>
+
+    <script>
+      function loadStats() {
+        const stats = JSON.parse(
+          localStorage.getItem("estadisticasTAI") || "{}"
+        );
+        if (Object.keys(stats).length === 0) {
+          document.getElementById("stats").innerHTML =
+            "<p>No hay estadísticas registradas todavía.</p>";
+          return;
+        }
+
+        // Filtrar solo estadísticas donde aparezca explícitamente un artículo
+        // Mostrar: 4 partes (bloque > título > capítulo > artículo) o 3 partes donde la 3ª sea artículo
+        // Ocultar: agregaciones por capítulo solo o por nivel superior
+        const estaticsArticulos = {};
+        for (const path in stats) {
+          const partes = path.split(" > ");
+          let incluir = false;
+          
+          if (partes.length === 4) {
+            // Bloque > Título > Capítulo > Artículo — mostrar
+            incluir = true;
+          } else if (partes.length === 3) {
+            // Si tiene exactamente 3 partes, verificar que la tercera sea un artículo
+            // (artículos suelen ser "Artículo X", capítulos son "Capítulo X")
+            const terceraParte = partes[2];
+            if (terceraParte.toLowerCase().includes("artículo")) {
+              incluir = true;
+            }
+          }
+          
+          if (incluir) {
+            estaticsArticulos[path] = stats[path];
+          }
+        }
+
+        if (Object.keys(estaticsArticulos).length === 0) {
+          document.getElementById("stats").innerHTML =
+            "<p>No hay estadísticas de artículos registradas.</p>";
+          return;
+        }
+
+        // Agrupar por Bloque → Título para una vista más limpia
+        const estructura = {};
+        for (const path in estaticsArticulos) {
+          const partes = path.split(" > ");
+          const bloque = partes[0] || "Sin Bloque";
+          const titulo = partes[1] || "Sin Título";
+          // Si tiene 4 partes: capítulo > artículo; si tiene 3: solo artículo
+          const restante = partes.slice(2).join(" > ");
+          
+          if (!estructura[bloque]) estructura[bloque] = {};
+          if (!estructura[bloque][titulo]) estructura[bloque][titulo] = {};
+          estructura[bloque][titulo][restante] = {
+            __data__: estaticsArticulos[path],
+            __children__: {}
+          };
+        }
+
+        const container = document.getElementById("stats");
+        container.innerHTML = "";
+        renderEstructuraArticulos(container, estructura);
+      }
+
+      function renderEstructuraArticulos(container, estructura) {
+        for (const bloque in estructura) {
+          const bloqueDiv = document.createElement("div");
+          bloqueDiv.className = "bloque";
+          bloqueDiv.innerHTML = `<h3>${bloque}</h3>`;
+
+          for (const titulo in estructura[bloque]) {
+            const temaDiv = document.createElement("div");
+            temaDiv.className = "tema";
+            temaDiv.innerHTML = `<h3>${titulo}</h3>`;
+
+            for (const articulo in estructura[bloque][titulo]) {
+              const nodo = estructura[bloque][titulo][articulo];
+              const statsData = nodo.__data__;
+              const articuloDiv = document.createElement("div");
+              articuloDiv.className = "articulo";
+              
+              if (statsData && statsData.totalPreguntas) {
+                const porcentaje = Math.round(
+                  (statsData.totalAciertos / statsData.totalPreguntas) * 100
+                );
+                articuloDiv.innerHTML = `<h4>${articulo}</h4><p>Total: ${statsData.totalAciertos} aciertos de ${statsData.totalPreguntas} (${porcentaje}%)</p>`;
+
+                if (statsData.preguntas && Object.keys(statsData.preguntas).length) {
+                  const tabla = document.createElement("table");
+                  tabla.innerHTML = `
+                    <tr><th>Pregunta</th><th>Aciertos</th><th>Fallos</th><th>% Aciertos</th></tr>
+                    ${Object.entries(statsData.preguntas)
+                      .map(([preg, val]) => {
+                        const total = val.aciertos + val.fallos;
+                        const pct = total ? Math.round((val.aciertos / total) * 100) : 0;
+                        return `<tr>
+                          <td>${preg}</td>
+                          <td>${val.aciertos}</td>
+                          <td>${val.fallos}</td>
+                          <td class="percent">${pct}%</td>
+                        </tr>`;
+                      })
+                      .join("")}
+                  `;
+                  articuloDiv.appendChild(tabla);
+                }
+              } else {
+                articuloDiv.innerHTML = `<h4>${articulo}</h4>`;
+              }
+              
+              temaDiv.appendChild(articuloDiv);
+            }
+            bloqueDiv.appendChild(temaDiv);
+          }
+          container.appendChild(bloqueDiv);
+        }
+      }
+
+      function resetStats() {
+        if (confirm("¿Seguro que deseas borrar todas las estadísticas?")) {
+          localStorage.removeItem("estadisticasTAI");
+          loadStats();
+        }
+      }
+
+      loadStats();
+    </script>
+  </body>
+</html>

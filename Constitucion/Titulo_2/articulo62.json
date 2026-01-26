@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Cual NO es una funcion del Rey conforme al art. 62 de la Constutucion?",
+    "options": [
+      "A. Ejercer la potestad reglamentaria.",
+      "B. Sancionar y promulgar las leyes.",
+      "C. Ejercer el mando supremo de las Fuerzas Armadas.",
+      "D. Proponer al candidato a Presidente del Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Cual de estas funciones corresponde al Rey conforme al art. 62 de la Constitucion?",
+    "options": [
+      "A. Supervisar la actividad de la Administracion",
+      "B. Proponer al candidato a Presidente del Gobierno",
+      "C. Autorizar indultos Generales",
+      "D. Interpretar las leyes a traves de resoluciones"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

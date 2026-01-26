@@ -1,0 +1,218 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "¿A través de qué norma se determinará qué personas tienen derecho de asilo en España según el artículo 13.4 de la Constitución?:",
+    "options": [
+      "A través de un tratado internacional.",
+      "A través de una ley.",
+      "A través de un Decreto.",
+      "A través de una decisión del Congreso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "¿Existe algún delito excluido de la extradición en el artículo 13 de la CE?:",
+    "options": [
+      "Sí, los delitos de terrorismo.",
+      "No, ningún delito exime de la extradición.",
+      "Sí, los delitos políticos.",
+      "Ninguna de las anteriores correcta."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "De conformidad con el artículo 13.3 de la Constitución, la extradición sólo se concederá:",
+    "options": [
+      "En cumplimiento de un tratado o ley, atendiendo al principio de solidaridad.",
+      "En cumplimiento de un tratado o ley, atendiendo al principio de reciprocidad.",
+      "En cumplimiento de un tratado o ley orgánica, atendiendo al principio de solidaridad.",
+      "En cumplimiento de un tratado o ley orgánica, atendiendo al principio de reciprocidad."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "De conformidad con el artículo 13.1 de la Constitución Española, los extranjeros gozarán en España:",
+    "options": [
+      "De los derechos fundamentales y libertades públicas que garantiza el Título Primero de la Constitución, en los mismos términos que los hacen los ciudadanos españoles.",
+      "De las libertades públicas establecidas en los Tratados internacionales, en los términos garantizados por el Título Preliminar de la Constitución.",
+      "De las libertades públicas que garantiza el Título Primero de la Constitución, en los términos que establezca los tratados y la ley.",
+      "De los derechos fundamentales establecidos constitucionalmente, en los términos garantizados por la Ley."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "Según el artículo 13.1 de la Constitución Española, ¿Gozarán los extranjeros en España de las libertades públicas que garantiza el Título Primero de la Constitución Española?",
+    "options": [
+      "Sí, en los mismos términos y condiciones que los españoles.",
+      "No, son aplicables exclusivamente a los españoles.",
+      "Sí, en los términos que establezcan los tratados y la ley.",
+      "Sólo después de adquirir la nacionalidad española."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "Según el artículo 13.3 de la Constitución Española, ¿Pueden ser objeto de extradición los delitos políticos?",
+    "options": [
+      "Sí, cuando así lo decida el Gobierno.",
+      "Sí, especialmente en caso de actos terroristas.",
+      "No, pero tendrán tal consideración los actos de terrorismo.",
+      "No, pero no tendrán tal consideración los actos de terrorismo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "Según el artículo 13.2 de la Constitución Española, ¿Quiénes son titulares del derecho de participación establecido en el artículo 23 de la Constitución Española?",
+    "options": [
+      "Los españoles y los extranjeros",
+      "Solamente los españoles",
+      "Los españoles, los iberoamericanos y los ciudadanos de países miembros de las Comunidades Europeas",
+      "Los españoles y los naturales de países que hayan suscrito con España tratados internacionales, sin existir reciprocidad."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "En virtud del artículo 13.2 y el artículo 23 de la Constitución Española, el derecho a participar en los asuntos públicos:",
+    "options": [
+      "Podrá corresponder a los ciudadanos extranjeros, tanto para el sufragio activo como para el pasivo en las elecciones municipales.",
+      "Podrá corresponder a los ciudadanos extranjeros, pero sólo para el derecho de sufragio pasivo en las elecciones municipales.",
+      "Podrá corresponder a los ciudadanos extranjeros, pero sólo para el derecho de sufragio activo en las elecciones municipales.",
+      "Podrá corresponder a los ciudadanos extranjeros, tanto para el sufragio activo como para el pasivo en las elecciones generales."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "Referente al derecho de asilo, el artículo 13 de la Constitución dice que:",
+    "options": [
+      "A. Solo los extranjeros gozarán de este derecho",
+      "B. Solo los apátridas gozarán de este derecho.",
+      "C. Podrán gozar del mismo los ciudadanos españoles perseguidos en otros países.",
+      "D. La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar de este derecho en España."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "De conformidad con el artículo 13.4 de la Constitución, del derecho de asilo en España:",
+    "options": [
+      "A. Sólo podrán gozar los ciudadanos de otros países, en los términos previstos en la Constitución.",
+      "B. Sólo podrán gozar los apátridas, en los términos previstos en la Constitución.",
+      "C. Podrán gozar los ciudadanos españoles perseguidos en otros países, en los términos que establecerá una ley orgánica.",
+      "D. Podrán gozar los ciudadanos de otros países y los apátridas, en los términos que la ley establecerá."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "Según el artículo 13.3 de la Constitución Española, la extradición en España:",
+    "options": [
+      "A. Sólo podrá concederse en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad.",
+      "B. No podrá concederse en ningún caso.",
+      "C. Podrá concederse discrecionalmente por el Gobierno sin ningún tipo de limitaciones.",
+      "D. Sólo se concederá para delitos políticos y de terrorismo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "Se concederá la extradición:",
+    "options": [
+      "En base a la comisión de cualquier tipo de delito.",
+      "En base a la comisión de delitos políticos.",
+      "En base a la comisión de delitos de terrorismo.",
+      "En base a la comisión de delitos e infracciones administrativas muy graves."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 13.4 establece que no se concederá la extradición por delitos políticos, pero sí por delitos de terrorismo."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "De conformidad con el artículo 13.3 de la Constitución, la extradición sólo se concederá en cumplimiento de:",
+    "options": [
+      "A. Una Ley, atendiendo al principio de solidaridad.",
+      "B. Un Tratado, atendiendo al principio de legalidad.",
+      "C. Un tratado o de la ley, atendiendo al principio de reciprocidad.",
+      "D. Un tratado o de la ley, atendiendo al principio democrático de convivencia y a los derechos y libertades fundamentales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "¿Existe algún delito excluido de la extradición en el artículo 13 de la CE?:",
+    "options": [
+      "A. Sí, los delitos de terrorismo.",
+      "B. No, ningún delito exime de la extradición.",
+      "C. Sí, los delitos políticos.",
+      "D. Ninguna de las anteriores correcta."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "¿A través de qué norma se determinará qué personas tienen derecho de asilo en España según el artículo 13.4 de la Constitución?:",
+    "options": [
+      "A. A través de un tratado internacional.",
+      "B. A través de una ley.",
+      "C. A través de un Decreto.",
+      "D. A través de una decisión del Congreso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "De conformidad con el artículo 13.3 de la Constitución, ¿Qué tipos de delitos quedan excluidos de la extradición?",
+    "options": [
+      "A. Cualquier tipo de delito que atente gravemente al interés general de España.",
+      "B. Los políticos, no considerándose como tales los actos de terrorismo.",
+      "C. Los políticos, no considerándose como tales los actos de no terrorismo.",
+      "D. Los políticos, considerándose como tales los actos de terrorismo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "El artículo 13 de la Constitución, establece que la extradición será concedida:",
+    "options": [
+      "A. Atendiendo al principio de reciprocidad.",
+      "B. En cumplimiento de un tratado internacional.",
+      "C. En cumplimiento de la ley.",
+      "D. Todas las respuestas anteriores son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 13"],
+    "question": "Del derecho de asilo en España:",
+    "options": [
+      "Se disfrutará por sus beneficiarios en los términos establecidos en la Ley.",
+      "Podrán gozar del mismo los ciudadanos españoles perseguidos en otros países.",
+      "Sólo podrán gozar los apátridas.",
+      "Sólo podrán gozar los ciudadanos de otros países."
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 13.4 establece que la ley regulará los términos en que los ciudadanos de otros países y los apátridas podrán disfrutar del derecho de asilo."
+  }
+]

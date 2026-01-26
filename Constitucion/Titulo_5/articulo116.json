@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo V", "Articulo 116"],
+    "question": "¿Quien y bajo que requisito declara el estado de excepcion?",
+    "options": [
+      "A. Las Cortes Generales, a propuesta del Gobierno.",
+      "B. El Rey, a propuesta del Presidente del Gobierno.",
+      "C. El Gobierno, dando cuenta posteriormente al Congreso.",
+      "D. El Gobierno, previa autorizacion del Congreso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

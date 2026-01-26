@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 40"],
+    "question": "Según el artículo 40 de la Constitución, la política laboral de los poderes públicos estará orientada a:",
+    "options": [
+      "A. La riqueza nacional.",
+      "B. El pleno empleo.",
+      "C. El desarrollo económico.",
+      "D. El empleo masivo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 40"],
+    "question": "Según el artículo 40 de la Constitución, ¿cuál de las siguientes opciones vienen recogidas expresamente como formas de velar por la seguridad e higiene en el trabajo y la garantía del descanso necesario?:",
+    "options": [
+      "A. Limitación de la jornada laboral.",
+      "B. Promoción de centros adecuados.",
+      "C. Vacaciones periódicas retribuidas.",
+      "D. Todas las respuestas anteriores son ciertas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 40"],
+    "question": "De conformidad con el artículo 40.1 de la Constitución, los poderes públicos:",
+    "options": [
+      "A. Realizarán de manera especial una política orientada al desempleo.",
+      "B. Promoverán las condiciones favorables para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica.",
+      "C. Promoverán las condiciones favorables para una distribución de la renta regional y personal más equitativa, en el marco de una política de convergencia económica con los países miembros de la Unión Europea.",
+      "D. Promoverán las condiciones favorables para el progreso individual y económico de todos los españoles."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

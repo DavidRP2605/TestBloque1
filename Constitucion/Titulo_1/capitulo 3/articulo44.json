@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
+    "question": "¿En beneficio de qué serán promovidas la ciencia y la investigación científica y técnica según lo estipulado en el artículo 44 de la CE?:",
+    "options": [
+      "A. De la economía nacional.",
+      "B. Del bien social.",
+      "C. Del interés general.",
+      "D. Del desarrollo personal."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
+    "question": "Según lo contemplado en el artículo 44 de la Constitución, los poderes públicos deberán promover la ciencia y la investigación científica en beneficio:",
+    "options": [
+      "A. Del interés de los particulares.",
+      "B. Del interés nacional.",
+      "C. De la empresa privada.",
+      "D. Del interés general."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
+    "question": "De conformidad con el artículo 44.1 de la Constitución Española, los poderes públicos promoverán y tutelarán:",
+    "options": [
+      "A. El derecho de acceso a la cultura.",
+      "B. El derecho a las vacaciones periódicas retribuidas.",
+      "C. El derecho a la protección de la salud.",
+      "D. El derecho a una vivienda digna y adecuada."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

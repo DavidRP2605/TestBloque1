@@ -1,0 +1,100 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 7"],
+    "question": "En virtud del artículo 7 de la Constitución Española, los Sindicatos de Trabajadores:",
+    "options": [
+      "Contribuyen en en solitario a la promoción de los intereses sociales",
+      "Contribuyen a la defensa de sus exclusivos intereses económicos",
+      "Contribuyen, junto con las asociaciones empresariales, a la promoción y defensa de los intereses económicos y sociales que les son propios",
+      "Contribuyen, junto con las asociaciones empresariales, a la promoción y defensa de los intereses económicos y sociales generales"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 7"],
+    "question": "En virtud del artículo 7 de la Constitución Española, los Sindicatos de Trabajadores y las asociaciones empresariales:",
+    "options": [
+      "Contribuyen a la defensa y promoción de los intereses generales y sociales que les son propios",
+      "Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios",
+      "Contribuyen a la defensa y promoción de los intereses generales y económicos que les son propios",
+      "Contribuyen a la defensa y promoción de los intereses económicos, generales y sociales que les son propios"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 7"],
+    "question": "Segun el artículo 7 de la Constitución Española, una de las siguientes afirmaciones relativa a los Sindicatos de Trabajadores y las asociaciones empresariales no es correcta:",
+    "options": [
+      "Su funcionamiento interno debe ser democrático",
+      "Su estructura interna deberá ser jerárquica",
+      "Su creación será libre dentro del respeto a la Constitución y a la Ley",
+      "El ejercicio de su actividad será libre dentro del respeto a la Constitución y a la Ley"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 7"],
+    "question": "Segun el artículo 7 de la Constitución Española, la estructura interna y el funcionamiento de los Sindicatos de Trabajadores y las asociaciones empresariales:",
+    "options": [
+      "Deberán ser libres dentro del respeto a la Constitución y a la Ley",
+      "Podrán ser libres dentro del respeto a la Constitución y a la Ley",
+      "Deberán ser democráticos",
+      "Podrán ser democráticos"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 7"],
+    "question": "¿Qué son los sindicatos de trabajadores y las asociaciones empresariales?",
+    "options": [
+      "Organizaciones que regulan el mercado laboral.",
+      "Organizaciones que contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.",
+      "Organizaciones que representan únicamente a los trabajadores.",
+      "Organizaciones que dependen del Estado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 7"],
+    "question": "Una de las siguientes afirmaciones relativa a los sindicatos y asociaciones empresariales no es correcta:",
+    "options": [
+      "El ejercicio de su actividad será libre dentro del respeto a la Constitución y a la Ley.",
+      "Su estructura interna deberá ser jerárquica.",
+      "Su funcionamiento interno deberá ser democrático.",
+      "Su creación será libre dentro del respeto a la Constitución y a la Ley."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 7"],
+    "question": "¿Cómo deben ejercer su actividad los sindicatos y asociaciones empresariales según la Constitución?",
+    "options": [
+      "Con libertad y dentro del respeto a la Constitución y a la ley.",
+      "Bajo la supervisión del Gobierno.",
+      "Solo en el ámbito privado.",
+      "Sin ningún tipo de regulación."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 7"],
+    "question": "De acuerdo al articulo 7 de la Constitucion, los sindicatos podrán crearse:",
+    "options": [
+      "A. De forma libre.",
+      "B. Su creación está sujeta a restricciones de orden social.",
+      "C. De forma libre dentro del respeto a la Constitucion y a las leyes.",
+      "D. De forma limitada."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]
+
+

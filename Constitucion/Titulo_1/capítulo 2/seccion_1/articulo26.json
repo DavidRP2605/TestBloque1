@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 26"],
+    "question": "Los Tribunales de Honor:",
+    "options": [
+      "Se prohíben en el art. 25.4 de la Constitución.",
+      "Se prohiben en el ámbito de la Administración Militar.",
+      "Se prohiben en el ámbito de las organizaciones profesionales.",
+      "Permanecen vigentes en la administración civil tras la aprobación de la Constitución."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 26 de la Constitución Española prohíbe los Tribunales de Honor en el ámbito de la Administración Civil y de las organizaciones profesionales. Esta prohibición garantiza la igualdad y la protección de los derechos fundamentales en los procedimientos administrativos."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 26"],
+    "question": "De conformidad con el articulo 26 de la Constitucion, los Tribunales de Honor:",
+    "options": [
+      "A. Se prohiben en el ambito de la Administracion militar y asociaciones no secretas.",
+      "B. Se prohiben en el ambito de la Administracion civil y asociaciones de caracter no paramilitar.",
+      "C. Se prohiben en el ambito de la Administracion civil y de las organizaciones profesionales.",
+      "D. Se prohiben en el ambito de la Administracion militar y de los colegios profesionales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo III", "Articulo 81"],
+    "question": "Qué mayoría se requiere en el Congreso para la aprobacion final de una ley organica?",
+    "options": [
+      "A. Mayoria de tres quintos del total de los miembros.",
+      "B. Mayoria absoluta de los miembros presentes.",
+      "C. Mayoria simple de los miembros presentes.",
+      "D. Mayoria abosluta del total de los miembros."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo III", "Articulo 81"],
+    "question": "Las leyes organicas, preferentemente",
+    "options": [
+      "A. Son jerarquicamente superiores a las leyes ordinarias.",
+      "B. Son jerarquicamente inferiores a las leyes ordinarias.",
+      "C. Regulan materias diferentes de las reguladas por leyes ordinarias.",
+      "D. Los unicos ejemplos conocidos, son las leyes fundamentales del estado."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo III", "Articulo 81"],
+    "question": "Conforme a la CE, Cual es la mayoria requerida en el Congreso para la aprobacion, modificacion o derogacion de una ley organica?",
+    "options": [
+      "A. Mayoria simple en la votacion final.",
+      "B. Mayoria de tres quintos de los miembros presentes.",
+      "C. Mayoria absoluta del Congreso en una votacion final sobre el conjunto del proyecto.",
+      "D. Mayoria de dos tercios de los miembros presentes."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo III", "Articulo 81"],
+    "question": "Conforme a la CE, ¿cual de estos derechos debe ser desarrollado mediante ley organica?",
+    "options": [
+      "A. El derecho a la propiedad privada.",
+      "B. El derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona.",
+      "C. El derecho de huelga de los trabajadores para la defensa de sus intereses.",
+      "D. El derecho a la proteccion a la salud."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

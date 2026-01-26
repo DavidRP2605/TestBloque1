@@ -1,0 +1,134 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "La detención preventiva no podrá durar:",
+    "options": [
+      "Menos de setenta y dos horas.",
+      "Más de veinticuatro horas.",
+      "Más de cuarenta y ocho horas.",
+      "Más del tiempo imprescindible para la realización de las averiguaciones necesarias tendentes al esclarecimiento de los hechos."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "La duración de la prisión provisional:",
+    "options": [
+      "Cuenta con un plazo máximo, recogido en la ley.",
+      "No podrá ser superior a un año.",
+      "Depende del contenido de la resolución judicial, sin que tenga limitación alguna.",
+      "No podrá ser superior a la mitad de la duración de la posible pena a imponer."
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 17.4 establece que la ley regulará un plazo máximo para la prisión provisional."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "De conformidad con el artículo 17 de la Constitución, toda persona detenida debe ser informada de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, no pudiendo ser obligada a declarar. Se garantiza la asistencia de abogado al detenido en las diligencias policiales y judiciales, en los términos que la ley establezca. Este derecho reconocido constitucionalmente:",
+    "options": [
+      "A. Podrá suspenderse sólo cuando se declare el estado de excepción.",
+      "B. Podrá suspenderse sólo cuando se declare el estado de sitio.",
+      "C. Podrá suspenderse cuando se declare el estado de excepción o de sitio.",
+      "D. No podrá suspenderse en ningún caso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "Según el artículo 17.4 de la Constitución, la duración del plazo máximo de prisión provisional:",
+    "options": [
+      "A. No podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de cuarenta y dos horas.",
+      "B. No podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de cuarenta y ocho horas.",
+      "C. Se determinará por ley.",
+      "D. No podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de sesenta y dos horas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "De acuerdo con el articulo 17.2 de la Constitucion, para la realizacion de las averiguaciones tendentes al esclarecimiento de los hechos, la detencion preventiva:",
+    "options": [
+      "A. No podrá durar más del tiempo estrictamente necesario, y, en todo caso, en el plazo maximo de sesenta y tres horas, el detenido deberá ser puesto en libertad o a disposicion de la autoridad judicial.",
+      "B. No podrá durar más del tiempo estrictamente necesario, y, en todo caso, en el plazo maximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposicion de la autoridad judicial.",
+      "C. En cuanto a su plazo maximo de duracion, una ley lo determinará.",
+      "D. No podrá durar más del tiempo estrictamente necesario, y, en todo caso, en el plazo maximo de cuarenta y ocho horas, el detenido deberá ser puesto en libertad o a disposicion de la autoridad judicial."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "De acuerdo con el articulo 17.4 de la Constitucion Española, el procedimiento que la ley regulará, para producir la inmediata puesta a disposicion judicial de toda persona detenida ilegalmente, se denomina:",
+    "options": [
+      "A. Procedimiento especial de Extradicion Activa.",
+      "B. Procedimiento especial de Habeas corpus.",
+      "C. Procedimiento especial de Extradicion pasiva.",
+      "D. Procedimiento de Habeas corpus."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "De conformidad con la Constitucion Española, el derecho a la libertad y el derecho a la seguridad:",
+    "options": [
+      "A. Se reconocen en el articulo dieciocho de la Constitucion Española.",
+      "B. Son incompatibles.",
+      "C. Se reconocen en el articulo dieciseis de la Constitucion Española.",
+      "D. Implica que nadie puede ser privado de su libertad, sino con la observancia de lo establecido en el articulo que lo regula y en los casos y en la forma previstos en la ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "De conformidad con el articulo 17.3 de la Constitucion Española, toda persona detenida debe ser informada de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detencion, no pudiendo ser obligada a declarar. Se garantiza:",
+    "options": [
+      "A. La asistencia de abogado al detenido sólo en las diligencias policiales, en las que lo solicite el interesado.",
+      "B. La asistencia de abogado al detenido sólo en las diligencias policiales, en los términos que la ley establezca.",
+      "C. La asistencia de abogado al detenido en las diligencias policiales y judiciales, en los términos que la ley establezca.",
+      "D. La asistencia de abogado al detenido sólo en las diligencias judiciales, en los términos que la ley establezca."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "Según el artículo 17.3 de la Constitucion Española, ¿Cuál de las siguientes afirmaciones es incorrecta?",
+    "options": [
+      "A. Todo detenido deberá ser informado de forma inmediata de sus derechos y de las razones de su detencion.",
+      "B. Todo detenido deberá ser puesto inmediatamente a disposicion judicial.",
+      "C. No podrá obligarse a declarar a los detenidos.",
+      "D. Se garantiza la asistencia de abogado al detenido."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "De conformidad con el artículo 17.4 de la Constitucion Española, la ley regulará un procedimiento de \"habeas corpus\" para:",
+    "options": [
+      "A. Limitar el tiempo máximo de duracion de la prision provisional.",
+      "B. Producir la inmediata puesta en libertad de todo detenido erróneamente.",
+      "C. Garantizar la asistencia de abogado al detenido cuando éste carezca de recursos económicos.",
+      "D. Producir la inmediata puesta a disposicion judicial de toda persona detenida ilegalmente."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 17"],
+    "question": "Según el artículo 17.4 de la Constitucion Española, ¿Cómo se determinará el plazo máximo de duracion de la prision provisional?",
+    "options": [
+      "A. Por resolucion judicial.",
+      "B. Por ley.",
+      "C. Es siempre de setenta y dos días.",
+      "D. Por Real Decreto."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

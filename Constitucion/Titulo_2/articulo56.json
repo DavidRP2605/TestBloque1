@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 56"],
+    "question": "La Constitucion Española considera al Rey simbolo de la unidad y permanencia de:",
+    "options": [
+      "A. El Estado.",
+      "B. La Corona.",
+      "C. La Nacion.",
+      "D. Las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 56"],
+    "question": "La Constitucion Española regula la institucion de la Corona en el:",
+    "options": [
+      "A. Titulo I",
+      "B. Titulo Preliminar",
+      "C. Titulo II",
+      "D. Titulo III"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

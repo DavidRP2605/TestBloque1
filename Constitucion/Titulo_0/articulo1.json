@@ -1,0 +1,122 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "La soberanía nacional:",
+    "options": [
+      "Reside en los ciudadanos mayores de edad.",
+      "Reside en el Congreso y en el Senado.",
+      "Reside en el Rey.",
+      "Reside en el pueblo español"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "¿Cuál es la forma política del Estado español según la Constitución?",
+    "options": [
+      "Monarquía parlamentaria.",
+      "República federal.",
+      "Monarquía absoluta.",
+      "República presidencialista."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "¿Qué implica el pluralismo político según el artículo 1?",
+    "options": [
+      "La existencia de diferentes partidos y opciones políticas",
+      "La prohibición de partidos políticos",
+      "La unidad ideológica obligatoria",
+      "La supremacía de un solo partido"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "España propugna como valores superiores de su ordenamiento jurídico:",
+    "options": [
+      "La libertad, la imparcialidad, la equidad y el pluralismo social",
+      "La autonomía, la justicia, la igualdad y el pluralismo social",
+      "La equidad, la libertad, la igualdad y el pluralismo político",
+      "La libertad, la justicia, la igualdad y el pluralismo político"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "¿Cómo se constituye España según el artículo 1?",
+    "options": [
+      "En un Estado social y democrático de Derecho",
+      "En una Monarquía democrática de Derecho",
+      "En una Nación socialdemocrática de Derecho",
+      "En un Estado respetuoso del Derecho y de la Democracia"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "Que la forma política del Estado español es la Monarquía parlamentaria, implica que:",
+    "options": [
+      "El poder de la monarquía es absoluto dentro de sus competencias asignadas",
+      "Que el Rey tiene un poder de decisión efectivo",
+      "Que la monarquía tiene un poder limitado",
+      "Que el Rey tiene derecho a intervenir en el parlamento"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "De acuerdo con el artículo 1.1 de la Constitución Española, España se constituye en un Estado:",
+    "options": [
+      "Monarquico y parlamentario de Derecho",
+      "Social y democrático de Derecho",
+      "Parlamentario y democrático de Derecho",
+      "Social y monárquico de Derecho"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "Señala la correcta:",
+    "options": [
+      "Los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico",
+      "Los ciudadanos están sujetos a la Constitución y al resto del ordenamiento jurídico",
+      "Los ciudadanos y los poderes públicos están sujetos a la Constitución",
+      "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "No es un valor superior del ordenamiento jurídico español:",
+    "options": [
+      "La libertad",
+      "La justicia y la igualdad",
+      "El pluralismo político",
+      "Todos lo son"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 1"],
+    "question": "Señale la afirmacion incorrecta",
+    "options": [
+      "A. España se constituye en un Estado social y democratico de Derecho.",
+      "B. La soberania nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+      "C. La forma politica del Estado español es la Monarquia constitucional.",
+      "D. El castellano es la lengua española oficial del Estado."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

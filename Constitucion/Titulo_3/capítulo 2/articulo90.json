@@ -1,0 +1,18 @@
+[
+  {
+    "titulos": [
+      "Bloque 1",
+      "Titulo III",
+      "Articulo 90"
+    ],
+    "question": "Si el Senado opone su veto a un proyecto de ley, ¿como puede el Congreso superar dicho veto?",
+    "options": [
+      "A. El Congreso no puede superarlo, el proyecto es rechazado definitivamente.",
+      "B. Ratificando el texto inicial por mayoria de dos tercios de sus miembros.",
+      "C. Ratificando el texto inicial por mayoria simple en el plazo de dos meses.",
+      "D. Ratificando el texto inicial por mayoria absoluta, o por mayoria simple una vez transcurridos dos meses desde la interposicion del veto."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

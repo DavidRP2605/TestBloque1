@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "El refrendo de los actos del Rey puede corresponder:",
+    "options": [
+      "A. Al Presidente del Gobierno, a los Ministros competentes y al Presidente del Congreso.",
+      "B. Unicamente al Presidente del Gobierno.",
+      "C. Al Presidente del Gobierno y, en su caso, al Presidente del Tribunal Supremo.",
+      "D. Al Consejo de Estado y, excepcionalmente, al Presidente del Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

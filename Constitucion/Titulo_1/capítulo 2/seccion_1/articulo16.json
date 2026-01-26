@@ -1,0 +1,74 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 16"],
+    "question": "En relación con el derecho a la libertad religiosa, ¿qué declara la Constitución Española?",
+    "options": [
+      "La reconoce.",
+      "La garantiza.",
+      "La reconoce y la garantiza.",
+      "La reconoce, la garantiza y la protege."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 16"],
+    "question": "Sólo una de las siguientes afirmaciones es correcta:",
+    "options": [
+      "Nadie está obligado a declarar sobre su religión.",
+      "Para el acceso a determinados puestos de trabajo, el interesado deberá informar sobre su ideología, religión y creencias.",
+      "En los casos previstos en la Ley, podrá una persona ser obligada a declarar respecto a su ideología.",
+      "Todo el mundo está obligado a declarar sobre sus creencias."
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 16.2 de la Constitución Española establece que nadie podrá ser obligado a declarar sobre su ideología, religión o creencias."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 16"],
+    "question": "En cuanto a la religion estatal, el articulo 16.3 de la Constitucion española, señala:",
+    "options": [
+      "A. Es la religion catolica la confesion oficial del Estado español.",
+      "B. Ninguna confesion religiosa tiene caracter estatal.",
+      "C. El Estado ostenta como religiones oficales la catolica y la islamica.",
+      "D. La Constitucion no establece precepto alguno que imponga a los poderes publicos la necesidad de mantener relaciones de cooperacion alguna."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 16"],
+    "question": "De conformidad con el articulo 16.2 de la Constitucion, ¿Quienes podran ser obligados a declarar sobre su ideologia, religion o creencias?",
+    "options": [
+      "A. Los españoles y, los ciudadanos de paises miembros de la Union Europea con residencia efectiva, legal y continuada en España.",
+      "B. Todas las personas que residan en cualquier parte del territorio del Estado.",
+      "C. Todos los españoles que residan en cualquier parte del territorio del Estado.",
+      "D. Nadie."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 16"],
+    "question": "De conformidad con el articulo 16.1 de la Constitucion Española, se garantiza la libertades ideologica, religiosa y de culto de los individuos y las comunidades:",
+    "options": [
+      "A. Sin más limitacion, en sus manifestaciones, que la necesaria para el mantenimiento del orden publico protegido por una ley organica.",
+      "B. Con las limitaciones correspondientes para el mantenimiento del orden publico en los casos previstos en la Constitucion.",
+      "C. En ningun caso tienen limitaciones.",
+      "D. Sin más limitacion, en sus manifestaciones, que la necesaria para el mantenimiento del orden publico protegido por la ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 16"],
+    "question": "De conformidad con el artículo 16 de la Constitucion Española, se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades. En este sentido, el Estado español es un:",
+    "options": [
+      "A. Estado laico.",
+      "B. Estado civil.",
+      "C. Estado católico.",
+      "D. Estado aconfesional."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

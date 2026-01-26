@@ -1,0 +1,50 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 23"],
+    "question": "El derecho a participar en los asuntos públicos:",
+    "options": [
+      "Sólo corresponde a los ciudadanos españoles.",
+      "Podrá corresponder también a los ciudadanos extranjeros, tanto para el sufragio activo como para el pasivo en las elecciones municipales.",
+      "Nunca puede corresponder a los extranjeros.",
+      "Podrá corresponder a los ciudadanos extranjeros, pero sólo para el derecho de sufragio activo en las elecciones municipales"
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 23 de la Constitución Española reconoce el derecho de los ciudadanos a participar en los asuntos públicos, directamente o por medio de representantes. La legislación permite que los ciudadanos extranjeros puedan ejercer el derecho de sufragio activo en elecciones municipales si existe reciprocidad, pero no el pasivo."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 23"],
+    "question": "De conformidad con el articulo 13 y el articulo 23 de la Constitucion Española, el derecho a participar en los asuntos publicos:",
+    "options": [
+      "A. Podrá corresponder a los ciudadanos extranjeros, tanto para el sufragio activo como para el pasivo en las elecciones municipales.",
+      "B. Solo corresponde a los ciudadanos españoles.",
+      "C. Podrá corresponder a los ciudadanos extranjeros, pero solo para el derecho de sufragio activo en las elecciones municipales.",
+      "D. Nunca puede corresponder a los extranjeros."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 23"],
+    "question": "Segun la Constitucion Española, ¿Tienen los extranjeros derecho a participar en los asuntos publicos, directamente o por medio de representantes?",
+    "options": [
+      "A. Si, porque el articulo 23.1 hace referencia a los ciudadanos, sin distinguir españoles o extranjeros.",
+      "B. No, porque el articulo 13.2 enuncia que solamente los españoles serán titulares de los derechos reconocidos en el articulo 23.",
+      "C. Si, porque el articulo 13.1 declara que los extranjeros gozarán en España de las libertades publicas que garantiza el Titulo I en los terminos que establezcan los tratados y la ley.",
+      "D. Solo en lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 23"],
+    "question": "De acuerdo con el artículo 23.1 de la Constitucion Española, los ciudadanos tienen derecho a participar en los asuntos públicos:",
+    "options": [
+      "A. Sólo de forma directa.",
+      "B. Directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal.",
+      "C. En todo caso, por medio de representantes.",
+      "D. A través de representantes, debiendo haber sido elegidos directamente por los afectados, facilitándoseles poder notarial de representación."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

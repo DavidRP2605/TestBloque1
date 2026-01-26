@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo IX", "Articulo 159"],
+    "question": "El Tribunal Constitucional",
+    "options": [
+      "A. Es un organo jurisdiccional integrado en el poder judicial.",
+      "B. Es un organo constitucional no integrado en el poder judicial.",
+      "C. No es un organo jurisdiccional ni constitucional.",
+      "D. Ninguna de las anteriores es correcta."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo IX", "Articulo 159"],
+    "question": "Cuantos miembros del Tribunal Constitucional son nombrados por el Rey?",
+    "options": [
+      "A. 4 miembros.",
+      "B. 8 miembros.",
+      "C. 12 miembros.",
+      "D. El Rey no nombra miembros del Tribunal Constitucional."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo IX", "Articulo 159"],
+    "question": "Conforme al art. 159 de la CE, ¿cuantos miembros del Tribunal Constitucional son propuestos por el Senado?",
+    "options": [
+      "A. Dos miembros.",
+      "B. Cuatro miembros.",
+      "C. Seis miembros.",
+      "D. Ocho miembros."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

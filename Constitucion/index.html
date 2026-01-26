@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test TAI Jerárquico</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f2f2f2;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+      #quiz-container {
+        background: #fff;
+        border-radius: 10px;
+        padding: 20px 30px;
+        width: 95%;
+        max-width: 600px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h2,
+      h3 {
+        text-align: center;
+      }
+      label {
+        display: block;
+        margin-top: 10px;
+        font-weight: bold;
+      }
+      select,
+      button {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+      }
+      select[multiple] {
+        min-height: 120px;
+        padding: 8px;
+      }
+      select[multiple] option {
+        padding: 6px;
+        margin-bottom: 2px;
+      }
+      select[multiple] option:checked {
+        background: linear-gradient(#007bff, #007bff);
+        background-color: #007bff;
+        color: white;
+      }
+      button {
+        background: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        font-size: 1em;
+      }
+      button:hover {
+        background: #0056b3;
+      }
+      .option {
+        display: block;
+        margin: 8px 0;
+      }
+      #result {
+        margin-top: 15px;
+        text-align: center;
+        font-weight: bold;
+      }
+      .correct {
+        color: green;
+      }
+      .incorrect {
+        color: red;
+      }
+      a {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+        color: #007bff;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      /* Estilos para modo test (más agradable visualmente) */
+      body.in-test {
+        background: linear-gradient(180deg, #e9f2ff 0%, #ffffff 60%);
+      }
+      body.in-test #quiz-container {
+        max-width: 900px;
+        padding: 30px 40px;
+        border-radius: 12px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+        transform: translateY(-10px);
+      }
+      body.in-test #selector-temas { display: none; }
+      body.in-test #question-container {
+        background: linear-gradient(180deg,#ffffff,#fbfeff);
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+        margin-top: 10px;
+      }
+      body.in-test .option { font-size: 1.05em; font-weight: normal; }
+      body.in-test #next-btn, body.in-test #exit-btn {
+        padding: 12px 18px; font-size: 1em; border-radius:8px;
+      }
+      #progress-bar { height:8px; background:#e6eefc; border-radius:8px; overflow:hidden; margin-top:10px; }
+      #progress-bar > div { height:100%; background:#007bff; width:0%; transition:width .3s ease; }
+    </style>
+  </head>
+  <body>
+    <div id="quiz-container">
+      <h2>Test CONSTITUCIÓN</h2>
+
+      <!-- Selector jerárquico -->
+      <div id="selector-temas">
+        <label for="bloque">Bloque:</label>
+        <select id="bloque"></select>
+        <label for="titulo">Título:</label>
+        <select id="titulo"></select>
+        <label for="capitulo">Capítulo: <small style="color:#666; font-weight:normal">(Ctrl+click para múltiples)</small></label>
+        <select id="capitulo" multiple></select>
+        <label for="articulo">Artículo: <small style="color:#666; font-weight:normal">(Ctrl+click para múltiples)</small></label>
+        <select id="articulo" multiple></select>
+
+        <label for="testSize">Tamaño del test:</label>
+        <select id="testSize">
+          <option value="5">5</option>
+          <option value="10">10</option>
+          <option value="15" selected>15</option>
+          <option value="20">20</option>
+        </select>
+        <p>Selecciona modo:</p>
+        <button onclick="startQuiz('practica')">Modo Práctica 🧠</button>
+        <button onclick="startQuiz('examen')">Modo Examen 📝</button>
+        <a href="editor.html">✏️ Editar preguntas</a>
+        <a href="estadisticas.html">📊 Ver estadísticas</a>
+      </div>
+
+      <div id="progress-bar" style="display:none"><div></div></div>
+      <div id="question-container" style="display: none"></div>
+      <div style="display:flex; gap:10px; justify-content:center; margin-top:10px">
+        <button id="next-btn" style="display: none">Siguiente</button>
+        <button id="exit-btn" style="display: none; background:#6c757d">Salir al índice</button>
+      </div>
+      <div id="result"></div>
+    </div>
+
+    <script>
+      let allQuestions = [];
+      let questions = [];
+      let currentQuestion = 0;
+      let score = 0;
+      let mode = "examen";
+      let userAnswers = [];
+      let tituloActual = "";
+
+      function loadQuestions() {
+        const data = localStorage.getItem("preguntasTAI");
+        return data ? JSON.parse(data) : [];
+      }
+
+      function populateSelectors() {
+        allQuestions = loadQuestions();
+        if (allQuestions.length === 0) {
+          alert("⚠️ No hay preguntas guardadas. Añádelas desde el editor.");
+          location.href = "editor.html";
+          return;
+        }
+
+        const bloques = [
+          ...new Set(allQuestions.map((q) => q.titulos?.[0] || "Sin Bloque")),
+        ];
+        bloques.sort((a, b) => {
+          const numA = parseInt(a.match(/\d+/)) || 0;
+          const numB = parseInt(b.match(/\d+/)) || 0;
+          return numA - numB;
+        });
+        const bloqueSel = document.getElementById("bloque");
+        bloqueSel.innerHTML =
+          `<option value="">Todos</option>` +
+          bloques.map((b) => `<option value="${b}">${b}</option>`).join("");
+        bloqueSel.addEventListener("change", updateTitulos);
+        document.getElementById("titulo").addEventListener("change", updateCapitulos);
+        document.getElementById("capitulo").addEventListener("change", updateArticulos);
+      }
+
+      function updateTitulos() {
+        const bloque = document.getElementById("bloque").value;
+        const titulos = [
+          ...new Set(
+            allQuestions
+              .filter((q) => !bloque || q.titulos?.[0] === bloque)
+              .map((q) => q.titulos?.[1])
+              .filter(Boolean)
+          ),
+        ];
+
+        titulos.sort((a, b) => {
+          const numA = parseInt(a.match(/\d+/)) || 0;
+          const numB = parseInt(b.match(/\d+/)) || 0;
+          return numA - numB;
+        });
+
+        document.getElementById("titulo").innerHTML =
+          `<option value="">Todos</option>` +
+          titulos.map((t) => `<option value="${t}">${t}</option>`).join("");
+        updateCapitulos();
+      }
+      function updateCapitulos() {
+        const bloque = document.getElementById("bloque").value;
+        const titulo = document.getElementById("titulo").value;
+        const capitulos = [
+          ...new Set(
+            allQuestions
+              .filter(
+                (q) =>
+                  (!bloque || q.titulos?.[0] === bloque) &&
+                  (!titulo || q.titulos?.[1] === titulo)
+              )
+              .map((q) => (q.titulos && q.titulos.length > 3 ? q.titulos[2] : null))
+              .filter(Boolean)
+          ),
+        ];
+
+        capitulos.sort((a, b) => {
+          const numA = parseInt(a.match(/\d+/)) || 0;
+          const numB = parseInt(b.match(/\d+/)) || 0;
+          return numA - numB;
+        });
+
+        document.getElementById("capitulo").innerHTML =
+          `<option value="">Todos</option>` +
+          capitulos.map((c) => `<option value="${c}">${c}</option>`).join("");
+
+        updateArticulos();
+      }
+
+      function updateArticulos() {
+        const bloque = document.getElementById("bloque").value;
+        const titulo = document.getElementById("titulo").value;
+        const capituloSelect = document.getElementById("capitulo");
+        const capitulos = Array.from(capituloSelect.selectedOptions).map(opt => opt.value).filter(v => v !== "");
+        
+        const articulos = [
+          ...new Set(
+            allQuestions
+              .filter((q) => {
+                const qCap = q.titulos && q.titulos.length > 3 ? q.titulos[2] : "";
+                const qArt = q.titulos && q.titulos.length > 3 ? q.titulos[3] : q.titulos?.[2];
+                const capitulos_check = capitulos.length === 0;
+                return (
+                  (!bloque || q.titulos?.[0] === bloque) &&
+                  (!titulo || q.titulos?.[1] === titulo) &&
+                  (capitulos_check || capitulos.includes(qCap))
+                );
+              })
+              .map((q) => (q.titulos && q.titulos.length > 3 ? q.titulos[3] : q.titulos?.[2]))
+              .filter(Boolean)
+          ),
+        ];
+
+        articulos.sort((a, b) => {
+          const numA = parseInt(a.match(/\d+/)) || 0;
+          const numB = parseInt(b.match(/\d+/)) || 0;
+          return numA - numB;
+        });
+
+        document.getElementById("articulo").innerHTML =
+          `<option value="">Todos</option>` +
+          articulos.map((a) => `<option value="${a}">${a}</option>`).join("");
+      }
+
+      function shuffleArray(arr) {
+        for (let i = arr.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+      }
+
+      function startQuiz(selectedMode) {
+        mode = selectedMode;
+        const bloque = document.getElementById("bloque").value;
+        const titulo = document.getElementById("titulo").value;
+        
+        // Obtener múltiples selecciones de capítulos
+        const capituloSelect = document.getElementById("capitulo");
+        const capitulos = Array.from(capituloSelect.selectedOptions).map(opt => opt.value).filter(v => v !== "");
+        
+        // Obtener múltiples selecciones de artículos
+        const articuloSelect = document.getElementById("articulo");
+        const articulos = Array.from(articuloSelect.selectedOptions).map(opt => opt.value).filter(v => v !== "");
+
+        // Tamaño del test según selección del usuario (por defecto 15)
+        const testSize = parseInt(document.getElementById("testSize").value) || 15;
+
+        // Si se seleccionó capítulo(s) (y NO artículo(s)), construimos
+        // un test de hasta `testSize` preguntas 
+        if (capitulos.length > 0 && articulos.length === 0) {
+          // Agrupar preguntas por artículo dentro de los capítulos seleccionados
+          const agrupadas = {};
+          allQuestions.forEach((q) => {
+            const qBloque = q.titulos?.[0] || "";
+            const qTitulo = q.titulos?.[1] || "";
+            const qCap = q.titulos && q.titulos.length > 3 ? q.titulos[2] : "";
+            const qArt = q.titulos && q.titulos.length > 3 ? q.titulos[3] : q.titulos?.[2];
+            if (( !bloque || qBloque === bloque) && (!titulo || qTitulo === titulo) && capitulos.includes(qCap)) {
+              if (!qArt) return;
+              agrupadas[qArt] = agrupadas[qArt] || [];
+              agrupadas[qArt].push(JSON.parse(JSON.stringify(q)));
+            }
+          });
+
+          // Si no hay preguntas en los capítulos seleccionados
+          const totalDisponibles = Object.values(agrupadas).reduce((s, arr) => s + arr.length, 0);
+          if (totalDisponibles === 0) {
+            alert("No hay preguntas para este filtro.");
+            return;
+          }
+
+          // Barajar preguntas dentro de cada artículo
+          Object.values(agrupadas).forEach((arr) => shuffleArray(arr));
+
+          // Selección en rondas para respetar máximo 2 por artículo inicialmente
+          const claves = Object.keys(agrupadas);
+          shuffleArray(claves);
+          const seleccion = [];
+          const contadores = {};
+          let remaining = true;
+          while (seleccion.length < testSize && remaining) {
+            remaining = false;
+            for (const clave of claves) {
+              if (seleccion.length >= testSize) break;
+              contadores[clave] = contadores[clave] || 0;
+              if (contadores[clave] >= 2) continue;
+              const arr = agrupadas[clave];
+              if (arr && arr.length > 0) {
+                seleccion.push(arr.shift());
+                contadores[clave]++;
+                remaining = true;
+              }
+            }
+          }
+
+          // Si no alcanzamos `testSize` con el límite de 2 por artículo,
+          // rellenamos con las preguntas restantes (sin límite por artículo)
+          if (seleccion.length < testSize) {
+            // Recolectar el resto de preguntas disponibles
+            const restantes = [];
+            for (const clave of Object.keys(agrupadas)) {
+              const arr = agrupadas[clave];
+              if (arr && arr.length > 0) {
+                // vaciamos el array en restantes
+                while (arr.length > 0) restantes.push(arr.shift());
+              }
+            }
+            // Barajar y añadir hasta completar testSize
+            shuffleArray(restantes);
+            while (seleccion.length < testSize && restantes.length > 0) {
+              seleccion.push(restantes.shift());
+            }
+          }
+
+          questions = seleccion;
+          // Barajar la selección final para mayor aleatoriedad
+          shuffleArray(questions);
+          const capitulosStr = capitulos.length === 1 ? capitulos[0] : `${capitulos.length} capítulos`;
+          tituloActual = [bloque, titulo, capitulosStr].filter(Boolean).join(" > ") || "General";
+        } else {
+          // Copia profunda de las preguntas filtradas para no mutar allQuestions
+          questions = allQuestions
+            .filter((q) => {
+              const qCap = q.titulos && q.titulos.length > 3 ? q.titulos[2] : "";
+              const qArt = q.titulos && q.titulos.length > 3 ? q.titulos[3] : q.titulos?.[2];
+              const capitulos_check = capitulos.length === 0;
+              const articulos_check = articulos.length === 0;
+              return (
+                (!bloque || q.titulos?.[0] === bloque) &&
+                (!titulo || q.titulos?.[1] === titulo) &&
+                (capitulos_check || capitulos.includes(qCap)) &&
+                (articulos_check || articulos.includes(qArt))
+              );
+            })
+            .map((q) => JSON.parse(JSON.stringify(q)));
+
+          if (questions.length === 0) {
+            alert("No hay preguntas para este filtro.");
+            return;
+          }
+
+            // Limitar preguntas al tamaño del test seleccionado
+            shuffleArray(questions);
+            if (questions.length > testSize) {
+              questions = questions.slice(0, testSize);
+            }
+
+            const capitulosStr = capitulos.length > 1 ? `${capitulos.length} capítulos` : (capitulos.length === 1 ? capitulos[0] : "");
+            const articulosStr = articulos.length > 1 ? `${articulos.length} artículos` : (articulos.length === 1 ? articulos[0] : "");
+            tituloActual = [bloque, titulo, capitulosStr, articulosStr].filter(Boolean).join(" > ") || "General";
+        }
+
+        // Barajar orden de preguntas
+        shuffleArray(questions);
+
+        // Barajar opciones de cada pregunta y recalcular índice de la respuesta correcta
+        questions.forEach((q) => {
+          if (!Array.isArray(q.options)) q.options = [];
+          const correctText = q.options[q.answer];
+          shuffleArray(q.options);
+          q.answer = q.options.indexOf(correctText);
+          if (q.answer === -1) q.answer = 0; // fallback si datos no consistentes
+        });
+
+        currentQuestion = 0;
+        score = 0;
+        userAnswers = [];
+        document.getElementById("selector-temas").style.display = "none";
+        document.getElementById("question-container").style.display = "block";
+        document.getElementById("next-btn").style.display = "inline-block";
+        document.getElementById("next-btn").textContent = "Siguiente ➡️";
+        const exitBtn = document.getElementById("exit-btn");
+        exitBtn.style.display = "inline-block";
+        exitBtn.onclick = exitQuiz;
+        // Activar estilos visuales del modo test
+          document.body.classList.add('in-test');
+          // Mostrar barra de progreso
+          const pb = document.getElementById('progress-bar');
+          if (pb) { pb.style.display = 'block'; pb.firstElementChild.style.width = '0%'; }
+        showQuestion();
+      }
+
+      function showQuestion() {
+        const q = questions[currentQuestion];
+        const container = document.getElementById("question-container");
+        container.innerHTML = `
+        <p style="font-size:15px">Pregunta ${currentQuestion + 1} de ${
+          questions.length
+        }</p>
+        <p class="question-text"><strong>${q.question}</strong></p>
+        ${q.options
+          .map(
+            (opt, i) => `
+          <label class="option">
+            <input type="radio" name="answer" value="${i}"> ${opt}
+          </label>
+        `
+          )
+          .join("")}
+      `;
+        document.getElementById("result").textContent = "";
+
+        // Actualizar barra de progreso (preguntas respondidas / total)
+        const pb = document.getElementById('progress-bar');
+        if (pb && questions.length) {
+          const pct = Math.round((currentQuestion / questions.length) * 100);
+          pb.firstElementChild.style.width = pct + '%';
+        }
+
+        // Reseteamos el evento anterior del botón
+        const nextBtn = document.getElementById("next-btn");
+        nextBtn.onclick = checkAnswer;
+        nextBtn.textContent = "Confirmar";
+        
+      }
+
+      function checkAnswer() {
+        const selected = document.querySelector('input[name="answer"]:checked');
+        if (!selected)
+          return alert("Selecciona una opción antes de continuar.");
+        const sel = parseInt(selected.value);
+        const q = questions[currentQuestion];
+        const isCorrect = sel === q.answer;
+
+        userAnswers.push({
+          question: q.question,
+          selected: q.options[sel],
+          correct: q.options[q.answer],
+          isCorrect,
+          titulos: q.titulos || []
+        });
+        if (isCorrect) score++;
+
+        const resultDiv = document.getElementById("result");
+        if (mode === "practica") {
+          resultDiv.innerHTML = isCorrect
+            ? "<span class='correct'>✅ Correcto</span>"
+            : `<span class='incorrect'>❌ Incorrecto</span><br>Correcta: <em>${
+                q.options[q.answer]
+              }</em>`;
+        }
+
+        const nextBtn = document.getElementById("next-btn");
+        nextBtn.onclick = nextQuestion;
+        nextBtn.textContent =
+          currentQuestion + 1 < questions.length ? "Siguiente ➡️" : "Finalizar";
+        // Actualizar barra de progreso tras confirmar respuesta
+        const pb = document.getElementById('progress-bar');
+        if (pb && questions.length) {
+          const pct = Math.round(((currentQuestion + 1) / questions.length) * 100);
+          pb.firstElementChild.style.width = pct + '%';
+        }
+      }
+
+      function nextQuestion() {
+        currentQuestion++;
+        if (currentQuestion < questions.length) showQuestion();
+        else showResult();
+      }
+
+      function showResult() {
+        document.getElementById("question-container").style.display = "none";
+        document.getElementById("next-btn").style.display = "none";
+        document.getElementById("exit-btn").style.display = "none";
+        // Desactivar estilos del modo test
+        document.body.classList.remove('in-test');
+        // Ocultar y llenar barra de progreso al finalizar
+        const pb = document.getElementById('progress-bar');
+        if (pb) { pb.firstElementChild.style.width = '100%'; pb.style.display = 'none'; }
+
+        const result = document.getElementById("result");
+        result.innerHTML = `<h3>Resultados (${tituloActual})</h3>
+        <p>Has acertado ${score} de ${questions.length} (${Math.round(
+          (score / questions.length) * 100
+        )}%)</p>
+        ${userAnswers
+          .map(
+            (a, i) => `
+          <p><strong>${i + 1}. ${a.question}</strong><br>
+          Tu respuesta: ${a.selected} ${a.isCorrect ? "✅" : "❌"}<br>
+          ${!a.isCorrect ? `Correcta: ${a.correct}` : ""}</p>
+        `
+          )
+          .join("")}
+        <button onclick="location.reload()">🔁 Reiniciar</button>
+        <a href="estadisticas.html">📊 Ver estadísticas</a>
+        <a href="index.html" hover="color:red">🏠 Volver al Test</a>
+      `;
+
+        guardarEstadisticas();
+      }
+
+      function exitQuiz() {
+        if (!confirm("¿Salir del test y volver al índice? Se perderá el progreso actual.")) return;
+        // Limpiar estado
+        questions = [];
+        currentQuestion = 0;
+        score = 0;
+        userAnswers = [];
+        tituloActual = "";
+        document.getElementById("question-container").style.display = "none";
+        document.getElementById("next-btn").style.display = "none";
+        document.getElementById("exit-btn").style.display = "none";
+        document.getElementById("selector-temas").style.display = "block";
+        document.getElementById("result").textContent = "";
+        // Desactivar estilos del modo test
+        document.body.classList.remove('in-test');
+        const pb = document.getElementById('progress-bar');
+        if (pb) { pb.firstElementChild.style.width = '0%'; pb.style.display = 'none'; }
+      }
+
+      function guardarEstadisticas() {
+        const stats = JSON.parse(
+          localStorage.getItem("estadisticasTAI") || "{}"
+        );
+        // Mantener la estadística por la ruta actual (tituloActual)
+        if (!stats[tituloActual])
+          stats[tituloActual] = {
+            totalPreguntas: 0,
+            totalAciertos: 0,
+            preguntas: {},
+          };
+        const tituloStats = stats[tituloActual];
+        tituloStats.totalPreguntas += questions.length;
+        tituloStats.totalAciertos += score;
+
+        userAnswers.forEach((a) => {
+          if (!tituloStats.preguntas[a.question])
+            tituloStats.preguntas[a.question] = { aciertos: 0, fallos: 0 };
+          if (a.isCorrect) tituloStats.preguntas[a.question].aciertos++;
+          else tituloStats.preguntas[a.question].fallos++;
+
+          // Además, registrar estadísticas específicas por artículo
+          const t = a.titulos || [];
+          // Normalizar: si el array es de 4 elementos -> [bloque,titulo,capitulo,articulo]
+          // si es de 3 -> [bloque,titulo,articulo]
+          let articlePath = null;
+          if (t.length >= 4) articlePath = [t[0], t[1], t[2], t[3]].filter(Boolean).join(" > ");
+          else if (t.length === 3) articlePath = [t[0], t[1], t[2]].filter(Boolean).join(" > ");
+
+          if (articlePath) {
+            if (!stats[articlePath])
+              stats[articlePath] = { totalPreguntas: 0, totalAciertos: 0, preguntas: {} };
+            const artStats = stats[articlePath];
+            artStats.totalPreguntas += 1;
+            if (a.isCorrect) artStats.totalAciertos += 1;
+            if (!artStats.preguntas[a.question]) artStats.preguntas[a.question] = { aciertos: 0, fallos: 0 };
+            if (a.isCorrect) artStats.preguntas[a.question].aciertos++;
+            else artStats.preguntas[a.question].fallos++;
+          }
+        });
+
+        localStorage.setItem("estadisticasTAI", JSON.stringify(stats));
+      }
+
+      document.addEventListener("keydown", (e) => {
+        const key = parseInt(e.key);
+        if (key >= 1 && key <= 4) {
+          const radio = document.querySelector(
+            `input[name="answer"][value="${key - 1}"]`
+          );
+          if (radio) radio.checked = true;
+        }
+      });
+
+      populateSelectors();
+    </script>
+  </body>
+</html>

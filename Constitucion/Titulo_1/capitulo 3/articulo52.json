@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "Según el artículo 52 de la Constitución Española, la ley regulará las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios. ¿Cómo deberá ser su estructura y funcionamiento?",
+    "options": [
+      "A. Su estructura externa y funcionamiento deberán ser jerárquicos.",
+      "B. Su estructura externa y funcionamiento podrán ser jerárquicos.",
+      "C. Su estructura interna y funcionamiento deberán ser democráticos.",
+      "D. Su estructura interna y funcionamiento podrán ser democráticos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

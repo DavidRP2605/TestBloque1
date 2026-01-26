@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 47"],
+    "question": "De acuerdo a lo recogido en el artículo 47 de la Constitución, participarán de las plusvalías que genere la acción urbanística de los entes públicos:",
+    "options": [
+      "A. El Estado.",
+      "B. La Comunidad Autónoma Correspondiente.",
+      "C. La Comunidad.",
+      "D. El Ayuntamiento."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

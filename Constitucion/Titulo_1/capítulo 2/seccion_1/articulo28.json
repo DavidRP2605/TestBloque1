@@ -1,0 +1,86 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 28"],
+    "question": "El derecho a adoptar medidas de conflicto colectivo:",
+    "options": [
+      "Su ejercicio no está sujeto a medida limitadora alguna.",
+      "Su ejercicio deberá estar sometido a las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad.",
+      "Se reconoce únicamente a los empresarios.",
+      "Se reconoce únicamente a los trabajadores."
+    ],
+    "answer": 1,
+    "explicacion": "El artículo 28.2 de la Constitución Española reconoce el derecho de los trabajadores a adoptar medidas de conflicto colectivo. Este derecho deberá ejercerse dentro del respeto a la ley y estar sometido a las garantías necesarias para asegurar el funcionamiento de los servicios esenciales de la comunidad."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 28"],
+    "question": "Segun el articulo 28.1 de la Constitucion española, el derecho a sindicarse libremente:",
+    "options": [
+      "A. El ejercicio de tal derecho por parte de los funcionarios no presenta peculiaridad alguna.",
+      "B. La tienen todos los trabajadores.",
+      "C. Podra ser limitado, o exceptuado, a las Fuerzas armadas.",
+      "D. No podra ser restringido a su ejercicio a otros cuerpos aunque esten sometidos a la disciplina militar."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 28"],
+    "question": "Segun el articulo 28.1 de la Constitucion, todos tienen derecho a sindicarse libremente. La ley:",
+    "options": [
+      "A. No podra limitar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demas Cuerpos sometidos a disciplina militar.",
+      "B. En todo caso debe exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demas Cuerpos sometidos a disciplina militar.",
+      "C. Podra limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demas Cuerpos sometidos a disciplina militar.",
+      "D. En ningun caso debe exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demas Cuerpos sometidos a disciplina militar."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 28"],
+    "question": "De conformidad con el artículo 28.1 de la Constitución, la libertad sindical comprende (señale la respuesta incorrecta):",
+    "options": [
+      "A. El derecho de los sindicatos a fundar organizaciones sindicales internacionales o a afiliarse a las mismas.",
+      "B. El derecho de los sindicatos a formar confederaciones.",
+      "C. La obligación de afiliarse a los sindicatos más representativos.",
+      "D. El derecho a fundar sindicatos y a afiliarse al de su elección."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 28"],
+    "question": "En relacion con el articulo 28.1 de la Constitucion, todos tienen derecho a sindicarse libremente. La Ley:",
+    "options": [
+      "A. En todo caso, exceptúa el ejercicio de este derecho a las Fuerzas Armadas e Institutos armados.",
+      "B. Podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas e Institutos armados o a los demás Cuerpos sometidos a disciplina militar.",
+      "C. No podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas e Institutos armados o a los demás Cuerpos sometidos a disciplina militar.",
+      "D. Solo podrá limitar el ejercicio de este derecho a las Fuerzas Armada e Institutos armados."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 28"],
+    "question": "Según el articulo 28.1 de la Constitucion Española, en relacion con el derecho a sindicarse, ¿Cual de las siguientes afirmaciones es correcta?",
+    "options": [
+      "A. La ley podrá limitar o exceptuar el ejercicio de este derecho a los funcionarios publicos.",
+      "B. Todos tienen derecho a sindicarse libremente.",
+      "C. La ley regulará las peculiaridades de su ejercicio a las Fuerzas o Institutos armados o a los demas Cuerpos sometidos a disciplina militar.",
+      "D. Todos los ciudadanos están obligados a afiliarse a un sindicato."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 28"],
+    "question": "Según el articulo 28.2 de la Constitucion, se reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses. La ley que regule el ejercicio de este derecho:",
+    "options": [
+      "A. Establecerá las garantías precisas para asegurar el mantenimiento de los servicios publicos de la comunidad.",
+      "B. Establecerá las garantías precisas para asegurar el mantenimiento de los servicios sociales de la comunidad.",
+      "C. Establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.",
+      "D. Establecerá las garantías precisas para asegurar el mantenimiento de los servicios minimos de la comunidad."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

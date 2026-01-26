@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 0", "Reformas"],
+    "question": "La primera reforma de la Constitucion consistió en:",
+    "options": [
+      "A. Incluir el derecho de sufragio pasivo a los extranjeros en las elecciones estatales, autonómicas y municipales.",
+      "B. Incluir el derecho de sufragio pasivo a los extranjeros en las elecciones autonómicas y municipales.",
+      "C. Incluir el derecho de sufragio pasivo a los extranjeros en las elecciones municipales.",
+      "D. Incluir el principio de estabilidad financiera."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 0", "Reformas"],
+    "question": "¿Qué artículos de la Constitucion Española de 1978 han sido reformados?",
+    "options": [
+      "A. El artículo 11.2, el artículo 133 y el artículo 58.",
+      "B. El artículo 23.2, el artículo 136 y el artículo 59.",
+      "C. El artículo 13.2, el artículo 135 y el artículo 49.",
+      "D. El artículo 23.2, el artículo 134 y el artículo 48."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

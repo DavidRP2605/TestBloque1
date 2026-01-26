@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 36"],
+    "question": "En torno a los Colegios Profesionales:",
+    "options": [
+      "Todas las otras respuestas son falsas.",
+      "Su estructura interna y su funcionamiento deberán ser democráticos.",
+      "Están detalladamente regulados en la Constitución.",
+      "La Constitución afirma que serán regulados por Ley Orgánica."
+    ],
+    "answer": 1,
+    "explicacion": "El artículo 36 de la Constitución Española establece que la ley regulará las peculiaridades propias de los Colegios Profesionales y que su estructura interna y funcionamiento deberán ser democráticos. No se afirma que estén detalladamente regulados ni que se haga por Ley Orgánica."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 36"],
+    "question": "En torno a los Colegios Profesionales:",
+    "options": [
+      "Todas las otras respuestas son falsas.",
+      "Su estructura interna y su funcionamiento deberán ser democráticos.",
+      "Están detalladamente regulados en la Constitución.",
+      "La Constitución afirma que serán regulados por Ley Orgánica."
+    ],
+    "answer": 1,
+    "explicacion": "El artículo 36 de la Constitución Española establece que la ley regulará las peculiaridades propias de los Colegios Profesionales y que su estructura interna y funcionamiento deberán ser democráticos. No se afirma que estén detalladamente regulados ni que se haga por Ley Orgánica."
+  }
+]

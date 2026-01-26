@@ -1,0 +1,110 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "\"Todos los españoles, con respecto al idioma oficial del Estado:",
+    "options": [
+      "Tienen el deber y el derecho de conocerlo.",
+      "Tienen el deber de conocerlo y el derecho de usarlo.",
+      "Tienen el deber y el derecho de usarlo.",
+      "Tienen el deber de usarlo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "La lengua oficial del Estado es:",
+    "options": [
+      "El idioma autóctono en aquellas comunidades que gocen de lengua propia.",
+      "El castellano.",
+      "El español.",
+      "El castellano en aquellas comunidades autónomas que no sean bilingües."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "En relación con el artículo 3.3 de la Constitución Española, la riqueza de las distintas modalidades lingüísticas de España:",
+    "options": [
+      "Es un patrimonio cultural que será objeto de especial respeto y protección, facilitando la participación de todos los ciudadanos en la vida cultural y social",
+      "Es un patrimonio cultural que será objeto de especial respeto y protección, facilitando la participación de todos los ciudadanos en la vida cultural y económica",
+      "Es un patrimonio cultural que será objeto de especial respeto y protección, facilitando la participación de todos los ciudadanos en la vida cultural y política",
+      "Es un patrimonio cultural que será objeto de especial respeto y protección"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "Las demás lenguas de las respectivas Comunidades Autónomas:",
+    "options": [
+      "Serán también oficiales en las respectivas comunidades autónomas, de acuerdo con sus Estatutos.",
+      "Son oficiales también en el resto del Estado.",
+      "Deben ser conocidas y empleadas por todos los españoles que residan o visiten la comunidad autónoma afectada.",
+      "Serán las únicas lenguas oficiales en las respectivas comunidades autónomas, de acuerdo con sus Estatutos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "En relación con el artículo 3.2 de la Constitución Española, ¿Cómo podrá establecerse la oficialidad de las lenguas españolas distintas del castellano en las respectivas Comunidades Autónomas?",
+    "options": [
+      "Por las Cortes Generales, mediante ley orgánica",
+      "Por las Cortes Generales, mediante ley ordinaria",
+      "Por Decreto del Consejo de Gobierno de la Comunidad Autónoma",
+      "En el Estatuto de la Comunidad Autónoma"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "¿Qué reconoce la Constitución respecto a las lenguas españolas distintas del castellano?",
+    "options": [
+      "Son oficiales en las respectivas Comunidades Autónomas.",
+      "No tienen reconocimiento oficial.",
+      "Son oficiales en todo el territorio nacional.",
+      "Solo pueden usarse en el ámbito privado."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "Los españoles, ¿tienen el deber de conocer la lengua oficial del Estado?:",
+    "options": [
+      "No, tienen el derecho de conocer la lengua y el derecho de usarla",
+      "No",
+      "Sí, y también el deber de usarla",
+      "Sí, y también el derecho a usarla"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "La riqueza de las distintas modalidades lingüísticas de España es:",
+    "options": [
+      "Un patrimonio histórico",
+      "Un patrimonio cultural",
+      "Un patrimonio histórico y cultural",
+      "Un bien histórico y cultural"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 3"],
+    "question": "La riqueza de las distintas modalidades lingüísticas de España es un:",
+    "options": [
+      "patrimonio cultural que será objeto de especial defensa y protección",
+      "patrimonio cultural que será objeto de especial respeto y protección",
+      "patrimonio cultural que será objeto de especial promoción y protección",
+      "patrimonio cultural que será objeto de especial respeto y promoción"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 14"],
+    "question": "¿Qué artículo del Título I recoge el principio de igualdad jurídica de los españoles ante la ley?",
+    "options": [
+      "El artículo 16.",
+      "El artículo 11.",
+      "El artículo 15.",
+      "El artículo 14."
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 14 consagra el principio de igualdad ante la ley, prohibiendo cualquier discriminación por razones personales o sociales."
+  }
+]

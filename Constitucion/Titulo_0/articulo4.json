@@ -1,0 +1,62 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 4"],
+    "question": "¿Cuál es la bandera de España según la Constitución?",
+    "options": [
+      "La formada por tres franjas horizontales: roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "La formada por dos franjas horizontales: roja y amarilla.",
+      "La formada por tres franjas verticales: roja, amarilla y roja.",
+      "La formada por tres franjas horizontales: amarilla, roja y amarilla."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 4"],
+    "question": "¿Qué pueden tener las Comunidades Autónomas según la Constitución?",
+    "options": [
+      "Bandera propia junto a la bandera de España.",
+      "Bandera propia en lugar de la bandera de España.",
+      "Solo pueden usar la bandera de España.",
+      "No pueden tener bandera propia."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 4"],
+    "question": "La bandera de España está formada, según el articulo 4 de la Constitucion española, por tres franjas, roja, amarilla y roja:",
+    "options": [
+      "A. Verticalmente colocadas, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "B. Horizontalmente colocadas, siendo la roja de doble anchura que cada una de las amarillas.",
+      "C. Horizontalmente colocadas, siendo las tres franjas de igual anchura.",
+      "D. Horizontalmente colocadas, siendo la amarilla de doble anchura que cada una de las rojas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 4"],
+    "question": "Según el articulo 4 de la Constitucion española, las banderas y enseñas propias de las comunidades autónomas, reconocidas en sus estatutos:",
+    "options": [
+      "A. Se utilizarán junto a la española solo en los actos oficiales de carácter estatal.",
+      "B. Se utilizarán junto a la española en sus edificios públicos y en sus actos oficiales.",
+      "C. La utilización conjunta de la bandera de España y la de cada comunidad autónoma es potestad de las autoridades de la administración autonómica.",
+      "D. Se utilizarán en sustitución de la española en los edificios públicos oficiales propios de cada comunidad."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 4"],
+    "question": "Según el articulo 4.2 de la Constitucion, ¿podrán utilizarse junto a la bandera de España, banderas y enseñas propias de las Comunidades Autónomas?",
+    "options": [
+      "A. Si, cuando lo autorice expresamente una norma con rango de Ley.",
+      "B. Solamente en los edificios públicos de las Asambleas Legislativas de las Comunidades Autónomas.",
+      "C. No, en ningún caso.",
+      "D. Si, en sus edificios públicos y en sus actos oficiales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

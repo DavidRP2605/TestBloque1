@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "Conforme al art. 57 de la Constitucion, si una persona con derecho a la sucesion en el trono contrae matrimonio en contra de la prohibicion expresa del Rey y de las Cortes Generales...",
+    "options": [
+      "A. Perdera el derecho de sucesion, pero no sus descendientes inmediatos.",
+      "B. Quedara excluida de la sucesion a la Corona por si y sus descendientes inmediatos.",
+      "C. El Rey podra anular el matrimonio y mantener el derecho de sucesion.",
+      "D. Sera excluida solo si el matrimonio ha sido declarado nulo por sentencia judicial."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "En caso de que las lineas llamadas en derecho a la sucesion se extinguieran, ¿como se resolveria la sucesion a la Corona?",
+    "options": [
+      "A. El Gobierno proveera a la sucesion a la Corona en la forma que mas convenga a los intereses de España.",
+      "B. Se iniciara un procedimiento de reforma constitucional para designar una nueva dinastia.",
+      "C. Las Cortes Generales proveeran a la sucesion en la Corona en la forma que mas convenga a los intereses de España.",
+      "D. El Principe heredero, o su descendiente mas cercano, asumira la Jefatura del Estado hasta que las Cortes decidan."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

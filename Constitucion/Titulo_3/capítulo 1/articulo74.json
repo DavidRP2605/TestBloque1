@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo III", "Articulo 74"],
+    "question": "En qué circunstancias las Cortes Generales se reunen en sesion conjunta?",
+    "options": [
+      "A. Para el debate, deliberacion y votacion de una mocion de censura.",
+      "B. Cuando una comision asi lo requiera en el transcurso de su investigacion.",
+      "C. Para ejercer competencias no legislativas relacionadas con la Corona.",
+      "D. Para la aprobacion de cualquier ley organica, siempre que asi lo requiera en su redaccion."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

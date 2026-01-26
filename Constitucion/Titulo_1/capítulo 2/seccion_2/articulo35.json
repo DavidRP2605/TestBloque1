@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 35"],
+    "question": "¿Qué artículo de la Constitución recoge el derecho y el deber de trabajar?",
+    "options": [
+      "El artículo 39.",
+      "El artículo 33.",
+      "El artículo 37.",
+      "El artículo 35."
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 35 de la Constitución Española establece que todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia."
+  }
+]

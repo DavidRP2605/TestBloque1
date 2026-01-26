@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo IV", "Articulo 99"],
+    "question": "En el proceso de nombramiento del Presidente del Gobierno, si el candidato no obtiene la mayoría absoluta en la primera votación de investidura, ¿qué ocurre a continuacion?",
+    "options": [
+      "A. Se somete la misma propuesta a una nueva votacion 24 horas después, requiriendo mayoria simple.",
+      "B. Se somete la misma propuesta a una nueva votacion 48 horas después, requiriendo mayoria simple.",
+      "C. Se somete la misma propuesta a una nueva votacion 72 horas después, requiriendo mayoria simple.",
+      "D. Se disuelven las Cámaras y se convocan nuevas elecciones."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Señala la correcta:",
+    "options": [
+      "Los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico",
+      "Los ciudadanos están sujetos a la Constitución y al resto del ordenamiento jurídico",
+      "Los ciudadanos y los poderes públicos están sujetos a la Constitución",
+      "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "¿Cuál de los siguientes principios está garantizado constitucionalmente?",
+    "options": [
+      "La responsabilidad e interdicción de la arbitrariedad de la Administración Pública, tanto nacional como autonómica o local",
+      "La responsabilidad de la Administración Pública",
+      "La interdicción de la arbitrariedad del poder judicial",
+      "La responsabilidad e interdicción de la arbitrariedad de los Poderes Públicos"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Atentiendo al artículo 9 de la Constitución Española, uno de los siguientes principios no está garantizado constitucionalmente:",
+    "options": [
+      "El de jerarquía reglamentaria",
+      "El de legalidad",
+      "El de publicidad de las normas",
+      "El de irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Atentiendo al artículo 9.3 de la Constitución Española, solo uno de los siguientes principios está garantizado constitucionalmente:",
+    "options": [
+      "La jerarquía territorial",
+      "La seguridad jurídica",
+      "La seguridad ciudadana",
+      "El principio normativa"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Corresponde a los poderes públicos, segun el artículo 9.2 de la Constitución Española:",
+    "options": [
+      "Afianzar los obstáculos que impidan un equivocado o desmesurado empleo de la libertad individual",
+      "Regular los cauces necesarios para alcanzar el disfrute por los ciudadanos de una seguridad plena",
+      "Facilitar la participación de todos los ciudadanos en la vida cultural y social",
+      "Facilitar la participación de todos los ciudadanos con capacidad en la vida política"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "El principio de irretroactividad garantizado en el artículo 9.3 de la Constitución Española, abarca:",
+    "options": [
+      "A las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+      "A las disposiciones sancionadoras favorables o no restrictivas de derechos individuales",
+      "A la seguridad jurídica",
+      "A las normas de carácter general"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Atendiendo al artículo 9.2 de la Constitución Española, corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra:",
+    "options": [
+      "Se empleen por los ciudadanos dentro del respeto a la Constitución y las leyes",
+      "Alcancen el nivel más alto posible",
+      "Sean comunes a todos los miembros de la sociedad",
+      "Sean reales y efectivas"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Según el artículo 9.1, a la Constitución Española y al resto del ordenamiento jurídico:",
+    "options": [
+      "Los ciudadanos y los poderes públicos están sometidos exclusivamente al imperio de la ley",
+      "Están sujetos tanto los ciudadanos como los poderes públicos",
+      "Solo los poderes públicos están sujetos",
+      "Solo los ciudadanos exclusivamente están sujetos"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "La Constitución, en su artículo 9.3, garantiza, entre otros, el principio de:",
+    "options": [
+      "Libertad e igualdad del individuo",
+      "In dubio pro reo",
+      "Dependencia normativa",
+      "La publicidad de las normas"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "De conformidad con el artículo 9.3, ¿Cuáles de los siguientes principios no está garantizado constitucionalmente?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de jerarquía normativa",
+      "El principio de seguridad pública",
+      "El principio de publicidad de las normas"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "De conformidad con el artículo 9.3, ¿Cuáles de los siguientes principios está garantizado constitucionalmente?",
+    "options": [
+      "El principio de legalización",
+      "El principio de jerarquía normativa",
+      "El principio de seguridad pública",
+      "El principio de publicidad de las leyes"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Respecto a la retroactividad de las normas, el artículo 9 de la Constitución Española recoge que, la misma:",
+    "options": [
+      "Nunca es posible",
+      "No procede en el caso de normas sancionadoras no favorables",
+      "Podrá ser autorizada por una ley de bases",
+      "Procede cuando se trate de normas restrictivas de derechos individuales"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "El artículo 9.2 de la Constitución obliga a los poderes públicos a facilitar la participación en la vida política, económica, cultural y social de:",
+    "options": [
+      "Todos los ciudadanos",
+      "Los españoles mayores de edad",
+      "Los españoles residentes en España",
+      "Los distintos territorios, regiones y nacionalidades del Estado español"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "¿Qué garantiza el artículo 9.3 de la Constitución Española en relación con las disposiciones sancionadoras no favorables o restrictivas de derechos individuales?",
+    "options": [
+      "La interdicción de las citadas disposiciones",
+      "La retroactividad de las citadas disposiciones",
+      "La inaplicabilidad de citadas disposiciones",
+      "La irretroactividad de las citadas disposiciones"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "De acuerdo con el artículo 9.3, la Constitución garantiza el principio de:",
+    "options": [
+      "Legalidad, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos",
+      "Legalidad, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos",
+      "Legalidad, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la jerarquía normativa, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos",
+      "Legalidad, la publicidad de las normas, la jerarquía normativa, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad pública, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Corresponde a los poderes públicos:",
+    "options": [
+      "Promover las condiciones para que la libertad e igualdad del individuo y de los grupos en que se integra sean reales y efectivas.",
+      "Garantizar la soberanía e independencia de España.",
+      "Regular la economía de mercado de acuerdo con las exigencias de la planificación general.",
+      "Fomentar el derecho de los padres a que sus hijos reciban una formación religiosa y moral conforme a sus propias convicciones."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "¿A quiénes están sujetos los ciudadanos y los poderes públicos?",
+    "options": [
+      "A la Constitución y a las leyes.",
+      "A la Constitución y a las leyes orgánicas.",
+      "A la Constitución y al resto del ordenamiento jurídico.",
+      "Solo a la Constitución."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "¿Qué deben hacer los poderes públicos según el artículo 9 de la Constitución?",
+    "options": [
+      "Promover la igualdad y la libertad de los ciudadanos.",
+      "Garantizar la seguridad nacional.",
+      "Regular la economía.",
+      "Fomentar la educación religiosa."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "¿Qué deben promover los poderes públicos según el artículo 9?",
+    "options": [
+      "Las condiciones para que la libertad e igualdad del individuo y de los grupos en que se integra sean reales y efectivas",
+      "La seguridad nacional",
+      "La economía de mercado",
+      "La educación religiosa"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Corresponde promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social a:",
+    "options": [
+      "Los sindicatos de trabajadores y las asociaciones empresariales",
+      "Los poderes públicos",
+      "Los partidos políticos",
+      "Las Fuerzas Armadas"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "La Constitución garantiza:",
+    "options": [
+      "La retroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+      "La retroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales",
+      "La irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales",
+      "La irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "La Constitución garantiza:",
+    "options": [
+      "La seguridad jurídica",
+      "La responsabilidad",
+      "La interdicción de la arbitrariedad de los poderes públicos",
+      "Todas son correctas"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Sólo uno de los siguientes principios está garantizado constitucionalmente:",
+    "options": [
+      "La responsabilidad e interdicción de la arbitrariedad de la Administración Pública, tanto nacional, como autonómica o local",
+      "La responsabilidad de la Administración Pública",
+      "La interdicción de la arbitrariedad del poder judicial",
+      "La responsabilidad e interdicción de la arbitrariedad de los poderes públicos"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Uno de los siguientes principios no está garantizado por la Constitución:",
+    "options": [
+      "El de jerarquía reglamentaria",
+      "El de irretroactividad",
+      "El de publicidad de las normas",
+      "El de legalidad"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra:",
+    "options": [
+      "Se empleen por los ciudadanos dentro del respeto a la Constitución y las leyes",
+      "Alcancen el nivel más alto posible",
+      "Sean comunes a todos los miembros de la sociedad",
+      "Sean reales y efectivas"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Sólo una de los siguientes principios está garantizado constitucionalmente:",
+    "options": [
+      "La seguridad jurídica",
+      "La seguridad mercantil",
+      "La seguridad del tráfico",
+      "La seguridad ciudadana"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "Según el articulo 9.2 de la Constitucion, le corresponde a los poderes públicos remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de:",
+    "options": [
+      "A. Todos los ciudadanos en la vida política, económica, cultural y social.",
+      "B. Los españoles en la vida política, económica, cultural y social.",
+      "C. Todas las personas en la vida política, económica, cultural y social.",
+      "D. Los españoles que residan en España y sean mayores de edad en la vida política, económica, cultural y social."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "En virtud del articulo 9 de la Constitucion, las normas restrictivas de los derechos individuales son:",
+    "options": [
+      "A. De seguridad pública.",
+      "B. De responsabilidad.",
+      "C. Irretroactivas.",
+      "D. Siempre sancionadoras."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "¿Qué garantiza el articulo 9.3 de la Constitucion en relación con las disposiciones sancionadoras no favorables o restrictivas de derechos individuales?",
+    "options": [
+      "A. Su interdiccion.",
+      "B. Su retroactividad.",
+      "C. La inaplicabilidad de dichas disposiciones.",
+      "D. La irretroactividad de las citadas disposiciones."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "De acuerdo al apartado 1 del articulo 9 de la Constitucion, tanto los ciudadanos como los poderes públicos están sujetos:",
+    "options": [
+      "A. A la Constitucion y al resto del ordenamiento jurídico.",
+      "B. A la Constitucion y a las leyes orgánicas.",
+      "C. A la Constitucion y a las leyes.",
+      "D. Solo a la Constitucion."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "¿Cuál de los siguientes no es uno de los principios garantizados por la Constitucion en su articulo 9.3?",
+    "options": [
+      "A. La jerarquía normativa y la publicidad de las normas.",
+      "B. La irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+      "C. La legalidad y la seguridad jurídica.",
+      "D. La interdicción de la responsabilidad de los poderes públicos."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "El artículo 9.3 de la Constitucion garantiza siete principios fundamentales del ordenamiento jurídico. ¿Cuál de los siguientes NO es uno de ellos?",
+    "options": [
+      "A. Principio de legalidad y jerarquía normativa",
+      "B. Publicidad de las normas y seguridad jurídica",
+      "C. Proporcionalidad de las sanciones administrativas",
+      "D. Irretroactividad de disposiciones sancionadoras no favorables"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

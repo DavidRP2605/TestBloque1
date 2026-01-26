@@ -1,0 +1,194 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "¿Qué reconoce la Constitución como fundamento del orden político y la paz social?",
+    "options": [
+      "La soberanía nacional",
+      "La dignidad de la persona",
+      "La unidad territorial",
+      "La igualdad ante la ley"
+    ],
+    "answer": 1,
+    "explicacion": "El artículo 10.1 establece que la dignidad de la persona es uno de los fundamentos del orden político y la paz social."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "¿Qué derechos se consideran inviolables según el artículo 10?",
+    "options": [
+      "Los derechos económicos",
+      "Los derechos políticos",
+      "Los derechos inherentes a la persona",
+      "Los derechos a la nación"
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 10.1 menciona los derechos inviolables que son inherentes a la persona como parte fundamental del orden político."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "¿Qué principio se menciona junto al respeto a la ley y a los derechos de los demás?",
+    "options": [
+      "El libre desarrollo de la personalidad",
+      "La igualdad de oportunidades",
+      "La participación política",
+      "La protección del medio ambiente"
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 10.1 incluye el libre desarrollo de la personalidad como parte del fundamento del orden político y la paz social."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "¿Qué deben respetar los poderes públicos según el artículo 10?",
+    "options": [
+      "La voluntad popular",
+      "La ley electoral",
+      "Los derechos fundamentales y libertades públicas",
+      "La política internacional"
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 10.2 establece que los poderes públicos deben respetar los derechos fundamentales y las libertades públicas conforme a los tratados internacionales."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "Según el artículo 10.1 de la Constitución Española, ¿Cuál de los siguientes no es un fundamento del orden político y la paz social?",
+    "options": [
+      "La dignidad de la persona",
+      "El libre desarrollo de la personalidad",
+      "El respeto a la ley",
+      "Los derechos violables que le son inherentes"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "En virtud del artículo 10.1 de la Constitución Española, ¿cuál de los siguientes es un fundamento del orden político y la paz social?",
+    "options": [
+      "La dignidad de la persona",
+      "El libre desarrollo de la educación",
+      "El respeto a la personalidad",
+      "Los deberes inviolables que le son inherentes"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "En virtud del artículo 10.2 de la Constitución, las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias:",
+    "options": [
+      "Ratificados por el Consejo Europeo.",
+      "Ratificados por el Gobierno de la Nación.",
+      "Ratificados por España.",
+      "Ratificados por mayoría absoluta del Consejo de Ministros en una votación final sobre el conjunto."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 10.2 de la Constitución Española establece textualmente que las normas relativas a los derechos fundamentales 'se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España'. La opción C es la correcta, mientras que la opción B, aunque está seleccionada en la imagen, es incorrecta."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "¿Qué normas, según el artículo 10.2 la Constitución, se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+    "options": [
+      "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce.",
+      "Las normas relativas a las libertades públicas y a derechos esenciales que la Constitución reconoce.",
+      "Las normas relativas a los derechos especiales y a las autonomías que la Constitución reconoce.",
+      "Las normas relativas a las libertades oficiales y a la paz social que la Constitución reconoce."
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 10.2 de la Constitución Española establece que 'Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.' Por lo tanto, la opción A reproduce el texto constitucional de forma correcta."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "De acuerdo al artículo 10 de la CE, ¿qué deberá interpretarse de conformidad con la Declaración Universal de Derechos Humanos?:",
+    "options": [
+      "Los artículos calificados como principios rectores de la política social y económica.",
+      "Los valores superiores del ordenamiento jurídico.",
+      "Las normas relativas a los derechos fundamentales y libertades que reconoce la CE.",
+      "El Capítulo Segundo del Título Segundo."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 10.2 de la CE establece que 'Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España'."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "En virtud de lo estipulado en el artículo 10.2 de la Constitución, la Constitución reconoce que se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y los acuerdos internacionales sobre las mismas materias ratificados por España a:",
+    "options": [
+      "Los derechos amparados y respetados de los monumentos históricos de los territorios forales.",
+      "Las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.",
+      "La protección y especial respeto de las de las distintas modalidades lingüísticas de España.",
+      "Las normas relativas a los derechos fundamentales y a las libertades."
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 10.2 de la CE se refiere a la interpretación de 'Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce'."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "Según el artículo 10.2 de la Constitución, las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán por los tratados y acuerdos internacionales sobre las mismas materias ratificados por España y:",
+    "options": [
+      "De conformidad con los distintos Estatutos de Autonomía aprobados y reconocidos por la normativa estatal.",
+      "De conformidad con la Ley 50/1997, de 27 de noviembre, del Gobierno.",
+      "De conformidad con Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.",
+      "De conformidad con la Declaración Universal de Derechos Humanos."
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 10.2 establece la interpretación de las normas sobre derechos fundamentales 'de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales...'."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "El respeto a la Ley y a los derechos de los demás, según el artículo 10.1 de la Constitución Española, es un:",
+    "options": [
+      "Fundamento del orden político y de la paz social.",
+      "Fundamento del orden público y del interés general.",
+      "Fundamento de interés general y de la paz humana.",
+      "Fundamento de interés particular y orden público."
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 10.1 de la CE establece que 'La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la Ley y a los derechos de los demás son fundamento del orden político y de la paz social'. La opción B fue incorrectamente seleccionada en la imagen."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "Según el artículo 10.2 de la Constitución, ¿Cuál de las siguientes redacciones es correcta?",
+    "options": [
+      "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+      "Los estatutos relativos a los derechos universales y a las libertades públicas que la Constitución reconoce se interpretarán de conformidad con la Agenda 2030 y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+      "Las directrices relativas a los deberes, derechos fundamentales y a las libertades que la Ley reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos nacionales sobre las mismas materias ratificados por las Comunidades Autónomas.",
+      "Las leyes relativas a los deberes, derechos fundamentales y a las libertades que la Ley reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos nacionales sobre las mismas materias ratificados por las Comunidades Autónomas."
+    ],
+    "answer": 0,
+    "explicacion": "La opción A reproduce íntegramente la redacción del artículo 10.2 de la Constitución Española, que es la única correcta."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "¿Cómo califica la Constitución al \"libre desarrollo de la personalidad\" en su artículo 10?:",
+    "options": [
+      "Como un fundamento del orden político y de la paz social.",
+      "Este concepto no viene regulado en la CE.",
+      "Como un principio rector de la política social y económica.",
+      "Como un valor superior."
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 10.1 de la CE incluye el 'libre desarrollo de la personalidad' como uno de los elementos que son 'fundamento del orden político y de la paz social'."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "¿Qué papel tienen los tratados internacionales en la interpretación de los derechos fundamentales?",
+    "options": [
+      "No tienen relevancia jurídica",
+      "Son fuente subsidiaria de derecho",
+      "Sirven de referencia interpretativa",
+      "Sustituyen la legislación nacional"
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 10.2 indica que los tratados internacionales sobre derechos humanos deben ser considerados como referencia para la interpretación de los derechos fundamentales."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 0", "Articulo 10"],
+    "question": "Uno de los siguientes no es fundamento del orden político ni de la paz social:",
+    "options": [
+      "El respeto a la ley.",
+      "La dignidad de la persona.",
+      "El respeto a los derechos de los demás.",
+      "El libre desarrollo económico-social de las personas."
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 10 establece como fundamentos la dignidad, el respeto a la ley y a los derechos de los demás, pero no menciona el desarrollo económico-social."
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "¿Pueden interceptarse las comunicaciones postales?",
+    "options": [
+      "Sí, por medio de resolución administrativa.",
+      "No, en ningún caso.",
+      "Sólo mediante resolución judicial.",
+      "Sí, por medio de resolución judicial o administrativa."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 18.3 de la Constitución Española establece que se garantiza el secreto de las comunicaciones, especialmente las postales, telegráficas y telefónicas, salvo resolución judicial. Por tanto, sólo pueden ser interceptadas mediante resolución judicial."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "El secreto de las comunicaciones:",
+    "options": [
+      "No cubre las efectuadas a través del espacio radioeléctrico mediante telefonía móvil.",
+      "Afecta exclusivamente a las postales, telegráficas y telefónicas.",
+      "Sólo puede ser vulnerado mediante resolución judicial.",
+      "Se encuentra protegido por el art. 18.2 de nuestra Constitución."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 18.3 garantiza el secreto de las comunicaciones y establece que sólo podrá ser vulnerado mediante resolución judicial."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "El artículo 18.4 de nuestra Constitución permite limitar:",
+    "options": [
+      "El uso de la informática.",
+      "El uso de la libertad de prensa.",
+      "El uso de la publicidad.",
+      "El uso de la libertad de expresión."
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 18.4 establece que la ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "De conformidad con el articulo 18.3 de la Constitucion, se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegraficas y telefonicas, salvo:",
+    "options": [
+      "A. Resolucion judicial o administrativa.",
+      "B. Resolucion administrativa.",
+      "C. Resolucion judicial.",
+      "D. Resolucion judicial motivada."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "En relacion con el articulo 18.1 de la Constitucion Española, ¿Cual de los siguientes derechos no está garantizado?",
+    "options": [
+      "A. El derecho a la intimidad familiar.",
+      "B. El derecho a la imagen publica.",
+      "C. El derecho al honor.",
+      "D. El derecho a la intimidad personal."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "Según el artículo 18.2 de la Constitucion Española, el domicilio es inviolable. No obstante, se podrá entrar y registrar en los casos siguientes (señale la incorrecta):",
+    "options": [
+      "A. Por resolucion policial.",
+      "B. Con consentimiento del titular.",
+      "C. En caso de flagrante delito.",
+      "D. Por resolucion judicial."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "De acuerdo con el artículo 18.2 de la Constitucion Española, ¿En qué casos se puede proceder a la entrada en un domicilio particular?",
+    "options": [
+      "A. Con el consentimiento del titular o resolucion judicial, salvo en caso de flagrante delito.",
+      "B. Con el consentimiento del titular o resolucion administrativa, salvo en caso de flagrante delito.",
+      "C. Exclusivamente con resolucion administrativa, salvo en caso de flagrante delito.",
+      "D. Exclusivamente con resolucion judicial, salvo en caso de flagrante delito."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "De conformidad con el artículo 18.4 de la Constitucion Española, con el fin de garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos, la ley:",
+    "options": [
+      "A. Fomentará el uso de la informática.",
+      "B. Prohibirá el uso de la informática.",
+      "C. Limitará el uso de la informática.",
+      "D. Penalizará el uso de la informática."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

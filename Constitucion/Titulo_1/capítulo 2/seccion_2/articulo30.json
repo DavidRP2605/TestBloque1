@@ -1,0 +1,50 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 30"],
+    "question": "La defensa por los españoles de España:",
+    "options": [
+      "Es un deber o un derecho dependiendo de la edad y sexo de cada español.",
+      "Es un derecho.",
+      "Es un derecho y un deber.",
+      "Es un deber."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 30 de la Constitución Española establece que los españoles tienen el derecho y el deber de defender a España."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 30"],
+    "question": "Con respecto a las obligaciones militares de los españoles:",
+    "options": [
+      "El servicio militar será potestativo.",
+      "Serán fijadas por Ley.",
+      "No se establece en la Constitución nada al respecto.",
+      "La objeción de conciencia es la única causa de exención del servicio militar obligatorio."
+    ],
+    "answer": 1,
+    "explicacion": "El artículo 30 establece que las obligaciones militares serán reguladas por ley, incluyendo el reconocimiento de la objeción de conciencia."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 30"],
+    "question": "En relación a los derechos y deberes de los ciudadanos, el artículo 30 de la Constitución Española indica que:",
+    "options": [
+      "a) Mediante ley podrán ser de obligado cumplimiento los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "b) Mediante Real Decreto podrán ser de obligado cumplimiento los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "c) Mediante ley podrán eliminarse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "d) Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 30"],
+    "question": "Cual de los siguientes derechos se encuentra en la seccion 2ª del Capitulo II del Titulo I, relativa a 'De los derechos y deberes de los ciudadanos'",
+    "options": [
+      "A. El derecho a la vida",
+      "B. La objecion de conciencia al servicio militar",
+      "C. El derecho de asociacion",
+      "D. La libertad y seguridad"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

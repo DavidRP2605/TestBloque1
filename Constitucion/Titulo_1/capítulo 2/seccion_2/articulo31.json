@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "El gasto público:",
+    "options": [
+      "Realizará una asignación progresiva de los recursos públicos.",
+      "Las demás respuestas son falsas.",
+      "Su programación responderá al criterio de austeridad.",
+      "Su ejecución responderá al criterio de jerarquización del gasto."
+    ],
+    "answer": 1,
+    "explicacion": "El artículo 31 establece que el gasto público debe realizarse con criterios de eficiencia y economía, pero no menciona específicamente los criterios indicados en las otras opciones."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "Señala la CORRECTA. En virtud del principio de progresividad tributaria:",
+    "options": [
+      "A. Todos los ciudadanos deben contribuir con el mismo porcentaje de su renta.",
+      "B. La carga impositiva aumenta en proporcion a la capacidad economica del contribuyente.",
+      "C. El gasto publico debe ser repartido de forma equitativa entre todos los ciudadanos.",
+      "D. Ningun tributo puede tener un alcance confiscatorio."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

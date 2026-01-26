@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo III", "Articulo 87"],
+    "question": "Sobre qué materia NO se puede presentar una proposicion de ley por iniciativa popular?",
+    "options": [
+      "A. Materias relacionadas con la proteccion del medio ambiente.",
+      "B. Materias de carácter internacional.",
+      "C. Materias relativas a administraciones locales.",
+      "D. Materias relativas a cuestiones economicas."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo III", "Articulo 87"],
+    "question": "Señala la CORRECTA sobre la iniciativa legislativa popular",
+    "options": [
+      "A. Puede proponer la reforma de una ley organica",
+      "B. No procede en materias tributarias o de caracter internacional",
+      "C. Requiere un minimo de 100000 firmas acreditadas",
+      "D. Debe ser presentada directamente al Gobierno para su tramitacion."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

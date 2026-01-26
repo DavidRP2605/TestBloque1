@@ -1,0 +1,86 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 20"],
+    "question": "La Ley garantizará el acceso a los medios de comunicación social del Estado:",
+    "options": [
+      "De los grupos sociales y políticos significativos.",
+      "De todos los grupos sociales y políticos.",
+      "Respetando el pluralismo de la sociedad, dando cabida a los grupos económicos y políticos más representativos.",
+      "Debiendo utilizarse en todo caso la lengua oficial del Estado."
+    ],
+    "answer": 0,
+    "explicacion": "El artículo 20.3 de la Constitución Española establece que la ley regulará el acceso a los medios de comunicación social del Estado o de cualquier ente público, respetando el pluralismo de la sociedad y de las diversas lenguas del Estado."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 20"],
+    "question": "El secuestro de grabaciones, publicaciones y otros medios de información:",
+    "options": [
+      "Podrá acordarse en virtud de resolución administrativa.",
+      "Sólo podrá acordarse en virtud de resolución judicial motivada.",
+      "Podrá acordarse en virtud de resolución administrativa para salvaguardar el honor o la imagen del Jefe del Estado.",
+      "Sólo podrá acordarse en virtud de resolución judicial."
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 20.5 establece que sólo podrá acordarse el secuestro de publicaciones por resolución judicial."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 20"],
+    "question": "Según el artículo 20.4, uno de los siguientes no supone límite al ejercicio de los derechos reconocidos por el art. 20 de la Constitución:",
+    "options": [
+      "La protección de la juventud.",
+      "El derecho al secreto profesional.",
+      "El derecho a la intimidad.",
+      "La protección de la infancia."
+    ],
+    "answer": 1,
+    "explicacion": "El artículo 20.4 establece como límites el derecho al honor, a la intimidad, a la propia imagen y la protección de la juventud e infancia, pero no menciona el secreto profesional como límite."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 20"],
+    "question": "Segun la Constitucion Española, el ejercicio del derecho a expresar opiniones por escrito:",
+    "options": [
+      "A. No puede restringirse mediante ningun tipo de censura previa.",
+      "B. Puede restringirse mediante censura previa por parte de los organismos oficiales en los casos en los que este en peligro la seguridad nacional.",
+      "C. Solo puede restringirse mediante censura previa cuando la opinion sea vertida a traves de los medios de comunicacion del Estado.",
+      "D. Puede restringirse mediante censura previa cuando los destinatarios de la opinion sean menores de edad."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 20"],
+    "question": "De acuerdo con el articulo 20.4 de la Constitucion, las libertades tienen su limite en el respeto a los derechos reconocidos en el Titulo I, en los preceptos de las leyes que lo desarrollen y, especialmente en el (señale la incorrecta):",
+    "options": [
+      "A. Derecho al honor.",
+      "B. Derecho a la intimidad.",
+      "C. Derecho al secreto profesional.",
+      "D. Derecho a la propia imagen y a la proteccion de la juventud y de la infancia."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 20"],
+    "question": "De acuerdo con el articulo 20.3 de la Constitucion, la ley regulará la organizacion y control parlamentario de los medios de comunicación social dependientes del Estado o de cualquier ente público y:",
+    "options": [
+      "A. Podrá garantizar el acceso a dichos medios de los grupos sociales y políticos no significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.",
+      "B. Deberá garantizar el acceso a dichos medios de los grupos sociales y políticos significativos, debiendo utilizarse en todo caso, el castellano.",
+      "C. Garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.",
+      "D. En todo caso, el acceso a dichos medios de los grupos sociales menos representativos, y, grupos políticos en proporcion a su importancia numérica, respetando el pluralismo de la sociedad."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 20"],
+    "question": "¿Cuál de los siguientes derechos, no se recoge expresamente en el artículo 20.1 de la Constitucion Española?",
+    "options": [
+      "A. El derecho a expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproduccion.",
+      "B. El derecho a las personas físicas y jurídicas la libertad de creacion de centros docentes, dentro del respeto a los principios constitucionales.",
+      "C. El derecho a comunicar o recibir libremente informacion veraz por cualquier medio de difusion.",
+      "D. El derecho a la libertad de cátedra."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

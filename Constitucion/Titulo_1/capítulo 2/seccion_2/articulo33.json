@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 33"],
+    "question": "¿Se delimita, en la Constitución Española de 1978, el derecho a la propiedad privada?",
+    "options": [
+      "No. La propiedad privada no tiene delimitación constitucional.",
+      "Sí, en el artículo 22 de la Constitución.",
+      "Sí, de acuerdo con las normas extraordinarias dictadas por el Tribunal Constitucional.",
+      "Sí, de acuerdo con las leyes y en virtud de su función social."
+    ],
+    "answer": 3,
+    "explicacion": "El artículo 33 reconoce el derecho a la propiedad privada y a la herencia, delimitado por su función social y regulado por la ley."
+  }
+]

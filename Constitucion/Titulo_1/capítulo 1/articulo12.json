@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 1", "Articulo 12"],
+    "question": "De conformidad con la Constitución Española, ¿A qué edad los españoles son mayores de edad y en qué artículo de la Constitución se establece?",
+    "options": [
+      "A. A los dieciocho años (artículo trece)",
+      "B. A los dieciocho años (artículo diez)",
+      "C. A los dieciocho años (artículo once)",
+      "D. A los dieciocho años (artículo doce)"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

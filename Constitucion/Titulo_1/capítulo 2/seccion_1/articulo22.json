@@ -1,0 +1,74 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 22"],
+    "question": "¿Qué asociaciones son ilegales?",
+    "options": [
+      "Las asociaciones prohibidas.",
+      "Las que se reúnan sin autorización previa.",
+      "Las que persigan fines o utilicen medios tipificados como delito.",
+      "Las que no estén inscritas en el registro correspondiente del Ministerio del Interior."
+    ],
+    "answer": 2,
+    "explicacion": "El artículo 22.2 de la Constitución Española establece que las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales. La Constitución garantiza el derecho de asociación, pero establece límites cuando se vulnera la legalidad penal."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 22"],
+    "question": "De conformidad con el artículo 22.1 y el artículo 55.1 de la Constitución, el derecho de asociación:",
+    "options": [
+      "A. Podrá ser suspendido cuando se acuerde la declaración del estado de excepción.",
+      "B. Podrá ser suspendido cuando se acuerde la declaración del estado de sitio.",
+      "C. Podrá ser suspendido cuando se acuerde la declaración del estado de alarma.",
+      "D. No podrá ser suspendido en ningún caso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 22"],
+    "question": "De acuerdo con el articulo 22.4 de la Constitucion, las asociaciones solo podran ser disueltas o suspendidas en sus actividades:",
+    "options": [
+      "A. En virtud de resolucion judicial.",
+      "B. Por Ley.",
+      "C. En virtud de resolucion judicial motivada.",
+      "D. Por Orden Ministerial."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 22"],
+    "question": "Segun el articulo 22.5 de la Constitucion, ¿Que asociaciones se prohiben?",
+    "options": [
+      "A. Las asociaciones secretas y las de caracter paramilitar.",
+      "B. Las asociaciones secretas y las ilegales.",
+      "C. Las asociaciones secretas, las de caracter paramilitar y las ilegales.",
+      "D. Las asociaciones ilegales y las de caracter paramilitar."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 22"],
+    "question": "De conformidad con el articulo 22.5 de la Constitucion, las asociaciones secretas y las de caracter paramilitar:",
+    "options": [
+      "A. Deberán inscribirse en un registro a los solos efectos de publicidad.",
+      "B. Solo podrán ser disueltas o suspendidas en sus actividades en virtud de Ley.",
+      "C. Se prohiben.",
+      "D. Están reconocidas en la Constitucion Española."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 22"],
+    "question": "De conformidad con el articulo 22 de la Constitucion Española, el reconocimiento del derecho de asociacion, está incluido en:",
+    "options": [
+      "A. En el capitulo II, seccion primera del Titulo I de la CE.",
+      "B. En el capitulo I, seccion segunda del Titulo I de la CE.",
+      "C. En el capitulo II, seccion segunda del Titulo I de la CE.",
+      "D. En el capitulo I, seccion primera del Titulo I de la CE."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]
