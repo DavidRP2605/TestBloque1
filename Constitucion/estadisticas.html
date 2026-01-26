@@ -181,8 +181,11 @@
       function renderEstructuraArticulos(container, estructura) {
         // Función auxiliar para extraer números de las etiquetas
         function extraerNumero(texto) {
+          // Si hay múltiples partes separadas por >, toma la última
+          const partes = texto.split(" > ");
+          const ultimaParte = partes[partes.length - 1];
           // Extrae el primer número encontrado en el texto
-          const match = texto.match(/\d+/);
+          const match = ultimaParte.match(/\d+/);
           return match ? parseInt(match[0]) : Infinity;
         }
 
