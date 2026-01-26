@@ -179,17 +179,39 @@
       }
 
       function renderEstructuraArticulos(container, estructura) {
-        for (const bloque in estructura) {
+        // Función auxiliar para extraer números de las etiquetas
+        function extraerNumero(texto) {
+          // Extrae el primer número encontrado en el texto
+          const match = texto.match(/\d+/);
+          return match ? parseInt(match[0]) : Infinity;
+        }
+
+        // Ordenar bloques en orden ascendente (menor a mayor)
+        const bloquesOrdenados = Object.keys(estructura).sort((a, b) => {
+          return extraerNumero(a) - extraerNumero(b);
+        });
+
+        for (const bloque of bloquesOrdenados) {
           const bloqueDiv = document.createElement("div");
           bloqueDiv.className = "bloque";
           bloqueDiv.innerHTML = `<h3>${bloque}</h3>`;
 
-          for (const titulo in estructura[bloque]) {
+          // Ordenar títulos dentro del bloque en orden ascendente
+          const titulosOrdenados = Object.keys(estructura[bloque]).sort((a, b) => {
+            return extraerNumero(a) - extraerNumero(b);
+          });
+
+          for (const titulo of titulosOrdenados) {
             const temaDiv = document.createElement("div");
             temaDiv.className = "tema";
             temaDiv.innerHTML = `<h3>${titulo}</h3>`;
 
-            for (const articulo in estructura[bloque][titulo]) {
+            // Ordenar artículos/capítulos dentro del título en orden ascendente
+            const articulosOrdenados = Object.keys(estructura[bloque][titulo]).sort((a, b) => {
+              return extraerNumero(a) - extraerNumero(b);
+            });
+
+            for (const articulo of articulosOrdenados) {
               const nodo = estructura[bloque][titulo][articulo];
               const statsData = nodo.__data__;
               const articuloDiv = document.createElement("div");
