@@ -202,5 +202,17 @@
     ],
     "answer": 2,
     "explicacion": "El recurso de amparo protege los derechos fundamentales y libertades públicas reconocidos en el artículo 14 y en la Sección 1ª del Capítulo II del Título I de la Constitución Española."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 4", "Articulo 53"],
+    "question": "En relación con los niveles de protección de los derechos constitucionales, señale la afirmación correcta:",
+    "options": [
+      "Los derechos del artículo 14 y de la Sección primera del Capítulo segundo gozan de procedimiento preferente y sumario y recurso de amparo, mientras que los del resto del Capítulo segundo se tutelan mediante el recurso de inconstitucionalidad",
+      "Los principios del Capítulo tercero del Título I son directamente invocables ante la jurisdicción ordinaria sin necesidad de desarrollo legislativo",
+      "Los derechos del Capítulo tercero del Título I gozan de procedimiento preferente y sumario ante los tribunales ordinarios",
+      "Todos los derechos del Capítulo segundo del Título I son susceptibles de recurso de amparo ante el Tribunal Constitucional"
+    ],
+    "answer": 0,
+    "explicacion": ""
   }
 ]
