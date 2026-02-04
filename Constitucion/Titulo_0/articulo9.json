@@ -109,7 +109,7 @@
   },
   {
     "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
-    "question": "De conformidad con el artículo 9.3, ¿Cuáles de los siguientes principios no está garantizado constitucionalmente?",
+    "question": "De conformidad con el artículo 9.3, ¿Cuáles de los siguientes principios NO está garantizado constitucionalmente?",
     "options": [
       "El principio de legalidad",
       "El principio de jerarquía normativa",
@@ -381,6 +381,18 @@
       "D. Irretroactividad de disposiciones sancionadoras no favorables"
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 9"],
+    "question": "De acuerdo con el artículo 9.2 de la Constitución, corresponde a los poderes públicos:",
+    "options": [
+      "Promover las condiciones para que la libertad y la igualdad sean reales y efectivas, remover los obstáculos que impidan su plenitud y facilitar la participación ciudadana",
+      "Promover la participación ciudadana en la vida política y garantizar la responsabilidad de los poderes públicos",
+      "Garantizar la seguridad jurídica y la publicidad de las normas",
+      "Remover los obstáculos que dificulten la libertad y la igualdad, y garantizar la irretroactividad de las normas desfavorables"
+    ],
+    "answer": 0,
     "explicacion": ""
   }
 ]
