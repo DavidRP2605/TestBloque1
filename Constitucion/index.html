@@ -284,6 +284,47 @@
         }
       }
 
+      // Retorna peso de una pregunta basado en estadísticas (favorece preguntas con más fallos)
+      function computeQuestionWeight(q) {
+        try {
+          const stats = JSON.parse(localStorage.getItem("estadisticasTAI") || "{}");
+          let ac = 0, fa = 0;
+          // Agregar recuentos de todas las rutas donde la pregunta exista (más robusto)
+          Object.values(stats).forEach((s) => {
+            if (s && s.preguntas && s.preguntas[q.question]) {
+              ac += s.preguntas[q.question].aciertos || 0;
+              fa += s.preguntas[q.question].fallos || 0;
+            }
+          });
+          const total = ac + fa;
+          if (total === 0) return 0.5; // desconocida -> prioridad media
+          // suavizado: (fallos + 0.5) / (total + 1) => mayor si hay más fallos
+          return (fa + 0.5) / (total + 1);
+        } catch (e) {
+          return 0.5;
+        }
+      }
+
+      // Muestreo ponderado sin reemplazo
+      function weightedSampleWithoutReplacement(arr, k) {
+        const items = arr.slice();
+        const weights = items.map(computeQuestionWeight);
+        const selected = [];
+        while (selected.length < k && items.length > 0) {
+          const total = weights.reduce((s, w) => s + w, 0);
+          let r = Math.random() * total;
+          let idx = -1;
+          for (let i = 0; i < weights.length; i++) {
+            r -= weights[i];
+            if (r <= 0) { idx = i; break; }
+          }
+          if (idx === -1) idx = weights.length -1;
+          selected.push(items.splice(idx,1)[0]);
+          weights.splice(idx,1);
+        }
+        return selected;
+      }
+
       function startQuiz(selectedMode) {
         mode = selectedMode;
         const bloque = document.getElementById("bloque").value;
@@ -303,7 +344,7 @@
         // Si se seleccionó capítulo(s) (y NO artículo(s)), construimos
         // un test de hasta `testSize` preguntas 
         if (capitulos.length > 0 && articulos.length === 0) {
-          // Agrupar preguntas por artículo dentro de los capítulos seleccionados
+          // Agrupar preguntas por artículo dentro de los capítulos seleccionados (se mantiene para filtrar candidatos)
           const agrupadas = {};
           allQuestions.forEach((q) => {
             const qBloque = q.titulos?.[0] || "";
@@ -324,47 +365,18 @@
             return;
           }
 
-          // Barajar preguntas dentro de cada artículo
-          Object.values(agrupadas).forEach((arr) => shuffleArray(arr));
+          // Convertir a lista de candidatos (flatted)
+          const candidatos = [];
+          Object.values(agrupadas).forEach(arr => arr.forEach(q => candidatos.push(q)));
 
-          // Selección en rondas para respetar máximo 2 por artículo inicialmente
-          const claves = Object.keys(agrupadas);
-          shuffleArray(claves);
-          const seleccion = [];
-          const contadores = {};
-          let remaining = true;
-          while (seleccion.length < testSize && remaining) {
-            remaining = false;
-            for (const clave of claves) {
-              if (seleccion.length >= testSize) break;
-              contadores[clave] = contadores[clave] || 0;
-              if (contadores[clave] >= 2) continue;
-              const arr = agrupadas[clave];
-              if (arr && arr.length > 0) {
-                seleccion.push(arr.shift());
-                contadores[clave]++;
-                remaining = true;
-              }
-            }
-          }
+          // Selección ponderada para favorecer preguntas con más fallos
+          const seleccion = weightedSampleWithoutReplacement(candidatos, testSize);
 
-          // Si no alcanzamos `testSize` con el límite de 2 por artículo,
-          // rellenamos con las preguntas restantes (sin límite por artículo)
           if (seleccion.length < testSize) {
-            // Recolectar el resto de preguntas disponibles
-            const restantes = [];
-            for (const clave of Object.keys(agrupadas)) {
-              const arr = agrupadas[clave];
-              if (arr && arr.length > 0) {
-                // vaciamos el array en restantes
-                while (arr.length > 0) restantes.push(arr.shift());
-              }
-            }
-            // Barajar y añadir hasta completar testSize
+            // llenar con las que queden (no debería pasar)
+            const restantes = candidatos.filter(c => !seleccion.includes(c));
             shuffleArray(restantes);
-            while (seleccion.length < testSize && restantes.length > 0) {
-              seleccion.push(restantes.shift());
-            }
+            while (seleccion.length < testSize && restantes.length > 0) seleccion.push(restantes.shift());
           }
 
           questions = seleccion;
@@ -394,10 +406,11 @@
             return;
           }
 
-            // Limitar preguntas al tamaño del test seleccionado
-            shuffleArray(questions);
+            // Selección ponderada al tamaño del test (favorecer preguntas con más fallos)
             if (questions.length > testSize) {
-              questions = questions.slice(0, testSize);
+              questions = weightedSampleWithoutReplacement(questions, testSize);
+            } else {
+              shuffleArray(questions);
             }
 
             const capitulosStr = capitulos.length > 1 ? `${capitulos.length} capítulos` : (capitulos.length === 1 ? capitulos[0] : "");
