@@ -1,0 +1,136 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿Según el artículo 32 CE y en relación al matrimonio, la ley regulará?",
+    "options": [
+      "Las causas de separación y disolución",
+      "Todas son correctas",
+      "Las formas de matrimonio",
+      "La capacidad para contraelo"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "El artículos 32 de la Constitución establece sobre el matrimonio:",
+    "options": [
+      "El matrimonio tendrá los mismos requisitos y efectos cuando ambos contrayentes sean del mismo o de diferente sexo.",
+      "El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica. La ley regulará las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges, las causas de separación y disolución y sus efectos",
+      "El hombre y la mujer tienen derecho a contraer matrimonio conforme a las disposiciones del Código Civil. ",
+      "El artículo 32 de la Constitución no trata sobre el matrimonio."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿Qué derecho reconoce el artículo 32.1 de la Constitución Española?",
+    "options": [
+      "El derecho a la vida",
+      "El derecho a la libertad",
+      "El derecho a contraer matrimonio con plena igualdad jurídica",
+      "El derecho a la educación"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿Qué aspecto regula el artículo 32.2 respecto al matrimonio?",
+    "options": [
+      "El procedimiento de divorcio eclesiástico",
+      "La forma, edad, capacidad, derechos y deberes de los cónyuges",
+      "El matrimonio religioso exclusivamente",
+      "La anulación civil automática"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿Qué valor fundamental se garantiza en el matrimonio según el artículo 32 de la Constitución Española?",
+    "options": [
+      "El principio de autoridad",
+      "La supremacía masculina",
+      "La igualdad jurídica entre hombre y mujer",
+      "El poder económico del cónyuge"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿Qué institución debe regular las condiciones del matrimonio ?",
+    "options": ["El Tribunal Supremo", "El Estado", "La Iglesia", "La ley"],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿Qué rol tiene la ley en el marco del matrimonio según el artículo 32 ?",
+    "options": [
+      "Legitimar solo matrimonios civiles",
+      "Limitar el número de hijos",
+      "Regular todos los aspectos relevantes del matrimonio",
+      "Designar al cónyuge económicamente responsable"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿El artículo 32 reconoce el derecho al matrimonio para ambos sexos en igualdad?",
+    "options": [
+      "Solo para mayores de edad",
+      "Sí, explicativamente",
+      "No, solo lo sugiere",
+      "Depende de la nacionalidad"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿Qué principio guía la regulación del matrimonio según el artículo 32?",
+    "options": [
+      "El principio de autoridad",
+      "El principio de igualdad",
+      "El principio de autonomía",
+      "El principio de libertad"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "¿En qué articulo de la Constitución se contempla el derecho al matrimonio?",
+    "options": ["Artículo 31", "Artículo 32", "Artículo 33", "Artículo 34"],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "Atendiendo al artículo 32 de la Constitución Española, una de las siguientes afirmaciones es falsa:",
+    "options": [
+      "La Constitución establece que el hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica.",
+      "La Constitución admite que el matrimonio podrá ser disuelto.",
+      "La Constitución dispone que la edad y la capacidad del hombre y la mujer para contraer matrimonio se alcanza con la mayoría de edad.",
+      "La Constitución delega en la ley la concreción de los derechos y deberes de los cónyuges."
+    ],
+    "answer": 2,
+    "explicacion": "La afirmación falsa es la tercera, ya que la Constitución Española no dispone que la edad y capacidad para contraer matrimonio se alcance con la mayoría de edad, sino que establece que el matrimonio se contrae con plena igualdad jurídica entre hombre y mujer."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 32"],
+    "question": "Según la literalidad del precepto constitucional del artículo 32.1, “El hombre y la mujer tienen derecho a contraer matrimonio...”:",
+    "options": [
+      "“...entre sí con plena igualdad jurídica”.",
+      "“...con plena igualdad legal y material”.",
+      "“...como fundamento del orden social”.",
+      "“...con plena igualdad jurídica”."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

@@ -10,5 +10,65 @@
     ],
     "answer": 3,
     "explicacion": "El artículo 33 reconoce el derecho a la propiedad privada y a la herencia, delimitado por su función social y regulado por la ley."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 33"],
+    "question": "De conformidad con el artículo 33.1 de la Constitución Española, se reconoce el derecho a la propiedad privada y a la herencia. Atendiendo al artículo 33.2 ¿la función social de estos derechos delimitará su contenido?",
+    "options": [
+      "Sí, de acuerdo con las leyes.",
+      "Sí, de acuerdo con los principios de la Constitución.",
+      "Sí, de acuerdo con las normas extraordinarias dictadas por el Tribunal Constitucional.",
+      "Sí, de acuerdo con las normas generales de Derecho internacional."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 33"],
+    "question": "El artículo 33.3 de la Constitución establece que nadie podrá ser privado de sus bienes y derechos sino por:",
+    "options": [
+      "Razón de Estado y mediante la correspondiente indemnización.",
+      "Resolución judicial motivada.",
+      "Causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización.",
+      "Lo dispuesto en los Reglamentos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 33"],
+    "question": "¿Dónde viene recogido el derecho a la propiedad privada dentro de la CE?",
+    "options": [
+      "En el Art. 30.",
+      "En el Art. 31.",
+      "En el Art. 33.",
+      "En el Art. 35."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 33"],
+    "question": "El artículo 33.1 de la Constitución recoge:",
+    "options": [
+      "El derecho a la pensión.",
+      "El derecho a la empresa privada.",
+      "El derecho a la propiedad privada y la herencia.",
+      "El derecho a la iniciativa privada y la herencia."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 33"],
+    "question": "El artículo 33.3 de la Constitución determina que nadie podrá ser privado de sus bienes y derechos sino por:",
+    "options": [
+      "Causa justificada de interés público o utilidad social.",
+      "Causa de interés público o bienestar social.",
+      "Causa justificada de utilidad pública o interés social.",
+      "Causa de utilidad pública o bienestar social."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

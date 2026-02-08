@@ -1,0 +1,74 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 37"],
+    "question": "De conformidad con el artículo 37.2 de la Constitución Española, el derecho a adoptar medidas de conflicto colectivo:",
+    "options": [
+      "Se reconoce únicamente a los empresarios y, el ejercicio de este derecho no está sujeto a limitaciones que puedan establecerse.",
+      "La ley que regule el ejercicio de este derecho, incluirá las garantías precisas para asegurar el funcionamiento de los servicios especiales de la comunidad.",
+      "Se reconoce únicamente a los trabajadores y, el ejercicio de este derecho no está sujeto a limitaciones que puedan establecerse.",
+      "La ley que regule el ejercicio de este derecho, incluirá las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 37"],
+    "question": "Según el artículo 37.1 de la Constitución Española, la ley:",
+    "options": [
+      "Garantizará la fuerza vinculante de los convenios colectivos.",
+      "Garantizará el deber a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios.",
+      "Reconoce el deber a la huelga de los trabajadores para la defensa de sus intereses.",
+      "Reconoce el deber de los trabajadores y empresarios a adoptar medidas de conflicto colectivo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 37"],
+    "question": "De acuerdo con el artículo 37.1 de la Constitución Española, la negociación colectiva laboral:",
+    "options": [
+      "Es un deber.",
+      "Es un derecho.",
+      "Es una libertad fundamental.",
+      "Es un derecho fundamental."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 37"],
+    "question": "Según el artículo 37.2 de la Constitución Española, ¿A quién reconoce la Constitución el derecho de adoptar medidas de conflicto colectivo?",
+    "options": [
+      "A los trabajadores y empresarios.",
+      "A los trabajadores exclusivamente.",
+      "A los sindicatos y organizaciones empresariales.",
+      "A los empresarios solamente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 37"],
+    "question": "De conformidad con lo recogido en el artículo 37 de la CE, señale la respuesta correcta en relación con la negociación colectiva laboral:",
+    "options": [
+      "Es una libertad fundamental.",
+      "Es un derecho.",
+      "Es un derecho fundamental.",
+      "Es un deber y un derecho."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 37"],
+    "question": "De acuerdo a lo establecido en el artículo 37 de la Constitución, las medidas de conflicto colectivo:",
+    "options": [
+      "Es un derecho reconocido a los trabajadores.",
+      "Es un derecho de todos los españoles.",
+      "Es un derecho de los trabajadores y los empresarios.",
+      "Está vetado a los empresarios."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

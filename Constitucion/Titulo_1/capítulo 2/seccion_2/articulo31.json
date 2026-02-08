@@ -22,5 +22,113 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "De conformidad con el artículo 31 de la Constitución Española, referente al gasto público, señale la respuesta correcta:",
+    "options": [
+      "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.",
+      "El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de economía y eficacia.",
+      "El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de eficacia y eficiencia.",
+      "Sólo podrán establecerse prestaciones personales o patrimoniales de carácter privado con arreglo a la ley."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "De conformidad con el artículo 31.1 de la Constitución Española, todos contribuirán al sostenimiento de los gastos públicos de acuerdo:",
+    "options": [
+      "Con su capacidad económica mediante un sistema tributario justo inspirado en los principios de legalidad y solidaridad que, en ningún caso, tendrá alcance confiscatorio.",
+      "Con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en determinados casos previstos en las leyes, tendrá alcance confiscatorio.",
+      "Con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.",
+      "Con su capacidad económica mediante un sistema tributario justo inspirado en los principios de legalidad y solidaridad que, en determinados casos previstos en las leyes, tendrá alcance confiscatorio."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "De acuerdo con el artículo 31.1 de la Constitución Española, el sistema tributario se inspira en los principios de:",
+    "options": [
+      "Igualdad y progresividad.",
+      "Igualdad y confiscatoriedad.",
+      "Homogeneidad y universalidad.",
+      "Discrecionalidad y publicidad."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "Según el artículo 31.3 de la Constitución española, las prestaciones personales o patrimoniales de carácter público:",
+    "options": [
+      "Podrán establecerse, según afirma nuestra Constitución, en cualquier caso.",
+      "No podrán establecerse, en ningún caso.",
+      "Solo podrán establecerse con arreglo a la ley.",
+      "Solo podrán establecerse en los casos concretos determinados por la Constitución."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "El artículo 31 de la Constitución, determina que la programación y ejecución del gasto público se regirá por criterios de:",
+    "options": [
+      "Eficiencia y economía.",
+      "Jerarquía y legalidad.",
+      "Mérito y capacidad.",
+      "Ninguna respuesta es correcta."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "Según el artículo 31 de la Constitución, ¿qué norma podrá establecer prestaciones personales de carácter público?:",
+    "options": [
+      "Cualquier tipo de norma.",
+      "Una orden Ministerial.",
+      "Un reglamento.",
+      "Una ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "Según lo contemplado en el artículo 31, las prestaciones personales de carácter público:",
+    "options": [
+      "Deben ser autorizadas por las Cortes Generales.",
+      "Se establecerán con arreglo a la ley.",
+      "Están prohibidas.",
+      "No se establecen, salvo resolución judicial."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "De acuerdo al artículo 31 de la Constitución, ¿a qué criterios responde la ejecución del gasto público?:",
+    "options": [
+      "Economía y desconcentración.",
+      "Eficacia y economía.",
+      "Eficiencia y economía.",
+      "Economía y descentralización."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 31"],
+    "question": "De acuerdo al artículo 31 de la Constitución, ¿de qué forma se realizará la contribución al sostenimiento de los gastos públicos?:",
+    "options": [
+      "De forma proporcional.",
+      "En función de la capacidad económica.",
+      "Con un carácter confiscatorio.",
+      "Todas las opciones son correctas."
+    ],
+    "answer": 1,
+    "explicacion": ""
   }
 ]

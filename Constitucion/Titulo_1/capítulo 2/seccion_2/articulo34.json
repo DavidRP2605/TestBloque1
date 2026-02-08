@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 34"],
+    "question": "Según el artículo 34 de la Constitución Española, se reconoce el derecho de fundación para fines:",
+    "options": [
+      "De interés general.",
+      "Políticos.",
+      "Económicos.",
+      "Culturales."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 34"],
+    "question": "Según la Constitución Española, respecto del derecho de fundación:",
+    "options": [
+      "No regirá para las fundaciones lo dispuesto en los apartados 2 y 4 del artículo 22.",
+      "Las fundaciones que persigan fines o utilicen medios tipificados como delito podrán ser legales, de conformidad con lo dispuesto en las leyes.",
+      "Se reconoce para fines de interés general, con arreglo a la ley.",
+      "Se encuentra regulado en el artículo 35 de la Constitución Española."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 34"],
+    "question": "De conformidad con el artículo 34 de la Constitución, el derecho de fundación está reconocido:",
+    "options": [
+      "Para fines políticos.",
+      "Para fines privados.",
+      "Para cualquier fin.",
+      "Para fines de interés general."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

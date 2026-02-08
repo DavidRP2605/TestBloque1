@@ -10,5 +10,72 @@
     ],
     "answer": 3,
     "explicacion": "El artículo 35 de la Constitución Española establece que todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia."
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 35"],
+    "question": "De conformidad con el artículo 35.1 de la Constitución Española, una de las siguientes afirmaciones es falsa:",
+    "options": [
+      "Todos los españoles tienen derecho a una remuneración suficiente para cubrir sus necesidades y las de su familia, desproporcional al número de horas trabajadas.",
+      "Todos los españoles tienen derecho a la libre elección de profesión u oficio.",
+      "Todos los españoles tienen derecho a la promoción a través del trabajo.",
+      "Todos los españoles tienen el deber de trabajar y el derecho al trabajo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 35"],
+    "question": "En virtud del artículo 35.2 de la Constitución Española, el Estatuto de los trabajadores se regulará por:",
+    "options": [
+      "Ley ordinaria.",
+      "Ley orgánica.",
+      "Real Decreto.",
+      "Orden Ministerial."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 35"],
+    "question": "El artículo 35.1 de la Constitución confiere al trabajo el carácter de:",
+    "options": [
+      "Derecho de ejercicio voluntario de todos los españoles.",
+      "Deber de todos los españoles mayores de edad.",
+      "Deber y derecho de todos los españoles.",
+      "Derecho fundamental de todos los ciudadanos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 35"],
+    "question": "El artículo 35.1 de la Constitución Española prohíbe expresamente la discriminación en el trabajo por razón de:",
+    "options": ["Sexo.", "Raza.", "Religión.", "Nacionalidad."],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 35"],
+    "question": "¿Qué artículo de la Constitución Española recoge el deber de trabajar y el derecho al trabajo?",
+    "options": [
+      "El artículo 33.",
+      "El artículo 39.",
+      "El artículo 37.",
+      "El artículo 35."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 35"],
+    "question": "De acuerdo al artículo 35 de la Constitución, ¿qué tipo de norma regulará el Estatuto de los trabajadores?:",
+    "options": [
+      "Un Reglamento.",
+      "Una de bases.",
+      "Una Ley.",
+      "Una Ley orgánica."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]
