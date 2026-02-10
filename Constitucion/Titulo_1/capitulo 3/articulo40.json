@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 40"],
     "question": "Según el artículo 40 de la Constitución, la política laboral de los poderes públicos estará orientada a:",
     "options": [
-      "A. La riqueza nacional.",
-      "B. El pleno empleo.",
-      "C. El desarrollo económico.",
-      "D. El empleo masivo."
+      "La riqueza nacional.",
+      "El pleno empleo.",
+      "El desarrollo económico.",
+      "El empleo masivo."
     ],
     "answer": 1,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 40"],
     "question": "Según el artículo 40 de la Constitución, ¿cuál de las siguientes opciones vienen recogidas expresamente como formas de velar por la seguridad e higiene en el trabajo y la garantía del descanso necesario?:",
     "options": [
-      "A. Limitación de la jornada laboral.",
-      "B. Promoción de centros adecuados.",
-      "C. Vacaciones periódicas retribuidas.",
-      "D. Todas las respuestas anteriores son ciertas."
+      "Limitación de la jornada laboral.",
+      "Promoción de centros adecuados.",
+      "Vacaciones periódicas retribuidas.",
+      "Todas las respuestas anteriores son ciertas."
     ],
     "answer": 3,
     "explicacion": ""
@@ -27,10 +27,22 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 40"],
     "question": "De conformidad con el artículo 40.1 de la Constitución, los poderes públicos:",
     "options": [
-      "A. Realizarán de manera especial una política orientada al desempleo.",
-      "B. Promoverán las condiciones favorables para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica.",
-      "C. Promoverán las condiciones favorables para una distribución de la renta regional y personal más equitativa, en el marco de una política de convergencia económica con los países miembros de la Unión Europea.",
-      "D. Promoverán las condiciones favorables para el progreso individual y económico de todos los españoles."
+      "Realizarán de manera especial una política orientada al desempleo.",
+      "Promoverán las condiciones favorables para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica.",
+      "Promoverán las condiciones favorables para una distribución de la renta regional y personal más equitativa, en el marco de una política de convergencia económica con los países miembros de la Unión Europea.",
+      "Promoverán las condiciones favorables para el progreso individual y económico de todos los españoles."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 40"],
+    "question": "De conformidad con el artículo 40.2 de la Constitución Española, los poderes públicos promoverán las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica. Asimismo, los poderes públicos:",
+    "options": [
+      "Velarán por la seguridad e higiene en los servicios públicos que presten.",
+      "Fomentarán una política que garantice la formación y readaptación profesionales.",
+      "Garantizarán la erradicación de las horas extraordinarias.",
+      "Garantizarán la limitación de la jornada laboral como medida de fomento de empleo."
     ],
     "answer": 1,
     "explicacion": ""

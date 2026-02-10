@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 41"],
     "question": "¿Qué artículo de la Constitución Española trata de la Seguridad Social?",
     "options": [
-      "A. El artículo 41.",
-      "B. El artículo 45.",
-      "C. El artículo 51.",
-      "D. El artículo 54."
+      "El artículo 41.",
+      "El artículo 45.",
+      "El artículo 51.",
+      "El artículo 54."
     ],
     "answer": 0,
     "explicacion": ""
@@ -15,22 +15,22 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 41"],
     "question": "De acuerdo con el artículo 41 de la Constitución, la asistencia y las prestaciones complementarias al régimen público de Seguridad Social, son:",
     "options": [
-      "A. Recomendadas.",
-      "B. Libres.",
-      "C. Reglamentarias.",
-      "D. Obligatorias."
+      "Recomendadas.",
+      "Libres.",
+      "Reglamentarias.",
+      "Obligatorias."
     ],
-    "answer": 3,
+    "answer": 1,
     "explicacion": ""
   },
   {
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 41"],
     "question": "De acuerdo con el artículo 41 de la Constitución Española, el régimen público de Seguridad Social protegerá a:",
     "options": [
-      "A. Los trabajadores y sus familiares.",
-      "B. Los sujetos afiliados al sistema y sus beneficiarios.",
-      "C. Los trabajadores y los empresarios.",
-      "D. Todos los ciudadanos."
+      "Los trabajadores y sus familiares.",
+      "Los sujetos afiliados al sistema y sus beneficiarios.",
+      "Los trabajadores y los empresarios.",
+      "Todos los ciudadanos."
     ],
     "answer": 3,
     "explicacion": ""
@@ -39,10 +39,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 41"],
     "question": "De acuerdo al artículo 41 de la Constitución, la asistencia y las prestaciones complementarias:",
     "options": [
-      "A. No aparece mención alguna en el texto constitucional.",
-      "B. Serán libres.",
-      "C. Serán obligatorias.",
-      "D. No tienen carácter definido."
+      "No aparece mención alguna en el texto constitucional.",
+      "Serán libres.",
+      "Serán obligatorias.",
+      "No tienen carácter definido."
     ],
     "answer": 1,
     "explicacion": ""
@@ -51,10 +51,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 41"],
     "question": "En virtud del artículo 41 de la Constitución Española, ¿A quién corresponde el mantenimiento de un régimen de Seguridad Social?",
     "options": [
-      "A. A los empresarios.",
-      "B. A los trabajadores.",
-      "C. A los empresarios y a los trabajadores.",
-      "D. A los poderes públicos."
+      "A los empresarios.",
+      "A los trabajadores.",
+      "A los empresarios y a los trabajadores.",
+      "A los poderes públicos."
     ],
     "answer": 3,
     "explicacion": ""
@@ -63,22 +63,22 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 41"],
     "question": "Según el artículo 41 de la Constitución Española, el régimen público de Seguridad Social deberá garantizar la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de:",
     "options": [
-      "A. Jubilación.",
-      "B. Maternidad.",
-      "C. Desempleo.",
-      "D. Invalidez."
+      "Jubilación.",
+      "Maternidad.",
+      "Desempleo.",
+      "Invalidez."
     ],
-    "answer": 3,
+    "answer": 2,
     "explicacion": ""
   },
   {
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 41"],
     "question": "En relación con el artículo 41 de la Constitución, en cuanto a la Seguridad Social:",
     "options": [
-      "A. La asistencia y prestaciones complementarias son obligatorias.",
-      "B. Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los españoles, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
-      "C. Los poderes públicos mantendrán un régimen público de Seguridad Social para toda la población activa, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
-      "D. Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo."
+      "La asistencia y prestaciones complementarias son obligatorias.",
+      "Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los españoles, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
+      "Los poderes públicos mantendrán un régimen público de Seguridad Social para toda la población activa, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
+      "Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo."
     ],
     "answer": 3,
     "explicacion": ""
@@ -99,10 +99,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 41"],
     "question": "De acuerdo con el artículo 41 de la Constitución, los poderes públicos mantendrán un régimen público de Seguridad Social:",
     "options": [
-      "A. Para todos los profesionales y trabajadores, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
-      "B. Para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
-      "C. Para todas las personas, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
-      "D. Para todos los españoles, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo."
+      "Para todos los profesionales y trabajadores, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
+      "Para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
+      "Para todas las personas, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.",
+      "Para todos los españoles, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo."
     ],
     "answer": 1,
     "explicacion": ""

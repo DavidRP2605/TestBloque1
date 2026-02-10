@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
     "question": "¿En beneficio de qué serán promovidas la ciencia y la investigación científica y técnica según lo estipulado en el artículo 44 de la CE?:",
     "options": [
-      "A. De la economía nacional.",
-      "B. Del bien social.",
-      "C. Del interés general.",
-      "D. Del desarrollo personal."
+      "De la economía nacional.",
+      "Del bien social.",
+      "Del interés general.",
+      "Del desarrollo personal."
     ],
     "answer": 2,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
     "question": "Según lo contemplado en el artículo 44 de la Constitución, los poderes públicos deberán promover la ciencia y la investigación científica en beneficio:",
     "options": [
-      "A. Del interés de los particulares.",
-      "B. Del interés nacional.",
-      "C. De la empresa privada.",
-      "D. Del interés general."
+      "Del interés de los particulares.",
+      "Del interés nacional.",
+      "De la empresa privada.",
+      "Del interés general."
     ],
     "answer": 3,
     "explicacion": ""
@@ -27,12 +27,48 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
     "question": "De conformidad con el artículo 44.1 de la Constitución Española, los poderes públicos promoverán y tutelarán:",
     "options": [
-      "A. El derecho de acceso a la cultura.",
-      "B. El derecho a las vacaciones periódicas retribuidas.",
-      "C. El derecho a la protección de la salud.",
-      "D. El derecho a una vivienda digna y adecuada."
+      "El derecho de acceso a la cultura.",
+      "El derecho a las vacaciones periódicas retribuidas.",
+      "El derecho a la protección de la salud.",
+      "El derecho a una vivienda digna y adecuada."
     ],
     "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
+    "question": "¿Qué contenido tiene el artículo 44 de la Constitución Española?",
+    "options": [
+      "El derecho a la protección de la salud.",
+      "El derecho de acceso a la cultura.",
+      "El derecho a disfrutar de un medio ambiente adecuado.",
+      "El derecho a disfrutar de una vivienda digna y adecuada."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
+    "question": "En virtud del artículo 44.2 de la Constitución Española, los poderes públicos promoverán la ciencia y la investigación científica y técnica en:",
+    "options": [
+      "Beneficio del interés social.",
+      "Beneficio del interés general.",
+      "Beneficio de los intereses económicos y sociales.",
+      "Beneficio de los intereses de España."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 44"],
+    "question": "De acuerdo con el artículo 44 de la Constitución Española, los poderes públicos promoverán y tutelarán el acceso a la cultura, a la que todos tienen derecho. Asimismo, los poderes públicos:",
+    "options": [
+      "Promoverán la ciencia y la investigación científica y técnica en beneficio del interés científico.",
+      "Promoverán la ciencia y la investigación científica y técnica en beneficio del interés social.",
+      "Promoverán la ciencia y la investigación científica y técnica en beneficio del interés general.",
+      "Promoverán la ciencia y la investigación científica y técnica en beneficio de los intereses económicos y sociales que les son propios."
+    ],
+    "answer": 2,
     "explicacion": ""
   }
 ]

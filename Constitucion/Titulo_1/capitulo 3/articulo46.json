@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 46"],
     "question": "En virtud del artículo 46 de la Constitución Española, los atentados contra el patrimonio histórico, cultural y artístico de los pueblos de España serán sancionados por:",
     "options": [
-      "A. La ley penal.",
-      "B. El Gobierno.",
-      "C. Los respectivos Consejos de Gobierno de las Comunidades Autónomas.",
-      "D. La jurisdicción civil o la contenciosa-administrativa, según los casos."
+      "La ley penal.",
+      "El Gobierno.",
+      "Los respectivos Consejos de Gobierno de las Comunidades Autónomas.",
+      "La jurisdicción civil o la contenciosa-administrativa, según los casos."
     ],
     "answer": 0,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 46"],
     "question": "Según el artículo 46 de la Constitución los atentados contra el patrimonio histórico vendrán sancionados en:",
     "options": [
-      "A. La ley procesal.",
-      "B. La ley civil.",
-      "C. La ley penal.",
-      "D. Los reglamentos administrativos."
+      "La ley procesal.",
+      "La ley civil.",
+      "La ley penal.",
+      "Los reglamentos administrativos."
     ],
     "answer": 2,
     "explicacion": ""

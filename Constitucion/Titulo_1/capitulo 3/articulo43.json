@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "En virtud del artículo 43.2 de la Constitución Española, ¿A quién compete organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios?",
     "options": [
-      "A. Al Colegio Oficial de Médicos.",
-      "B. Al Insalud, con carácter exclusivo.",
-      "C. A todos los Centros y Servicios sanitarios, con independencia de su carácter público o privado.",
-      "D. A los poderes públicos."
+      "Al Colegio Oficial de Médicos.",
+      "Al Insalud, con carácter exclusivo.",
+      "A todos los Centros y Servicios sanitarios, con independencia de su carácter público o privado.",
+      "A los poderes públicos."
     ],
     "answer": 3,
     "explicacion": ""
@@ -15,22 +15,22 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "¿Cuál de las siguientes respuestas no está comprendida dentro del artículo 43 de la CE relativo a la protección de la salud?:",
     "options": [
-      "A. El fomento de la educación sanitaria.",
-      "B. El fomento de la educación física.",
-      "C. El fomento del deporte.",
-      "D. El fomento de una dieta saludable."
+      "El fomento de la educación sanitaria.",
+      "El fomento de la educación física.",
+      "El fomento del deporte.",
+      "El fomento de una dieta saludable."
     ],
-    "answer": 1,
+    "answer": 3,
     "explicacion": ""
   },
   {
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "Según el artículo 43 de la Constitución, ¿qué deben hacer los poderes públicos en relación al ocio?",
     "options": [
-      "A. Promoverlo.",
-      "B. Tutelarlo.",
-      "C. Garantizarlo.",
-      "D. Facilitar su adecuada utilización."
+      "Promoverlo.",
+      "Tutelarlo.",
+      "Garantizarlo.",
+      "Facilitar su adecuada utilización."
     ],
     "answer": 3,
     "explicacion": ""
@@ -39,10 +39,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "De acuerdo al artículo 43 de la Constitución, los derechos y deberes de todos con respecto a la organización y tutela de la salud pública vendrán regulados por:",
     "options": [
-      "A. Un reglamento.",
-      "B. No se recoge tal previsión en la Constitución.",
-      "C. Una ley.",
-      "D. Una orden ministerial."
+      "Un reglamento.",
+      "No se recoge tal previsión en la Constitución.",
+      "Una ley.",
+      "Una orden ministerial."
     ],
     "answer": 2,
     "explicacion": ""
@@ -51,10 +51,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "Según el artículo 43 de la Constitución, los poderes públicos tienen encomendado el fomento de:",
     "options": [
-      "A. Todas las respuestas son correctas.",
-      "B. La adecuada utilización del ocio.",
-      "C. La educación física y el deporte.",
-      "D. La educación sanitaria."
+      "Todas las respuestas son correctas.",
+      "La adecuada utilización del ocio.",
+      "La educación física y el deporte.",
+      "La educación sanitaria."
     ],
     "answer": 0,
     "explicacion": ""
@@ -63,10 +63,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "De conformidad con el artículo 43.3 de la Constitución Española, ¿Cuál de las siguientes afirmaciones no es correcta?",
     "options": [
-      "A. Los poderes públicos fomentarán el deporte.",
-      "B. Los poderes públicos limitarán la utilización del ocio orientando su política a la consecución del pleno empleo.",
-      "C. Los poderes públicos fomentarán la educación sanitaria.",
-      "D. Los poderes públicos fomentarán la educación física."
+      "Los poderes públicos fomentarán el deporte.",
+      "Los poderes públicos limitarán la utilización del ocio orientando su política a la consecución del pleno empleo.",
+      "Los poderes públicos fomentarán la educación sanitaria.",
+      "Los poderes públicos fomentarán la educación física."
     ],
     "answer": 1,
     "explicacion": ""
@@ -75,10 +75,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "Según el artículo 43.2 de la Constitución, ¿quién tiene la responsabilidad de organizar y tutelar la salud pública?",
     "options": [
-      "A. El Rey.",
-      "B. Los poderes públicos.",
-      "C. Los tribunales.",
-      "D. El Tribunal Constitucional."
+      "El Rey.",
+      "Los poderes públicos.",
+      "Los tribunales.",
+      "El Tribunal Constitucional."
     ],
     "answer": 1,
     "explicacion": ""
@@ -87,10 +87,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "De conformidad con el artículo 43 de la Constitución, ¿cuál de las siguientes afirmaciones es cierta?",
     "options": [
-      "A. Compete a los poderes públicos organizar y tutelar la salud privada, a través de medidas preventivas y de las prestaciones y servicios necesarios. La Ley establecerá los derechos y deberes de todos al respecto.",
-      "B. Se reconoce el derecho a la protección de la salud.",
-      "C. El Estado fomentará la educación sanitaria, la educación física y el deporte.",
-      "D. Los poderes públicos facilitarán la adecuada utilización del trabajo."
+      "Compete a los poderes públicos organizar y tutelar la salud privada, a través de medidas preventivas y de las prestaciones y servicios necesarios. La Ley establecerá los derechos y deberes de todos al respecto.",
+      "Se reconoce el derecho a la protección de la salud.",
+      "El Estado fomentará la educación sanitaria, la educación física y el deporte.",
+      "Los poderes públicos facilitarán la adecuada utilización del trabajo."
     ],
     "answer": 1,
     "explicacion": ""
@@ -99,10 +99,34 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
     "question": "El derecho a la protección de la salud reconocido por la Constitución Española, se encuentra recogido en:",
     "options": [
-      "A. El Capítulo Primero del Título Primero.",
-      "B. La Sección Primera del Capítulo Segundo del Título Primero.",
-      "C. La Sección Segunda del Capítulo Segundo del Título Primero.",
-      "D. El Capítulo Tercero del Título Primero."
+      "El Capítulo Primero del Título Primero.",
+      "La Sección Primera del Capítulo Segundo del Título Primero.",
+      "La Sección Segunda del Capítulo Segundo del Título Primero.",
+      "El Capítulo Tercero del Título Primero."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
+    "question": "Se reconoce el derecho a la protección de la salud en la Constitución Española, señale de las citadas a continuación la afirmación correcta:",
+    "options": [
+      "Es un derecho fundamental de la persona.",
+      "Es un derecho simple de los españoles.",
+      "Es un principio inspirador de la política social del Estado.",
+      "Es un principio rector de la política social del Estado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 43"],
+    "question": "El derecho a la protección de la salud (artículo 43 de la Constitución Española) compete a los poderes públicos:",
+    "options": [
+      "Establecer mediante reglamentos los derechos y deberes de todos al respecto.",
+      "Reconocer el derecho a la protección de la sanidad privada.",
+      "Tutelar la salud pública a través de medidas proactivas y de las prestaciones y servicios privados necesarios.",
+      "Organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios."
     ],
     "answer": 3,
     "explicacion": ""

@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 49"],
     "question": "De acuerdo con el artículo 49 de la Constitución Española, los poderes públicos, en relación con las personas con discapacidad, impulsarán:",
     "options": [
-      "A. Políticas que garanticen la plena autonomía personal y la inclusión social en entornos universalmente accesibles.",
-      "B. Políticas de ayuda y mantenimiento.",
-      "C. Previsión, tratamiento, rehabilitación e integración en entornos de acceso limitado.",
-      "D. Políticas de promoción, diferenciación, tratamiento y beneficencia en entornos universalmente accesibles."
+      "Políticas que garanticen la plena autonomía personal y la inclusión social en entornos universalmente accesibles.",
+      "Políticas de ayuda y mantenimiento.",
+      "Previsión, tratamiento, rehabilitación e integración en entornos de acceso limitado.",
+      "Políticas de promoción, diferenciación, tratamiento y beneficencia en entornos universalmente accesibles."
     ],
     "answer": 0,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 49"],
     "question": "En virtud de lo establecido en el artículo 49 de la Constitución Española de 1978, las personas con discapacidad ejercen de forma libre y con una igualdad real y efectiva los derechos previstos:",
     "options": [
-      "A. En el Titulo II.",
-      "B. En el Titulo IV.",
-      "C. En el Titulo I.",
-      "D. En el Titulo VI."
+      "En el Titulo II.",
+      "En el Titulo IV.",
+      "En el Titulo I.",
+      "En el Titulo VI."
     ],
     "answer": 2,
     "explicacion": ""
@@ -27,10 +27,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 49"],
     "question": "Según el artículo 49 de la Constitución Española, impulsarán políticas que garanticen la plena autonomía personal y la inclusión social de:",
     "options": [
-      "A. Los disminuidos físicos y se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad.",
-      "B. Los disminuidos psíquicos exclusivamente.",
-      "C. Los disminuidos físicos y sensoriales exclusivamente, a los que prestarán la atención primaria que requieran en los centros especializados para ellos.",
-      "D. Las personas con discapacidad y se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad."
+      "Los disminuidos físicos y se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad.",
+      "Los disminuidos psíquicos exclusivamente.",
+      "Los disminuidos físicos y sensoriales exclusivamente, a los que prestarán la atención primaria que requieran en los centros especializados para ellos.",
+      "Las personas con discapacidad y se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad."
     ],
     "answer": 3,
     "explicacion": ""

@@ -3,12 +3,24 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 47"],
     "question": "De acuerdo a lo recogido en el artículo 47 de la Constitución, participarán de las plusvalías que genere la acción urbanística de los entes públicos:",
     "options": [
-      "A. El Estado.",
-      "B. La Comunidad Autónoma Correspondiente.",
-      "C. La Comunidad.",
-      "D. El Ayuntamiento."
+      "El Estado.",
+      "La Comunidad Autónoma Correspondiente.",
+      "La Comunidad.",
+      "El Ayuntamiento."
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 47"],
+    "question": "En virtud del artículo 47 de la Constitución Española, en relación con el derecho de los españoles a una vivienda digna y adecuada:",
+    "options": [
+      "La comunidad no participará en las plusvalías que genere la acción urbanística de los entes públicos.",
+      "Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes, regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación.",
+      "La efectividad de tal derecho está en manos de los propios ciudadanos y de las empresas constructoras.",
+      "Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes, regulando la utilización del suelo de acuerdo con el interés social para impedir la especulación."
+    ],
+    "answer": 1,
     "explicacion": ""
   }
 ]

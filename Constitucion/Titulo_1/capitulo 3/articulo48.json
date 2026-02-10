@@ -3,12 +3,24 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 48"],
     "question": "Según el artículo 48 de la Constitución, la participación libre y eficaz de la juventud en el desarrollo político, social, económico y cultural será promovido por:",
     "options": [
-      "A. Los entes locales.",
-      "B. Los poderes públicos.",
-      "C. El Estado.",
-      "D. La Comunidad Autónoma correspondiente."
+      "Los entes locales.",
+      "Los poderes públicos.",
+      "El Estado.",
+      "La Comunidad Autónoma correspondiente."
     ],
     "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 48"],
+    "question": "¿En qué artículo de la Constitución se recoge el mandato de promover la participación libre y eficaz de la juventud en el desarrollo político, social, económico y cultural?:",
+    "options": [
+      "En el artículo 47.",
+      "En el artículo 42.",
+      "En el artículo 51.",
+      "En el artículo 48."
+    ],
+    "answer": 3,
     "explicacion": ""
   }
 ]

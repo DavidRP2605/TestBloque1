@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
     "question": "La suficiencia económica de los ciudadanos durante la tercera edad, es considerada por el artículo 50 de la Constitución:",
     "options": [
-      "A. Un derecho fundamental.",
-      "B. Un principio rector de la política social y económica.",
-      "C. Un deber.",
-      "D. Una libertad."
+      "Un derecho fundamental.",
+      "Un principio rector de la política social y económica.",
+      "Un deber.",
+      "Una libertad."
     ],
     "answer": 1,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
     "question": "Según el artículo 50 de la Constitución Española, los poderes públicos garantizarán la suficiencia económica a los ciudadanos durante la tercera edad mediante:",
     "options": [
-      "A. Subsidios adecuados de cuantía suficiente.",
-      "B. Pensiones adecuadas y periódicamente actualizadas.",
-      "C. Asignaciones y servicios sociales adecuados.",
-      "D. Las indemnizaciones económicas de carácter asistencial que resulten necesarias."
+      "Subsidios adecuados de cuantía suficiente.",
+      "Pensiones adecuadas y periódicamente actualizadas.",
+      "Asignaciones y servicios sociales adecuados.",
+      "Las indemnizaciones económicas de carácter asistencial que resulten necesarias."
     ],
     "answer": 1,
     "explicacion": ""
@@ -27,10 +27,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
     "question": "Según el artículo 50 de la Constitución Española, los poderes públicos promoverán el bienestar de los ciudadanos durante la tercera edad, atendiendo sus problemas específicos de salud, vivienda, cultura y ocio mediante un sistema de:",
     "options": [
-      "A. Servicios sociales.",
-      "B. Ayudas asistenciales.",
-      "C. Auxilios discrecionales.",
-      "D. Subsidios económicos."
+      "Servicios sociales.",
+      "Ayudas asistenciales.",
+      "Auxilios discrecionales.",
+      "Subsidios económicos."
     ],
     "answer": 0,
     "explicacion": ""
@@ -39,12 +39,24 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
     "question": "El artículo 50 de la Constitución establece la atención que los poderes públicos deben prestar a los ciudadanos durante la tercera edad y, en particular, menciona que el sistema de servicios sociales atenderá a:",
     "options": [
-      "A. Todas las respuestas son correctas.",
-      "B. Problemas de cultura y ocio.",
-      "C. Problemas de salud.",
-      "D. Problemas de vivienda."
+      "Todas las respuestas son correctas.",
+      "Problemas de cultura y ocio.",
+      "Problemas de salud.",
+      "Problemas de vivienda."
     ],
     "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 50"],
+    "question": "En virtud del artículo 50 de la Constitución Española, una de las siguientes afirmaciones relacionadas con los ciudadanos de la tercera edad, es correcta:",
+    "options": [
+      "Una ley orgánica establecerá el sistema de servicios sociales para atender a los problemas específicos de salud, vivienda, cultura y ocio.",
+      "Los poderes públicos garantizarán, la suficiencia económica, mediante pensiones adecuadas y periódicamente actualizadas.",
+      "Con independencia de las obligaciones familiares, los poderes públicos promoverán su bienestar mediante un sistema de servicios sociales que atenderán el problema específico de trabajo.",
+      "Los poderes públicos garantizarán, la suficiencia económica, mediante pensiones adecuadas y anualmente actualizadas."
+    ],
+    "answer": 1,
     "explicacion": ""
   }
 ]

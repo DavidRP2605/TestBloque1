@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 45"],
     "question": "El derecho a disfrutar del medio ambiente y el deber a conservarlo recogidos en el artículo 45 de la CE, son:",
     "options": [
-      "A. Un derecho y un deber general.",
-      "B. Un derecho individual.",
-      "C. Una libertad fundamental.",
-      "D. Unos principios rectores de la política social y económica."
+      "Un derecho y un deber general.",
+      "Un derecho individual.",
+      "Una libertad fundamental.",
+      "Unos principios rectores de la política social y económica."
     ],
     "answer": 3,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 45"],
     "question": "¿En qué artículo de la Constitución se recoge el deber de conservar el medio ambiente?:",
     "options": [
-      "A. En el artículo 45.",
-      "B. No se recoge tal mandato en la Constitución.",
-      "C. En el artículo 44, pero no se recoge como un deber sino como un derecho.",
-      "D. En el artículo 46."
+      "En el artículo 45.",
+      "En el artículo 51.",
+      "En el artículo 44, pero no se recoge como un deber sino como un derecho.",
+      "En el artículo 46."
     ],
     "answer": 0,
     "explicacion": ""
@@ -27,10 +27,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 45"],
     "question": "¿Recoge la Constitución la posibilidad de algún tipo de obligación por dañar el medio ambiente?:",
     "options": [
-      "A. Sí, solo sanciones penales.",
-      "B. Sí, pero únicamente sanciones administrativas.",
-      "C. No especifica que pueda ser sancionable, pero hace remisión a la ley para regularlo.",
-      "D. Sí, a reparar el daño causado, entre otras obligaciones."
+      "Sí, solo sanciones penales.",
+      "Sí, pero únicamente sanciones administrativas.",
+      "No especifica que pueda ser sancionable, pero hace remisión a la ley para regularlo.",
+      "Sí, a reparar el daño causado, entre otras obligaciones."
     ],
     "answer": 3,
     "explicacion": ""
@@ -39,10 +39,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 45"],
     "question": "El artículo 45 de la Constitución determina que, en los casos de violación de lo relacionado con la protección del medio ambiente, se podrán establecer:",
     "options": [
-      "A. Únicamente sanciones penales.",
-      "B. Sanciones civiles.",
-      "C. Sanciones administrativas exclusivamente.",
-      "D. Sanciones penales y administrativas."
+      "Únicamente sanciones penales.",
+      "Sanciones civiles.",
+      "Sanciones administrativas exclusivamente.",
+      "Sanciones penales y administrativas."
     ],
     "answer": 3,
     "explicacion": ""
@@ -51,10 +51,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 45"],
     "question": "De conformidad con el artículo 45.2 de la Constitución, los poderes públicos velarán:",
     "options": [
-      "A. Por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.",
-      "B. Por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, estableciendo las normas necesarias de acuerdo con el interés general para el cumplimiento de dicho fin.",
-      "C. Por la utilización irracional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad individual.",
-      "D. En todo caso, por la zona marítimo-terrestre y por los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, estableciendo las normas necesarias de acuerdo con el interés social para el cumplimiento de dicho fin."
+      "Por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.",
+      "Por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, estableciendo las normas necesarias de acuerdo con el interés general para el cumplimiento de dicho fin.",
+      "Por la utilización irracional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad individual.",
+      "En todo caso, por la zona marítimo-terrestre y por los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, estableciendo las normas necesarias de acuerdo con el interés social para el cumplimiento de dicho fin."
     ],
     "answer": 0,
     "explicacion": ""
@@ -63,10 +63,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 45"],
     "question": "De conformidad con el artículo 45 de la Constitución, los poderes públicos velarán por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva. Para quienes lo violen:",
     "options": [
-      "A. En los términos que la ley fije se establecerán sanciones penales o, en su caso, administrativas, así como la obligación de reparar el daño causado.",
-      "B. En los términos que la ley fije sólo podrán establecerse sanciones administrativas.",
-      "C. En los términos que la ley fije sólo podrán establecerse sanciones penales.",
-      "D. Sólo estarán obligados a reparar el daño causado."
+      "En los términos que la ley fije se establecerán sanciones penales o, en su caso, administrativas, así como la obligación de reparar el daño causado.",
+      "En los términos que la ley fije sólo podrán establecerse sanciones administrativas.",
+      "En los términos que la ley fije sólo podrán establecerse sanciones penales.",
+      "Sólo estarán obligados a reparar el daño causado."
     ],
     "answer": 0,
     "explicacion": ""

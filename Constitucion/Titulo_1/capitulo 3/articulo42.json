@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 42"],
     "question": "Según el artículo 42 de la Constitución Española, en relación con los emigrantes españoles, el Estado orientará su política hacia:",
     "options": [
-      "A. Su instalación definitiva en el país de destino.",
-      "B. Su retorno.",
-      "C. Su incremento numérico.",
-      "D. Su equiparación salarial con los inmigrantes en España."
+      "Su instalación definitiva en el país de destino.",
+      "Su retorno.",
+      "Su incremento numérico.",
+      "Su equiparación salarial con los inmigrantes en España."
     ],
     "answer": 1,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 42"],
     "question": "De acuerdo al artículo 42 de la Constitución, ¿debe el Estado tener alguna política respecto a los trabajadores españoles en el extranjero?:",
     "options": [
-      "A. No, esta materia no la recoge la Constitución, sino la Ley Orgánica 4/2000.",
-      "B. Sí, velar porque prosperen en el extranjero.",
-      "C. No, salvo que sean españoles de origen.",
-      "D. Sí, deberá tener una política orientada hacia su retorno."
+      "No, esta materia no la recoge la Constitución, sino la Ley Orgánica 4/2000.",
+      "Sí, velar porque prosperen en el extranjero.",
+      "No, salvo que sean españoles de origen.",
+      "Sí, deberá tener una política orientada hacia su retorno."
     ],
     "answer": 3,
     "explicacion": ""
@@ -27,12 +27,36 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 42"],
     "question": "Según el artículo 42 de la Constitución, el encargado de velar por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero será:",
     "options": [
-      "A. El Gobierno autonómico.",
-      "B. El Estado.",
-      "C. No se recoge tal previsión en la Constitución.",
-      "D. El Gobierno extranjero."
+      "El Gobierno autonómico.",
+      "El Estado.",
+      "Los poderes públicos.",
+      "El Gobierno extranjero."
     ],
     "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 42"],
+    "question": "Según el artículo 42 de la Constitución, el Estado, con respecto a los trabajadores españoles en el extranjero:",
+    "options": [
+      "Orientará su política hacia su retorno.",
+      "Velará especialmente para que se les aplique en el país donde se encuentren la legislación laboral española en cuanto les sea favorable.",
+      "Velará por la salvaguardia de su derecho al cobro de una pensión digna cuando regresen a España.",
+      "Velará en los foros internacionales, y en el marco de la política social comunitaria, por la salvaguardia de sus derechos económicos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 3", "Articulo 42"],
+    "question": "De conformidad con el artículo 42 de la Constitución Española, ¿Quién velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y orientará su política hacia su retorno?:",
+    "options": [
+      "Los poderes públicos.",
+      "El Gobierno de la Nación.",
+      "El Rey.",
+      "El Estado."
+    ],
+    "answer": 3,
     "explicacion": ""
   }
 ]
