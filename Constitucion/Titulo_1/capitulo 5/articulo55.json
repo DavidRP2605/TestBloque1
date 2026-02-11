@@ -27,10 +27,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "En relación con la Constitución Española, el capítulo V del Título I de la Constitución cuenta con:",
     "options": [
-      "A. Un artículo.",
-      "B. Dos artículos.",
-      "C. Tres artículos.",
-      "D. Catorce artículos."
+      "Un artículo.",
+      "Dos artículos.",
+      "Tres artículos.",
+      "Catorce artículos."
     ],
     "answer": 0,
     "explicacion": ""
@@ -39,10 +39,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Según el artículo 55 de la Constitución española, solo uno de los siguientes derechos podrá ser suspendido de forma individual en los casos previstos:",
     "options": [
-      "A. El derecho al honor, a la intimidad personal y familiar y a la propia imagen.",
-      "B. Derecho a no permanecer preventivamente detenido por un plazo superior a las setenta y dos horas.",
-      "C. Derecho a ser asistido por abogado en las diligencias policiales y judiciales.",
-      "D. Derecho a la seguridad."
+      "El derecho al honor, a la intimidad personal y familiar y a la propia imagen.",
+      "Derecho a no permanecer preventivamente detenido por un plazo superior a las setenta y dos horas.",
+      "Derecho a ser asistido por abogado en las diligencias policiales y judiciales.",
+      "Derecho a la seguridad."
     ],
     "answer": 1,
     "explicacion": ""
@@ -51,10 +51,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "En virtud del artículo 55.1 de la Constitución Española, en el estado de alarma, podrá ser suspendido:",
     "options": [
-      "A. El derecho a la libertad.",
-      "B. El derecho de inviolabilidad del domicilio.",
-      "C. El derecho del detenido de ser asistido por abogado en las diligencias policiales y judiciales.",
-      "D. Ningún derecho."
+      "El derecho a la libertad.",
+      "El derecho de inviolabilidad del domicilio.",
+      "El derecho del detenido de ser asistido por abogado en las diligencias policiales y judiciales.",
+      "Ningún derecho."
     ],
     "answer": 3,
     "explicacion": ""
@@ -63,10 +63,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Cuando se declare el estado de excepción o sitio, ¿cuál de los siguientes derechos NO podrá ser suspendido según lo dispuesto en el artículo 55 de la Constitución?:",
     "options": [
-      "A. El derecho a la libertad.",
-      "B. El derecho de expresar y difundir libremente los pensamientos.",
-      "C. El derecho de tutela judicial.",
-      "D. El derecho de inviolabilidad del domicilio."
+      "El derecho a la libertad.",
+      "El derecho de expresar y difundir libremente los pensamientos.",
+      "El derecho de tutela judicial.",
+      "El derecho de inviolabilidad del domicilio."
     ],
     "answer": 2,
     "explicacion": ""
@@ -75,10 +75,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el artículo 55 de la Constitución, todos los siguientes derechos, menos uno, podrán ser suspendidos en caso de que se acuerde la declaración de estado de excepción o de sitio en los términos previstos en la Constitución:",
     "options": [
-      "A. Derecho a la inviolabilidad del domicilio.",
-      "B. Derecho a la libertad y a la seguridad.",
-      "C. Derecho al honor.",
-      "D. Derecho al secreto de las comunicaciones."
+      "Derecho a la inviolabilidad del domicilio.",
+      "Derecho a la libertad y a la seguridad.",
+      "Derecho al honor.",
+      "Derecho al secreto de las comunicaciones."
     ],
     "answer": 2,
     "explicacion": ""
@@ -87,10 +87,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el artículo 55.1 de la Constitución, los derechos reconocidos en los artículos 17, 18, apartados 2 y 3, artículos 19, 20, apartados 1, a) y d), y 5, artículos 21, 28, apartado 2, y artículo 37, apartado 2, podrán ser suspendidos cuando:",
     "options": [
-      "A. Se acuerde la declaración del estado de alarma o de excepción en los términos previstos en la Constitución.",
-      "B. Se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución.",
-      "C. Se acuerde la declaración del estado de alarma o de sitio en los términos previstos en la Constitución.",
-      "D. Se acuerde la declaración del estado de alarma o de excepción o de sitio en los términos previstos en la Constitución."
+      "Se acuerde la declaración del estado de alarma o de sitio en los términos previstos en la Constitución.",
+      "Se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución.",
+      "Se acuerde la declaración del estado de alarma o de sitio en los términos previstos en los Estamentos.",
+      "Se acuerde la declaración del estado de sitio o de excepción o de sitio en los términos previstos en los Estamentos."
     ],
     "answer": 1,
     "explicacion": ""
@@ -99,10 +99,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Según el artículo 55 de la Constitución Española, en el estado de excepción, no podrán ser suspendido:",
     "options": [
-      "A. El derecho a la huelga de los trabajadores para la defensa de sus intereses.",
-      "B. El derecho a la libertad y a la seguridad.",
-      "C. El derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
-      "D. El derecho del detenido a ser informado de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, no pudiendo ser obligado a declarar."
+      "El derecho a la huelga de los trabajadores para la defensa de sus intereses.",
+      "El derecho a la libertad y a la seguridad.",
+      "El derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
+      "El derecho del detenido a ser informado de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, no pudiendo ser obligado a declarar."
     ],
     "answer": 3,
     "explicacion": ""
@@ -111,10 +111,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el artículo 55.1 de la Constitución, sólo uno de los siguientes derechos podrá ser suspendido en caso de que se acuerde la declaración del estado de excepción o de sitio:",
     "options": [
-      "A. El derecho a la huelga de los trabajadores.",
-      "B. El derecho de petición individual y colectiva.",
-      "C. El derecho a obtener la tutela efectiva de jueces y tribunales.",
-      "D. El derecho de creación de centros docentes."
+      "El derecho a la huelga de los trabajadores.",
+      "El derecho de petición individual y colectiva.",
+      "El derecho a obtener la tutela efectiva de jueces y tribunales.",
+      "El derecho de creación de centros docentes."
     ],
     "answer": 0,
     "explicacion": ""
@@ -123,10 +123,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el artículo 55 de la Constitución, todos los siguientes derechos, menos uno, podrán ser suspendidos en caso de que se acuerde la declaración de estado de excepción:",
     "options": [
-      "A. Derecho a la huelga.",
-      "B. Derecho de reunión.",
-      "C. Derecho a la asistencia de abogado en las diligencias policiales y judiciales.",
-      "D. Derecho a elegir libremente su residencia."
+      "Derecho a la huelga.",
+      "Derecho de reunión.",
+      "Derecho a la asistencia de abogado en las diligencias policiales y judiciales.",
+      "Derecho a elegir libremente su residencia."
     ],
     "answer": 2,
     "explicacion": ""
@@ -135,10 +135,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De acuerdo con el artículo 55.2 de la Constitución, ¿Pueden ser suspendidos los derechos reconocidos en los artículos 17, apartado 2, y 18, apartados 2 y 3?",
     "options": [
-      "A. Sí. Una ley ordinaria podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, puedan ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas.",
-      "B. Sí. Una ley orgánica podrá determinar la forma y los casos en los que, de forma colectiva y con la necesaria intervención judicial y el adecuado control parlamentario, puedan ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas.",
-      "C. No podrán ser suspendidos en ningún caso.",
-      "D. Sí. Una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, puedan ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas."
+      "Sí. Una ley ordinaria podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, puedan ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas.",
+      "Sí. Una ley orgánica podrá determinar la forma y los casos en los que, de forma colectiva y con la necesaria intervención judicial y el adecuado control parlamentario, puedan ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas.",
+      "No podrán ser suspendidos en ningún caso.",
+      "Sí. Una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, puedan ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas."
     ],
     "answer": 3,
     "explicacion": ""
@@ -147,10 +147,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Según el artículo 55.1 de la Constitución Española, el derecho de asistencia de abogado al detenido en las diligencias policiales y judiciales:",
     "options": [
-      "A. No podrá suspenderse en ningún caso.",
-      "B. Sólo podrá suspenderse en los estados de excepción y sitio.",
-      "C. Sólo podrá suspenderse en el estado de sitio.",
-      "D. Podrá suspenderse en los estados de alarma, excepción y sitio."
+      "No podrá suspenderse en ningún caso.",
+      "Sólo podrá suspenderse en los estados de excepción y sitio.",
+      "Sólo podrá suspenderse en el estado de sitio.",
+      "Podrá suspenderse en los estados de alarma, excepción y sitio."
     ],
     "answer": 2,
     "explicacion": ""
@@ -159,10 +159,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Cuando se declare el estado de excepción o sitio, ¿cuál de los siguientes derechos NO podrá ser suspendido según lo dispuesto en el artículo 55 de la Constitución?:",
     "options": [
-      "A. El derecho a la libertad.",
-      "B. El derecho de expresar y difundir libremente los pensamientos.",
-      "C. El derecho de tutela judicial.",
-      "D. El derecho de inviolabilidad del domicilio."
+      "El derecho a la libertad.",
+      "El derecho de expresar y difundir libremente los pensamientos.",
+      "El derecho de tutela judicial.",
+      "El derecho de inviolabilidad del domicilio."
     ],
     "answer": 2,
     "explicacion": ""
@@ -171,10 +171,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el artículo 55.1 de la Constitución, sólo uno de los siguientes derechos podrá ser suspendido en caso de que se acuerde la declaración de estado de excepción o de sitio:",
     "options": [
-      "A. Derecho a participar en los asuntos públicos.",
-      "B. Derecho de asociación.",
-      "C. Derecho a acceder en condiciones de igualdad a las funciones y cargos públicos.",
-      "D. Derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo."
+      "Derecho a participar en los asuntos públicos.",
+      "Derecho de asociación.",
+      "Derecho a acceder en condiciones de igualdad a las funciones y cargos públicos.",
+      "Derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo."
     ],
     "answer": 3,
     "explicacion": ""
@@ -183,10 +183,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el artículo 55.2 de la Constitución Española, los derechos que pueden ser suspendidos individualmente son:",
     "options": [
-      "A. El plazo máximo de detención, la libertad de expresión y el secreto de las comunicaciones.",
-      "B. El plazo máximo de detención, el derecho al honor y el secreto de las comunicaciones.",
-      "C. El plazo máximo de detención, la libertad de residencia y el secreto de las comunicaciones.",
-      "D. El plazo máximo de detención, la inviolabilidad del domicilio y el secreto de las comunicaciones."
+      "El plazo máximo de detención, la libertad de expresión y el secreto de las comunicaciones.",
+      "El plazo máximo de detención, el derecho al honor y el secreto de las comunicaciones.",
+      "El plazo máximo de detención, la libertad de residencia y el secreto de las comunicaciones.",
+      "El plazo máximo de detención, la inviolabilidad del domicilio y el secreto de las comunicaciones."
     ],
     "answer": 3,
     "explicacion": ""
@@ -195,10 +195,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Según el articulo 55 de la Constitucion Española, ¿Cuál de los siguientes derechos no podrá ser suspendido en los estados de excepcion o sitio?",
     "options": [
-      "A. Derecho a la huelga y a medidas de conflicto colectivo.",
-      "B. Libertad personal, de residencia y circulacion.",
-      "C. Derecho de Reunion.",
-      "D. Derecho al Juez ordinario predeterminado por la ley."
+      "Derecho a la huelga y a medidas de conflicto colectivo.",
+      "Libertad personal, de residencia y circulacion.",
+      "Derecho de Reunion.",
+      "Derecho al Juez ordinario predeterminado por la ley."
     ],
     "answer": 3,
     "explicacion": ""
@@ -207,10 +207,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el articulo 55.1 de la Constitucion, en el estado de sitio:",
     "options": [
-      "A. Podrán ser suspendida la libertad ideologica, religiosa y de culto de los individuos.",
-      "B. Podrá ser suspendido el derecho a la integridad fisica y moral.",
-      "C. Podrá ser suspendido el derecho de asociacion.",
-      "D. Podrá ser suspendido el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo."
+      "Podrán ser suspendida la libertad ideologica, religiosa y de culto de los individuos.",
+      "Podrá ser suspendido el derecho a la integridad fisica y moral.",
+      "Podrá ser suspendido el derecho de asociacion.",
+      "Podrá ser suspendido el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo."
     ],
     "answer": 3,
     "explicacion": ""
@@ -219,10 +219,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De acuerdo con el 55.1 de la Constitucion Española, el derecho de los españoles a entrar y salir libremente de España, podrá ser suspendido cuando se acuerde la declaracion del estado:",
     "options": [
-      "A. De excepcion.",
-      "B. De sitio.",
-      "C. De excepcion o de sitio.",
-      "D. De alarma."
+      "De excepcion.",
+      "De sitio.",
+      "De excepcion o de sitio.",
+      "De alarma."
     ],
     "answer": 2,
     "explicacion": ""
@@ -231,10 +231,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el articulo 55.1 de la Constitucion Española, solo uno de los siguientes derechos podrá ser suspendido en caso de se acuerde la declaracion de estado de excepcion o de sitio:",
     "options": [
-      "A. Derecho a la intimidad personal.",
-      "B. Derecho a no ser detenido preventivamente por tiempo superior a las setenta y dos horas.",
-      "C. Derecho a la libertad ideologica.",
-      "D. Derecho a la vida."
+      "Derecho a la intimidad personal.",
+      "Derecho a no ser detenido preventivamente por tiempo superior a las setenta y dos horas.",
+      "Derecho a la libertad ideologica.",
+      "Derecho a la vida."
     ],
     "answer": 1,
     "explicacion": ""
@@ -243,10 +243,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Según el articulo 55.1 de la Constitucion Española, determinados derechos de los comprendidos en el Capitulo Segundo del Titulo I de la Constitucion podrán ser suspendidos cuando se acuerde la declaracion de:",
     "options": [
-      "A. El estado de alarma o excepcion.",
-      "B. El estado de alarma o de sitio.",
-      "C. El estado de excepcion o de sitio.",
-      "D. El estado de alarma, de excepcion o de sitio."
+      "El estado de alarma o excepcion.",
+      "El estado de alarma o de sitio.",
+      "El estado de excepcion o de sitio.",
+      "El estado de alarma, de excepcion o de sitio."
     ],
     "answer": 2,
     "explicacion": ""
@@ -255,10 +255,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De acuerdo con el articulo 55.2 de la Constitucion Española, ¿Como se podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervencion judicial y el adecuado control parlamentario, los derechos reconocidos en los articulos 17, apartado 2 y 18, apartados 2 y 3, pueden ser suspendidos para personas determinadas, en relacion con las investigaciones correspondientes a la actuacion de bandas armadas o elementos terroristas?",
     "options": [
-      "A. Se regula con detalle en la propia Constitucion.",
-      "B. Por ley ordinaria.",
-      "C. Por ley organica.",
-      "D. No admite regulacion al ser una actuacion no compatible con los principios democraticos que inspiran nuestra Constitucion."
+      "Se regula con detalle en la propia Constitucion.",
+      "Por ley ordinaria.",
+      "Por ley organica.",
+      "No admite regulacion al ser una actuacion no compatible con los principios democraticos que inspiran nuestra Constitucion."
     ],
     "answer": 2,
     "explicacion": ""
@@ -267,10 +267,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Atendiendo al articulo 55.2 de la Constitucion Española, ¿Como se podrá determinar la forma y los casos en los que los derechos reconocidos en los articulos 17, apartado 2, y 18, apartados 2 y 3, pueden ser suspendidos para personas determinadas, en relacion con las investigaciones correspondientes a la actuacion de bandas armadas o elementos terroristas?",
     "options": [
-      "A. Mediante ley de bases, de forma individual y con la necesaria intervencion policial y el adecuado control judicial.",
-      "B. Mediante ley organica, de forma individual y con la necesaria intervencion policial y el adecuado control judicial.",
-      "C. Mediante ley organica, de forma individual y con la necesaria intervencion judicial y el adecuado control parlamentario.",
-      "D. Mediante ley ordinaria, de forma individual y con la necesaria intervencion policial y el adecuado control parlamentario."
+      "Mediante ley de bases, de forma individual y con la necesaria intervencion policial y el adecuado control judicial.",
+      "Mediante ley organica, de forma individual y con la necesaria intervencion policial y el adecuado control judicial.",
+      "Mediante ley organica, de forma individual y con la necesaria intervencion judicial y el adecuado control parlamentario.",
+      "Mediante ley ordinaria, de forma individual y con la necesaria intervencion policial y el adecuado control parlamentario."
     ],
     "answer": 2,
     "explicacion": ""
@@ -279,10 +279,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De conformidad con el articulo 55 de la Constitucion Española, ¿Cual de los siguientes derechos podrá ser suspendido para personas determinadas en relacion con las investigaciones de bandas armadas o elementos terroristas?",
     "options": [
-      "A. Los derechos de reunion y asociacion.",
-      "B. Los derechos de peticion y participacion.",
-      "C. Los derechos de reunion, asociacion, peticion y participacion.",
-      "D. Ninguno de los anteriores."
+      "Los derechos de reunion y asociacion.",
+      "Los derechos de peticion y participacion.",
+      "Los derechos de reunion, asociacion, peticion y participacion.",
+      "Ninguno de los anteriores."
     ],
     "answer": 3,
     "explicacion": ""
@@ -291,10 +291,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "¿Que derechos y libertades son susceptibles de suspension individual de acuerdo al articulo 55.2 de la Constitucion?",
     "options": [
-      "A. Todas las respuestas siguientes son ciertas.",
-      "B. La inviolabilidad del domicilio.",
-      "C. El tiempo maximo de detencion preventiva.",
-      "D. El secreto de las comunicaciones."
+      "Todas las respuestas siguientes son ciertas.",
+      "La inviolabilidad del domicilio.",
+      "El tiempo maximo de detencion preventiva.",
+      "El secreto de las comunicaciones."
     ],
     "answer": 0,
     "explicacion": ""
@@ -303,10 +303,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "El articulo 55 de la Constitucion, recoge la posibilidad de que se suspendan derechos y libertades cuando:",
     "options": [
-      "A. Se acuerde alguno de los estados previstos en el articulo 116.",
-      "B. Unicamente cuando se declare el estado de sitio.",
-      "C. Cuando se declare el estado de sitio o de excepcion.",
-      "D. Cuando se declare el estado de sitio o de alarma."
+      "Se acuerde alguno de los estados previstos en el articulo 116.",
+      "Unicamente cuando se declare el estado de sitio.",
+      "Cuando se declare el estado de sitio o de excepcion.",
+      "Cuando se declare el estado de sitio o de alarma."
     ],
     "answer": 2,
     "explicacion": ""
@@ -315,10 +315,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "¿Recoge la Constitucion algun tipo de consecuencia por la utilizacion injustificada de la suspension de derechos fundamentales de forma individual, en su articulo 55?",
     "options": [
-      "A. Si, podrá dar lugar a responsabilidad civil.",
-      "B. No.",
-      "C. Si, podrá dar lugar a responsabilidad penal.",
-      "D. Si, como falta administrativa."
+      "Si, podrá dar lugar a responsabilidad civil.",
+      "No.",
+      "Si, podrá dar lugar a responsabilidad penal.",
+      "Si, como falta administrativa."
     ],
     "answer": 2,
     "explicacion": ""
@@ -327,10 +327,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "De acuerdo al articulo 55.2 de la Constitucion, la utilizacion injustificada o abusiva de las facultades para suspender de forma individual los derechos de los articulos 17 y 18 de la misma, producirán:",
     "options": [
-      "A. Responsabilidad parlamentaria.",
-      "B. Responsabilidad administrativa.",
-      "C. Responsabilidad civil.",
-      "D. Responsabilidad penal."
+      "Responsabilidad parlamentaria.",
+      "Responsabilidad administrativa.",
+      "Responsabilidad civil.",
+      "Responsabilidad penal."
     ],
     "answer": 3,
     "explicacion": ""
@@ -339,10 +339,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "En virtud del articulo 55.1 de la Constitucion, ¿cual de los siguientes derechos puede ser suspendido durante un estado de alarma?:",
     "options": [
-      "A. Ninguna de las respuestas siguientes es correcta.",
-      "B. El derecho de libre circulacion.",
-      "C. El derecho a comunicar libremente informacion.",
-      "D. El derecho a la integridad moral."
+      "Ninguna de las respuestas siguientes es correcta.",
+      "El derecho de libre circulacion.",
+      "El derecho a comunicar libremente informacion.",
+      "El derecho a la integridad moral."
     ],
     "answer": 0,
     "explicacion": ""
@@ -351,10 +351,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Conforme al art. 55 de la Constitucion, ¿qué derecho puede ser suspendido individualmente en relación con investigaciones sobre bandas armadas o terrorismo?",
     "options": [
-      "A. Derecho de asociacion",
-      "B. Derecho a elegir abogado",
-      "C. Derecho al secreto de las comunicaciones",
-      "D. Derecho a la huelga"
+      "Derecho de asociacion",
+      "Derecho a elegir abogado",
+      "Derecho al secreto de las comunicaciones",
+      "Derecho a la huelga"
     ],
     "answer": 2,
     "explicacion": ""
@@ -363,10 +363,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
     "question": "Conforme a la Constitucion, el derecho de peticion puede ser suspendido:",
     "options": [
-      "A. Solo durante el estado de sitio.",
-      "B. Durante el estado de excepcion o de sitio.",
-      "C. Solo por Ley Organica en caso de terrorismo.",
-      "D. No puede ser suspendido en ningun caso."
+      "Solo durante el estado de sitio.",
+      "Durante el estado de excepcion o de sitio.",
+      "Solo por Ley Organica en caso de terrorismo.",
+      "No puede ser suspendido en ningun caso."
     ],
     "answer": 1,
     "explicacion": ""
