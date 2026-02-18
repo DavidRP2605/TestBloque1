@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "De acuerdo con el articulo 25.2 de la Constitucion, el condenado a pena de prision que estuviere cumpliendo la misma:",
     "options": [
-      "A. No tendra derecho al acceso a la cultura ni al desarrollo integral de su personalidad.",
-      "B. No tendra derecho a un trabajo remunerado ni a los beneficios correspondientes de la Seguridad Social.",
-      "C. En todo caso, tendra derecho a un trabajo remunerado y a los beneficios correspondientes de la Seguridad Social, asi como al acceso a la cultura y al desarrollo integral de su personalidad.",
-      "D. En algunos casos tendra derecho a un trabajo remunerado pero en ningun caso tendra derecho a los beneficios correspondientes de la Seguridad Social."
+      "No tendra derecho al acceso a la cultura ni al desarrollo integral de su personalidad.",
+      "No tendra derecho a un trabajo remunerado ni a los beneficios correspondientes de la Seguridad Social.",
+      "En todo caso, tendra derecho a un trabajo remunerado y a los beneficios correspondientes de la Seguridad Social, asi como al acceso a la cultura y al desarrollo integral de su personalidad.",
+      "En algunos casos tendra derecho a un trabajo remunerado pero en ningun caso tendra derecho a los beneficios correspondientes de la Seguridad Social."
     ],
     "answer": 2,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "De conformidad con el artículo 25.2 de la Constitución, las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la reeducación y reinserción social y:",
     "options": [
-      "A. Podrán consistir en trabajos forzados mediante resolución judicial.",
-      "B. Podrán consistir en trabajos forzados sólo en casos excepcionalmente recogidos en la Constitución.",
-      "C. No podrán consistir en trabajos forzados.",
-      "D. Podrán consistir en trabajos forzados de acuerdo con lo que se establezca por ley."
+      "Podrán consistir en trabajos forzados mediante resolución judicial.",
+      "Podrán consistir en trabajos forzados sólo en casos excepcionalmente recogidos en la Constitución.",
+      "No podrán consistir en trabajos forzados.",
+      "Podrán consistir en trabajos forzados de acuerdo con lo que se establezca por ley."
     ],
     "answer": 2,
     "explicacion": ""
@@ -27,10 +27,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "Según el artículo 25.3 de la Constitución, no podrá imponer sanciones que, directa o subsidiariamente, implique privación de libertad:",
     "options": [
-      "A. La Administración civil.",
-      "B. La Administración militar.",
-      "C. Los poderes públicos.",
-      "D. El Estado."
+      "La Administración civil.",
+      "La Administración militar.",
+      "Los poderes públicos.",
+      "El Estado."
     ],
     "answer": 0,
     "explicacion": ""
@@ -39,10 +39,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "De conformidad con el articulo 25.3 de la Constitucion, la Administracion:",
     "options": [
-      "A. Militar podra imponer sanciones que, directa o subsidiariamente, impliquen privacion de libertad.",
-      "B. Civil no podra imponer sanciones que, directa o subsidiariamente, impliquen privacion de libertad.",
-      "C. Militar no podra imponer sanciones que, directa o subsidiariamente, impliquen privacion de libertad.",
-      "D. Civil podra imponer sanciones que, directa o subsidiariamente, impliquen privacion de libertad."
+      "Militar podra imponer sanciones que, directa o subsidiariamente, impliquen privacion de libertad.",
+      "Civil no podra imponer sanciones que, directa o subsidiariamente, impliquen privacion de libertad.",
+      "Militar no podra imponer sanciones que, directa o subsidiariamente, impliquen privacion de libertad.",
+      "Civil podra imponer sanciones que, directa o subsidiariamente, impliquen privacion de libertad."
     ],
     "answer": 1,
     "explicacion": ""
@@ -51,10 +51,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "De conformidad con el articulo 25.3 de la Constitucion, ¿Podra, la Administracion civil, imponer sanciones que, impliquen privacion de libertad?",
     "options": [
-      "A. No, ni directa ni subsidiariamente.",
-      "B. No de forma directa, pero si de forma subsidiaria.",
-      "C. Solo de forma directa.",
-      "D. Si, tanto de forma directa como de forma subsidiaria."
+      "No, ni directa ni subsidiariamente.",
+      "No de forma directa, pero si de forma subsidiaria.",
+      "Solo de forma directa.",
+      "Si, tanto de forma directa como de forma subsidiaria."
     ],
     "answer": 0,
     "explicacion": ""
@@ -63,10 +63,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "De acuerdo con el articulo 25.1 de la Constitucion, segun la legislacion vigente en aquel momento, nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse:",
     "options": [
-      "A. No constituyan delito, falta muy grave o infraccion administrativa grave.",
-      "B. No constituyan delito, falta grave o infraccion administrativa leve.",
-      "C. No constituyan delito, falta muy grave o infraccion administrativa leve.",
-      "D. No constituyan delito, falta o infraccion administrativa."
+      "No constituyan delito, falta muy grave o infraccion administrativa grave.",
+      "No constituyan delito, falta grave o infraccion administrativa leve.",
+      "No constituyan delito, falta muy grave o infraccion administrativa leve.",
+      "No constituyan delito, falta o infraccion administrativa."
     ],
     "answer": 3,
     "explicacion": ""
@@ -75,10 +75,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "Según el articulo 25.2 de la Constitucion, las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la reeducacion y reinsercion social y no podrán consistir en trabajos forzados. ¿El condenado a pena de prision que estuviere cumpliendo la misma gozará de los derechos fundamentales?",
     "options": [
-      "A. En todo caso.",
-      "B. A excepcion de los que se vean expresamente limitados por el contenido del fallo condenatorio, el sentido de la pena y la ley penitenciaria.",
-      "C. Nunca puede existir limitacion expresa de derechos del condenado a pena de prision por el contenido del fallo condenatorio.",
-      "D. Nunca puede existir limitacion expresa de derechos del condenado a pena de prision por el contenido del fallo condenatorio, ni en el sentido de la pena ni en la ley penitenciaria."
+      "En todo caso.",
+      "A excepcion de los que se vean expresamente limitados por el contenido del fallo condenatorio, el sentido de la pena y la ley penitenciaria.",
+      "Nunca puede existir limitacion expresa de derechos del condenado a pena de prision por el contenido del fallo condenatorio.",
+      "Nunca puede existir limitacion expresa de derechos del condenado a pena de prision por el contenido del fallo condenatorio, ni en el sentido de la pena ni en la ley penitenciaria."
     ],
     "answer": 1,
     "explicacion": ""
@@ -87,10 +87,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "De acuerdo con el articulo 25.1 de la Constitucion, el principio de legalidad implica que:",
     "options": [
-      "A. Todos los ciudadanos y los poderes publicos están sometidos al imperio de la Ley.",
-      "B. Podrá ser sancionada una persona por la comision de una infraccion administrativa, aun cuando no constituya conducta sancionable, segun la legislacion vigente en aquel momento.",
-      "C. Nadie podrá ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, segun la legislacion vigente en aquel momento.",
-      "D. Podrá ser sancionada una persona por la comision de una falta, aun cuando no constituya infraccion penal, segun la legislacion vigente en aquel momento."
+      "Todos los ciudadanos y los poderes publicos están sometidos al imperio de la Ley.",
+      "Podrá ser sancionada una persona por la comision de una infraccion administrativa, aun cuando no constituya conducta sancionable, segun la legislacion vigente en aquel momento.",
+      "Nadie podrá ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, segun la legislacion vigente en aquel momento.",
+      "Podrá ser sancionada una persona por la comision de una falta, aun cuando no constituya infraccion penal, segun la legislacion vigente en aquel momento."
     ],
     "answer": 2,
     "explicacion": ""
@@ -99,12 +99,24 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
     "question": "Según el artículo 25.2 de la Constitucion Española, no tendrá derecho el condenado que estuviere cumpliendo pena privativa de libertad:",
     "options": [
-      "A. A un trabajo remunerado proporcionado por el Estado cuando sea puesto en libertad.",
-      "B. A un trabajo remunerado.",
-      "C. A los beneficios correspondientes de la Seguridad Social.",
-      "D. Al acceso a la cultura."
+      "A un trabajo remunerado proporcionado por el Estado cuando sea puesto en libertad.",
+      "A un trabajo remunerado.",
+      "A los beneficios correspondientes de la Seguridad Social.",
+      "Al acceso a la cultura."
     ],
     "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 25"],
+    "question": "Según art. 25.1 CE, nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento. ¿Qué principio recoge?",
+    "options": [
+      "El principio de responsabilidad por actos propios.",
+      "El ius puniendi del Estado.",
+      "El principio de legalidad penal.",
+      "Ninguna es correcta."
+    ],
+    "answer": 2,
     "explicacion": ""
   }
 ]

@@ -3,10 +3,10 @@
     "titulos": ["Bloque 0", "Preambulo"],
     "question": "¿En qué fecha se publicó la Constitucion Española en el Boletín Oficial del Estado?",
     "options": [
-      "A. El 27 de diciembre de 1978.",
-      "B. El 29 de diciembre de 1978.",
-      "C. El 28 de diciembre de 1978.",
-      "D. El 31 de diciembre de 1978."
+      "El 27 de diciembre de 1978.",
+      "El 29 de diciembre de 1978.",
+      "El 28 de diciembre de 1978.",
+      "El 31 de diciembre de 1978."
     ],
     "answer": 1,
     "explicacion": ""
@@ -15,10 +15,10 @@
     "titulos": ["Bloque 0", "Preambulo"],
     "question": "La Constitucion Española fue aprobada:",
     "options": [
-      "A. Por mayoría absoluta del Congreso de los Diputados, sancionada por el Rey el 29 de diciembre de 1978 y publicada en el BOE el 30 de diciembre de 1978.",
-      "B. En sesiones plenarias del Congreso y del Senado el 30 de octubre de 1978, ratificada por referéndum el 6 de diciembre de 1978, entrando en vigor el 27 de diciembre de 1978.",
-      "C. Por mayoría simple del Congreso y Senado, sancionada por el Rey el 26 de diciembre de 1978 y entró en vigor el 29 de diciembre de 1978.",
-      "D. Por las Cortes Generales en sesiones plenarias el 31 de octubre de 1978, sancionada por el Rey el 27 de diciembre de 1978 y entró en vigor el 29 de diciembre de 1978."
+      "Por mayoría absoluta del Congreso de los Diputados, sancionada por el Rey el 29 de diciembre de 1978 y publicada en el BOE el 30 de diciembre de 1978.",
+      "En sesiones plenarias del Congreso y del Senado el 30 de octubre de 1978, ratificada por referéndum el 6 de diciembre de 1978, entrando en vigor el 27 de diciembre de 1978.",
+      "Por mayoría simple del Congreso y Senado, sancionada por el Rey el 26 de diciembre de 1978 y entró en vigor el 29 de diciembre de 1978.",
+      "Por las Cortes Generales en sesiones plenarias el 31 de octubre de 1978, sancionada por el Rey el 27 de diciembre de 1978 y entró en vigor el 29 de diciembre de 1978."
     ],
     "answer": 3,
     "explicacion": ""
@@ -27,10 +27,10 @@
     "titulos": ["Bloque 0", "Preambulo"],
     "question": "La entrada en vigor de la Constitucion Española se produjo:",
     "options": [
-      "A. El día de su ratificacion por referéndum del pueblo español.",
-      "B. El mismo día de su sancion por el Rey.",
-      "C. El mismo día de la publicacion de su texto oficial en el Boletín Oficial del Estado.",
-      "D. El día siguiente de su publicacion en el Boletín Oficial del Estado."
+      "El día de su ratificacion por referéndum del pueblo español.",
+      "El mismo día de su sancion por el Rey.",
+      "El mismo día de la publicacion de su texto oficial en el Boletín Oficial del Estado.",
+      "El día siguiente de su publicacion en el Boletín Oficial del Estado."
     ],
     "answer": 2,
     "explicacion": ""
@@ -39,10 +39,10 @@
     "titulos": ["Bloque 0", "Preambulo"],
     "question": "¿En qué fecha se ratificó la Constitucion Española por el pueblo español en referéndum?",
     "options": [
-      "A. El 6 de diciembre de 1978.",
-      "B. El 27 de diciembre de 1978.",
-      "C. El 8 de diciembre de 1978.",
-      "D. El 29 de diciembre de 1978."
+      "El 6 de diciembre de 1978.",
+      "El 27 de diciembre de 1978.",
+      "El 8 de diciembre de 1978.",
+      "El 29 de diciembre de 1978."
     ],
     "answer": 0,
     "explicacion": ""
@@ -51,12 +51,48 @@
     "titulos": ["Bloque 0", "Preambulo"],
     "question": "La Constitucion Española de 1978, consta de:",
     "options": [
-      "A. El preámbulo, un título preliminar y once títulos.",
-      "B. El preámbulo, un título preliminar y nueve títulos.",
-      "C. El preámbulo, un título preliminar y diez títulos.",
-      "D. El preámbulo, un título preliminar y doce títulos."
+      "El preámbulo, un título preliminar y once títulos.",
+      "El preámbulo, un título preliminar y nueve títulos.",
+      "El preámbulo, un título preliminar y diez títulos.",
+      "El preámbulo, un título preliminar y doce títulos."
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 0", "Preambulo"],
+    "question": "¿Quién aprobó la Constitución española de 1978?",
+    "options": [
+      "Las Cortes Generales.",
+      "El Congreso de los Diputados.",
+      "El pueblo español.",
+      "El Rey."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 0", "Preambulo"],
+    "question": "¿En qué fecha fue sancionada y promulgada por el Rey la Constitución Española?",
+    "options": [
+      "El 27 de diciembre de 1978.",
+      "El 29 de diciembre de 1978.",
+      "El 31 de octubre de 1978.",
+      "El 6 de diciembre de 1978."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 0", "Preambulo"],
+    "question": "Conforme al Preámbulo, ¿quien ratifica la Constitución Española de 1978?",
+    "options": [
+      "El Rey.",
+      "El pueblo español.",
+      "El Gobierno.",
+      "Las Cortes Generales."
+    ],
+    "answer": 1,
     "explicacion": ""
   }
 ]

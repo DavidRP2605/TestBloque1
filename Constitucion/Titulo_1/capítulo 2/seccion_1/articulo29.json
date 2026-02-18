@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 29"],
     "question": "Conforme al art. 29 de la CE, se reconoce el derecho de peticion a:",
     "options": [
-      "A. Todos los ciudadanos mayores de edad.",
-      "B. Todos los españoles.",
-      "C. Todas las personas que residen en territorio español.",
-      "D. Todas las personas censadas en España."
+      "Todos los ciudadanos mayores de edad.",
+      "Todos los españoles.",
+      "Todas las personas que residen en territorio español.",
+      "Todas las personas censadas en España."
     ],
     "answer": 1,
     "explicacion": ""
@@ -27,10 +27,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 29"],
     "question": "De conformidad con el articulo 29.1 de la Constitucion Española, todos los españoles tendrán el derecho de peticion:",
     "options": [
-      "A. Individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.",
-      "B. Solo de manera individual, por escrito, en la forma y con los efectos que determine la ley.",
-      "C. Solo de manera colectiva, por escrito, en la forma y con los efectos que determine la ley.",
-      "D. En todo caso de manera individual y solo podrán ejercerlo oralmente."
+      "Individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.",
+      "Solo de manera individual, por escrito, en la forma y con los efectos que determine la ley.",
+      "Solo de manera colectiva, por escrito, en la forma y con los efectos que determine la ley.",
+      "En todo caso de manera individual y solo podrán ejercerlo oralmente."
     ],
     "answer": 0,
     "explicacion": ""
@@ -39,10 +39,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 29"],
     "question": "De acuerdo con el artículo 29.2 de la Constitucion Española, ¿Quiénes podrán ejercer el derecho de peticion sólo individualmente y con arreglo a lo dispuesto en su legislacion específica?",
     "options": [
-      "A. Los Magistrados, Jueces y Fiscales.",
-      "B. Los componentes del Tribunal Constitucional y los miembros de las Juntas Electorales.",
-      "C. Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar.",
-      "D. Los altos cargos de la Administracion del Estado que determine la ley, con la excepcion de los miembros del Gobierno."
+      "Los Magistrados, Jueces y Fiscales.",
+      "Los componentes del Tribunal Constitucional y los miembros de las Juntas Electorales.",
+      "Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar.",
+      "Los altos cargos de la Administracion del Estado que determine la ley, con la excepcion de los miembros del Gobierno."
     ],
     "answer": 2,
     "explicacion": ""
@@ -51,12 +51,24 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 29"],
     "question": "Según el artículo 29.2 de la Constitucion Española, ¿Quién ejercerá únicamente el derecho de peticion individualmente?",
     "options": [
-      "A. Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar.",
-      "B. Los funcionarios públicos.",
-      "C. Los miembros del Gobierno.",
-      "D. Las personas que ostenten la condicion de cargos públicos, en el ejercicio de sus derechos personales."
+      "Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar.",
+      "Los funcionarios públicos.",
+      "Los miembros del Gobierno.",
+      "Las personas que ostenten la condicion de cargos públicos, en el ejercicio de sus derechos personales."
     ],
     "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 29"],
+    "question": "Conforme a la Constitución, los miembros de las Fuerzas o Institutos armados, ¿pueden ejercer el derecho de petición?",
+    "options": [
+      "No, en ningún caso.",
+      "Sólo individualmente y con arreglo a lo dispuesto en su legislación especifica.",
+      "Sólo colectivamente y con arreglo a lo dispuesto en su legislación especifica.",
+      "Tanto individual como colectivamente y con arreglo a lo dispuesto en su legislación especifica."
+    ],
+    "answer": 1,
     "explicacion": ""
   }
 ]

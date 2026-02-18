@@ -1,0 +1,119 @@
+¿Por qué causa cesa el Gobierno en su conjunto según el artículo 101 de la Constitución?
+	"Por la aprobación de una moción de censura", -
+	"A instancia del Defensor del Pueblo",
+	"Por el resultado de un referéndum consultivo sobre esa cuestion",
+	"Por la dimisión o fallecimiento de un Vicepresidente"
+
+De los 12 miembros del Tribunal Constitucional, ¿cómo se distribuye la propuesta de nombramiento de estos miembros?
+	"3 por el Congreso, 3 por el Senado, 3 por el Gobierno y 3 por el Consejo General del Poder Judicial.",
+	"4 por el Congreso, 4 por el Senado, 2 por el Gobierno y 2 por el Rey.",
+	"6 por las Cortes Generales, 4 por el Gobierno y 2 por el Consejo General del Poder Judicial.",
+	"4 por el Congreso, 4 por el Senado, 2 por el Gobierno y 2 por el Consejo General del Poder Judicial." -
+
+Ante qué órgano es exigible la responsabilidad criminal del Presidente y los demás miembros del Gobierno?
+	"La Sala de lo Social del Tribunal Supremo",
+	"La Sala de lo Contencioso-Administrativo del Tribunal Supremo",
+	"La Sala de lo Penal del Tribunal Supremo", -
+	"La Sala de lo Civil del Tribunal Supremo"
+
+Conforme al art. 90 de la Constitución, si el Senado veta un proyecto de ley ordinaria, ¿qué mayoría necesita el Congreso para ratificar el texto inicial inmediatamente después del veto?
+	"Mayoría cualificada de dos tercios",
+	"Mayoria simple",
+	"Mayoría cualificada de tres quintos",
+	"Mayoria absoluta" -
+
+Conforme al art 116 de la CE, ¿qué órgano tiene la competencia exclusiva para proponer la declaración del estado de sitio?
+	"El Gobierno", -
+	"El Senado",
+	"Las Cortes Generales",
+	"El Congreso"
+
+De acuerdo con la Constitución y la Ley del Gobierno, ¿cuál de las siguientes facultades NO puede ejercer un Gobierno en funciones?
+	"Declarar el estado de alarma",
+	"Presentar proyectos de ley al Congreso", -
+	"Nombrar y separar a Secretarios de Estado",
+	"Solicitar dictamen al Consejo de Estado"
+
+Conforme al art. 107 de la Constitución, como se define al Consejo de Estado
+	"Delegación institucional de carácter técnico al servicio del Estado.",
+	"Conjunto de Secretarios y Subsecretarios de Estado.",
+	"Supremo órgano consultivo del Gobierno.", -
+	"Entidad dependiente del Consejo de Ministros."
+
+¿Quién refrenda la propuesta y el nombramiento del Presidente del Gobierno, así como la disolución de las Cámaras prevista en el artículo 99 de la Constitución?
+	"El Presidente del Congreso", -
+	"El Presidente del Senado",
+	"El Rey",
+	"El Ministro de la Presidencia"
+
+¿Quiénes componen el Gobierno de España según el artículo 98 de la Constitución?
+	"El Presidente y los Ministros exclusivamente",
+	"El Presidente, los Ministros y los Subsecretarios de cada ministerio",
+	"El Presidente, los Vicepresidentes, los Ministros y los Secretarios de Estado",
+	"El Presidente, los Vicepresidentes en su caso, los Ministros y demás miembros que establezca la ley" -
+    
+Conforme al art. 81 de la Constitución, ¿Qué mayoría se requiere en el Congreso para la aprobación, modificación o derogación de una ley orgánica
+	"Mayoría simple del Congreso en una votación final sobre el conjunto del proyecto",
+	"Mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto", -
+	"Mayoría de tres quintos del Congreso en una votación final sobre el conjunto del proyecto",
+	"Mayoría de dos tercios del Congreso en una votación final sobre el conjunto del proyecto"                
+    
+La iniciativa legislativa popular, según la Constitución, NO puede versar sobre materias...
+	"Propias de ley orgánica, tributarias o de carácter internacional.",  -
+	"Relacionadas con la Administración de Justicia.",
+	"De política económica y presupuestaria.",
+	"Relativas a la organización territorial del Estado."                
+    
+En que situación de cese del Gobierno no se requiere autorización del Rey?
+	"En todas las otras respuestas se requiere autorizacion del Rey.", -
+	"En los suspuestos de pérdidad de confianza parlamentaria.",
+	"El cese motivado por voto de censura.",
+	"El cese de Gobierno por celebración de elecciones."                
+    
+El príncipe heredero de la Corona, ¿debe prestar algún juramento?
+	"Si, a la edad de 14 años debe realizar el mismo juramento que el Rey y su fidelidad a este",
+	"Si, al alcanzar la mayoría de edad debe realizar el mismo juramento que el Rey y su fidelidad a este", -
+	"Si, al ser designado heredero debe realizar el mismo juramento que el Rey y su fidelidad a este.",
+	"No, no debe realizar ningún juramento antes de ser coronado Rey."                
+    
+Conforme a la Constitución, la Regencia (señala la INCORRECTA):
+	"Para poder ser ejercida es preciso ser español.",
+	"Podrá ser ejercida por una persona que será nombrada por las Cortes Generales.",
+	"Se ejercerá por mandato constitucional y siempre en nombre del Rey.",
+	"Podrá ser ejercida por un menor de edad siempre que sea de la familia real."  -                
+    
+Conforme al Titulo II de la Constitución, sobre la Corona:
+	"Todos los actos del Rey estarán siempre refrendados y careceran de validez sin dicho refrendo.",
+	"Solo el Rey puede conceder indultos generales.",
+	"Las abdicaciones y renuncias se resolverán por ley orgánica.", -
+	"Para ejercer la Regencia es preciso ser español, mayor de edad y ser nombrado por las Cortes."                
+    
+Quién tiene la competencia para declarar el estado de excepción en España? (116)
+	"El Congreso, a propuesta exclusiva del Gobierno",
+	"El Gobierno, decretado en Consejo de Ministros, previa autorización del Congreso",  -
+	"El Gobierno, mediante decreto, dando cuenta posteriormente al Congreso",
+	"El Rey, a propuesta del Gobierno, y refrendado por el Presidente del Congreso"                
+    
+Cuál de las siguientes funciones NO corresponde a las Cortes Generales según el artículo 66.2 de la Constitución Española? (62)
+	"Aprobar los Presupuestos Generales del Estado",
+	"Controlar la acción del Gobierno",
+	"Ejercer la potestad legislativa del Estado",
+	"Ejercer la potestad reglamentaria" -                
+    
+Aaaa
+	"",
+	"",
+	"",
+	""                
+    
+Aaaa
+	"",
+	"",
+	"",
+	""                
+    
+Aaaa
+	"",
+	"",
+	"",
+	""                

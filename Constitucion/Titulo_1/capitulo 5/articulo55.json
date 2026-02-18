@@ -370,5 +370,17 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 5", "Articulo 55"],
+    "question": "Según el artículo 55 de la Constitución Española, cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución, podrán ser suspendidos, entre otros derechos, los siguientes:",
+    "options": [
+      "Derechos de libertad de circulación, de libertad de expresión, de asociación y de huelga.",
+      "Derechos de libertad de culto, de libertad de expresión, de reunión y de huelga.",
+      "Derechos de libertad de circulación, de libertad de expresión, de reunión y de huelga.",
+      "Derechos de libertad de circulación, de libertad de expresión, de reunión y de sindicación."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

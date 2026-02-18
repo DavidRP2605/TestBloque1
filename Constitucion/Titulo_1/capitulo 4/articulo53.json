@@ -226,5 +226,29 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 4", "Articulo 53"],
+    "question": "Conforme al art. 53 de la CE, que derecho podrá regularse solo por ley",
+    "options": [
+      "Derecho al acceso a la cultura.",
+      "Derecho a la protección de la salud.",
+      "Derecho a la negociación colectiva laboral.",
+      "Derecho a una vivienda digna adecuada."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 4", "Articulo 53"],
+    "question": "Conforme a la CE, ¿Cuál de los siguientes derechos y libertades es susceptible de recurso de amparo?",
+    "options": [
+      "El derecho de fundación.",
+      "La libertad de empresa en el marco de la enconomía de mercado.",
+      "Derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
+      "El derecho a la libertad de cátedra."
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

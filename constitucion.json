@@ -1,18 +1,18 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo I", "Garantías y Amparo"],
+    "titulos": ["Bloque 1", "General"],
     "question": "En la Constitución Española, las garantías de las libertades y derechos fundamentales se encuentran regulada en:",
     "options": [
-      "A. Capítulo II del Título I.",
-      "B. Capítulo IV del Título I.",
-      "C. Capítulo V del Título I.",
-      "D. Capítulo II del Título II."
+      "Capítulo II del Título I.",
+      "Capítulo IV del Título I.",
+      "Capítulo V del Título I.",
+      "Capítulo II del Título II."
     ],
     "answer": 1,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿Qué artículos forman la sección denominada Derechos fundamentales y libertades públicas?",
     "options": [
       "Los artículos del 14 al 29 ambos inclusive.",
@@ -24,14 +24,14 @@
     "explicacion": "La sección 1ª del Capítulo segundo del Título I de la Constitución Española, denominada 'De los derechos fundamentales y de las libertades públicas', comprende los artículos del 15 al 29, ambos inclusive."
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿En cuántos Capítulos se estructura el Título I de la Constitución española de 1978?",
     "options": ["En cuatro.", "En tres.", "En cinco.", "En seis."],
     "answer": 2,
     "explicacion": "El Título I se divide en cinco capítulos, siendo el segundo el más extenso y subdividido en dos secciones."
   },
   {
-    "titulos": ["Bloque 1", "Titulo I", "Capítulo III"],
+    "titulos": ["Bloque 1", "General"],
     "question": "El Capítulo Tercero del Título Primero de nuestra Constitución, se denomina:",
     "options": [
       "De los derechos y libertades.",
@@ -43,7 +43,7 @@
     "explicacion": "El Capítulo III del Título I se denomina 'De los principios rectores de la política social y económica'."
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "La Sección Segunda del Capítulo Segundo del Título Primero de la Constitución:",
     "options": [
       "Comprende los artículos treinta a cincuenta y dos.",
@@ -55,43 +55,43 @@
     "explicacion": "La Sección Segunda del Capítulo Segundo del Título I de la Constitución Española se titula 'De los derechos y deberes de los ciudadanos' y comprende los artículos 30 al 38."
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿Qué artículo de la Constitución Española trata de la Seguridad Social?",
     "options": [
-      "A. El artículo 41.",
-      "B. El artículo 45.",
-      "C. El artículo 51.",
-      "D. El artículo 54."
+      "El artículo 41.",
+      "El artículo 45.",
+      "El artículo 51.",
+      "El artículo 54."
     ],
     "answer": 0,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿Cuál de los siguientes derechos recogidos en el Capítulo Segundo del Título I de la Constitución Española NO forma parte de los Derechos Fundamentales y Libertades públicas (Artículos 15 a 29)?",
     "options": [
-      "A. Derecho a sindicarse libremente.",
-      "B. Derecho a la propiedad privada.",
-      "C. Derecho a la producción y creación literaria, artística, científica y técnica.",
-      "D. Derecho a elegir libremente su residencia."
+      "Derecho a sindicarse libremente.",
+      "Derecho a la propiedad privada.",
+      "Derecho a la producción y creación literaria, artística, científica y técnica.",
+      "Derecho a elegir libremente su residencia."
     ],
     "answer": 1,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "Según la Constitución española de 1978, NO es un derecho fundamental el derecho a la:",
     "options": [
-      "a) Vivienda.",
-      "b) Libertad sindical.",
-      "c) Libertad ideológica.",
-      "d) Educación."
+      "Vivienda.",
+      "Libertad sindical.",
+      "Libertad ideológica.",
+      "Educación."
     ],
     "answer": 0,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "La suspensión de los derechos y libertades se encuentra regulada en la CE en:",
     "options": [
       "a) En el Capítulo III del Título I.",
@@ -103,7 +103,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "En la Constitución Española, las garantías de las libertades y derechos fundamentales se encuentran regulada en:",
     "options": [
       "A. Capítulo II del Título I.",
@@ -115,7 +115,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿Qué articulo del Titulo I recoge la regulación de la suspensión de los derechos y libertades?",
     "options": [
       "A. El articulo 54.",
@@ -127,7 +127,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 0"],
+    "titulos": ["Bloque 1", "General"],
     "question": "Una de las siguientes materias no es regulada en el Título Preliminar de la Constitución Española:",
     "options": [
       "A. Las Asociaciones de Empresarios.",
@@ -139,7 +139,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 0"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿Qué artículo de la Constitución regula la bandera de España?",
     "options": [
       "El artículo 4.",
@@ -151,19 +151,19 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 0"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿En qué articulo de la Constitucion se establece que tanto los ciudadanos como los poderes públicos están sujetos a la Constitucion y al resto del ordenamiento jurídico?:",
     "options": [
-      "A. En el articulo 9.1.",
-      "A. En el articulo 9.2.",
-      "D. En el articulo 1.2",
-      "D. En el articulo 1.1"
+      "En el articulo 9.1.",
+      "En el articulo 9.2.",
+      "En el articulo 1.2",
+      "En el articulo 1.1"
     ],
     "answer": 0,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 0"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿Qué parte de la estructura de la Constitucion Española contiene los principios que inspiran al Estado y los derechos fundamentales?",
     "options": [
       "El Preámbulo",
@@ -175,31 +175,31 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 0"],
+    "titulos": ["Bloque 1", "General"],
     "question": "En qué parte de la estructura de la Constitucion se encuentran los principios que definen la forma politica y territorial del Estado, como la soberania nacional y la capitalidad?",
     "options": [
-      "A. La parte Organica",
-      "B. El Titulo Preliminar",
-      "C. El Titulo I",
-      "D. El Preambulo"
+      "La parte Organica",
+      "El Titulo Preliminar",
+      "El Titulo I",
+      "El Preambulo"
     ],
     "answer": 1,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "Cual de los siguientes derechos se encuentra en la seccion 2ª del Capitulo II del Titulo I, relativa a 'De los derechos y deberes de los ciudadanos'",
     "options": [
-      "A. El derecho a la vida",
-      "B. La objecion de conciencia al servicio militar",
-      "C. El derecho de asociacion",
-      "D. La libertad y seguridad"
+      "El derecho a la vida",
+      "La objecion de conciencia al servicio militar",
+      "El derecho de asociacion",
+      "La libertad y seguridad"
     ],
     "answer": 1,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "Cual NO es un derecho fundamental?",
     "options": [
       "A. Derecho a la vida y a la integridad fisica y moral.",
@@ -211,7 +211,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 0"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿Qué parte de la Constitucion Española NO tiene valor normativo o fuerza juridica?",
     "options": [
       "A. El Titulo Preliminar",
@@ -223,7 +223,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Título I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "De conformidad con la Constitución Española, ¿A qué edad los españoles son mayores de edad y en qué artículo de la Constitución se establece?",
     "options": [
       "A. A los dieciocho años (artículo trece)",
@@ -235,7 +235,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿En que articulo de la Constitucion se regula el derecho a la clausula de conciencia y al secreto profesional?",
     "options": [
       "A. En el articulo 19.",
@@ -247,7 +247,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿Que articulo de la Constitucion Española de 1978 contiene el derecho a la libertad y seguridad individual?",
     "options": [
       "A. En el articulo 21.",
@@ -259,7 +259,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿En que articulo de la Constitucion Española se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegraficas y telefonicas, salvo resolucion judicial?",
     "options": [
       "A. En el articulo 18.",
@@ -271,7 +271,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿En qué articulo de la Constitucion Española se indica que: la ley regulara el derecho a la clausula de conciencia y al secreto profesional?",
     "options": [
       "A. En el articulo 19.",
@@ -283,7 +283,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿En qué articulo de la Constitucion Española se consagra el derecho a la vida y a la integridad fisica y moral?",
     "options": [
       "A. En el articulo 10.",
@@ -295,7 +295,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿En qué articulo de la Constitucion Española viene recogido que la ley regulará un procedimiento de \"habeas corpus\" para producir la inmediata puesta a disposicion judicial de toda persona detenida ilegalmente?",
     "options": [
       "A. En el articulo 16.3.",
@@ -307,7 +307,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo I"],
+    "titulos": ["Bloque 1", "General"],
     "question": "De conformidad con el articulo 22 de la Constitucion Española, el reconocimiento del derecho de asociacion, está incluido en:",
     "options": [
       "A. En el capitulo II, seccion primera del Titulo I de la CE.",
@@ -319,7 +319,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 1"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿De qué trata el Título Primero de la Constitucion Española de 1978?",
     "options": [
       "A. De los principios generales del Estado.",
@@ -331,27 +331,178 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 1"],
+    "titulos": ["Bloque 1", "General"],
     "question": "¿De qué trata el Título Segundo de la Constitucion Española?",
     "options": [
-      "A. De las Cortes Generales.",
-      "B. De la Corona.",
-      "C. De los derechos y deberes fundamentales.",
-      "D. Del Gobierno y de la Administracion."
+      "De las Cortes Generales.",
+      "De la Corona.",
+      "De los derechos y deberes fundamentales.",
+      "Del Gobierno y de la Administracion."
     ],
     "answer": 1,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 1"],
+    "titulos": ["Bloque 1", "General"],
     "question": "El Título Décimo de la Constitucion Española trata:",
     "options": [
-      "A. De la Reforma Constitucional.",
-      "B. Del Tribunal Constitucional.",
-      "C. De la Organizacion Territorial del Estado.",
-      "D. De Economía y Hacienda."
+      "De la Reforma Constitucional.",
+      "Del Tribunal Constitucional.",
+      "De la Organizacion Territorial del Estado.",
+      "De Economía y Hacienda."
     ],
     "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Señale la respuesta correcta en relación a la estructura de la Constitución Española:",
+    "options": [
+      "Todos los Títulos están divididos en Capítulos.",
+      "Todos los Títulos se dividen en Capítulos que a su vez se dividen en Secciones.",
+      "Algunos Títulos están divididos en Capitulos.",
+      "Algunos Títulos están divididos en Secciones."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Según la Constitución el derecho de asociación:",
+    "options": [
+      "Es un derecho fundamental.",
+      "Es un derecho y un deber.",
+      "Es un derecho de la Sección 2ª.",
+      "Es un principio rector de la política social y económica."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Según el Título I, Capítulo Cuarto, “De las garantías de las libertades y derechos fundamentales” de la Constitución Española de 1978, señale la opción correcta:",
+    "options": [
+      "Los derechos y libertades reconocidos no vinculan a todas las Administraciones Públicas.",
+      "Una ley orgánica regulará la institución del Defensor del Pueblo.",
+      "Sólo por ley orgánica podrá regularse el ejercicio de tales derechos y libertades.",
+      "Cualquier español podrá recabar la tutela de las libertades y derechos."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "¿En cuántas partes se estructura la Constitución española de 1978?",
+    "options": [
+      "En dos partes: orgánica y estructural.",
+      "En dos partes: dogmática y orgánica.",
+      "En tres partes: orgánica, dogmática y estructural.",
+      "En dos partes: dogmática y estructural."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Según la Constitución, ¿qué meses no se incluyen dentro de los períodos ordinarios de reunión de las Cámaras?",
+    "options": [
+      "Enero, Julio y Agosto.",
+      "Enero, Junio y Julio.",
+      "Junio, Julio y Agosto.",
+      "Julio, Agosto y Septiembre."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "El Defensor del Pueblo se regula por la Ley Orgánica 3/1981, de 6 de abril. La figura del Defensor del Pueblo se instituye por la Constitución en su artículo:",
+    "options": ["54.", "55.", "44.", "45."],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Que derechos fundamentales se suspenden durante el estado de alarma.",
+    "options": [
+      "Derecho de reunión.",
+      "Derecho a la inviolabilidad del domicilio.",
+      "Durante el estado de alarma no se permite la suspensión de ningún derecho fundamental.",
+      "Derecho a la libertad de circulación."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Señala la CORRECTA. Sobre los derechos y libertades de la Sección II, Capítulo I del Título I de la Constitución:",
+    "options": [
+      "Están protegidos por un procedimiento preferente y sumario ante todos los tribunales ordinarios.",
+      "Están tutelados por el recurso de amparo.",
+      "Para su reforma ha de seguirse el procedimiento del art. 168 de esta Constitución.",
+      "Su ejercicio solo podrá regularse por ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Conforme a la CE, ¿cual de los siguientes derechos y libertades es susceptible de recurso de amparo?",
+    "options": [
+      "El derecho de fundación.",
+      "La libertad de empresa en el marco de la enconomía de mercado.",
+      "Derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
+      "El derecho a la libertad de cátedra."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "El Título Preliminar y el Título I de la Constitución conforman:",
+    "options": [
+      "La parte ideológica de la Constitución.",
+      "La parte orgánica de la Constitución.",
+      "La parte dogmática de la Constitución.",
+      "La parte pragmática de la Constitución."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "¿Que Titulo de la Constitución regula el Gobierno?",
+    "options": [
+      "Título II.",
+      "Título III.",
+      "Título V.",
+      "Título IV."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
     "explicacion": ""
   }
 ]

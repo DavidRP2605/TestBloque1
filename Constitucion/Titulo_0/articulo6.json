@@ -94,5 +94,17 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 0", "Capitulo 0", "Articulo 6"],
+    "question": "Señala la INCORRECTA. Conforme a la Constitución, los partidos políticos:",
+    "options": [
+      "Son instrumento fundamental para la participación política.",
+      "Contribuyen a la defensa y promoción de los interes económicos y sociales que les son propios.",
+      "Expresan el pluralismo político",
+      "Concurren a la manifestación de la voluntad popular."
+    ],
+    "answer": 1,
+    "explicacion": ""
   }
 ]
