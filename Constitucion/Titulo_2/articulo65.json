@@ -1,0 +1,134 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "De conformidad con el artículo 65.2 de la Constitución, ¿Quién nombra y releva libremente a los miembros civiles y militares de la Casa Real?",
+    "options": [
+      "Las Cortes Generales.",
+      "El Rey.",
+      "El Presidente del Gobierno, y en su caso los Ministros competentes.",
+      "El Ministro del Interior."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "De conformidad con el artículo 65.2 de la Constitución, ¿Cuál de los siguientes actos puede realizar el Rey sin refrendo?",
+    "options": [
+      "La propuesta y el nombramiento del Presidente del Gobierno.",
+      "Nombrar y relevar a los miembros civiles y militares de su Casa.",
+      "La disolución prevista en el artículo 99.",
+      "Todos los actos del Rey estarán siempre refrendados sin ninguna excepción."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "De conformidad con el artículo 65.2 de la Constitución, referente al nombramiento de los miembros de la Casa Real:",
+    "options": [
+      "Se realiza por Decreto acordado en el Consejo de Ministros, a propuesta del Rey.",
+      "Se efectúa por Ley Orgánica.",
+      "Se lleva a cabo libremente por el Rey respecto a los miembros civiles de su Casa, los miembros militares de la misma son designados por el Ministerio de Defensa.",
+      "Se efectúa libremente por el Rey, tanto respecto a los miembros civiles como a los militares de su Casa."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "En virtud del artículo 65.1 de la Constitución, el Rey recibe de los Presupuestos del Estado una cantidad global:",
+    "options": [
+      "Para el sostenimiento de su Familia y Casa, y distribuye libremente la misma.",
+      "Para el sostenimiento de su Familia y Casa, y distribuye libremente la misma con la supervisión anual del Tribunal de Cuentas.",
+      "Para el sostenimiento de su Familia y Casa, y distribuye libremente la misma conforme a las partidas o conceptos de gastos determinados legalmente.",
+      "Para la satisfacción de los gastos inherentes a sus labores representativas del Estado en el extranjero."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "En virtud del artículo 65.2 de la Constitución Española ¿Cuál de las siguientes funciones está atribuida expresamente al Rey?",
+    "options": [
+      "Nombra y releva libremente a los miembros civiles y militares de su Casa.",
+      "Elaborar los Presupuestos de su Casa y Familia y remitirlos a las Cortes Generales.",
+      "Elaborar los Presupuestos Generales del Estado.",
+      "Representar al pueblo español."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "En virtud del artículo 65.2 de la Constitución, el Rey tiene absolutos poderes discrecionales, sin necesidad de ser refrendados sus actos, en:",
+    "options": [
+      "El nombramiento y relevo de los miembros civiles y militares de su Casa.",
+      "El matrimonio de los sucesores a la Corona, sin necesidad de intervención de las Cortes Generales.",
+      "La determinación de la cuantía de la dotación presupuestaria para el sostenimiento de su Casa y Familia, y el nombramiento y relevo de los miembros civiles y militares de su Casa.",
+      "La determinación de la cuantía de la dotación presupuestaria para el sostenimiento de su Casa y Familia."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "De conformidad con el artículo 65.2 de la Constitución Española, los miembros civiles y militares de la Casa del Rey, son:",
+    "options": [
+      "Nombrados y relevados por el Rey, con consentimiento de su consorte.",
+      "Nombrados y relevados por las Cortes Generales, en nombre del Rey.",
+      "Nombrados y relevados libremente por éste.",
+      "Nombrados y relevados por el Rey, en nombre de las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "De conformidad con la Constitución Española, los actos del Rey no refrendados:",
+    "options": [
+      "Sólo serán válidos si se refieren a las actuaciones comprendidas en el artículo 62 de la Constitución.",
+      "Sólo serán válidos si se refieren a las actuaciones comprendidas en el artículo 65.2 de la Constitución.",
+      "No serán válidos en ningún caso.",
+      "Serán válidos en cualquier caso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "Según el artículo 65.1 de la Constitución Española, ¿Cómo distribuye el Rey la cantidad global que recibe de los Presupuestos del Estado?",
+    "options": [
+      "A partes iguales entre su Familia y Casa.",
+      "Libremente entre su Familia y Casa.",
+      "Entre los miembros civiles y militares de su Casa, según las cuantías establecidas en la Ley de Presupuestos.",
+      "Entre su Familia y Casa, en los términos establecidos por una ley orgánica."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "Respecto a la forma en el que el Rey puede distribuir el dinero que recibe para el sostenimiento de su Familia y Casa, el artículo 65 de la Constitución determina que:",
+    "options": [
+      "Responderá a lo establecido en la ley.",
+      "Lo podrá distribuir libremente.",
+      "Respetará las directrices de las Cortes Generales.",
+      "Conforme a lo que se recoja en la Ley de Presupuestos Generales del Estado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 65"],
+    "question": "Atendiendo a lo establecido en el artículo 65 de la Constitución, ¿de dónde recibe el Rey la cantidad global para el sostenimiento de su familia y casa?",
+    "options": [
+      "Del Congreso.",
+      "De los presupuestos del Estado.",
+      "De las Cortes Generales.",
+      "Del Gobierno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

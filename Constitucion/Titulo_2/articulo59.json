@@ -1,0 +1,254 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De conformidad con el artículo 59.2 de la Constitución, ¿Quién debe reconocer la imposibilidad del Rey si se inhabilitare para ejercicio de su autoridad?",
+    "options": [
+      "El Gobierno.",
+      "El Congreso de los Diputados.",
+      "Las Cortes Generales.",
+      "El Consejo de Ministros, a propuesta de su Presidente."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De acuerdo con el artículo 59.1 de la Constitución, cuando el Rey fuere menor de edad, entrará a ejercer inmediatamente la Regencia y la ejercerá durante el tiempo de la minoría de edad del Rey:",
+    "options": [
+      "El padre o la madre del Rey mientras permanezcan viudos y, en su defecto el pariente de mayor de edad más próximo a suceder en la Corona.",
+      "El padre o la madre del Rey y, en su defecto el pariente mayor de edad más próximo a suceder en la Corona.",
+      "El padre o la madre del Rey y, en su defecto el pariente de mayor de edad más remoto a suceder en la Corona.",
+      "El padre o la madre del Rey mientras permanezcan viudos y, en su defecto el pariente de mayor de edad más remoto a suceder en la Corona."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De conformidad con el artículo 59.5 de la Constitución, la Regencia se ejercerá por mandato constitucional y:",
+    "options": [
+      "Siempre en nombre del pueblo español.",
+      "Siempre en nombre de la Nación española.",
+      "Siempre en nombre del Rey.",
+      "Siempre en nombre de la Constitución."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "En virtud del artículo 59 de la Constitución, ¿Qué tipos de Regencia existen?",
+    "options": [
+      "Dativa exclusivamente.",
+      "Dativa y representativa.",
+      "Dativa y legítima.",
+      "Legítima y por sucesión."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "En relación con el artículo 59.2 de la Constitución, si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia:",
+    "options": [
+      "La persona propuesta por el Presidente del Gobierno.",
+      "El Príncipe heredero de la Corona, si fuere mayor de edad.",
+      "La persona nombrada por las Cortes Generales.",
+      "El pariente de menor edad más próximo a suceder en la Corona."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De conformidad con el artículo 59.3 de la Constitución, si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por:",
+    "options": [
+      "Las Cortes Generales, y se compondrá de una, tres o cinco personas.",
+      "Las Cortes Generales, y se compondrá de una, dos o cuatro personas.",
+      "El Gobierno, y se compondrá de una, tres o cinco personas.",
+      "El Gobierno, y se compondrá de una, dos o cuatro personas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "En relación con el artículo 59.2 de la Constitución, ¿Quién es llamado en primer lugar en caso de que se deba declarar la Regencia por inhabilitación del Rey?",
+    "options": [
+      "El Príncipe heredero de la Corona, en cualquier caso.",
+      "El Príncipe heredero de la Corona, si fuere mayor de edad.",
+      "El pariente mayor de edad más próximo a suceder en la Corona.",
+      "El padre o la madre del Rey."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De conformidad con el artículo 59.1 de la Constitución, cuando el Rey fuere menor de edad, la Regencia:",
+    "options": [
+      "Sólo podrá ser ejercida por el padre o por la madre del Rey.",
+      "Se ejercerá durante el tiempo de la minoría de edad del Rey.",
+      "Nunca podrá ser desempeñada por pariente alguno, mayor de edad, distinto de los progenitores.",
+      "Comenzará a ejercerse dentro de los seis primeros meses desde que se produjera el hecho que dio origen a la necesidad."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De conformidad con el artículo 59.2 de la Constitución, la inhabilitación del Rey se reconoce por:",
+    "options": [
+      "El Tribunal Constitucional.",
+      "El Gobierno.",
+      "El Congreso.",
+      "Las Cortes Generales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "En virtud del artículo 59.1 de la Constitución, en el supuesto de que el Rey fuere menor de edad, entrará a ejercer la Regencia en defecto del padre o madre:",
+    "options": [
+      "El Regente y tutor, en todo caso.",
+      "El pariente mayor de edad más próximo a suceder la Corona.",
+      "El representante legal elegido por las Cortes Generales.",
+      "El Príncipe heredero."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De acuerdo con el artículo 59.5 de la Constitución, la Regencia se ejercerá:",
+    "options": [
+      "Por mandato soberano y siempre en nombre del Rey.",
+      "Por mandato constitucional y siempre en nombre del Rey.",
+      "Por mandato real y siempre en nombre del Rey.",
+      "Por mandato popular y siempre en nombre del Rey."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "En relación con el artículo 59 de la Constitución, en caso de inhabilitación del Rey para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, si fuere el Príncipe heredero menor de edad:",
+    "options": [
+      "Ejerce la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más remoto a suceder en la Corona.",
+      "El designado Regente lo será hasta que el Príncipe Heredero acceda a la condición de Rey.",
+      "Ejerce la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona.",
+      "Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por el Gobierno, y se compondrá de una tres o cinco personas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "Según el artículo 59 de la Constitución Española, si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia:",
+    "options": [
+      "El Presidente del Gobierno.",
+      "El Presidente de las Cortes Generales.",
+      "La Princesa heredera de la Corona, si fuere mayor de edad.",
+      "La Princesa heredera de la Corona, aunque fuere menor de edad."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "Según el artículo 59.4 de la Constitución Española, para ejercer la Regencia de la Corona se requiere:",
+    "options": [
+      "Ser español, mayor de edad y estar en pleno ejercicio de los derechos civiles.",
+      "Ser mayor de edad.",
+      "Ser español y mayor de edad.",
+      "Ser español, mayor de edad y diputado en las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "Según el artículo 59.3 de la Constitución Española, ¿Podrá la Regencia, cuando sea nombrada por las Cortes Generales, tener carácter colegiado?",
+    "options": [
+      "Sí, se compondrá de una, tres o cinco personas",
+      "No, siempre tendrá carácter unipersonal",
+      "Sí, se compondrá de una, dos o tres personas",
+      "Sí, se compondrá de tres personas de las que una de ellas será forzosamente el Presidente del Congreso de los Diputados"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De acuerdo con el artículo 59.5 de la Constitución Española, la Regencia se ejercerá",
+    "options": [
+      "Por mandato constitucional y siempre en nombre del Príncipe heredero",
+      "Por mandato imperativo y siempre en nombre de las Cortes Generales",
+      "Por mandato constitucional y siempre en nombre del Rey",
+      "Con total autonomía y siempre en nombre del propio Regente"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "De conformidad con lo recogido en el artículo 59 de la Constitución, para ejercer la Regencia será necesario:",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "Ser pariente del Rey.",
+      "Ser español de origen.",
+      "Ser mayor de edad."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "¿Contempla la Constitución la necesidad de que se sea español para ejercer la Regencia?",
+    "options": [
+      "Sí, o en su caso nacional de algún país de la Unión Europea.",
+      "Sí.",
+      "No.",
+      "Sí, pero sólo español de origen."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "Según el artículo 59, ¿cuál de las siguientes opciones se ejercerá en nombre del Rey?",
+    "options": [
+      "La potestad reglamentaria.",
+      "Todas las respuestas son correctas.",
+      "La potestad legislativa.",
+      "La Regencia."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "Según el artículo 59 de la Constitución, son requisitos para ejercer la Regencia:",
+    "options": [
+      "Ser español y mayor de edad.",
+      "La previa aprobación del Consejo de Estado.",
+      "La previa aprobación del Rey.",
+      "La aprobación por referéndum."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 59"],
+    "question": "El artículo 59 de la Constitución determina que, en el caso de no existir ninguna persona a quien corresponda la Regencia, la misma será nombrada por:",
+    "options": [
+      "El Presidente del Gobierno.",
+      "El Consejo de Estado.",
+      "Las Cortes Generales.",
+      "El Rey."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

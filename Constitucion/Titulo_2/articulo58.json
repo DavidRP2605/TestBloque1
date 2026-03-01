@@ -1,0 +1,62 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 58"],
+    "question": "Según el artículo 58 de la Constitución, la Reina consorte o el consorte de la Reina:",
+    "options": [
+      "Podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.",
+      "No podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.",
+      "Podrán asumir funciones constitucionales, salvo lo dispuesto para la tutela.",
+      "No podrán asumir funciones constitucionales, salvo lo dispuesto para la tutela."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 58"],
+    "question": "De conformidad con el artículo 58 de la Constitución, la Reina consorte o el consorte de la Reina:",
+    "options": [
+      "Podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.",
+      "Podrán asumir funciones constitucionales, salvo lo dispuesto para la tutoría del Rey menor.",
+      "No podrán asumir funciones constitucionales, salvo lo dispuesto para la tutoría del Rey menor.",
+      "No podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 58"],
+    "question": "De conformidad con el artículo 58 de la Constitución, las funciones constitucionales correspondientes al titular de la Corona:",
+    "options": [
+      "Nunca podrán ser asumidas por la Reina Consorte.",
+      "No podrán ser asumidas por la Reina consorte ni por el consorte de la Reina, salvo en lo dispuesto para la Regencia.",
+      "Se asumirán en cualquier caso por el consorte de la Reina.",
+      "Podrán ser asumidas en casos de extraordinaria y urgente necesidad tanto por la Reina consorte como por el consorte de la Reina."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 58"],
+    "question": "De conformidad con el artículo 58 de la Constitución, ¿en qué casos podrá la Reina consorte o el consorte de la Reina asumir funciones constitucionales?",
+    "options": [
+      "En ningún caso.",
+      "En la Regencia.",
+      "Cuando sea tutor/a.",
+      "En todo caso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 58"],
+    "question": "En virtud del artículo 58 de la Constitución, el siguiente cargo no podrá asumir las funciones constitucionales inherentes a la corona:",
+    "options": [
+      "Los tutores.",
+      "El Príncipe heredero.",
+      "El regente.",
+      "La Reina consorte."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

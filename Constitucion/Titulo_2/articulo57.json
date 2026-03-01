@@ -3,10 +3,10 @@
     "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
     "question": "Conforme al art. 57 de la Constitucion, si una persona con derecho a la sucesion en el trono contrae matrimonio en contra de la prohibicion expresa del Rey y de las Cortes Generales...",
     "options": [
-      "A. Perdera el derecho de sucesion, pero no sus descendientes inmediatos.",
-      "B. Quedara excluida de la sucesion a la Corona por si y sus descendientes inmediatos.",
-      "C. El Rey podra anular el matrimonio y mantener el derecho de sucesion.",
-      "D. Sera excluida solo si el matrimonio ha sido declarado nulo por sentencia judicial."
+      "Perdera el derecho de sucesion, pero no sus descendientes inmediatos.",
+      "Quedara excluida de la sucesion a la Corona por si y sus descendientes inmediatos.",
+      "El Rey podra anular el matrimonio y mantener el derecho de sucesion.",
+      "Sera excluida solo si el matrimonio ha sido declarado nulo por sentencia judicial."
     ],
     "answer": 1,
     "explicacion": ""
@@ -15,12 +15,324 @@
     "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
     "question": "En caso de que las lineas llamadas en derecho a la sucesion se extinguieran, ¿como se resolveria la sucesion a la Corona?",
     "options": [
-      "A. El Gobierno proveera a la sucesion a la Corona en la forma que mas convenga a los intereses de España.",
-      "B. Se iniciara un procedimiento de reforma constitucional para designar una nueva dinastia.",
-      "C. Las Cortes Generales proveeran a la sucesion en la Corona en la forma que mas convenga a los intereses de España.",
-      "D. El Principe heredero, o su descendiente mas cercano, asumira la Jefatura del Estado hasta que las Cortes decidan."
+      "El Gobierno proveera a la sucesion a la Corona en la forma que mas convenga a los intereses de España.",
+      "Se iniciara un procedimiento de reforma constitucional para designar una nueva dinastia.",
+      "Las Cortes Generales proveeran a la sucesion en la Corona en la forma que mas convenga a los intereses de España.",
+      "El Principe heredero, o su descendiente mas cercano, asumira la Jefatura del Estado hasta que las Cortes decidan."
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "Según el artículo 57.1 de la Constitución, ¿Qué carácter tiene la Corona de España?",
+    "options": [
+      "Es hereditaria y constitucional en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica.",
+      "Es hereditaria y regular en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica.",
+      "Es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica.",
+      "Es hereditaria y formal en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De acuerdo con el artículo 57.5 de la Constitución, ¿Cómo se resolverán las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona?",
+    "options": [
+      "Por ley ordinaria.",
+      "Por Real Decreto.",
+      "Por Decreto Ley.",
+      "Por ley orgánica."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "En virtud del artículo 57.1 de la Constitución, en el mismo grado, referente a la sucesión a la Corona de España, se preferirá:",
+    "options": [
+      "La línea anterior a las posteriores.",
+      "El grado más próximo al más remoto.",
+      "El varón a la mujer.",
+      "La persona de más edad a la de menos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.1 de la Constitución, la sucesión en el trono de España:",
+    "options": [
+      "Seguirá el orden especial de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores.",
+      "Seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea posterior a las anteriores.",
+      "Seguirá el orden especial de primogenitura y representación, siendo preferida siempre la línea posterior a las anteriores.",
+      "Seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.4 de la Constitución, aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales:",
+    "options": [
+      "Quedarán excluidas en la sucesión a la Corona sólo sus descendientes.",
+      "No quedarán excluidas en la sucesión a la Corona por sí pero sí quedarán excluidas en la sucesión a la Corona sus descendientes.",
+      "Quedarán excluidas en la sucesión a la Corona por sí pero no quedarán excluidas en la sucesión a la Corona sus descendientes.",
+      "Quedarán excluidas en la sucesión a la Corona por sí y sus descendientes."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De acuerdo con el artículo 57.2 de la Constitución, el Príncipe heredero, tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España:",
+    "options": [
+      "Desde que le sean concedidos por las Cortes Generales.",
+      "Desde que así se le atribuyan por el titular de la Corona.",
+      "Desde su nacimiento o desde que se produzca el hecho que origine el llamamiento.",
+      "Exclusivamente desde su nacimiento."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.4 de la Constitución, quedarán excluidas en la sucesión a la Corona por sí y sus descendientes:",
+    "options": [
+      "Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Gobierno.",
+      "Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y del Gobierno.",
+      "Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y del Presidente del Gobierno.",
+      "Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.1 de la Constitución, la sucesión en el trono a la Corona de España, seguirá el orden regular de primogenitura y representación. Dentro de la misma línea se preferirá:",
+    "options": [
+      "El grado más próximo al más remoto.",
+      "El varón a la mujer.",
+      "El grado más remoto al más próximo.",
+      "La persona de más edad a la de menos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "Según el artículo 57.1 de la Constitución, la sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre:",
+    "options": [
+      "La línea posterior a las anteriores.",
+      "La línea anterior a las posteriores.",
+      "La colateral sobre la indirecta.",
+      "La colateral sobre la secundaria."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.1 de la Constitución ¿Qué grado es preferido en el caso de que se dé un supuesto de igualdad de línea?",
+    "options": [
+      "El grado más próximo al más remoto.",
+      "La Constitución no establece ese supuesto.",
+      "El grado más directo al indirecto.",
+      "El grado más remoto al más cercano."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "En virtud del artículo 57.1 de la Constitución, la sucesión en el trono seguirá el orden:",
+    "options": [
+      "Regular de primogenitura y representación.",
+      "De preferencia por la mujer sobre el varón.",
+      "De preferencia por las líneas posteriores a las anteriores.",
+      "De preferencia por el grado más remoto al más próximo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "En virtud del artículo 57.5 de la Constitución, se resolverán por una ley orgánica:",
+    "options": [
+      "Sólo las abdicaciones a la Corona.",
+      "Sólo las dudas de hecho o de derecho que ocurran en el orden de sucesión a la Corona.",
+      "Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona.",
+      "Sólo las renuncias a la Corona."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.1 de la Constitución, la Corona de España es hereditaria en los sucesores de:",
+    "options": [
+      "S.M. Don Felipe de Borbón y Grecia, legítimo heredero de la dinastía histórica.",
+      "S.M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica.",
+      "S.M. Don Alfonso XIII, legítimo heredero de la dinastía histórica.",
+      "S.M. Don Juan de Borbón, Conde de Barcelona, legítimo heredero de la dinastía histórica."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.1 de la Constitución, ¿Cuál de los siguientes principios se aplica a la Sucesión?",
+    "options": [
+      "El principio de prioridad.",
+      "El principio de asunción.",
+      "El principio de representación.",
+      "El principio de igualdad."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.3 de la Constitución, extinguidas todas las líneas llamadas en Derecho:",
+    "options": [
+      "Las Cortes Generales proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España.",
+      "Actuarán los nombrados por el Rey difunto.",
+      "El Gobierno proveerá a la sucesión en la Corona en la forma que más convenga a los intereses de España.",
+      "Ejercerán sus funciones los Regentes."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De acuerdo con el artículo 57.4 de la Constitución Española, quedarán automáticamente excluidas en la sucesión a la Corona por sí y sus descendientes aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición:",
+    "options": [
+      "Del Rey.",
+      "Del Rey y del Consejo de Ministros.",
+      "Del Rey y de las Cortes Generales.",
+      "De las Cortes Generales, mediante ley orgánica."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.1 de la Constitución Española, la Corona de España es",
+    "options": [
+      "Hereditaria",
+      "Designada por las Cortes",
+      "Representativa",
+      "Elegida democráticamente"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.1 de la Constitución Española, la sucesión en el trono seguirá el orden regular de",
+    "options": [
+      "Parentesco y designación",
+      "Mérito y capacidad",
+      "Primogenitura y representación",
+      "Tradición y realeza"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con el artículo 57.1 de la Constitución Española, ¿Cuál es el orden de los factores determinantes en la sucesión?",
+    "options": [
+      "Grado, línea, sexo y edad",
+      "Edad, grado, línea y sexo",
+      "Línea, grado, sexo y edad",
+      "Sexo, grado, línea y edad"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De acuerdo con el artículo 57.2 de la Constitución Española, ¿Qué dignidad tendrá el Príncipe heredero desde su nacimiento o desde que se produzca el hecho que origine el llamamiento?",
+    "options": [
+      "Príncipe de Barcelona",
+      "Príncipe de Asturias",
+      "Príncipe de Castilla",
+      "Príncipe de España"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "Según el artículo 57.3 de la Constitución Española, ¿Quién proveerá a la sucesión en la Corona si se extinguen todas las líneas llamadas en derecho?",
+    "options": [
+      "Las Cortes Generales",
+      "El Consejo de Estado",
+      "El Gobierno",
+      "El Tribunal Constitucional"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De acuerdo a la Constitución, y respecto a lo relativo a la sucesión del Rey comprendida en el artículo 57, ¿qué extremos deben ser regulados mediante Ley Orgánica?",
+    "options": [
+      "Las abdicaciones y renuncias.",
+      "La determinación del sucesor.",
+      "La regulación del orden sucesorio.",
+      "Todas las respuestas son ciertas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De acuerdo con el artículo 57 de la Constitución, 'La corona de España es...",
+    "options": [
+      "...estamental (...).",
+      "...hereditaria (...).",
+      "...democrática (...).",
+      "...parlamentaria (...)."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De conformidad con lo recogido en el artículo 57 de la CE, señale la respuesta correcta en relación con el supuesto en que aquellas personas que, teniendo derecho a la sucesión en el trono, contrajeran matrimonio contra la expresa prohibición del Rey y las Cortes Generales:",
+    "options": [
+      "No podrán asumir funciones constitucionales.",
+      "Quedan excluidas en la sucesión a la Corona.",
+      "Quedan excluidas en la sucesión a la Corona por sí, sus antecedentes y descendientes.",
+      "Extinguirán todas las líneas de derecho."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "Según la literalidad del precepto constitucional del artículo 57, en la sucesión al trono:",
+    "options": [
+      "Dentro del mismo sexo, se preferirá la persona de menor edad a la de mayor edad.",
+      "Se preferirá la línea anterior a la posterior.",
+      "Se preferirá, en la misma línea, el más remoto al más próximo.",
+      "Todas las respuestas son incorrectas."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 57"],
+    "question": "De acuerdo al artículo 57 de la Constitución, ¿a qué tipo de norma corresponde determinar las dudas de hecho o de derecho que ocurra en el orden de sucesión a la Corona?",
+    "options": [
+      "Ley orgánica.",
+      "Ley.",
+      "Real decreto.",
+      "Las Cortes Generales."
+    ],
+    "answer": 0,
     "explicacion": ""
   }
 ]

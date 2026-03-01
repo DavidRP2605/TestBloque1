@@ -3,10 +3,113 @@
     "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
     "question": "¿Cual de las siguientes funciones del Rey requiere autorizacion previa de las Cortes Generales?",
     "options": [
-      "A. Acreditar a los embajadores y otros representantes diplomaticos.",
-      "B. Manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados.",
-      "C. Declarar la guerra y hacer la paz.",
-      "D. Ejercer el derecho de gracia con arreglo a la ley."
+      "Acreditar a los embajadores y otros representantes diplomaticos.",
+      "Manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados.",
+      "Declarar la guerra y hacer la paz.",
+      "Ejercer el derecho de gracia con arreglo a la ley."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "Atendiendo al artículo 63.3 de la Constitución, declarar la guerra y hacer la paz, corresponde:",
+    "options": [
+      "Al Rey, previa autorización del Presidente del Gobierno.",
+      "Al Rey, previa autorización de las Cortes Generales.",
+      "Al Rey, previa autorización de las Cortes Generales y ratificación posterior del Presidente del Gobierno.",
+      "Al Rey, previa autorización del Presidente del Gobierno y ratificación posterior de las Cortes Generales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "De conformidad con el artículo 63.1 de la Constitución, el Rey:",
+    "options": [
+      "Acredita a los embajadores y otros representantes diplomáticos. Los representantes extranjeros en España están acreditados ante él.",
+      "Acredita a los embajadores y otros representantes diplomáticos. Los representantes extranjeros en España no están acreditados ante él.",
+      "Al Rey corresponde, previa autorización del Gobierno, declarar la guerra y hacer la paz.",
+      "Al Rey corresponde, previa autorización del Presidente del Gobierno, declarar la guerra y hacer la paz."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "De conformidad con el artículo 63.3 de la Constitución, al Rey corresponde, declarar la guerra y hacer la paz:",
+    "options": [
+      "Previa autorización de las Cortes Generales.",
+      "Previa autorización del Gobierno.",
+      "Previa autorización del Congreso.",
+      "Previa autorización de las Fuerzas Armadas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "De conformidad con el artículo 63.2 de la Constitución, el consentimiento del Estado para obligarse internacionalmente por medio de tratados le corresponde manifestarlo:",
+    "options": [
+      "Al Jefe del Estado.",
+      "El Presidente del Gobierno.",
+      "A las Cortes Generales.",
+      "Al Congreso de los Diputados."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "De acuerdo con el artículo 63 de la Constitución Española, ¿Cuál de las siguientes afirmaciones es falsa?",
+    "options": [
+      "Los representantes extranjeros en España están acreditados ante el Rey",
+      "El Rey elige a los embajadores y demás representantes diplomáticos de España",
+      "Al Rey corresponde manifestar el consentimiento de Estado para obligarse internacionalmente por medio de tratados",
+      "Al Rey corresponde, previa autorización de las Cortes Generales, declarar la guerra y hacer la paz"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "De conformidad con el artículo 63.3 de la Constitución Española, ¿A quién corresponde declarar la guerra y hacer la paz?",
+    "options": [
+      "Al Rey, previa autorización del Congreso de los Diputados",
+      "Al Rey, previa autorización del Gobierno",
+      "Al Rey, previa autorización de las Cortes Generales",
+      "Al Presidente del Gobierno, previa deliberación del Consejo de Ministros y con autorización del Congreso"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "En virtud del artículo 63.1 de la Constitución Española, ¿Qué función corresponde al Rey en relación con los embajadores de España?",
+    "options": ["Elegirlos", "Acreditarlos", "Designarlos", "Instruirlos"],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "En virtud del artículo 63.2 de la Constitución Española, ¿Qué función corresponde al Rey en relación con los tratados internacionales que suscriba España?",
+    "options": [
+      "Decidir su celebración.",
+      "Autorizarlos, a propuesta de las Cortes Generales.",
+      "Manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados.",
+      "Proponer al Gobierno su celebración."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 63"],
+    "question": "De acuerdo al artículo 63 de la Constitución, ¿podrá el Rey manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados?",
+    "options": [
+      "No, corresponde a las Cortes Generales.",
+      "No, corresponde al Gobierno.",
+      "Sí, de conformidad con la Constitución y las leyes.",
+      "Sí, sin límite alguno."
     ],
     "answer": 2,
     "explicacion": ""

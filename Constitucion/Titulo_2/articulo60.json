@@ -1,0 +1,206 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "En virtud del artículo 60.1 de la Constitución, ¿en cuál de los siguientes casos es imprescindible ser español de nacimiento?",
+    "options": [
+      "Para ejercer la Regencia.",
+      "Para ser proclamado Rey.",
+      "Para ejercer la Regencia y la tutela testamentaria.",
+      "Para ejercer la tutela testamentaria."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60.1 de la Constitución, será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor:",
+    "options": [
+      "El pariente mayor de edad más próximo a suceder en la Corona, según el orden establecido en la Constitución.",
+      "El pariente mayor de edad más remoto a suceder en la Corona, según el orden establecido en la Constitución.",
+      "El padre o la madre mientras permanezcan viudos. En defecto lo nombrará el Gobierno.",
+      "El padre o la madre mientras permanezcan viudos. En defecto lo nombrarán las Cortes Generales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60.1 de la Constitución, será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor:",
+    "options": [
+      "El padre o la madre, en cualquier caso.",
+      "El pariente mayor de edad más próximo a suceder en la Corona.",
+      "El padre o la madre mientras permanezcan viudos.",
+      "Las personas nombradas por las Cortes Generales, en cualquier caso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De acuerdo con el artículo 60.1 de la Constitución, será tutor del Rey menor:",
+    "options": [
+      "Si no hubiere disposición testamentaria, el tutor será el padre o la madre, aunque contraigan segundas nupcias.",
+      "En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.",
+      "En su defecto, lo nombrarán las Cortes Generales, pudiendo acumularse sin excepción los cargos de Regente y de tutor.",
+      "En cualquier caso, la persona que en su testamento hubiere nombrado el Rey difunto."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60.1 de la Constitución, podrán ser tutores del Rey menor de edad:",
+    "options": [
+      "El padre o la madre mientras permanezcan viudos.",
+      "Cualquiera que sea mayor de edad y español de nacimiento.",
+      "El padre, madre o abuelos maternos.",
+      "El padre, aunque más adelante contraiga matrimonio."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60.1 de la Constitución, ¿Pueden acumularse los cargos de Regente y de tutor en una misma persona?",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, en el padre, la madre o ascendientes directos del Rey menor.",
+      "Sólo en el caso de ascendientes indirectos del Rey menor.",
+      "Sólo en el caso de la madre o el padre del Rey menor."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60.1 de la Constitución Española, será tutor del Rey menor, la persona que en su testamento hubiese nombrado el Rey difunto:",
+    "options": [
+      "Siempre que sea mayor de edad y español; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor en el padre, madre o ascendientes directos del Rey.",
+      "Siempre que sea mayor de edad y español; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.",
+      "Siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor en el padre, madre o ascendientes directos del Rey.",
+      "Siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60.2 de la Constitución Española, el ejercicio de la tutela del Rey menor de edad:",
+    "options": [
+      "No es incompatible con cargo, título o actividad alguna.",
+      "Es también incompatible con el de todo cargo o representación política.",
+      "Es también incompatible con el ejercicio de cualquier actividad empresarial, pública o privada.",
+      "Sólo es incompatible con la ostentación de la Regencia."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60.1 de la Constitución Española, ¿Quién será tutor del Rey menor de edad?",
+    "options": [
+      "El Regente, en todos los casos",
+      "La persona que en su testamento hubiese nombrado el Rey difunto",
+      "La persona que designen las Cortes Generales a propuesta del Gobierno",
+      "El pariente mayor de edad más próximo a suceder en la Corona"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De acuerdo con el artículo 60.1 de la Constitución Española, ¿Podrán acumularse los cargos de Regente y de tutor?",
+    "options": [
+      "No, en nadie",
+      "Sí, siempre recaen en la misma persona",
+      "Solamente en el padre, madre o ascendientes directos del Rey",
+      "Sí, siempre que lo autoricen las Cortes Generales"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60.1 de la Constitución Española, ¿Qué requisitos deberá reunir el tutor nombrado por el Rey difunto en su testamento?",
+    "options": [
+      "Ser mayor de veinticinco años y español",
+      "Ser español y mayor de edad",
+      "Ser español de nacimiento y ascendiente directo del Rey",
+      "Ser mayor de edad y español de nacimiento"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "En virtud del artículo 60.2 de la Constitución Española, ¿Con qué cargo o representación política será compatible el ejercicio de la tutela?",
+    "options": [
+      "Con cualquiera de ellos",
+      "Con ninguno",
+      "Con la condición de Senador únicamente",
+      "Sólo con el Defensor del Pueblo"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con lo establecido en el artículo 60 de la Constitución, ¿pueden recaer en una misma persona la regencia y la tutoría del Rey?",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, en cualquier persona.",
+      "Sí, pero sólo cuando recaiga en el padre, madre o los ascendientes del Rey.",
+      "Sí, pero únicamente cuando lo decidan las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "De conformidad con el artículo 60 de la CE, ¿en quién de las siguientes opciones tiene preferencia a la hora de recaer la tutela del Rey?",
+    "options": [
+      "En el padre o su madre mientras permanezcan viudos.",
+      "En la persona que designen las Cortes, en todo caso.",
+      "A quien hubiera nombrado el Rey difunto en su testamento, siempre que fuera español de nacimiento y mayor de edad.",
+      "Los ascendientes directos del Rey."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "¿Contempla la Constitución la posibilidad de que pueda ser tutor del Rey un Diputado?",
+    "options": [
+      "Sí.",
+      "Sí, previa autorización del Senado.",
+      "No.",
+      "Sí, previa autorización del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "El artículo 60 de la Constitución permite que los cargos de Regente y tutor se acumulen en:",
+    "options": [
+      "Todas las respuestas siguientes son ciertas.",
+      "Los ascendientes directos del Rey.",
+      "El padre.",
+      "La madre."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 60"],
+    "question": "Según el artículo 60 de la Constitución, el ejercicio de la tutela del Rey será incompatible con:",
+    "options": [
+      "No existe ninguna incompatibilidad.",
+      "El ejercicio de todo cargo o representación política.",
+      "La Regencia, en todo caso.",
+      "Autónomo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

@@ -1,12 +1,12 @@
 [
   {
     "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
-    "question": "Cual NO es una funcion del Rey conforme al art. 62 de la Constutucion?",
+    "question": "Cual NO es una funcion del Rey conforme al art. 62 de la Constitucion?",
     "options": [
-      "A. Ejercer la potestad reglamentaria.",
-      "B. Sancionar y promulgar las leyes.",
-      "C. Ejercer el mando supremo de las Fuerzas Armadas.",
-      "D. Proponer al candidato a Presidente del Gobierno."
+      "Ejercer la potestad reglamentaria.",
+      "Sancionar y promulgar las leyes.",
+      "Ejercer el mando supremo de las Fuerzas Armadas.",
+      "Proponer al candidato a Presidente del Gobierno."
     ],
     "answer": 0,
     "explicacion": ""
@@ -15,12 +15,518 @@
     "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
     "question": "Cual de estas funciones corresponde al Rey conforme al art. 62 de la Constitucion?",
     "options": [
-      "A. Supervisar la actividad de la Administracion",
-      "B. Proponer al candidato a Presidente del Gobierno",
-      "C. Autorizar indultos Generales",
-      "D. Interpretar las leyes a traves de resoluciones"
+      "Supervisar la actividad de la Administracion",
+      "Proponer al candidato a Presidente del Gobierno",
+      "Autorizar indultos Generales",
+      "Interpretar las leyes a traves de resoluciones"
     ],
     "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución, ¿Quién podrá autorizar indultos generales?",
+    "options": [
+      "El Rey.",
+      "El Presidente del Gobierno.",
+      "No se contempla la posibilidad de autorizar indultos generales.",
+      "El Presidente del Tribunal Supremo."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De acuerdo con el artículo 62 de la Constitución, el Rey nombra y separa a los miembros del Gobierno, ¿a propuesta de quién?",
+    "options": [
+      "Del Presidente del Congreso.",
+      "Del Presidente del Tribunal Supremo.",
+      "Del Presidente de Gobierno.",
+      "De las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "En relación con el artículo 62 de la Constitución, ¿Cuál de las siguientes afirmaciones referentes a las funciones que corresponde al Rey es correcta?",
+    "options": [
+      "Ejercer el derecho de gracia con arreglo a la ley, que podrá autorizar indultos generales.",
+      "Expedir los decretos acordados en el Consejo de Ministros, conferir los empleos civiles y militares y conceder honores y distinciones con arreglo a la Constitución y al resto del ordenamiento jurídico.",
+      "Nombrar y separar a los miembros del Gobierno, a petición del Alcalde.",
+      "Convocar a referéndum en los casos previstos en la Constitución."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución, ¿Cuál de las siguientes funciones no corresponde al Rey?",
+    "options": [
+      "Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.",
+      "Proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución.",
+      "Proponer los nombramientos de los miembros del Gobierno.",
+      "El Alto Patronazgo de las Reales Academias."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Según el artículo 62 de la Constitución, corresponde al Rey:",
+    "options": [
+      "Expedir los decretos acordados en el Consejo de Ministros, conferir los empleos civiles y militares y conceder honores y distinciones con arreglo a la Constitución y al resto del ordenamiento jurídico.",
+      "Sancionar y promulgar las leyes.",
+      "Ejercer el derecho de gracia con arreglo a la ley, que podrá autorizar indultos generales.",
+      "El mando supremo de los Cuerpos y Policías en activo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución, una de las siguientes no es función del Rey:",
+    "options": [
+      "Promover la disolución del Congreso y del Senado.",
+      "Convocar elecciones en los términos previstos en la Constitución.",
+      "Sancionar y promulgar las leyes.",
+      "Convocar y disolver las Cortes Generales."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Según el artículo 62 de la Constitución, una de las siguientes no es función del Rey:",
+    "options": [
+      "Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales.",
+      "Expedir los decretos acordados en el Consejo de Ministros.",
+      "Conferir los empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.",
+      "Coordinar las funciones de los miembros del Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución, no es función del Rey:",
+    "options": [
+      "Nombrar al Presidente del Congreso y del Senado.",
+      "El Alto Patronazgo de las Reales Academias.",
+      "Sancionar y promulgar las leyes.",
+      "Convocar y disolver las Cortes Generales."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución, corresponde al Rey:",
+    "options": [
+      "Autorizar indultos generales.",
+      "Disolver las Cortes Generales cuando lo crea conveniente.",
+      "Convocar a referéndum en los casos previstos en la Constitución.",
+      "Ejercer por delegación el Alto Patronazgo de las Reales Academias."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución, corresponde el Rey conferir empleos civiles y militares y conceder honores y distinciones con arreglo:",
+    "options": [
+      "A los Tratados Internacionales.",
+      "A las leyes.",
+      "Al ordenamiento jurídico.",
+      "A la ley Orgánica 6/1985, de 1 de julio, del Poder Judicial."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "En virtud del artículo 62 de la Constitución, una de las siguientes no es función del Rey:",
+    "options": [
+      "Ejercer la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+      "El Alto Patronazgo de las Reales Academias.",
+      "El mando supremo de las Fuerzas Armadas.",
+      "Convocar a referéndum en los casos previstos en la Constitución."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "En relación con el artículo 62 y el artículo 63 de la Constitución, una de las siguientes no es función del Rey:",
+    "options": [
+      "Ser informado de los asuntos de Estado y presidir, a estos efectos, las sesiones del Consejo de Ministros, cuando lo estime oportuno, a petición del Presidente del Gobierno.",
+      "Acredita a los embajadores y otros representantes diplomáticos. Los representantes extranjeros en España están acreditados ante él.",
+      "Ejercer el derecho de gracia con arreglo a la ley, que podrá autorizar indultos generales.",
+      "Manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados, de conformidad con la Constitución y las leyes."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De acuerdo con la Constitución Española, ¿Cuál de las siguientes funciones no es ejercida por el Rey?",
+    "options": [
+      "Declarar la guerra y hacer la paz, previa autorización del Congreso de los Diputados.",
+      "Expedir los decretos acordados en el Consejo de Ministros.",
+      "Sancionar y promulgar las leyes.",
+      "El Alto Patronazgo de las Reales Academias."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución, en cuanto a los empleos civiles y militares, el Rey, según la Constitución, los:",
+    "options": ["Sanciona.", "Expide.", "Confiera.", "Refrenda."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Según el artículo 62 de la Constitución Española, corresponde al Rey:",
+    "options": [
+      "Sancionar y promulgar las leyes, ejerciendo, en su caso, el derecho de veto.",
+      "Ejercer el derecho de gracia, incluyendo los indultos generales y particulares.",
+      "Autorizar la celebración de Tratados Internacionales de carácter militar.",
+      "Convocar a referéndum en los casos previstos en la Constitución."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución Española, corresponde al Rey:",
+    "options": [
+      "Ser informado de los asuntos de Estado y presidir, a estos efectos, las sesiones del Consejo de Ministros, cuando lo estime oportuno, a propuesta del Presidente del Senado.",
+      "El mando supremo de los Cuerpos y Fuerzas Armadas.",
+      "Nombrar y separar a los miembros del Gobierno, a petición de su Presidente.",
+      "Expedir los decretos acordados en el Consejo de Ministros, conferir los empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 y el artículo 159 de la Constitución, ¿Cuál de los siguientes cargos NO es nombrado por el Rey?",
+    "options": [
+      "Defensor del Pueblo.",
+      "Miembros del Tribunal Constitucional.",
+      "Ministro de Justicia e Interior.",
+      "Presidente del Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con la Constitución Española ¿Quién nombra y separa a los miembros del Gobierno?",
+    "options": [
+      "El Rey, a propuesta del Presidente del Congreso.",
+      "El Rey, a propuesta del Presidente de las Cortes Generales.",
+      "El Rey, a propuesta de su Presidente.",
+      "El Presidente del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De acuerdo con el artículo 62 de la Constitución Española, en relación con las leyes, corresponde al Rey",
+    "options": [
+      "Refrendarlas y sancionarlas",
+      "Expedirlas y promulgarlas",
+      "Promulgarlas y decretarlas",
+      "Sancionarlas y promulgarlas"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Según el artículo 62 de la Constitución Española, ¿Qué función corresponde al Rey en relación con las Reales Academias?",
+    "options": [
+      "Convocarlas y disolverlas",
+      "Crearlas libremente",
+      "El Alto Patronazgo",
+      "Convocar y presidir sus sesiones"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De acuerdo con el artículo 62 de la Constitución Española, ¿Cuál de las siguientes funciones no corresponde al Rey?",
+    "options": [
+      "Autorizar la celebración de tratados internacionales",
+      "Convocar y disolver las Cortes Generales",
+      "Convocar a referéndum en los casos previstos en la Constitución",
+      "Ninguna de las funciones anteriores corresponde al Rey"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Según el artículo 62 de la Constitución Española, ¿Qué corresponde al Rey en relación con los decretos acordados en el Consejo de Ministros?",
+    "options": ["Expedirlos", "Sancionarlos", "Refrendarlos", "Promulgarlos"],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "En virtud del artículo 62 de la Constitución Española, ¿Corresponde al Rey presidir las sesiones del Consejo de Ministros?",
+    "options": [
+      "Sí, siempre",
+      "No, en ningún caso",
+      "Siempre que lo estime oportuno o lo decida el Presidente del Gobierno",
+      "Cuando lo estime oportuno, a petición del Presidente del Gobierno"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De acuerdo con el artículo 62 de la Constitución Española, ¿Cuál de las siguientes funciones corresponde al Rey?",
+    "options": [
+      "Conferir empleos civiles",
+      "Conferir empleos militares",
+      "Conceder honores y distinciones con arreglo a las leyes",
+      "Todas las anteriores"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución Española, ¿Corresponde al Rey convocar elecciones generales?",
+    "options": [
+      "No, es competencia del Gobierno",
+      "Sí, en los términos previstos en la Constitución",
+      "Sólo en la situación prevista en el artículo 99 de la Constitución de que ningún candidato a la Presidencia del Gobierno obtenga la confianza del Congreso en el plazo de dos meses desde la primera votación.",
+      "Únicamente cuando las elecciones sean consecuencia de una disolución anticipada de las Cortes Generales"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución Española, ¿Cuál de las siguientes funciones no corresponde al Rey?",
+    "options": [
+      "El establecimiento de relaciones diplomáticas",
+      "Proponer al candidato a Presidente del Gobierno",
+      "Poner fin a las funciones del Presidente del Gobierno en los términos previstos en la Constitución",
+      "Ser informado de los asuntos de Estado"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "En virtud del artículo 62 de la Constitución Española, ¿Puede el Rey poner fin a las funciones del Presidente del Gobierno?",
+    "options": [
+      "Sólo en los términos previstos en la Constitución",
+      "En ningún caso",
+      "Siempre que su actuación atente contra los intereses de España",
+      "Solo cuando se proponga una moción de censura contra éste"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con el artículo 62 de la Constitución Española, ¿Cuál de las siguientes funciones corresponde al Rey?",
+    "options": [
+      "Dirigir la defensa del Estado",
+      "El mando supremo de las Fuerzas Armadas",
+      "Dirigir la Administración militar",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "En virtud del artículo 62 de la Constitución Española, ¿Corresponde al Rey el ejercicio del derecho de gracia?",
+    "options": [
+      "Únicamente cuando se trate de la concesión de indultos generales",
+      "No, en ningún caso",
+      "Solamente cuando haya de ser aplicado a la responsabilidad criminal del Presidente u otros miembros del Gobierno",
+      "Sí, con arreglo a la ley, que no podrá autorizar indultos generales"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Según el artículo 62 de la Constitución Española, ¿Corresponde al Rey el nombramiento y separación de los miembros del Gobierno?",
+    "options": [
+      "Sí, previa autorización del Congreso de los Diputados",
+      "Sí, a propuesta del Consejo de Ministros",
+      "Sí, a propuesta del Presidente del Gobierno",
+      "No, es competencia del Presidente del Gobierno"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De acuerdo con el artículo 63.3 de la Constitución Española, ¿En qué situaciones corresponde al Rey el mando supremo de las Fuerzas Armadas?",
+    "options": [
+      "Sólo en tiempo de guerra.",
+      "Sólo en tiempo de paz.",
+      "En todas las situaciones.",
+      "En ninguna; corresponde siempre al Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "¿Cuál de las siguientes funciones del Rey debe estar refrendada de acuerdo al artículo 62 de la Constitución?",
+    "options": [
+      "La convocatoria de elecciones.",
+      "El nombramiento del personal de la Casa Real.",
+      "La distribución del presupuesto de la Casa Real.",
+      "Todas las respuestas son ciertas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "La Constitución determina en su artículo 62 que son funciones del Rey:",
+    "options": [
+      "Dirigir la política interior y exterior.",
+      "Sancionar y promulgar las leyes.",
+      "Defender el Estado.",
+      "Todas las respuestas son ciertas."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Señale la respuesta INCORRECTA de acuerdo con el Título II, artículo 62 de la Constitución Española de 1978. Corresponde al Rey:(examen)",
+    "options": [
+      "Convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución. ",
+      "Proponer el candidato a Presidente de Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución. ",
+      "Convocar a referéndum en los casos previstos en la Constitución, previa autorización de las Cortes Generales.",
+      "Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Según el artículo 62 de la Constitución Española, ¿a quién corresponde expedir los decretos acordados en el Consejo de Ministros?(examen)",
+    "options": [
+      "Al Presidente del Gobierno.",
+      "Al titular del Ministerio de la Presidencia.",
+      "Al Presidente de la Mesa del Congreso.",
+      "Al Rey."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "Según la Constitución Española, la función que le corresponde al Rey es:(examen)",
+    "options": [
+      "Establecer el programa politico del Gobierno y determinar las directrices de la política interior y exterior y velar por su cumplimiento.",
+      "Representar al Gobierno.",
+      "Plantear ante el Congreso de los Diputados, previa deliberación del Consejo de Ministros, la cuestión de confianza.",
+      "Convocar a referéndum en los casos previstos en la Constitución."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "El candidato a la Presidencia del Gobierno es:(examen)",
+    "options": [
+      "Propuesto por el Rey.",
+      "Elegido por los ciudadanos.",
+      "Propuesto por el Congreso de los Diputados.",
+      "Elegido por el Presidente del Congreso."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "¿Contempla el artículo 62 de la Constitución la posibilidad de que el Rey pueda autorizar indultos generales?",
+    "options": [
+      "No.",
+      "Sí, pero solo si el acto es refrendado por las Cortes Generales.",
+      "Sí, pero solo si el acto es refrendado por el Presidente del Gobierno.",
+      "Sí, pero solo si el acto es refrendado por el Ministro de Justicia."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "En virtud de lo comprendido en el artículo 62 de la Constitución, ¿en qué momento debe convocar el Rey un referéndum?",
+    "options": [
+      "Cuando se estime oportuno por el mismo.",
+      "En ningún caso.",
+      "En los casos que determine el Congreso.",
+      "En los casos previstos en la Constitución."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De entre las siguientes opciones, ¿cuál no es una función que corresponda al Rey de acuerdo al artículo 62 de la Constitución?",
+    "options": [
+      "Todas ellas son funciones que corresponden al Rey.",
+      "Sancionar y promulgar las leyes.",
+      "Nombrar y separar a los miembros del Gobierno.",
+      "El mando supremo de las Fuerzas Armadas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "La Constitución determina en su artículo 62 que el Rey ejercerá el derecho de gracia con arreglo:",
+    "options": [
+      "A lo establecido por las normas.",
+      "A las Cortes Generales.",
+      "A la ley.",
+      "A lo establecido en Ley Orgánica."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De acuerdo a lo estipulado en el artículo 62 de la Constitución, le corresponde proponer al candidato a Presidente del Gobierno:",
+    "options": [
+      "Al Congreso de los Diputados.",
+      "Al Príncipe heredero.",
+      "Al Rey.",
+      "A las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 62"],
+    "question": "De conformidad con la Constitución, ¿cuál de las siguientes respuestas es correcta en relación con el derecho de gracia?",
+    "options": [
+      "Todas las respuestas son correctas.",
+      "Es un acto que corresponde al Rey.",
+      "El rey no podrá autorizar indultos generales.",
+      "Se ejerce con arreglo a la ley."
+    ],
+    "answer": 0,
     "explicacion": ""
   }
 ]

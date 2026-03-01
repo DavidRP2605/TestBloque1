@@ -3,12 +3,108 @@
     "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
     "question": "El refrendo de los actos del Rey puede corresponder:",
     "options": [
-      "A. Al Presidente del Gobierno, a los Ministros competentes y al Presidente del Congreso.",
-      "B. Unicamente al Presidente del Gobierno.",
-      "C. Al Presidente del Gobierno y, en su caso, al Presidente del Tribunal Supremo.",
-      "D. Al Consejo de Estado y, excepcionalmente, al Presidente del Gobierno."
+      "Al Presidente del Gobierno, a los Ministros competentes y al Presidente del Congreso.",
+      "Unicamente al Presidente del Gobierno.",
+      "Al Presidente del Gobierno y, en su caso, al Presidente del Tribunal Supremo.",
+      "Al Consejo de Estado y, excepcionalmente, al Presidente del Gobierno."
     ],
     "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "De conformidad con el artículo 64.1 de la Constitución, los actos del Rey:",
+    "options": [
+      "Serán refrendados por el Presidente del Gobierno, y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Senado.",
+      "No necesitan ser refrendados.",
+      "Serán refrendados y el Rey será responsable de sus propios actos.",
+      "Serán refrendados por el Presidente del Gobierno, y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Congreso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "De conformidad con el artículo 64.2 de la Constitución, de los actos del Rey:",
+    "options": [
+      "Será responsable siempre el Presidente del Gobierno.",
+      "Será responsable el propio Rey.",
+      "Serán responsables las personas que los refrenden.",
+      "No será nadie responsable."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "En relación con el artículo 64.1 de la Constitución, ¿Cuál de los siguientes cargos no tiene competencia para refrendar los actos del Rey?",
+    "options": [
+      "El Presidente del Gobierno.",
+      "Los Ministros competentes.",
+      "El Presidente del Senado.",
+      "El Presidente del Congreso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "En virtud del artículo 64.1 de la Constitución, los actos del Rey no serán refrendados por:",
+    "options": [
+      "El Presidente del Gobierno.",
+      "Los Secretarios de Estado.",
+      "El Presidente del Congreso en el caso de la disolución prevista en el artículo 99 de la Constitución.",
+      "Los Ministros competentes."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "En virtud del artículo 64 de la Constitución Española, ¿Quién refrenda los actos del Rey, salvo los relacionados con el proceso de propuesta y nombramiento del Presidente del Gobierno?",
+    "options": [
+      "El Presidente del Gobierno en todos los casos.",
+      "El Presidente del Congreso.",
+      "El Presidente del Tribunal Supremo.",
+      "El Presidente del Gobierno y, en su caso, los Ministros competentes."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "Según el artículo 64.1 de la Constitución Española, ¿Quién refrendará la propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99 de la Constitución?",
+    "options": [
+      "El Presidente del Congreso de los Diputados.",
+      "El Presidente del Gobierno en funciones.",
+      "El Presidente del Tribunal Constitucional.",
+      "Los Presidentes del Congreso y del Senado conjuntamente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "De acuerdo con el artículo 64 de la Constitución Española de 1978 (en adelante CE), los actos del Rey, excepto la propuesta y el nombramiento del Presidente del Gobierno, y la disolución de las Cámaras prevista en el artículo 99, serán refrendados por",
+    "options": [
+      "Los Presidentes del Congreso y el Senado.",
+      "El Presidente del Gobierno en funciones",
+      "El Presidente del Tribunal Constitucional",
+      "Los Presidentes del Congreso y del Senado conjuntamente"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 2", "Capitulo 0", "Articulo 64"],
+    "question": "En relación al artículo 64 de la Constitución, señale la correcta(examen)",
+    "options": [
+      "Con carácter general los actos del Rey serán refrendandos por el Presidente del Gongreso y, en su caso, por los Ministros compententes.",
+      "El Presidente del Gobierno no puede refrendar los actos del Rey.",
+      "La propuesta y nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99 serán refrendados por el Presidente del Congreso.",
+      "El Rey será directamente responsable de los actos refrendados."
+    ],
+    "answer": 2,
     "explicacion": ""
   }
 ]

@@ -94,10 +94,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "La suspensión de los derechos y libertades se encuentra regulada en la CE en:",
     "options": [
-      "a) En el Capítulo III del Título I.",
-      "b) En sus artículos 52 y 53.",
-      "c) En el artículo 58.",
-      "d) En el Capítulo V del Título I."
+      "En el Capítulo III del Título I.",
+      "En sus artículos 52 y 53.",
+      "En el artículo 58.",
+      "En el Capítulo V del Título I."
     ],
     "answer": 3,
     "explicacion": ""
@@ -106,10 +106,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "En la Constitución Española, las garantías de las libertades y derechos fundamentales se encuentran regulada en:",
     "options": [
-      "A. Capítulo II del Título I.",
-      "B. Capítulo IV del Título I.",
-      "C. Capítulo V del Título I.",
-      "D. Capítulo II del Título II."
+      "Capítulo II del Título I.",
+      "Capítulo IV del Título I.",
+      "Capítulo V del Título I.",
+      "Capítulo II del Título II."
     ],
     "answer": 1,
     "explicacion": ""
@@ -118,10 +118,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿Qué articulo del Titulo I recoge la regulación de la suspensión de los derechos y libertades?",
     "options": [
-      "A. El articulo 54.",
-      "B. El articulo 53.",
-      "C. El articulo 51.",
-      "D. El articulo 55."
+      "El articulo 54.",
+      "El articulo 53.",
+      "El articulo 51.",
+      "El articulo 55."
     ],
     "answer": 3,
     "explicacion": ""
@@ -472,37 +472,84 @@
   {
     "titulos": ["Bloque 1", "General"],
     "question": "¿Que Titulo de la Constitución regula el Gobierno?",
-    "options": [
-      "Título II.",
-      "Título III.",
-      "Título V.",
-      "Título IV."
-    ],
+    "options": ["Título II.", "Título III.", "Título V.", "Título IV."],
     "answer": 3,
     "explicacion": ""
   },
   {
     "titulos": ["Bloque 1", "General"],
-    "question": "",
+
+    "question": "En relación con la Constitución, el Título II dedicado a la Corona contiene:",
     "options": [
-      "",
-      "",
-      "",
-      ""
+      "Desde el artículo 55 hasta el artículo 65, ambos incluidos.",
+      "Desde el artículo 55 hasta el artículo 66, ambos incluidos.",
+      "Desde el artículo 56 hasta el artículo 65, ambos incluidos.",
+      "Desde el artículo 56 hasta el artículo 66, ambos incluidos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "¿En qué artículo de la Constitución se recoge el juramento del Príncipe Heredero, al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones?",
+    "options": [
+      "En el artículo 63.1.",
+      "En el artículo 61.3.",
+      "En el artículo 61.2.",
+      "En el artículo 64.2."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "De acuerdo con la Constitución Española, ¿Cuál de las siguientes funciones no es ejercida por el Rey?",
+    "options": [
+      "Declarar la guerra y hacer la paz, previa autorización del Congreso de los Diputados.",
+      "Expedir los decretos acordados en el Consejo de Ministros.",
+      "Sancionar y promulgar las leyes.",
+      "El Alto Patronazgo de las Reales Academias."
     ],
     "answer": 0,
     "explicacion": ""
   },
   {
     "titulos": ["Bloque 1", "General"],
-    "question": "",
+    "question": "El Título II de la Constitución Española trata de:",
     "options": [
-      "",
-      "",
-      "",
-      ""
+      "Las Cortes Generales.",
+      "La Corona.",
+      "La Jefatura del Estado.",
+      "El Poder Ejecutivo."
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "¿Cuál es la característica del cargo de Jefe de Estado según el Título II de la Constitución?",
+    "options": [
+      "Es vitalicio, a menos que su titular abdique o renuncie.",
+      "Es vitalicio.",
+      "No permite renuncia.",
+      "No permite abdicación."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "¿En qué artículos de la Constitución vienen reguladas las funciones del Rey?",
+    "options": [
+      "Art. 62, 63 y 65.2.",
+      "Art. 62 y 63.",
+      "Art. 61 y 62.",
+      "Art. 61 y 63."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"]
   }
 ]
