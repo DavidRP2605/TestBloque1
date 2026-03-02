@@ -1,0 +1,17 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "Según el artículo 75.2 de la Constitución, las Cámaras podrán delegar en las Comisiones Legislativas Permanentes:",
+    "options": [
+      "La reforma constitucional.",
+      "La aprobación de proyectos o proposiciones de ley.",
+      "Las leyes orgánicas y de bases.",
+      "Las cuestiones internacionales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"]
+  }
+]

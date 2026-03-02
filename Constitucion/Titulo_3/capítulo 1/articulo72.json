@@ -1,0 +1,17 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "De acuerdo con el artículo 72.1 de la Constitución, referente a las Cámaras, no es cierto que:",
+    "options": [
+      "Las Cámaras aprueban autónomamente sus presupuestos.",
+      "Las Cámaras establecen sus propios Reglamentos.",
+      "Los Reglamentos de las Cámaras serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría simple.",
+      "Las Cámaras, de común acuerdo, regulan el Estatuto del Personal de las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"]
+  }
+]

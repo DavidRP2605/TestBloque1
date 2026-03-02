@@ -1,0 +1,29 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "En virtud del artículo 67.3 de la Constitución, las reuniones de Parlamentarios que se celebren sin convocatoria reglamentaria:",
+    "options": [
+      "Vincularán a las Cámaras pero en ningún caso podrán ejercer sus funciones.",
+      "No vincularán a las Cámaras, y no podrán ejercer sus funciones ni ostentar sus privilegios.",
+      "Vincularán a las Cámaras en cualquier caso, pero no podrán ejercer sus funciones ni ostentar sus privilegios.",
+      "En los términos establecidos por ley, podrán ostentar sus privilegios."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "De conformidad con el artículo 67.2 de la Constitución, los miembros de las Cortes Generales:",
+    "options": [
+      "No estarán ligados por mandato imperativo.",
+      "Estarán ligados por mandato constitucional.",
+      "Estarán ligados por mandato potestativo.",
+      "Estarán ligados por mandato imperativo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"]
+  }
+]

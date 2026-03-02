@@ -550,6 +550,18 @@
     "explicacion": ""
   },
   {
+    "titulos": ["Bloque 1", "General"],
+    "question": "De conformidad con la Constitución Española, el Título Tercero denominado 'De las Cortes Generales' consta de:",
+    "options": [
+      "Cinco capítulos.",
+      "Dos capítulos.",
+      "Tres capítulos.",
+      "Cuatro capítulos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
     "titulos": ["Bloque 1", "General"]
   }
 ]

@@ -1,0 +1,53 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "De conformidad con el artículo 68.6 de la Constitución, las elecciones tendrán lugar:",
+    "options": [
+      "Entre los treinta días y noventa días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+      "Entre los treinta días y setenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticuatro días siguientes a la celebración de las elecciones.",
+      "Entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+      "Entre los treinta días y cuarenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "De acuerdo con el artículo 68.3 de la Constitución Española, la elección de los Diputados se verificará en cada circunscripción atendiendo a criterios de:",
+    "options": [
+      "Representación parlamentaria.",
+      "Representación proporcional.",
+      "Representación directa.",
+      "Representación territorial."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68.1 de la Constitución Española, ¿De cuántos Diputados se compone el Congreso?",
+    "options": [
+      "De un máximo de 450 y de un mínimo de 350 Diputados.",
+      "De un máximo de 500 y de un mínimo de 350 Diputados.",
+      "De un máximo de 350 y de un mínimo de 300 Diputados.",
+      "De un máximo de 400 y de un mínimo de 300 Diputados."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68 de la CE, ¿cuál es la circunscripción electoral en nuestro sistema electoral?",
+    "options": [
+      "La provincia.",
+      "El municipio.",
+      "La Comunidad Autónoma.",
+      "El Distrito Municipal."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"]
+  }
+]

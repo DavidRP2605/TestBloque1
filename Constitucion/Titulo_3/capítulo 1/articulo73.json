@@ -1,0 +1,24 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "De conformidad con el artículo 73.1 de la Constitución, las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones, ¿En qué mes concluye el primer período de sesiones?",
+    "options": ["En junio.", "En diciembre.", "En enero.", "En septiembre."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "De acuerdo con el artículo 73.2 de la Constitución, las Cámaras podrán reunirse en sesiones extraordinarias, a petición:",
+    "options": [
+      "Del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras.",
+      "Del Gobierno, de la Diputación Permanente o de la mayoría simple de los miembros del Congreso.",
+      "Del Presidente del Gobierno, de la Diputación Permanente o de la mayoría simple de los miembros de cualquiera de las Cámaras.",
+      "Del Presidente del Gobierno, de la Diputación Permanente o de la mayoría simple de los miembros del Congreso."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"]
+  }
+]

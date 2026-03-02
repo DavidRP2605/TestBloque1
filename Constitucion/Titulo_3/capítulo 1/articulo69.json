@@ -1,0 +1,41 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De conformidad con el artículo 69.3 de la Constitución, en las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo:",
+    "options": [
+      "Dos a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife).",
+      "Tres a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife).",
+      "Cuatro a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife).",
+      "Uno a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife)."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69.4 de la Constitución Española, ¿Cuántos senadores elegirán las poblaciones de Ceuta y Melilla?",
+    "options": [
+      "Cada una de ellas elegirá un Senador.",
+      "Cada una de ellas elegirán dos Senadores.",
+      "Cada una de ellas elegirá tres Senadores.",
+      "Cada una de ellas elegirá cuatro Senadores."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo con el artículo 69 de la Constitución Española, es la Cámara de representación territorial:",
+    "options": [
+      "El Congreso. En cada provincia se elegirán cuatro Diputados por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.",
+      "El Senado. En cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.",
+      "El Congreso. En cada provincia se elegirán cuatro Diputados por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley ordinaria.",
+      "El Senado. En cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley ordinaria."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"]
+  }
+]

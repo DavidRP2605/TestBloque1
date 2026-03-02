@@ -1,0 +1,17 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "De conformidad con el artículo 71.3 de la Constitución, en las causas contra Diputados y Senadores será competente:",
+    "options": [
+      "La Sala de lo Social del Tribunal Supremo.",
+      "La Sala de lo Contencioso-Administrativo del Tribunal Supremo.",
+      "La Sala de lo Civil del Tribunal Supremo.",
+      "La Sala de lo Penal del Tribunal Supremo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"]
+  }
+]
