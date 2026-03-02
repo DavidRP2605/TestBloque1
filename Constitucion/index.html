@@ -66,6 +66,21 @@
         display: block;
         margin: 8px 0;
       }
+      .tip {
+        font-size: 0.9em;
+        color: #555;
+        text-align: center;
+        margin-top: 5px;
+        font-style: italic;
+      }
+      #instruccion-botones {
+        display: none;
+        margin-top: 20px;
+        padding: 10px;
+        border: 1px dashed #007bff;
+        background: #f0f8ff;
+        font-size: 0.9em;
+      }
       #result {
         margin-top: 15px;
         text-align: center;
@@ -150,6 +165,7 @@
         <button id="exit-btn" style="display: none; background:#6c757d">Salir al índice</button>
       </div>
       <div id="result"></div>
+      <div id="instruccion-botones"></div>
     </div>
 
     <script>
@@ -434,6 +450,13 @@
         score = 0;
         userAnswers = [];
         document.getElementById("selector-temas").style.display = "none";
+        const instru = document.getElementById("instruccion-botones");
+        if (instru) {
+          instru.innerHTML =
+            "Usa las teclas 1‑4 para marcar una opción, o haz clic en ella. " +
+            "Después presiona <strong>Enter</strong> para confirmar.";
+          instru.style.display = "block";
+        }
         document.getElementById("question-container").style.display = "block";
         document.getElementById("next-btn").style.display = "inline-block";
         document.getElementById("next-btn").textContent = "Siguiente ➡️";
@@ -456,6 +479,7 @@
           questions.length
         }</p>
         <p class="question-text"><strong>${q.question}</strong></p>
+        <p class="tip">Puedes seleccionar la respuesta con los botones 1‑4 o haciendo clic; una vez elegida, pulsa <strong>Enter</strong> para confirmar.</p>
         ${q.options
           .map(
             (opt, i) => `
@@ -530,6 +554,8 @@
         document.getElementById("question-container").style.display = "none";
         document.getElementById("next-btn").style.display = "none";
         document.getElementById("exit-btn").style.display = "none";
+        const instru = document.getElementById("instruccion-botones");
+        if (instru) instru.style.display = "none";
         // Desactivar estilos del modo test
         document.body.classList.remove('in-test');
         // Ocultar y llenar barra de progreso al finalizar
@@ -570,6 +596,8 @@
         document.getElementById("next-btn").style.display = "none";
         document.getElementById("exit-btn").style.display = "none";
         document.getElementById("selector-temas").style.display = "block";
+        const instru = document.getElementById("instruccion-botones");
+        if (instru) instru.style.display = "none";
         document.getElementById("result").textContent = "";
         // Desactivar estilos del modo test
         document.body.classList.remove('in-test');
@@ -622,12 +650,21 @@
       }
 
       document.addEventListener("keydown", (e) => {
+        // elegir opción con teclas 1‑4
         const key = parseInt(e.key);
         if (key >= 1 && key <= 4) {
           const radio = document.querySelector(
             `input[name="answer"][value="${key - 1}"]`
           );
           if (radio) radio.checked = true;
+        }
+        // confirmar con Enter si ya hay una selección
+        if (e.key === "Enter") {
+          const sel = document.querySelector('input[name="answer"]:checked');
+          if (sel) {
+            // evitar doble envío si el botón ya está en modo "Siguiente"
+            if (typeof checkAnswer === 'function') checkAnswer();
+          }
         }
       });
 
