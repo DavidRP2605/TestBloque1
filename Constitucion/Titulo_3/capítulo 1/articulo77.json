@@ -1,5 +1,98 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "Según el Título III 'De las Cortes Generales' de la Constitución Española de 1978, las Cámaras podrán:(examen)",
+    "options": [
+      "Recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+      "Delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley relativas a los Presupuestos Generales del Estado.Las",
+      "Reunirse en sesión extraordinaria a petición de la mayoría simple de los miembros de cualquiera de las Cámaras.",
+      "Nombrar conjuntamente Comisiones de Investigación sobre asuntos de interés público. Sus conclusiones serán vinculantes para los Tribunales."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "El artículo 77 determina que las peticiones que reciban las Cámaras serán:",
+    "options": [
+      "Siempre individuales y por escrito.",
+      "Siempre individuales.",
+      "Individuales o colectivas, pudiendo ser orales o escritas.",
+      "Siempre por escrito."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "Según el artículo 77 de la Constitución Española, ¿Pueden las Cámaras recibir peticiones?",
+    "options": [
+      "Sí, individuales y colectivas, siempre por escrito.",
+      "Solamente individuales y por escrito.",
+      "Sólo de carácter colectivo y por escrito.",
+      "No, lo prohíbe la Constitución."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "Según el artículo 77 de la Constitución Española, ¿Pueden las Cámaras recibir peticiones?",
+    "options": [
+      "Sí, individuales y colectivas, siempre por escrito.",
+      "Solamente individuales y por escrito.",
+      "Sólo de carácter colectivo y por escrito.",
+      "No, lo prohíbe la Constitución."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "Según el artículo 77 de la Constitución, en relación con las peticiones que pueden recibir las Cámaras, la Constitución prohíbe expresamente:",
+    "options": [
+      "Que tengan carácter colectivo.",
+      "Que se formulen por escrito.",
+      "Que se presenten directamente por manifestaciones ciudadanas.",
+      "Que se formulen individualmente."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "El artículo 77.2 de la Constitución establece que las Cámaras pueden remitir las peticiones que reciban:",
+    "options": [
+      "Al Ministerio Fiscal.",
+      "Al Gobierno.",
+      "Al Defensor del Pueblo.",
+      "Al Tribunal Constitucional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "Según el artículo 77 de la Constitución Española, ¿Está el Gobierno obligado a explicarse sobre el contenido de las peticiones que le remitan las Cámaras?",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, siempre que las Cámaras lo exijan.",
+      "Sólo en las colectivas.",
+      "Solamente en las individuales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "Según el artículo 77 de la Constitución, en relación con las peticiones que pueden recibir las Cámaras, la Constitución prohíbe expresamente:",
+    "options": [
+      "Que tengan carácter colectivo.",
+      "Que se formulen por escrito.",
+      "Que se presenten directamente por manifestaciones ciudadanas.",
+      "Que se formulen individualmente."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

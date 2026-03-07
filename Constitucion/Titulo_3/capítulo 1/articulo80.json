@@ -1,21 +1,53 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"],
+    "question": "En virtud del artículo 80 de la Constitución, ¿cuándo serán públicas las sesiones plenarias de las Cámaras?",
+    "options": [
+      "Nunca.",
+      "Lo serán, salvo acuerdo en contrario de cada Cámara.",
+      "Ninguna de las respuestas es cierta.",
+      "Lo serán, salvo acuerdo en contrario del Congreso."
+    ],
+    "answer": 1,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"],
+    "question": "Según el artículo 80 de la Constitución, las sesiones plenarias de las Cámaras serán:",
+    "options": ["Restringidas.", "Privadas.", "Públicas.", "Semipúblicas."],
+    "answer": 2,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"],
+    "question": "¿Contempla la Constitución la posibilidad de que una sesión plenaria de las Cámaras no sea pública?",
+    "options": [
+      "Sí, pero ha de adoptarse un acuerdo por mayoría absoluta de cada Cámara.",
+      "Sí, pero ha de adoptarse un acuerdo por mayoría de la Cámara.",
+      "Sí, pero ha de adoptarse un acuerdo por las Cortes Generales.",
+      "No se contempla esta posibilidad en la Constitución."
+    ],
+    "answer": 0,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"],
+    "question": "Respecto a las sesiones plenarias de las Cámaras, el artículo 80 de la Constitución determina que serán:",
+    "options": ["Universales.", "Públicas.", "Privadas.", "Secretas."],
+    "answer": 1,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"]
-  },
-  {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"],
+    "question": "Según el artículo 80 de la Constitución Española, ¿Serán públicas las sesiones plenarias de las Cámaras?",
+    "options": [
+      "No, en ningún caso",
+      "Sólo cuando así lo acuerde la Cámara por mayoría simple",
+      "Únicamente las del Congreso",
+      "Sí, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento"
+    ],
+    "answer": 3,
+    "explicacion": ""
   },
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 80"]

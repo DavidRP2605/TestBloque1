@@ -1,7 +1,19 @@
 [
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
-    "question": "De acuerdo con el artículo 72.1 de la Constitución, referente a las Cámaras, no es cierto que:",
+    "question": "Cuál de las siguientes afirmaciones es correcta en referencia a las Cortes Generales:(examen)",
+    "options": [
+      "Las Cortes Generales ejercen la potestad ejecutiva del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuya la Constitución.",
+      "Los Presidentes de las Cámaras ejercen en nombre de las mismas todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes.",
+      "El Congreso se compone de un mínimo de 200 y un máximo de 400 Diputados.",
+      "Se podrá ser miembro de las dos Cámaras simultáneamente siempre que sean elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley,"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "De acuerdo con el artículo 72.1 de la Constitución, referente a las Cámaras, NO es cierto que:",
     "options": [
       "Las Cámaras aprueban autónomamente sus presupuestos.",
       "Las Cámaras establecen sus propios Reglamentos.",
@@ -12,6 +24,147 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "De acuerdo al artículo 72 de la Constitución, la persona que ejerce, en nombre de las Cámaras, todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes es:",
+    "options": [
+      "El Presidente del Consejo de las Cortes.",
+      "El Presidente de cada Cámara.",
+      "El Presidente del Grupo parlamentario mayoritario.",
+      "El Presidente del Gobierno en el Congreso y el Presidente del Senado en el Senado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "En virtud del artículo 72, ¿quién establece los Reglamentos de las Cámaras?",
+    "options": [
+      "El Presidente del Congreso.",
+      "Las propias Cámaras.",
+      "El Gobierno.",
+      "El Rey."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "En virtud del artículo 72 de la CE, ¿Cuál de los siguientes cargos ejerce las facultades de policía interior en nombre de la Cámara del Senado?",
+    "options": [
+      "El Diputado de mayor edad.",
+      "El Presidente de las Cortes Generales.",
+      "El Presidente del Senado.",
+      "El Presidente del Congreso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "En virtud del artículo 72 de la CE, ¿Quién presidirá las sesiones conjuntas de las Cámaras?",
+    "options": [
+      "El Presidente del Congreso.",
+      "El Presidente del Senado.",
+      "Los Presidentes del Congreso y del Senado alternativamente.",
+      "Los Presidentes del Congreso y del Senado conjuntamente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "De acuerdo al artículo 72 de la CE, las sesiones conjuntas de las Cámaras se regirán por:",
+    "options": [
+      "El Reglamento del Congreso de los Diputados.",
+      "Un Reglamento de las Cortes Generales aprobado por mayoría simple de cada Cámara.",
+      "Un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.",
+      "El Reglamento del Senado."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "Según lo contemplado en el artículo 72 de la CE, ¿Quién preside las sesiones conjuntas de las Cámaras de las Cortes Generales?",
+    "options": [
+      "El Presidente del Gobierno.",
+      "El Presidente del Senado.",
+      "El Presidente del Congreso.",
+      "El Rey."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "En virtud del artículo 72 de la Constitución Española, ¿Quién ejerce en cada Cámara todos los poderes administrativos y facultades de policía en el interior de su sede?",
+    "options": [
+      "El Presidente de la Cámara.",
+      "La Mesa de la Cámara.",
+      "La Junta de Portavoces.",
+      "La Diputación Permanente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "Según el artículo 72 de la Constitución Española, los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá",
+    "options": [
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Mayoría de tres quintos",
+      "Mayoría de dos tercios"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "En virtud del artículo 72 de la Constitución Española, ¿Quién establece los Reglamentos de las Cámaras?",
+    "options": [
+      "Los respectivos Presidentes.",
+      "Las propias Cámaras.",
+      "Las Cortes Generales, mediante ley orgánica.",
+      "El Tribunal Constitucional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "De conformidad con el artículo 72 de la Constitución Española, ¿Quién regula el Estatuto del Personal de las Cortes Generales?",
+    "options": [
+      "El Ministerio para las Administraciones Públicas.",
+      "Los Presidentes del Congreso y del Senado, de común acuerdo.",
+      "El Congreso, por mayoría absoluta.",
+      "Las Cámaras, de común acuerdo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "De conformidad con el artículo 72 de la Constitución Española, ¿Quién elige al Presidente de cada Cámara?",
+    "options": [
+      "La propia Cámara.",
+      "Será el cabeza de la lista más votada en las elecciones generales.",
+      "El grupo parlamentario más numeroso, de entre sus miembros.",
+      "Los cabeza de las listas que hayan obtenido representación parlamentaria, de entre ellos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "En virtud del artículo 72 de la Constitución Española, ¿Quién elige a los miembros de la Mesa de cada Cámara?",
+    "options": [
+      "El Presidente de la Cámara",
+      "El grupo parlamentario más numeroso, de entre sus miembros",
+      "Cada grupo parlamentario designa un representante en la mesa",
+      "La propia Cámara"
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

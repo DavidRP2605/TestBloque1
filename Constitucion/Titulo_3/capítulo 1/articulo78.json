@@ -1,5 +1,146 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "El artículo 78 de la Constitución determina que en cada Cámara habrá una Diputación Permanente, compuesta por:",
+    "options": [
+      "21 miembros como máximo.",
+      "21 miembros como mínimo.",
+      "23 miembros como máximo.",
+      "22 miembros como mínimo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "De acuerdo con el artículo 78 de la CE, expirado el mandato de las Cortes Generales o en caso de disolución de las mismas, las Diputaciones Permanentes seguirán ejerciendo sus funciones hasta:(examen)",
+    "options": [
+      "La celebración de las elecciones. ",
+      "La proclamación de los resultados electorales definitivos.",
+      "La constitución de las nuevas Cortes Generales.",
+      "La elección de los nuevos presidentes de cada una de las Cámaras de las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "¿De cuántos miembros se compone la Diputación Permanente del Congreso, según el artículo 78 de la Constitución?",
+    "options": [
+      "Un mínimo de 51 miembros.",
+      "Un mínimo de 41 miembros.",
+      "Un mínimo de 21 miembros.",
+      "Un mínimo de 31 miembros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "De acuerdo con el artículo 78 de la Constitución, ¿cuántas Diputaciones Permanentes hay en las Cortes Generales?",
+    "options": [
+      "Tres en total, dos en el Congreso y una en el Senado.",
+      "Dos, una en cada cámara.",
+      "Dos, ambas en el Congreso.",
+      "Tres, compuestas conjuntamente por miembros del Congreso y del Senado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "El artículo 78 de la Constitución determina que los miembros de la Diputación Permanente representarán a los grupos Parlamentarios:",
+    "options": [
+      "Según la votación del Pleno de las Cortes.",
+      "En proporción de su importancia numérica.",
+      "De los partidos políticos más importantes.",
+      "Con mayor número de votos."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 78 de la Constitución Española, velar por los poderes de las Cámaras cuando éstas no estén reunidas es función de:",
+    "options": [
+      "Las Mesas de las Cámaras.",
+      "Las Diputaciones Permanentes de las Cámaras.",
+      "Los Presidentes de las Cámaras.",
+      "Las Juntas de Portavoces de las Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 78 de la Constitución Española, ¿Cuál de las siguientes funciones corresponde a la Diputación Permanente de una Cámara?",
+    "options": [
+      "Fijar el orden del día de las sesiones",
+      "Pedir la reunión de la Cámara en sesión extraordinaria",
+      "Dirigir el desarrollo de los debates de la Cámara",
+      "Elegir al Presidente de la Cámara"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 78 de la Constitución Española, ¿Hasta cuándo ejercen sus funciones las Diputaciones Permanentes?",
+    "options": [
+      "Hasta el día de la disolución de la Cámara o de expiración del mandato",
+      "Hasta el día de la convocatoria de elecciones generales",
+      "Hasta la celebración de elecciones generales",
+      "Hasta la constitución de las nuevas Cortes Generales"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 78 de la Constitución Española, velar por los poderes de las Cámaras cuando éstas no estén reunidas es función de:",
+    "options": [
+      "Las Mesas de las Cámaras.",
+      "Las Diputaciones Permanentes de las Cámaras.",
+      "Los Presidentes de las Cámaras.",
+      "Las Juntas de Portavoces de las Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 78 de la Constitución Española, ¿En qué órganos legislativos habrá una Diputación Permanente?",
+    "options": [
+      "En el Congreso, en el Senado y en las Cortes Generales.",
+      "Solamente en el Congreso de los Diputados.",
+      "Solamente en el Senado.",
+      "En el Congreso y en el Senado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "De acuerdo con el artículo 78 de la Constitución Española, ¿Por quién estarán presididas las Diputaciones Permanentes?",
+    "options": [
+      "Por el Presidente de la Cámara respectiva.",
+      "Por el Presidente del Congreso de los Diputados.",
+      "Por el Diputado y el Senador de mayor edad, respectivamente.",
+      "Por aquél de sus miembros que resulte elegido por mayoría de dos tercios de la Cámara respectiva."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "De acuerdo con el artículo 78 de la Constitución Española, ¿En qué forma representarán a los grupos parlamentarios los miembros de la Diputación Permanente?",
+    "options": [
+      "Todos los grupos tendrán el mismo número de miembros",
+      "El 50% de los miembros corresponderá al grupo mayoritario y el resto se distribuirá a partes iguales entre los demás grupos",
+      "El número de miembros de cada grupo parlamentario será proporcional a su importancia numérica",
+      "Todos los miembros pertenecerán al grupo mayoritario"
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

@@ -3,10 +3,82 @@
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
     "question": "En qué circunstancias las Cortes Generales se reunen en sesion conjunta?",
     "options": [
-      "A. Para el debate, deliberacion y votacion de una mocion de censura.",
-      "B. Cuando una comision asi lo requiera en el transcurso de su investigacion.",
-      "C. Para ejercer competencias no legislativas relacionadas con la Corona.",
-      "D. Para la aprobacion de cualquier ley organica, siempre que asi lo requiera en su redaccion."
+      "Para el debate, deliberacion y votacion de una mocion de censura.",
+      "Cuando una comision asi lo requiera en el transcurso de su investigacion.",
+      "Para ejercer competencias no legislativas relacionadas con la Corona.",
+      "Para la aprobacion de cualquier ley organica, siempre que asi lo requiera en su redaccion."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "En virtud de lo dispuesto en el artículo 74 de la Constitución, ¿quién es el encargado de iniciar el procedimiento cuando no hay acuerdo entre el Congreso y el Senado para autorizar la celebración de un Tratado de carácter político?",
+    "options": [
+      "La Diputación permanente del Congreso.",
+      "El Senado.",
+      "El Congreso.",
+      "Una Comisión Mixta compuesta por Diputados y Senadores."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "De conformidad con el artículo 74 de la Constitución Española, si el texto que presente la comisión Mixta en el supuesto previsto en el artículo 74.2 no se aprobare por mayoría de cada una de las Cámaras:",
+    "options": [
+      "Se deberá votar en sesión conjunta.",
+      "Quedará rechazado definitivamente.",
+      "Decidirá el Congreso por mayoría absoluta.",
+      "Decidirá el Congreso por mayoría de dos tercios."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "En virtud del artículo 74 de la Constitución Española, las Cámaras se reunirán en sesión conjunta para ejercer:",
+    "options": [
+      "Las competencias legislativas que el Título II de la Constitución atribuye expresamente a las Cortes.",
+      "Las competencias no legislativas que el Título III atribuye expresamente a las Cortes Generales.",
+      "Las competencias no legislativas que el Título III atribuye expresamente a las Cortes Generales.",
+      "Las competencias legislativas que el Título III atribuye expresamente a las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "Según el artículo 74 de la Constitución Española, el procedimiento para la adopción de las decisiones de las Cortes previstas en los artículos 94.1 (autorización de determinados tratados internacionales), 145.2 (autorización de acuerdos de cooperación entre Comunidades Autónomas) y 158.2 (distribución del Fondo de Compensación Interterritorial) se iniciará:",
+    "options": [
+      "Por el Congreso en todos los casos.",
+      "Por el Senado en todos los casos.",
+      "Por el Congreso en los dos primeros casos, y en el otro por el Senado.",
+      "En el primer caso por el Congreso, y en los otros dos por el Senado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "Según el artículo 74 de la Constitución Española, ¿Cómo se adoptarán las decisiones de las Cortes Generales previstas en los artículos 94.1, 145.2 y 158.2?",
+    "options": [
+      "Por mayoría absoluta de cada una de las Cámaras.",
+      "Por mayoría absoluta de ambas Cámaras reunidas en sesión conjunta.",
+      "Por mayoría de cada una de las Cámaras.",
+      "Por mayoría absoluta del Congreso y mayoría simple del Senado."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "En virtud del artículo 74 de la Constitución Española, en caso de desacuerdo entre las Cámaras en relación con las decisiones previstas en los artículos 94.1, 145.2 y 158.2, se intentará obtener el acuerdo mediante:",
+    "options": [
+      "La repetición de las votaciones.",
+      "La celebración de una votación conjunta de ambas Cámaras.",
+      "La votación por ambas Cámaras de un texto que presente una Comisión Mixta compuesta de igual número de Diputados y Senadores.",
+      "La celebración de une sesión conjunta de las Mesas de ambas Cámaras a fin de elaborar y votar un nuevo texto."
     ],
     "answer": 2,
     "explicacion": ""

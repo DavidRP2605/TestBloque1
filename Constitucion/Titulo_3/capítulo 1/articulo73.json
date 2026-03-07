@@ -19,6 +19,113 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "De conformidad con el artículo 73 de la Constitución, las Cámaras se reúnen en sesiones ordinarias:",
+    "options": [
+      "Ninguna de las respuestas es cierta.",
+      "A petición del Gobierno.",
+      "A petición de la Diputación Permanente.",
+      "A petición de la mayoría absoluta de los miembros de cualquiera de las dos Cámaras."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "Según el artículo 73 de la Constitución, ¿en cuántos períodos anuales se reúnen las Cámaras?",
+    "options": [
+      "En un solo período ordinario de sesiones.",
+      "En dos períodos ordinarios de sesiones.",
+      "En cuatro períodos ordinarios de sesiones.",
+      "En tres períodos ordinarios de sesiones."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "De conformidad con lo recogido en el artículo 73 de la Constitución, ¿cuántos períodos ordinarios de sesión tienen las Cámaras a lo largo del año?",
+    "options": ["Cuatro.", "Dos.", "Uno.", "Tres."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "¿Cuál de las siguientes opciones es correcta respecto a la convocatoria de las sesiones extraordinarias, de acuerdo al artículo 73 de la Constitución?",
+    "options": [
+      "Las Cámaras se reunirán anualmente en cuatro períodos ordinarios de sesiones.",
+      "Deben convocarse sobre una orden del día determinado.",
+      "Sólo se pueden convocar a petición de la mayoría de los miembros de las Cortes Generales.",
+      "Se pueden convocar de septiembre a diciembre únicamente."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "De acuerdo al artículo 73 de la CE, ¿A petición de quién podrán reunirse las Cámaras en sesiones extraordinarias?",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "A petición de la Diputación permanente.",
+      "A petición del Gobierno.",
+      "A petición de la mayoría absoluta de los miembros de cualquiera de las cámaras."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "De acuerdo con el artículo 73 de la Constitución Española, ¿Cuál es el primer periodo ordinario de sesiones?",
+    "options": [
+      "De septiembre a diciembre.",
+      "De febrero a junio.",
+      "De octubre a diciembre.",
+      "De enero a marzo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "Según el artículo 73 de la Constitución Española, ¿En cuantos períodos ordinarios de sesiones se reunirán anualmente las Cámaras?",
+    "options": ["Uno.", "Dos.", "Tres.", "Cuatro."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "Según el artículo 73 de la Constitución Española, ¿Cuál de las siguientes afirmaciones sobre las sesiones extraordinarias de las Cámaras es falsa?",
+    "options": [
+      "Deberán convocarse sobre un orden del día determinado.",
+      "Deberán convocarse sin un orden del día determinado.",
+      "Serán clausuradas una vez que el orden del día haya sido agotado.",
+      "No podrán convocarse a petición de la mayoría simple de los miembros de cualquiera de las Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "De acuerdo con el artículo 73 de la Constitución Española, ¿Cuál es el segundo período ordinario de sesiones?",
+    "options": [
+      "De septiembre a diciembre.",
+      "De enero a junio.",
+      "De septiembre a enero.",
+      "De febrero a junio."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "En virtud del artículo 73 de la Constitución Española, entre los órganos facultados para la petición de sesiones extraordinarias de una Cámara no figura",
+    "options": [
+      "El Presidente de la Cámara",
+      "La mayoría absoluta de los miembros de cualquiera de las Cámaras",
+      "El Gobierno",
+      "La Diputación Permanente de la Cámara"
+    ],
+    "answer": 0,
+    "explicacion": ""
   }
 ]

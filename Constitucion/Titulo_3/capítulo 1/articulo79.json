@@ -1,8 +1,98 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "De acuerdo el artículo 79 de la Constitución, el voto de Senadores y Diputados tiene el carácter de:",
+    "options": [
+      "Personal e indelegable.",
+      "Impersonal y transferible.",
+      "Universal.",
+      "Proporcional."
+    ],
+    "answer": 0,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "De acuerdo a lo establecido en el artículo 79 de la Constitución, para adoptar acuerdos las Cámaras deberán:",
+    "options": [
+      "Haber sido avisadas de la reunión tres meses antes.",
+      "Contar con la asistencia de la mayoría de sus miembros.",
+      "Contar con la asistencia de dos tercios de sus miembros.",
+      "Estar reunidas de acuerdo a su ley orgánica."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "La Constitución determina en su artículo 79 que, para que las Cámaras puedan adoptar acuerdos:",
+    "options": [
+      "Deben votar favorablemente por mayoría absoluta.",
+      "Es suficiente con la asistencia de la mayoría de los miembros de ambas Cámaras sin más trámite.",
+      "Deben estar reunidas reglamentariamente y con la asistencia de la mayoría de sus miembros.",
+      "Es necesaria, al menos, la asistencia de un tercio de sus miembros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "De acuerdo con el artículo 79 de la Constitución Española, sin perjuicio de las mayorías especiales que en determinados casos se exijan, los acuerdos de las Cámaras para ser válidos deberán ser aprobados",
+    "options": [
+      "Por la mayoría de los miembros presentes",
+      "Por la mayoría de los miembros de la Cámara",
+      "Por mayoría absoluta",
+      "Por mayoría de dos tercios de los miembros presentes"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "La Constitución determina en su artículo 79 que, para que las Cámaras puedan adoptar acuerdos:",
+    "options": [
+      "Deben votar favorablemente por mayoría absoluta.",
+      "Es suficiente con la asistencia de la mayoría de los miembros de ambas Cámaras sin más trámite.",
+      "Deben estar reunidas reglamentariamente y con la asistencia de la mayoría de sus miembros.",
+      "Es necesaria, al menos, la asistencia de un tercio de sus miembros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "De acuerdo con el artículo 79 de la Constitución Española, para adoptar acuerdos las Cámaras deben estar reunidas reglamentariamente y con asistencia de:",
+    "options": [
+      "Dos terceras partes de sus miembros.",
+      "Tres cuartas partes de sus miembros.",
+      "Tres quintas partes de sus miembros.",
+      "La mayoría de sus miembros."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "De acuerdo con el artículo 79 de la Constitución Española, ¿Podrán delegar su voto los Senadores y Diputados?",
+    "options": [
+      "Solamente en el portavoz de su grupo parlamentario",
+      "Sí, en cualquier miembro de la Cámara, previa comunicación a la Mesa",
+      "No, el voto es personal e indelegable",
+      "Únicamente en el Presidente de la Cámara"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "De acuerdo al artículo 79 de la Constitución, para que las Cámaras puedan adoptar acuerdos, estas se reunirán",
+    "options": [
+      "Conforme a lo establecido en la Ley Orgánica 5/1985, de 19 de junio",
+      "Reglamentariamente y con asistencia de la mayoría de sus miembros",
+      "Reglamentariamente y con asistencia de dos terceras partes de sus miembros",
+      "Con asistencia de tres quintas partes de sus miembros"
+    ],
+    "answer": 1,
+    "explicacion": ""
   }
 ]

@@ -1,5 +1,146 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "En virtud del artículo 66 de la Constitución, ¿quién representa al pueblo español?",
+    "options": [
+      "El Congreso.",
+      "El Gobierno.",
+      "Las Cortes Generales.",
+      "El Rey."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De acuerdo al artículo 66 de la Constitución, ¿cuál de los siguientes órganos ostenta la potestad legislativa?",
+    "options": [
+      "La Corona.",
+      "Las Cortes Generales.",
+      "El Gobierno.",
+      "El Estado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "¿Cuál de las siguientes opciones es una competencia atribuida a las Cortes Generales según lo dispuesto en el artículo 66 de la Constitución?",
+    "options": [
+      "La potestad legislativa.",
+      "La aprobación de sus presupuestos.",
+      "El control de la acción del Gobierno.",
+      "Todas las respuestas son competencia de las Cortes Generales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De acuerdo al artículo 66 de la Constitución, ¿para quién actúan como representantes las Cortes Generales?",
+    "options": [
+      "Para el Rey.",
+      "Para los estamentos sociales.",
+      "Para el pueblo.",
+      "Para las asociaciones profesionales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "Según la literalidad del artículo 66 de la Constitución, ¿quién representa al pueblo español?",
+    "options": [
+      "El Senado.",
+      "El Congreso.",
+      "Las Diputaciones Permanentes.",
+      "Las Cortes Generales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "Conforme al artículo 66 de la Constitución Española, las Cortes Generales representan:",
+    "options": [
+      "A los electores.",
+      "A los partidos políticos.",
+      "Al Estado Español.",
+      "Al pueblo español."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "Según el artículo 66 de la Constitución Española, las Cortes Generales están formadas por:",
+    "options": [
+      "El Congreso y el Senado de los Diputados.",
+      "El Congreso, la Asamblea Legislativa y el Senado.",
+      "La Asamblea de los Diputados y el Senado.",
+      "El Congreso de los Diputados y el Senado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De conformidad con el artículo 66 de la Constitución Española, ¿Cuál de las siguientes competencias corresponde a las Cortes Generales?",
+    "options": [
+      "Ejercer la función ejecutiva del Estado.",
+      "Controlar la acción del Gobierno.",
+      "Ejercer la potestad reglamentaria del Estado.",
+      "Velar por la independencia de los Tribunales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De acuerdo con el artículo 66 de la Constitución Española, no es competencia de las Cortes Generales:",
+    "options": [
+      "La sanción y promulgación de las leyes.",
+      "El ejercicio de la potestad legislativa del Estado.",
+      "La aprobación de los Presupuestos del Estado.",
+      "El control de la acción del Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De acuerdo con el artículo 66 de la Constitución Española, ¿Cuál de las siguientes afirmaciones es falsa?",
+    "options": [
+      "Las Cortes Generales son inviolables.",
+      "Las Cortes Generales ejercen la potestad reglamentaria del Estado.",
+      "Las Cortes Generales aprueban los Presupuestos del Estado.",
+      "Las Cortes Generales representan al pueblo español."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "¿Qué órgano es el encargado de aprobar los presupuestos de las Cortes, de acuerdo a lo establecido en el artículo 66 de la Constitución?",
+    "options": [
+      "El Senado, el Congreso y el Pleno",
+      "El Gobierno",
+      "Las propias Cortes",
+      "El Congreso"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De acuerdo con el artículo 66 de la Constitución, las Cortes Generales",
+    "options": [
+      "Controlan la acción del Rey",
+      "Están formadas por el Congreso y el Pleno",
+      "Ejercen la potestad judicial del Estado",
+      "Están formadas por el Congreso de los Diputados y el Senado"
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

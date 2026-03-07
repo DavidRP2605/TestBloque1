@@ -300,9 +300,19 @@
         }
       }
 
-      // Retorna peso de una pregunta basado en estadísticas (favorece preguntas con más fallos)
+      // Retorna peso de una pregunta basado en estadísticas y dificultad
+      // Prioriza preguntas difíciles y aquellas con más fallos
       function computeQuestionWeight(q) {
         try {
+          // Peso base según dificultad
+          let difficultyWeight = 1.0;
+          switch (q.dificultad) {
+            case "facil": difficultyWeight = 0.5; break;
+            case "dificil": difficultyWeight = 1.8; break;
+            case "medio": difficultyWeight = 1.0; break;
+            default: difficultyWeight = 1.0;
+          }
+
           const stats = JSON.parse(localStorage.getItem("estadisticasTAI") || "{}");
           let ac = 0, fa = 0;
           // Agregar recuentos de todas las rutas donde la pregunta exista (más robusto)
@@ -313,9 +323,12 @@
             }
           });
           const total = ac + fa;
-          if (total === 0) return 0.5; // desconocida -> prioridad media
+          if (total === 0) return 0.5 * difficultyWeight; // desconocida -> prioridad media
           // suavizado: (fallos + 0.5) / (total + 1) => mayor si hay más fallos
-          return (fa + 0.5) / (total + 1);
+          const statsWeight = (fa + 0.5) / (total + 1);
+          
+          // Combinar pesos: 60% dificultad, 40% estadísticas
+          return (0.6 * difficultyWeight + 0.4 * statsWeight);
         } catch (e) {
           return 0.5;
         }
@@ -479,7 +492,6 @@
           questions.length
         }</p>
         <p class="question-text"><strong>${q.question}</strong></p>
-        <p class="tip">Puedes seleccionar la respuesta con los botones 1‑4 o haciendo clic; una vez elegida, pulsa <strong>Enter</strong> para confirmar.</p>
         ${q.options
           .map(
             (opt, i) => `

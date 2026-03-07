@@ -24,6 +24,147 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "¿Cuál de las siguientes opciones no vincula a las Cámaras según el artículo 67.3 de la Constitución?",
+    "options": [
+      "Reuniones de parlamentarios sin convocatoria reglamentaria.",
+      "Potestad legislativa.",
+      "Control del Gobierno.",
+      "Todas las opciones son incorrectas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "Según el artículo 67 de la Constitución, ¿cuál de las siguientes opciones es cierta acerca de los miembros de las Cortes Generales?",
+    "options": [
+      "Pueden ser miembros del Tribunal Constitucional.",
+      "No están ligados por mandato imperativo.",
+      "Pueden ser miembros del Tribunal Supremo.",
+      "Están ligados por mandato categórico."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "De acuerdo al artículo 67 de la Constitución, ¿es posible compatibilizar el ser miembro de las dos Cámaras simultáneamente?",
+    "options": [
+      "Sí, bajo autorización.",
+      "No.",
+      "Sí, previa aprobación del Presidente del Gobierno.",
+      "Sí."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "Según el artículo 67 de la Constitución, ¿las reuniones de parlamentarios que se celebren sin convocatoria reglamentaria, vincularán a las Cámaras?",
+    "options": [
+      "Sí, si así lo acuerdan en pleno.",
+      "No, y no podrán ejercer sus funciones ni ostentar sus privilegios.",
+      "No, aunque los parlamentarios sí podrán ejercer sus funciones y ostentar privilegios en ellas.",
+      "Sí."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "¿Qué contempla el artículo 67 respecto a las reuniones parlamentarias sin convocatoria reglamentaria?",
+    "options": [
+      "Que no son vinculantes.",
+      "Que los parlamentarios no podrán ejercer sus funciones en las mismas.",
+      "Todas las respuestas son ciertas.",
+      "Que los parlamentarios no podrán ostentar sus privilegios en las mismas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "¿Contempla el artículo 67 de la Constitución la posibilidad de que puedan acumularse el acta de una Asamblea de Comunidad Autónoma con la de Senador?:",
+    "options": [
+      "No.",
+      "No, pero sí con la de Diputado.",
+      "Sí, de modo implícito, al no determinarse su prohibición.",
+      "Sí, pero con autorización previa del Presidente del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "¿Contempla el artículo 67 de la Constitución la posibilidad de que puedan acumularse el acta de una Asamblea de Comunidad Autónoma con la de Senador?:",
+    "options": [
+      "No.",
+      "No, pero sí con la de Diputado.",
+      "Sí, de modo implícito, al no determinarse su prohibición.",
+      "Sí, pero con autorización previa del Presidente del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "Según el artículo 67 de la Constitución Española, ¿Quién podrá ser miembro de las dos cámaras simultáneamente?",
+    "options": [
+      "Sólo el Presidente del Gobierno.",
+      "Nadie.",
+      "Únicamente el Presidente de las Cortes Generales.",
+      "Los miembros del Gobierno, exclusivamente."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "Según el artículo 67 de la Constitución Española, ¿A qué mandato imperativo estarán ligados los miembros de las Cortes Generales?",
+    "options": [
+      "Al de los electores.",
+      "Al de sus respectivos partidos políticos.",
+      "Al de los Presidentes de las respectivas Cámaras.",
+      "A ninguno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "En virtud del artículo 67 de la Constitución Española, ¿Podrá acumularse el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso o la de Senador?",
+    "options": [
+      "No, con ninguna de las dos.",
+      "Sólo con la de Diputado al Congreso.",
+      "Sólo con la de Senador.",
+      "Sí, con cualquiera de ellas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "De acuerdo con el artículo 67 de la Constitución Española, ¿Vincularán a las Cámaras las reuniones de parlamentarios que se celebren sin convocatoria reglamentaria?",
+    "options": [
+      "Sí, pero no podrán ejercer sus funciones ni ostentar sus privilegios.",
+      "No, aunque podrán ejercer sus funciones y ostentar sus privilegios.",
+      "Sólo si en dichas reuniones ejercen sus funciones y hacen valer sus privilegios.",
+      "No, y no podrán ejercer sus funciones ni ostentar sus privilegios."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "La Constitución determina en su artículo 67 que, un Diputado no puede",
+    "options": [
+      "Todas las respuestas son ciertas",
+      "Ser miembro de las dos Cámaras simultáneamente",
+      "Estar ligado por mandato imperativo",
+      "Acumular el acta de una Asamblea de la Comunidad Autónoma con la de Diputado al Congreso"
+    ],
+    "answer": 0,
+    "explicacion": ""
   }
 ]

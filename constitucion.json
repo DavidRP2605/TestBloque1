@@ -562,6 +562,30 @@
     "explicacion": ""
   },
   {
+    "titulos": ["Bloque 1", "General"],
+    "question": "¿Cuántos Senadores y Diputados son elegidos por Melilla según la Constitución?",
+    "options": [
+      "Un Senador y un Diputado.",
+      "Dos Senadores y dos Diputados.",
+      "Un Senador y dos Diputados.",
+      "Dos Senadores y un Diputado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "De conformidad con lo recogido en la Constitución, ¿cuál de las siguientes figuras es elegida por un mandato de 4 años?",
+    "options": [
+      "Los Diputados cada 4 años y los Senadores cada 5",
+      "Únicamente los Senadores",
+      "Los Senadores y los Diputados",
+      "Sólo los Diputados"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
     "titulos": ["Bloque 1", "General"]
   }
 ]

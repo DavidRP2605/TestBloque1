@@ -1,5 +1,110 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "De acuerdo al artículo 70 de la Constitución, ¿cuál de las siguientes profesiones no podrá ser senador?",
+    "options": [
+      "Todas las respuestas siguientes son ciertas.",
+      "Los militares profesionales en activo.",
+      "Los altos cargos de la Administración.",
+      "El Defensor del Pueblo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "De acuerdo al artículo 70 de la Constitución, ¿está sometida a control judicial la validez de las actas y credenciales de los miembros de ambas Cámaras?",
+    "options": [
+      "No, excepto en los que así determine el Tribunal Constitucional.",
+      "Únicamente el Congreso.",
+      "Sí, en los términos que establezca la ley electoral.",
+      "No, en ningún caso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "Según el artículo 70 de la Constitución, ¿qué norma determina las causas de inelegibilidad e incompatibilidad de los Diputados y los Senadores?",
+    "options": [
+      "Cualquier Ley Ordinaria.",
+      "La Ley Electoral.",
+      "El Código Civil.",
+      "El Código Penal."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "Según el artículo 70 de la Constitución, ¿puede un miembro del Tribunal Constitucional ser Senador?",
+    "options": [
+      "No, es incompatible con el cargo de Senador.",
+      "Sí.",
+      "No, pero sí puede ser Diputado.",
+      "Sí, y también puede ser Diputado."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "¿Es posible que un Senador pueda ser al mismo tiempo miembro de una Junta Electoral?",
+    "options": [
+      "No.",
+      "Sí.",
+      "Sí, previa autorización del Congreso.",
+      "Sí, previa autorización del Presidente de la Cámara."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "Según el artículo 70 de la Constitución Española, las causas de inelegibilidad e incompatibilidad de los Diputados y Senadores no comprenden a:",
+    "options": [
+      "Los componentes del Tribunal Constitucional.",
+      "Los miembros de las Juntas Electorales.",
+      "Los miembros del Gobierno.",
+      "Los Magistrados, Jueces y Fiscales en activo."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "En virtud del artículo 70 de la Constitución Española, las causas de inelegibilidad e incompatibilidad de los Diputados y Senadores se determinarán por:",
+    "options": [
+      "Las respectivas Cámaras.",
+      "La ley electoral.",
+      "El Tribunal Constitucional.",
+      "Los Jueces y Tribunales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "De conformidad con el artículo 70 de la Constitución Española, la validez de las actas y credenciales de los miembros de ambas Cámaras estará sometida al control:",
+    "options": [
+      "Judicial.",
+      "Del Tribunal Constitucional.",
+      "Gubernativo.",
+      "De los Presidentes de las respectivas Cámaras."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "En virtud de lo regulado en el artículo 70 de la Constitución, pueden ser Diputados y Senadores",
+    "options": [
+      "El Defensor del Pueblo",
+      "Los miembros de las Juntas Electorales",
+      "Los Magistrados, Jueces y Fiscales en activo",
+      "Los españoles que estén en pleno uso de sus derechos políticos"
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

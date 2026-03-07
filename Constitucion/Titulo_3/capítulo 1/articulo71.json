@@ -12,6 +12,123 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "De conformidad con el artículo 71.3 de la Constitución, en las causas contra Diputados y Senadores será competente:",
+    "options": [
+      "La Sala de lo Civil del Tribunal Constitucional.",
+      "La Sala de lo Penal del Tribunal Supremo.",
+      "La Sala de lo Penal del Tribunal Constitucional.",
+      "La Sala de lo Civil del Tribunal Supremo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "De acuerdo al artículo 71 de la Constitución, ¿respecto a qué gozarán de inviolabilidad los Diputados y Senadores?",
+    "options": [
+      "Por cualquier falta administrativa.",
+      "Por las opiniones manifestadas en el ejercicio de las funciones.",
+      "Por cualquier delito penal.",
+      "Por cualquier delito civil."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "Según el artículo 71 de la Constitución, ¿qué protección tienen los Diputados en el ejercicio de sus cargos?",
+    "options": [
+      "Inamovilidad.",
+      "Personal.",
+      "Aforamiento.",
+      "Inviolabilidad por sus opiniones expresadas en el desempeño de sus funciones e inmunidad."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "¿Contempla la Constitución algún requisito previo para que un Diputado pueda ser procesado?:",
+    "options": [
+      "Si, autorización de las Cortes Generales.",
+      "Si, autorización del Senado.",
+      "No, es a discreción judicial.",
+      "Si, con la autorización de la Cámara respectiva."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "Según lo contemplado en el artículo 71 de la Constitución, ¿a qué órgano judicial le compete encargarse de las causas contra Diputados y Senadores?:",
+    "options": [
+      "Al Tribunal Constitucional.",
+      "Al Audiencia Provincial.",
+      "Al Audiencia Nacional.",
+      "Al Tribunal Supremo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "De conformidad con el artículo 71 de la Constitución Española, la asignación a percibir por los Diputados y Senadores será fijada por",
+    "options": [
+      "Las Cortes Generales, mediante ley orgánica",
+      "Las Cortes Generales, en la Ley de Presupuestos",
+      "Las respectivas Cámaras",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "De acuerdo con lo establecido en el artículo 71 de la Constitución, ¿quién fija la asignación que perciben los Senadores?",
+    "options": [
+      "La Ley de Presupuestos del Estado",
+      "El Congreso",
+      "El Senado",
+      "Las Cortes en general"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "Según el artículo 71 de la Constitución Española, ¿De qué prerrogativa gozarán los Diputados y Senadores por opiniones manifestadas en el ejercicio de sus funciones?",
+    "options": [
+      "Credibilidad.",
+      "Irrebatibilidad.",
+      "Inviolabilidad.",
+      "Infalibilidad."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "Según el artículo 71 de la Constitución Española, ¿Gozarán de inmunidad los Diputados y Senadores durante el período de su mandato?",
+    "options": [
+      "Sí, no pudiendo ser detenidos aún en caso de flagrante delito.",
+      "Sí, y sólo podrán ser detenidos en caso de flagrante delito.",
+      "No, por lo que podrán ser detenidos en caso de delito.",
+      "No, aunque no podrán ser detenidos sin la previa autorización de la Cámara respectiva."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "De acuerdo con el artículo 71 de la Constitución Española, ¿Podrán ser inculpados o procesados los Diputados y Senadores?",
+    "options": [
+      "Sólo con la previa autorización de las Cortes Generales.",
+      "Sólo en caso de flagrante delito.",
+      "Sólo con la previa autorización de la Cámara respectiva.",
+      "No, en ningún caso."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

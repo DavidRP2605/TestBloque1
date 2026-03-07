@@ -12,6 +12,111 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "Según el artículo 75 de la Constitución, ¿cuál de las siguientes materias podrá ser delegada en las Comisiones Legislativas permanentes por parte de las Cortes Generales?",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "Los presupuestos generales del Estado.",
+      "Las cuestiones internacionales.",
+      "La aprobación de proposiciones de Ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "Según el artículo 75 de la Constitución, ¿cuál de las siguientes es una materia que no se puede delegar por las Cámaras en las Comisiones Legislativas Permanentes?",
+    "options": [
+      "Todas las respuestas son correctas.",
+      "Las cuestiones internacionales.",
+      "La reforma constitucional.",
+      "Las leyes orgánicas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "De acuerdo al artículo 75 de la Constitución, el funcionamiento de las Cámaras será:",
+    "options": [
+      "Únicamente en pleno.",
+      "Preferiblemente por Comisiones.",
+      "Tanto en pleno como en comisiones.",
+      "De carácter privado."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "En virtud de lo comprendido en el artículo 75 de la CE, ¿Qué materias sí podrán delegar las Cámaras en las Comisiones Legislativas Permanentes?",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "La aprobación de proyectos o proposiciones de ley.",
+      "Los Presupuestos Generales del Estado.",
+      "Las cuestiones internacionales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "De acuerdo con el artículo 75 de la Constitución Española, ¿Podrá el Pleno recabar el debate y votación de un proyecto o proposición de ley que haya sido objeto de delegación en una Comisión Legislativa Permanente?:",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, en cualquier momento.",
+      "Podrá recabarse la votación, pero no el debate.",
+      "Sólo una vez transcurridos treinta días desde la delegación sin que el proyecto o la proposición haya sido aprobado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "En virtud del artículo 75 de la Constitución Española, ¿Cómo funcionarán las Cámaras?",
+    "options": [
+      "En Pleno y por Comisiones.",
+      "En Pleno, Consejos y Comisiones.",
+      "Siempre en Pleno.",
+      "En Pleno, Mesa, Diputación y Consejos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "De conformidad con el artículo 75 de la Constitución Española, podrán ser objeto de delegación en las Comisiones Legislativas Permanentes:",
+    "options": [
+      "Las leyes ordinarias que autoricen al Gobierno la refundición de textos legales.",
+      "Las leyes de bases.",
+      "Las cuestiones internacionales.",
+      "Todas las materias citadas son delegables."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "De acuerdo con el artículo 75 de la Constitución Española, ¿Podrán las Cámaras delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley?",
+    "options": [
+      "Podrán delegar los proyectos, pero no las proposiciones.",
+      "Podrán delegar las proposiciones, pero no los proyectos.",
+      "Sí, tanto los proyectos como las proposiciones.",
+      "No, la aprobación de proyectos o proposiciones no es delegable por los Plenos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "Según el artículo 75 de la Constitución Española, no podrá ser objeto de delegación en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley sobre:",
+    "options": [
+      "Patrimonio del Estado.",
+      "Planificación de la actividad económica.",
+      "Presupuestos Generales del Estado.",
+      "Ninguna de las materias citadas pueden ser objeto de delegación."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

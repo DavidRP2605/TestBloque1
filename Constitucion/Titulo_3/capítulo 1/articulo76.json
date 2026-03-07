@@ -1,5 +1,134 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "Respecto a las Comisiones de Investigación, recogidas en el artículo 76 de la Constitución y nombradas por el Congreso y el Senado, estas:",
+    "options": [
+      "Únicamente podrán conocer de asuntos administrativos.",
+      "Afectan a las resoluciones judiciales sus decisiones.",
+      "Pueden conocer sobre cualquier asunto.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "Según el artículo 76, ¿es obligatorio comparecer ante el requerimiento de las Cámaras?",
+    "options": [
+      "Únicamente si la persona está de acuerdo.",
+      "Sí.",
+      "No.",
+      "Sólo para cuestiones de interés nacional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "Las Comisiones de investigación recogidas en el artículo 76 de la Constitución, se podrán nombrar para:",
+    "options": [
+      "Lo que determine el Consejo de Estado.",
+      "Cualquier asunto de interés público.",
+      "Únicamente para temas de responsabilidad parlamentaria.",
+      "Lo que determine el Gobierno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "Según lo contemplado en el artículo 76 de la Constitución, ¿existe la obligación de comparecer a requerimiento de las Cámaras?",
+    "options": [
+      "Sí, cuando así se vota por la mayoría absoluta de sus miembros.",
+      "Sí.",
+      "Sí, cuando se trata de una investigación de las mismas.",
+      "No."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "Respecto a las conclusiones de las Comisiones de Investigación nombradas por las Cámaras, el artículo 76 determina que:",
+    "options": [
+      "Vinculan a los Tribunales y al Ministerio Fiscal.",
+      "Vinculan a los Tribunales.",
+      "No vinculan a los Tribunales.",
+      "Vinculan al Ministerio Fiscal."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "De acuerdo con el artículo 76 de la Constitución Española, las sanciones que puedan imponerse por incumplimiento de la obligación de comparecer a requerimiento de las Cámaras",
+    "options": [
+      "Se determinarán por los respectivos Presidentes",
+      "Se regularán por ley",
+      "Se establecerán por los respectivos Plenos",
+      "Se regularán mediante una ley orgánica"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "De acuerdo con el artículo 76 de la Constitución Española, ¿Podrán las Cámaras nombrar Comisiones de investigación sobre cualquier asunto de interés público?",
+    "options": [
+      "Solamente podrá nombrarlas el Congreso.",
+      "Sólo podrán nombrarse Comisiones conjuntas de ambas Cámaras.",
+      "No, sus investigaciones no podrán ir dirigidas más que a la actividad del Gobierno.",
+      "Sí, podrán nombrarlas el Congreso, el Senado y, en su caso, ambas Cámaras conjuntamente."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "De acuerdo con el artículo 76 de la Constitución Española, ¿Podrán las Cámaras nombrar Comisiones de investigación sobre cualquier asunto de interés público?",
+    "options": [
+      "Solamente podrá nombrarlas el Congreso.",
+      "Sólo podrán nombrarse Comisiones conjuntas de ambas Cámaras.",
+      "No, sus investigaciones no podrán ir dirigidas más que a la actividad del Gobierno.",
+      "Sí, podrán nombrarlas el Congreso, el Senado y, en su caso, ambas Cámaras conjuntamente."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "De acuerdo con el artículo 76 de la Constitución Española, las conclusiones de las Comisiones de investigación:",
+    "options": [
+      "Serán vinculantes para los Tribunales y afectarán a las resoluciones judiciales.",
+      "No serán vinculantes para los Tribunales, pero afectarán a las resoluciones judiciales.",
+      "Serán vinculantes para los Tribunales, pero no afectarán a las resoluciones judiciales.",
+      "No serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "De acuerdo con el artículo 76 de la Constitución Española, ¿Será obligatorio comparecer a requerimiento de las Cámaras?",
+    "options": [
+      "Sólo para los miembros del Gobierno.",
+      "Sí, para todos.",
+      "No, en ningún caso.",
+      "Solamente en los casos previstos expresamente por ley."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 76"],
+    "question": "Conforme al artículo 76.1 de la Constitución, el resultado de la investigación de las Comisiones de investigación se comunicará, cuando proceda, a efectos del ejercicio de las acciones oportunas, a",
+    "options": [
+      "El Defensor del Pueblo",
+      "El Tribunal Supremo",
+      "El Gobierno",
+      "El Ministerio Fiscal"
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

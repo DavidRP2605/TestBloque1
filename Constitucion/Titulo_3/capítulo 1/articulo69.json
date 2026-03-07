@@ -36,6 +36,303 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo al artículo 69 de la Constitución, ¿cuál de las siguientes es una característica propia del sufragio mediante el cual se elegirán los senadores?",
+    "options": [
+      "Directo y secreto.",
+      "Libre e igual.",
+      "Universal.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69, ¿cuántos senadores elegirá cada provincia?",
+    "options": ["Dos.", "Tres.", "Cuatro.", "Cinco."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según lo dispuesto en el artículo 69 de la Constitución, ¿cuántos Senadores se elegirán en cada provincia?",
+    "options": ["Cinco.", "Cuatro.", "Dos.", "Tres."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69, ¿cuántos senadores elegirán cada una de las poblaciones de Ceuta y Melilla?",
+    "options": ["Cuatro.", "Dos.", "Tres.", "Uno."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo al artículo 69 de la Constitución, ¿qué carácter tiene asignado el Senado?",
+    "options": [
+      "Cámara de elección.",
+      "No tiene asignado un carácter específico.",
+      "Cámara de compensación.",
+      "Cámara de representación territorial."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo a la Constitución, ¿cuál de los siguientes cargos es nombrado por un período de cuatro años?",
+    "options": [
+      "Los Ministros.",
+      "Los miembros del Tribunal Constitucional.",
+      "Los Senadores.",
+      "Todas las opciones son verdaderas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "¿Cuántos Senadores y Diputados son elegidos por Melilla según la Constitución?",
+    "options": [
+      "Un Senador y un Diputado.",
+      "Dos Senadores y dos Diputados.",
+      "Un Senador y dos Diputados.",
+      "Dos Senadores y un Diputado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "En virtud de lo dispuesto en el artículo 69 de la Constitución, ¿cuántos senadores elige Melilla?",
+    "options": ["Cuatro.", "Tres.", "Dos.", "Uno."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "En virtud de lo dispuesto en el artículo 69 de la Constitución, ¿A cuál de las siguientes islas le corresponderá elegir tres Senadores?",
+    "options": ["La Palma.", "Tenerife.", "Menorca.", "Hierro."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69 de la CE, ¿Por cuánto tiempo es elegido el Senado?",
+    "options": ["Cuatro años.", "Cinco años.", "Seis años.", "Nueve años."],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo al artículo 69 de la CE, ¿Cuál es la Cámara de representación territorial?",
+    "options": [
+      "El Congreso.",
+      "Tanto el Congreso como el Senado.",
+      "El Senado.",
+      "Ninguna de las anteriores."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69 de la Constitución Española, ¿Cuántos Senadores elegirán las poblaciones de Ceuta y Melilla?",
+    "options": [
+      "Dos cada una.",
+      "Uno cada una.",
+      "Uno conjuntamente.",
+      "Dos conjuntamente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo con el artículo 69 de la Constitución Española, ¿cuántos Senadores designarán las Comunidades Autónomas?",
+    "options": [
+      "Cuatro por cada provincia que las integre.",
+      "Cuatro y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Tres, salvo las uniprovinciales que designarán solo dos.",
+      "Uno y otro más por cada millón de habitantes de su respectivo territorio."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De conformidad con el artículo 69 de la Constitución Española, el mandato de los Senadores termina:",
+    "options": [
+      "El día en que se celebren nuevas elecciones.",
+      "Cuando se celebre la sesión constitutiva del nuevo Senado.",
+      "Cuatro años después de la sesión constitutiva del Senado.",
+      "Cuatro años después de su elección o el día de la disolución de la Cámara."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según la literalidad del precepto constitucional del artículo 69.2, ¿cuántos Senadores se elegirán por cada Provincia?",
+    "options": ["5", "6", "4", "2"],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo con el artículo 69 de la Constitución Española, ¿Cuántos Senadores corresponden a la isla de Gomera?",
+    "options": [
+      "Uno, conjuntamente con Fuerteventura",
+      "Ninguno",
+      "Dos",
+      "Uno"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "En virtud del artículo 69 de la Constitución Española, ¿Cuántos Senadores representarán a Gran Canaria?",
+    "options": ["Uno", "Dos", "Tres", "Cuatro"],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo con lo establecido en el artículo 69 de la Constitución, a la siguiente isla o agrupación de islas le pertenecen tres Senadores",
+    "options": ["Tabarca", "Menorca", "Mallorca", "La Palma"],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69 de la Constitución Española, ¿Cuántos Senadores elegirán las poblaciones de Ceuta y Melilla?",
+    "options": [
+      "Dos cada una.",
+      "Uno cada una.",
+      "Uno conjuntamente.",
+      "Dos conjuntamente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo con el artículo 69 de la Constitución Española, ¿cuántos Senadores designarán las Comunidades Autónomas?",
+    "options": [
+      "Cuatro por cada provincia que las integre.",
+      "Cuatro y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Tres, salvo las uniprovinciales que designarán solo dos.",
+      "Uno y otro más por cada millón de habitantes de su respectivo territorio."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De conformidad con el artículo 69 de la Constitución Española, el mandato de los Senadores termina:",
+    "options": [
+      "El día en que se celebren nuevas elecciones.",
+      "Cuando se celebre la sesión constitutiva del nuevo Senado.",
+      "Cuatro años después de la sesión constitutiva del Senado.",
+      "Cuatro años después de su elección o el día de la disolución de la Cámara."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69 de la Constitución Española, ¿Cuántos Senadores podrá tener Fuerteventura?",
+    "options": ["Ninguno.", "Uno.", "Dos.", "Tres."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "En virtud del artículo 69 de la Constitución Española, ¿Cuántos Senadores se elegirán en cada provincia?",
+    "options": [
+      "Cuatro y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Un número proporcional a su población, con un mínimo de tres.",
+      "Cuatro.",
+      "Tres."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "En virtud del artículo 69 de la Constitución Española, ¿Cuántos Senadores corresponden a cada una de las islas mayores?",
+    "options": ["Uno.", "Dos.", "Tres.", "Cuatro."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "En virtud del artículo 69 de la Constitución Española, ¿A cuál de las siguientes islas le corresponderá elegir un Senador?",
+    "options": ["Mallorca.", "Cabrera.", "Gomera.", "Gran Canaria."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69 de la Constitución Española, ¿Tendrá la isla de Lanzarote representación propia en el Senado?",
+    "options": [
+      "Sí, le corresponderá un Senador.",
+      "No.",
+      "Le corresponderá un Senador conjuntamente con La Palma.",
+      "Sí, estará representada por dos Senadores."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69 de la Constitución Española, la designación de los Senadores que representen a la Comunidad Autónoma corresponderá:",
+    "options": [
+      "Al Presidente de la Comunidad Autónoma.",
+      "A los electores de la Comunidad Autónoma por sufragio universal.",
+      "A los Alcaldes y Presidentes de las Diputaciones de la Comunidad Autónoma.",
+      "A la Asamblea legislativa o, en su defecto, el Órgano colegiado superior de la Comunidad Autónoma."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "El artículo 69 de la Constitución define al Senado como",
+    "options": [
+      "Cámara de representación provincial",
+      "Cámara de representación territorial",
+      "Cámara de representación proporcional",
+      "Cámara de representación autonómica"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo con el artículo 69 de la Constitución Española, ¿Cuál será la circunscripción electoral, a efectos de elección de Senadores, en las provincias insulares?",
+    "options": [
+      "Cada isla con población superior a cinco mil habitantes",
+      "Cada isla o agrupación de ellas, con Cabildo o Consejo insular",
+      "Existirá una doble circunscripción: la provincia y cada una de las islas",
+      "La isla, para las que tengan más de cien mil habitantes, y la provincia para el resto de las islas"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De acuerdo con el artículo 69 de la Constitución Española, ¿cuántos Senadores corresponde elegir a la isla de Ibiza?",
+    "options": [
+      "Dos, conjuntamente con Formentera",
+      "Uno, conjuntamente con Formentera",
+      "Tres, conjuntamente con Formentera",
+      "Uno, independientemente de Formentera que elegirá el suyo propio"
+    ],
+    "answer": 1,
+    "explicacion": ""
   }
 ]

@@ -27,8 +27,8 @@
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
     "question": "Según el artículo 68.1 de la Constitución Española, ¿De cuántos Diputados se compone el Congreso?",
     "options": [
-      "De un máximo de 450 y de un mínimo de 350 Diputados.",
-      "De un máximo de 500 y de un mínimo de 350 Diputados.",
+      "De un máximo de 400 y de un mínimo de 350 Diputados.",
+      "De un máximo de 450 y de un mínimo de 300 Diputados.",
       "De un máximo de 350 y de un mínimo de 300 Diputados.",
       "De un máximo de 400 y de un mínimo de 300 Diputados."
     ],
@@ -48,6 +48,235 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "De acuerdo al artículo 68 de la Constitución, ¿por cuántos diputados serán representadas las poblaciones de Ceuta y Melilla?",
+    "options": [
+      "Ambas serán representadas por un diputado.",
+      "Por un diputado cada una de ellas.",
+      "Por dos diputados cada una de ellas.",
+      "Por tres diputados en total."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68 de la Constitución, el mandato de los diputados terminará:",
+    "options": [
+      "Cuatro años después de su elección, únicamente.",
+      "Tres años después de su elección, entre otras causas.",
+      "Cuatro años después de su elección así como el día de disolución de la Cámara.",
+      "El día de disolución de la Cámara si así se decide."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "De acuerdo al artículo 68.5 de la Constitución, ¿qué españoles son electores y elegibles?",
+    "options": [
+      "Únicamente aquellos que hayan nacido en España.",
+      "Todos sin excepción.",
+      "Los que estén en pleno uso de sus derechos políticos.",
+      "Los que estén en pleno uso de sus derechos civiles."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "De acuerdo al artículo 68 de la Constitución, se atenderá a los siguientes criterios para verificar la elección de cada circunscripción:",
+    "options": [
+      "A criterios de representación real.",
+      "A criterios de representación proporcional.",
+      "A criterios de representación directa.",
+      "A criterios de representación orgánica."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68 de la Constitución, ¿cuál es el plazo en que deberá ser convocado el Congreso una vez celebradas las elecciones?",
+    "options": ["25 días.", "10 días.", "15 días.", "20 días."],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "En virtud de lo comprendido en el artículo 68 de la Constitución, ¿en base a qué criterio se verificará la elección de los Diputados en cada circunscripción?",
+    "options": [
+      "Representación mínima.",
+      "Representación territorial.",
+      "Representación proporcional.",
+      "Sufragio."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según lo contemplado en el artículo 68 de la Constitución, ¿cuál de las siguientes características no es propia del sufragio para la elección de Diputados y Senadores?",
+    "options": ["Universal.", "Proporcional.", "Directo.", "Secreto."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "¿Cuándo tendrán lugar las elecciones según el artículo 68?",
+    "options": [
+      "Entre los treinta días y sesenta días desde la terminación del mandato.",
+      "Veinticinco días después de la terminación del mandato.",
+      "Entre los veinticinco días y cincuenta días desde la terminación del mandato.",
+      "Dentro de los veinticinco días siguientes a la terminación del mandato."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Seleccione la respuesta correcta respecto a cuándo termina el mandato de los Diputados según el artículo 68:",
+    "options": [
+      "4 años después de su elección oEl día de la disolución del Senado.",
+      "El día de la disolución de la Cámara o 3 años después de su elección.",
+      "4 años después de su elección o el día de la disolución de la Cámara.",
+      "4 años después de su elección."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "¿A qué tipología de norma corresponde regular la elección de los miembros del Congreso según el artículo 68 de la CE?",
+    "options": [
+      "A los Decretos Legislativos.",
+      "A la Ley.",
+      "A los Reglamentos.",
+      "A las instrucciones y órdenes de servicio."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "De acuerdo al artículo 68 de la Constitución, ¿cuántos diputados representarán a Ceuta?",
+    "options": [
+      "Tres.",
+      "Dos.",
+      "Uno.",
+      "Mínimo dos y luego uno más por cada medio millón de habitantes que tenga."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "En virtud del artículo 68 de la Constitución Española, ¿Tendrán derecho a sufragio los españoles que se encuentren fuera del territorio de España?",
+    "options": [
+      "No, en ningún caso",
+      "Únicamente los que viven en países miembros de la Comunidad Europea",
+      "Siempre que vivan en países que reconozcan a sus súbditos residentes en España un derecho recíproco",
+      "Sí, la ley lo reconocerá y el Estado facilitará su ejercicio"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "El artículo 68 de la Constitución determina que el Congreso se compone de",
+    "options": [
+      "Un mínimo de 350 y un máximo de 450 Diputados",
+      "Un mínimo de 350 y un máximo de 425 Diputados",
+      "Un mínimo de 250 y un máximo de 400 Diputados",
+      "Un mínimo de 300 y un máximo de 400 Diputados"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "En virtud de lo regulado en el artículo 68 de la Constitución, la circunscripción electoral es",
+    "options": [
+      "El Municipio",
+      "La Provincia",
+      "La Región",
+      "La Comunidad Autónoma"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "De acuerdo al artículo 68 de la Constitución, ¿cuántos diputados representarán a Ceuta?",
+    "options": [
+      "Tres.",
+      "Dos.",
+      "Uno.",
+      "Mínimo dos y luego uno más por cada medio millón de habitantes que tenga."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68 de la Constitución Española, la Constitución establece el número máximo de Diputados en:",
+    "options": ["300.", "350.", "400.", "500."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "De acuerdo con el artículo 68 de la Constitución Española, ¿Cómo estarán representadas en el Congreso las poblaciones de Ceuta y Melilla?",
+    "options": [
+      "Tendrá un Diputado cada una de ellas.",
+      "Tendrá dos Diputados cada una de ellas.",
+      "Ceuta estará representada por dos Diputados y Melilla por uno.",
+      "Habrá un solo Diputado en representación de ambas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68 de la Constitución Española, ¿Cómo se distribuirá entre las provincias el número total de Diputados?",
+    "options": [
+      "De forma estrictamente proporcional al número total de Diputados.",
+      "Otorgando a cada provincia cuatro Diputados y uno más por cada millón de habitantes.",
+      "Asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
+      "Cada provincia estará representada por siete Diputados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "¿Qué número mínimo de Diputados ha de componer el Congreso, conforme al artículo 68 de la Constitución?",
+    "options": ["300.", "350.", "400.", "250."],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "En virtud del artículo 68 de la Constitución Española, el Congreso electo deberá ser convocado:",
+    "options": [
+      "Entre los treinta días y sesenta días desde la celebración de las elecciones.",
+      "Dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+      "Pasados veinticinco días desde la celebración de las elecciones.",
+      "Entre los veinticinco días y cincuenta días desde la celebración de las elecciones."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68 de la Constitución Española, ¿Quiénes son electores y elegibles para el Congreso de los Diputados?",
+    "options": [
+      "Todos los españoles mayores de dieciocho años",
+      "Todos los españoles residentes en España",
+      "Todos los españoles que estén en pleno uso de sus derechos políticos",
+      "Todos los españoles mayores de veintiún años"
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]
