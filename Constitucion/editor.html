@@ -55,6 +55,62 @@
     footer { text-align: center; margin: 20px; }
     a { margin: 10px; color: black; text-decoration: none; }
     a:hover { text-decoration: underline; }
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.6);
+      animation: fadeIn 0.3s;
+    }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    .modal.active { display: flex; align-items: center; justify-content: center; }
+    .modal-content {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      width: 95%;
+      max-width: 850px;
+      max-height: 85vh;
+      overflow-y: auto;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+      animation: slideUp 0.3s;
+      transition: max-width 0.3s ease;
+    }
+    .modal-content.expanded {
+      max-width: 90vw;
+    }
+    @keyframes slideUp { from { transform: translateY(50px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      border-bottom: 2px solid #007bff;
+      padding-bottom: 15px;
+      position: sticky;
+      top: 0;
+      background: white;
+      z-index: 10;
+    }
+    .modal-header h2 { margin: 0; color: #007bff; }
+    .close-btn {
+      background: none;
+      border: none;
+      font-size: 28px;
+      cursor: pointer;
+      color: #666;
+      padding: 0;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .close-btn:hover { color: #000; }
   </style>
 </head>
 <body>
@@ -65,62 +121,77 @@
   </header>
 
   <main>
-    <form id="form">
-      <label>Bloque:</label>
-      <input type="text" id="bloque" placeholder="Ej: Bloque I" required>
-
-      <label>Titulo:</label>
-      <input type="text" id="titulo" placeholder="Ej: Título 1" required>
-
-      <label>Capítulo (opcional):</label>
-      <input type="text" id="capitulo" placeholder="Ej: Capítulo 1">
-
-      <label>Artículo (opcional):</label>
-      <input type="text" id="articulo" placeholder="Ej: Artículo 3">
-
-      <label>Dificultad:</label>
-      <select id="dificultad" required>
-        <option value="facil">🟢 Fácil</option>
-        <option value="medio">🟡 Medio</option>
-        <option value="dificil">🔴 Difícil</option>
-      </select>
-
-      <label>Pregunta:</label>
-      <textarea id="pregunta" rows="2" placeholder="Escribe la pregunta..." required></textarea>
-
-      <label>Opciones:</label>
-      <input type="text" id="opt1" placeholder="Opción 1" required>
-      <input type="text" id="opt2" placeholder="Opción 2" required>
-      <input type="text" id="opt3" placeholder="Opción 3" required>
-      <input type="text" id="opt4" placeholder="Opción 4" required>
-
-      <label>Respuesta correcta:</label>
-      <select id="correcta">
-        <option value="0">Opción 1</option>
-        <option value="1">Opción 2</option>
-        <option value="2">Opción 3</option>
-        <option value="3">Opción 4</option>
-      </select>
-
-      <label>Explicación (opcional):</label>
-      <textarea id="explicacion" rows="2" placeholder="Por qué es correcta..."></textarea>
-
-      <button type="submit" id="guardar">💾 Guardar Pregunta</button>
-      <button type="button" class="btn-secondary" id="limpiar">🧹 Limpiar</button>
-    </form>
-
-    <hr>
-
-    <div style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px;">
+    <!-- Lista de preguntas primero -->
+    <h2 style="margin-top: 0;">📋 Preguntas Guardadas</h2>
+    
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:20px;">
+      <button onclick="abrirModalNueva()" style="background: #28a745;">➕ Nueva Pregunta</button>
       <button onclick="exportJSON()">⬇️ Exportar JSON</button>
       <button onclick="importJSON()">⬆️ Importar JSON</button>
       <button class="btn-danger" onclick="clearAll()">🗑️ Borrar todas</button>
     </div>
 
-    <hr>
-
     <div id="lista-preguntas"></div>
   </main>
+
+  <!-- Modal para crear/editar preguntas -->
+  <div id="modalEditor" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="modalTitulo">✏️ Nueva Pregunta</h2>
+        <div style="display: flex; gap: 10px;">
+          <button class="close-btn" onclick="toggleModalSize()" title="Expandir/Contraer">⛶</button>
+          <button class="close-btn" onclick="cerrarModal()">&times;</button>
+        </div>
+      </div>
+      
+      <form id="form">
+        <label>Bloque:</label>
+        <input type="text" id="bloque" placeholder="Ej: Bloque I" required>
+
+        <label>Titulo:</label>
+        <input type="text" id="titulo" placeholder="Ej: Título 1" required>
+
+        <label>Capítulo (opcional):</label>
+        <input type="text" id="capitulo" placeholder="Ej: Capítulo 1">
+
+        <label>Artículo (opcional):</label>
+        <input type="text" id="articulo" placeholder="Ej: Artículo 3">
+
+        <label>Dificultad:</label>
+        <select id="dificultad" required>
+          <option value="facil">🟢 Fácil</option>
+          <option value="medio">🟡 Medio</option>
+          <option value="dificil">🔴 Difícil</option>
+        </select>
+
+        <label>Pregunta:</label>
+        <textarea id="pregunta" rows="2" placeholder="Escribe la pregunta..." required></textarea>
+
+        <label>Opciones:</label>
+        <input type="text" id="opt1" placeholder="Opción 1" required>
+        <input type="text" id="opt2" placeholder="Opción 2" required>
+        <input type="text" id="opt3" placeholder="Opción 3" required>
+        <input type="text" id="opt4" placeholder="Opción 4" required>
+
+        <label>Respuesta correcta:</label>
+        <select id="correcta">
+          <option value="0">Opción 1</option>
+          <option value="1">Opción 2</option>
+          <option value="2">Opción 3</option>
+          <option value="3">Opción 4</option>
+        </select>
+
+        <label>Explicación (opcional):</label>
+        <textarea id="explicacion" rows="2" placeholder="Por qué es correcta..."></textarea>
+
+        <div style="display: flex; gap: 10px; margin-top: 20px;">
+          <button type="submit" id="guardar" style="flex: 1;">💾 Guardar Pregunta</button>
+          <button type="button" class="btn-secondary" onclick="cerrarModal()" style="flex: 1;">❌ Cancelar</button>
+        </div>
+      </form>
+    </div>
+  </div>
 
   <footer>
     <a href="index.html">🏠 Volver al Test</a>
@@ -130,6 +201,69 @@
   <script>
     let preguntas = JSON.parse(localStorage.getItem("preguntasTAI") || "[]");
     let editIndex = null;
+    const modal = document.getElementById("modalEditor");
+
+    // Abrir modal para crear nueva pregunta
+    function abrirModalNueva() {
+      editIndex = null;
+      document.getElementById("form").reset();
+      document.getElementById("modalTitulo").textContent = "➕ Nueva Pregunta";
+      document.getElementById("guardar").textContent = "💾 Guardar Pregunta";
+      modal.classList.add("active");
+    }
+
+    // Abrir modal para editar pregunta
+    function abrirModalEditar(i) {
+      const p = preguntas[i];
+      document.getElementById("bloque").value = p.titulos[0] || "";
+      document.getElementById("titulo").value = p.titulos[1] || "";
+      if (p.titulos && p.titulos.length > 3) {
+        document.getElementById("capitulo").value = p.titulos[2] || "";
+        document.getElementById("articulo").value = p.titulos[3] || "";
+      } else {
+        document.getElementById("capitulo").value = "";
+        document.getElementById("articulo").value = p.titulos[2] || "";
+      }
+      document.getElementById("pregunta").value = p.question;
+      document.getElementById("opt1").value = p.options[0];
+      document.getElementById("opt2").value = p.options[1];
+      document.getElementById("opt3").value = p.options[2];
+      document.getElementById("opt4").value = p.options[3];
+      document.getElementById("correcta").value = p.answer;
+      document.getElementById("dificultad").value = p.dificultad || "medio";
+      document.getElementById("explicacion").value = p.explicacion || "";
+      editIndex = i;
+      document.getElementById("modalTitulo").textContent = "✏️ Editar Pregunta";
+      document.getElementById("guardar").textContent = "✅ Actualizar Pregunta";
+      modal.classList.add("active");
+    }
+
+    // Cerrar modal
+    function cerrarModal() {
+      modal.classList.remove("active");
+      const modalContent = document.querySelector(".modal-content");
+      modalContent.classList.remove("expanded");
+      editIndex = null;
+      document.getElementById("form").reset();
+      document.getElementById("modalTitulo").textContent = "➕ Nueva Pregunta";
+      document.getElementById("guardar").textContent = "💾 Guardar Pregunta";
+    }
+
+    // Toggle para expandir/contraer modal
+    function toggleModalSize() {
+      const modalContent = document.querySelector(".modal-content");
+      modalContent.classList.toggle("expanded");
+    }
+
+    // Cerrar modal si se hace clic afuera
+    window.addEventListener("click", e => {
+      if (e.target === modal) cerrarModal();
+    });
+
+    // Cerrar modal presionando ESC
+    document.addEventListener("keydown", e => {
+      if (e.key === "Escape") cerrarModal();
+    });
 
     function guardarEnLocal() {
       localStorage.setItem("preguntasTAI", JSON.stringify(preguntas));
@@ -161,27 +295,19 @@
 
       if (editIndex !== null) {
         preguntas[editIndex] = nueva;
-        editIndex = null;
       } else {
         preguntas.push(nueva);
       }
 
       guardarEnLocal();
-      e.target.reset();
-      document.getElementById("guardar").textContent = "💾 Guardar Pregunta";
-    });
-
-    document.getElementById("limpiar").addEventListener("click", () => {
-      document.getElementById("form").reset();
-      editIndex = null;
-      document.getElementById("guardar").textContent = "💾 Guardar Pregunta";
+      cerrarModal();
     });
 
     function renderPreguntas() {
       const cont = document.getElementById("lista-preguntas");
       cont.innerHTML = "";
       if (preguntas.length === 0) {
-        cont.innerHTML = "<p>No hay preguntas guardadas.</p>";
+        cont.innerHTML = "<p style='text-align: center; color: #999;'>No hay preguntas guardadas. ¡Crea una nueva!</p>";
         return;
       }
 
@@ -194,37 +320,11 @@
           ${p.question}<br>
           <em>✔️ Correcta: ${p.options[p.answer]}</em><br>
           ${p.explicacion ? `<small>💡 ${p.explicacion}</small><br>` : ""}
-          <button onclick="editar(${i})">✏️ Editar</button>
+          <button onclick="abrirModalEditar(${i})">✏️ Editar</button>
           <button class="btn-danger" onclick="borrar(${i})">🗑️ Eliminar</button>
         `;
         cont.appendChild(card);
       });
-    }
-
-    function editar(i) {
-      const p = preguntas[i];
-      document.getElementById("bloque").value = p.titulos[0] || "";
-      document.getElementById("titulo").value = p.titulos[1] || "";
-      // Compatibilidad: si el array tiene 4 elementos, [2]=capítulo, [3]=artículo
-      if (p.titulos && p.titulos.length > 3) {
-        document.getElementById("capitulo").value = p.titulos[2] || "";
-        document.getElementById("articulo").value = p.titulos[3] || "";
-      } else {
-        // entradas antiguas: [bloque,titulo,articulo]
-        document.getElementById("capitulo").value = "";
-        document.getElementById("articulo").value = p.titulos[2] || "";
-      }
-      document.getElementById("pregunta").value = p.question;
-      document.getElementById("opt1").value = p.options[0];
-      document.getElementById("opt2").value = p.options[1];
-      document.getElementById("opt3").value = p.options[2];
-      document.getElementById("opt4").value = p.options[3];
-      document.getElementById("correcta").value = p.answer;
-      document.getElementById("dificultad").value = p.dificultad || "medio";
-      document.getElementById("explicacion").value = p.explicacion || "";
-      editIndex = i;
-      document.getElementById("guardar").textContent = "✅ Actualizar Pregunta";
-      window.scrollTo({ top: 0, behavior: "smooth" });
     }
 
     function borrar(i) {
