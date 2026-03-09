@@ -1,7 +1,7 @@
 [
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
-    "question": "En qué circunstancias las Cortes Generales se reunen en sesion conjunta?",
+    "question": "¿En qué circunstancias las Cortes Generales se reunen en sesion conjunta?",
     "options": [
       "Para el debate, deliberacion y votacion de una mocion de censura.",
       "Cuando una comision asi lo requiera en el transcurso de su investigacion.",
@@ -81,6 +81,42 @@
       "La celebración de une sesión conjunta de las Mesas de ambas Cámaras a fin de elaborar y votar un nuevo texto."
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "Según el artículo 74.1 de la Constitución, las Cámaras se reunirán en sesión conjunta para ejercer las competencias:",
+    "options": [
+      "Legislativas que el Título II atribuye expresamente a las Cortes Generales.",
+      "No legislativas que el Título III atribuye expresamente a las Cortes Generales.",
+      "No legislativas que el Título II atribuye expresamente a las Cortes Generales.",
+      "Legislativas que el Título III atribuye expresamente a las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "De acuerdo con el artículo 74.2 de la Constitución Española, las decisiones de las Cortes Generales previstas en los artículos 94.1, 145.2 y 158.2, se adoptarán por mayoría de cada una de las Cámaras. Señale la correcta:",
+    "options": [
+      "El procedimiento se iniciará por el Congreso en el supuesto regulado en el artículo 94.1. de la Constitución.",
+      "El procedimiento se iniciará por el Congreso en el supuesto regulado en el artículo 145.2 de la Constitución.",
+      "El procedimiento se iniciará por el Congreso en el supuesto regulado en el artículo 158.2 de la Constitución.",
+      "El procedimiento se iniciará por el Senado en el caso previsto en los artículos 94.1 y 145.2 de la Constitución."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 74"],
+    "question": "De conformidad con el artículo 74.1 de la Constitución, para ejercer las competencias no legislativas que el Título II atribuye expresamente a las Cortes Generales:",
+    "options": [
+      "Las Cámaras se reunirán en sesión extraordinaria a petición del Presidente del Gobierno.",
+      "Las Cámaras se reunirán en sesión conjunta.",
+      "Las Cámaras se reunirán en sesión extraordinaria a petición de la mayoría simple de los miembros del Congreso.",
+      "Las Cámaras no se reunirán en sesión conjunta."
+    ],
+    "answer": 1,
     "explicacion": ""
   }
 ]

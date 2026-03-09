@@ -278,5 +278,65 @@
     ],
     "answer": 2,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según lo dispuesto en la Constitución, ¿cuál de las siguientes materias no es regulada a través de ley orgánica?:",
+    "options": [
+      "El derecho de petición regulado en el artículo 29.",
+      "El funcionamiento del Tribunal Constitucional.",
+      "Las funciones de los Cuerpos y Fuerzas de Seguridad.",
+      "El Estatuto de los miembros del Congreso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "En virtud del artículo 68.2 de la Constitución, la ley distribuirá el número total de Diputados:",
+    "options": [
+      "Asignando una representación máxima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
+      "Asignando una representación máxima inicial a cada circunscripción y distribuyendo los demás en función de la representación parlamentaria.",
+      "Asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en función de la representación territorial y parlamentaria.",
+      "Asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68.6 de la Constitución Española, el Congreso electo tras la celebración de elecciones deberá ser convocado:",
+    "options": [
+      "Entre los treinta y sesenta días siguientes a la celebración de las elecciones.",
+      "Dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+      "Entre los treinta y sesenta días desde la terminación del mandato de los Congresistas salientes.",
+      "Dentro de los veinticinco días siguientes a la disolución de la Cámara saliente."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "Según el artículo 68.2 de la Constitución, la circunscripción electoral es la provincia. La ley distribuirá el número total de Diputados:",
+    "options": [
+      "Asignando dos representaciones mínimas iniciales a cada circunscripción y distribuyendo los demás en proporción a la población.",
+      "Asignando tres representaciones mínimas iniciales a cada circunscripción y distribuyendo los demás en proporción a la población.",
+      "Asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
+      "Asignando cuatro representaciones mínimas iniciales a cada circunscripción y distribuyendo los demás en proporción a la población."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 68"],
+    "question": "El número de diputados que componen el Congreso de los Diputados se determina de forma concreta:",
+    "options": [
+      "En el Reglamento del Congreso de los Diputados.",
+      "En el Reglamento de las Cortes Generales.",
+      "En el artículo 68 de la Constitución Española.",
+      "En la Ley Orgánica del Régimen Electoral General."
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

@@ -166,5 +166,17 @@
     ],
     "answer": 3,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 72"],
+    "question": "Según el artículo 72 de la Constitución Española, las sesiones conjuntas del Congreso y del Senado se regirán:",
+    "options": [
+      "Por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.",
+      "Por los Reglamentos respectivos de cada Cámara, aprobados por mayoría simple.",
+      "Por un Reglamento de las Cortes Generales, aprobado por mayoría simple de cada Cámara.",
+      "Por los Reglamentos respectivos de cada Cámara, aprobados por mayoría absoluta."
+    ],
+    "answer": 0,
+    "explicacion": ""
   }
 ]

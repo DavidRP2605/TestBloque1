@@ -208,42 +208,6 @@
   },
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
-    "question": "Según el artículo 69 de la Constitución Española, ¿Cuántos Senadores elegirán las poblaciones de Ceuta y Melilla?",
-    "options": [
-      "Dos cada una.",
-      "Uno cada una.",
-      "Uno conjuntamente.",
-      "Dos conjuntamente."
-    ],
-    "answer": 0,
-    "explicacion": ""
-  },
-  {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
-    "question": "De acuerdo con el artículo 69 de la Constitución Española, ¿cuántos Senadores designarán las Comunidades Autónomas?",
-    "options": [
-      "Cuatro por cada provincia que las integre.",
-      "Cuatro y otro más por cada millón de habitantes de su respectivo territorio.",
-      "Tres, salvo las uniprovinciales que designarán solo dos.",
-      "Uno y otro más por cada millón de habitantes de su respectivo territorio."
-    ],
-    "answer": 3,
-    "explicacion": ""
-  },
-  {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
-    "question": "De conformidad con el artículo 69 de la Constitución Española, el mandato de los Senadores termina:",
-    "options": [
-      "El día en que se celebren nuevas elecciones.",
-      "Cuando se celebre la sesión constitutiva del nuevo Senado.",
-      "Cuatro años después de la sesión constitutiva del Senado.",
-      "Cuatro años después de su elección o el día de la disolución de la Cámara."
-    ],
-    "answer": 3,
-    "explicacion": ""
-  },
-  {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
     "question": "Según el artículo 69 de la Constitución Española, ¿Cuántos Senadores podrá tener Fuerteventura?",
     "options": ["Ninguno.", "Uno.", "Dos.", "Tres."],
     "answer": 1,
@@ -333,6 +297,90 @@
       "Uno, independientemente de Formentera que elegirá el suyo propio"
     ],
     "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De conformidad con el artículo 69.5 de la Constitución, ¿Cuántos Senadores designarán además las Comunidades Autónomas por el simple hecho de serlo?",
+    "options": [
+      "Tres Senadores y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Un Senador y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Dos Senadores y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Cuatro Senadores y otro más por cada millón de habitantes de su respectivo territorio."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "En virtud del artículo 69.6 de la Constitución, el mandato de los Senadores:",
+    "options": [
+      "Termina cuatro años después de su elección o el día de la disolución de la Cámara.",
+      "Termina tres años después de su elección o el día siguiente de la disolución de la Cámara.",
+      "Termina tres años después de su elección o el día de la disolución de la Cámara.",
+      "Termina cuatro años después de su elección o el día siguiente de la disolución de la Cámara."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De conformidad con el artículo 69.2 de la Constitución, en cada provincia, por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, se elegirán:",
+    "options": [
+      "Cuatro Senadores, en los términos que señale una ley orgánica.",
+      "Tres Senadores, en los términos que señale una ley orgánica.",
+      "Un Senador, en los términos que señale una ley ordinaria.",
+      "Dos Senadores, en los términos que señale una ley ordinaria."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "De conformidad con el artículo 69.1 de la Constitución Española, el Senado es la Cámara de representación territorial. Según el artículo 5 del Texto refundido del Reglamento del Senado, la Mesa estará formada por:",
+    "options": [
+      "El Presidente, cuatro Vicepresidentes y cuatro Secretarios.",
+      "El Presidente, dos Vicepresidentes y cuatro Secretarios.",
+      "El Presidente, dos Vicepresidentes y dos Secretarios.",
+      "El Presidente, dos Vicepresidentes y tres Secretarios."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69.2 de la Constitución Española, ¿Cuántos Senadores se eligen en cada provincia?",
+    "options": [
+      "Tres Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.",
+      "Cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.",
+      "Dos Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.",
+      "Un Senador por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69.5 de la Constitución, las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes de su respectivo territorio. La designación corresponderá:",
+    "options": [
+      "A la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad Autónoma, de acuerdo con lo que establezcan los Estatutos.",
+      "A la Asamblea Legislativa, en todo caso.",
+      "Al órgano colegiado superior de la Comunidad Autónoma, de acuerdo con lo que establezcan los Estatutos o, en su defecto, a la Asamblea legislativa.",
+      "Al Gobierno de la Comunidad Autónoma correspondiente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 69"],
+    "question": "Según el artículo 69.3 de la Constitución, en las provincias insulares, a efectos de elección de Senadores constituirá una circunscripción:",
+    "options": [
+      "Cada isla o agrupación de ellas, con Cabildo o Consejo Insular.",
+      "Cada agrupación de islas.",
+      "Cada isla.",
+      "Cada isla o agrupación de ellas, cuente o no con Cabildo o Consejo Insular."
+    ],
+    "answer": 0,
     "explicacion": ""
   }
 ]

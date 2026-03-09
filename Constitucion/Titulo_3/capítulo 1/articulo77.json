@@ -1,7 +1,7 @@
 [
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
-    "question": "Según el Título III 'De las Cortes Generales' de la Constitución Española de 1978, las Cámaras podrán:(examen)",
+    "question": "Según el Título III 'De las Cortes Generales' de la Constitución Española de 1978, las Cámaras podrán:             (examen)",
     "options": [
       "Recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
       "Delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley relativas a los Presupuestos Generales del Estado.Las",
@@ -21,18 +21,6 @@
       "Siempre por escrito."
     ],
     "answer": 3,
-    "explicacion": ""
-  },
-  {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
-    "question": "Según el artículo 77 de la Constitución Española, ¿Pueden las Cámaras recibir peticiones?",
-    "options": [
-      "Sí, individuales y colectivas, siempre por escrito.",
-      "Solamente individuales y por escrito.",
-      "Sólo de carácter colectivo y por escrito.",
-      "No, lo prohíbe la Constitución."
-    ],
-    "answer": 0,
     "explicacion": ""
   },
   {
@@ -93,6 +81,18 @@
       "Que se formulen individualmente."
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
+    "question": "De conformidad con el artículo 77.1 de la Constitución Española, las Cámaras:",
+    "options": [
+      "Pueden recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+      "Sólo podrán recibir peticiones colectivas, verbalmente o por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+      "Sólo podrán recibir peticiones individuales, verbalmente o por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+      "Pueden recibir peticiones individuales y colectivas, verbalmente o por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas."
+    ],
+    "answer": 0,
     "explicacion": ""
   }
 ]

@@ -97,12 +97,12 @@
   },
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
-    "question": "Según el artículo 71 de la Constitución Española, ¿De qué prerrogativa gozarán los Diputados y Senadores por opiniones manifestadas en el ejercicio de sus funciones?",
+    "question": "Según el artículo 71.1 de la Constitución Española, ¿De qué prerrogativa gozarán los Diputados y Senadores por opiniones manifestadas en el ejercicio de sus funciones?",
     "options": [
       "Credibilidad.",
       "Irrebatibilidad.",
       "Inviolabilidad.",
-      "Infalibilidad."
+      "Inmunidad."
     ],
     "answer": 2,
     "explicacion": ""
@@ -127,6 +127,54 @@
       "Sólo en caso de flagrante delito.",
       "Sólo con la previa autorización de la Cámara respectiva.",
       "No, en ningún caso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "De acuerdo con el artículo 71.4 de la Constitución, los Diputados y Senadores percibirán una asignación que será fijada:",
+    "options": [
+      "Por la Diputación Permanente correspondiente.",
+      "Por las respectivas Cámaras.",
+      "Por los Presupuestos Generales del Estado.",
+      "Por el Gobierno de la Nación."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "En virtud del artículo 71 de la Constitución Española, los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones. Durante el período de su mandato los Diputados y Senadores gozarán asimismo de inmunidad y sólo podrán ser detenidos en caso de flagrante delito. No podrán ser inculpados ni procesados sin la previa autorización de la Cámara respectiva. En las causas contra Diputados y Senadores será competente:",
+    "options": [
+      "La Sala II del Tribunal Constitucional.",
+      "La Sala I del Tribunal Supremo.",
+      "La Sala II de la Audiencia Nacional.",
+      "La Sala II del Tribunal Supremo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "Según el artículo 71.1 de la Constitución Española, los Diputados y Senadores gozarán por las opiniones manifestadas en el ejercicio de sus funciones.",
+    "options": [
+      "De inviolabilidad.",
+      "De inmunidad.",
+      "De inviolabilidad e inmunidad.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 71"],
+    "question": "De conformidad con el artículo 71.2 de la Constitución, los Diputados y Senadores podrán ser inculpados y procesados:",
+    "options": [
+      "Sólo por delitos cometidos contra el Jefe del Estado.",
+      "Sin la previa autorización de la Cámara respectiva.",
+      "No sin la previa autorización de la Cámara respectiva.",
+      "En los mismos supuestos y con los mismos requisitos que cualquier otro ciudadano."
     ],
     "answer": 2,
     "explicacion": ""

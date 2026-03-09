@@ -13,7 +13,7 @@
   },
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
-    "question": "De acuerdo con el artículo 78 de la CE, expirado el mandato de las Cortes Generales o en caso de disolución de las mismas, las Diputaciones Permanentes seguirán ejerciendo sus funciones hasta:(examen)",
+    "question": "De acuerdo con el artículo 78 de la CE, expirado el mandato de las Cortes Generales o en caso de disolución de las mismas, las Diputaciones Permanentes seguirán ejerciendo sus funciones hasta:                 (examen)",
     "options": [
       "La celebración de las elecciones. ",
       "La proclamación de los resultados electorales definitivos.",
@@ -97,18 +97,6 @@
   },
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
-    "question": "Según el artículo 78 de la Constitución Española, velar por los poderes de las Cámaras cuando éstas no estén reunidas es función de:",
-    "options": [
-      "Las Mesas de las Cámaras.",
-      "Las Diputaciones Permanentes de las Cámaras.",
-      "Los Presidentes de las Cámaras.",
-      "Las Juntas de Portavoces de las Cámaras."
-    ],
-    "answer": 1,
-    "explicacion": ""
-  },
-  {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
     "question": "Según el artículo 78 de la Constitución Española, ¿En qué órganos legislativos habrá una Diputación Permanente?",
     "options": [
       "En el Congreso, en el Senado y en las Cortes Generales.",
@@ -139,6 +127,90 @@
       "El 50% de los miembros corresponderá al grupo mayoritario y el resto se distribuirá a partes iguales entre los demás grupos",
       "El número de miembros de cada grupo parlamentario será proporcional a su importancia numérica",
       "Todos los miembros pertenecerán al grupo mayoritario"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 78, las Diputaciones Permanentes están presididas por:",
+    "options": [
+      "El Secretario del Consejo de Estado.",
+      "El Presidente de cualquier Cámara.",
+      "El Presidente de la Cámara respectiva.",
+      "El Presidente nombrado al efecto."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "De acuerdo al artículo 78 de la Constitución, ¿cuál de las siguientes afirmaciones es correcta respecto de las diputaciones permanentes de las Cámaras legislativas?:",
+    "options": [
+      "Estarán compuestas por un mínimo de 23 personas.",
+      "Estarán compuestas por un mínimo de 25 personas.",
+      "Están formadas conjuntamente por miembros del Congreso y el Senado.",
+      "Representan a los grupos parlamentarios en proporción a su importancia numérica."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 78.3 de la Constitución, expirado el mandato o en caso de disolución, las Diputaciones permanentes:",
+    "options": [
+      "Seguirán ejerciendo sus funciones hasta la constitución del nuevo Gobierno.",
+      "Seguirán ejerciendo sus funciones hasta que transcurra el plazo de dos meses, a partir del día siguiente a la toma de posesión del nuevo Gobierno.",
+      "Seguirán ejerciendo sus funciones hasta el día siguiente a la toma de posesión del nuevo Presidente del Gobierno.",
+      "Seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes Generales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "De acuerdo con el artículo 78.1 de la Constitución, en la Diputación Permanente del Congreso se integran sus miembros en representación de los:",
+    "options": [
+      "Ciudadanos.",
+      "Grupos Parlamentarios, en proporción a su importancia numérica.",
+      "Partidos Políticos con representación parlamentaria.",
+      "Españoles."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 78.2 de la Constitución, las Diputaciones Permanentes estarán presididas:",
+    "options": [
+      "Por el Presidente del Senado.",
+      "Por el Presidente del Congreso.",
+      "Por el Presidente de la Cámara respectiva.",
+      "Por el Diputado o Senador integrante de la misma que sea elegido por sus componentes."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "De conformidad con la Constitución Española, una de las siguientes actuaciones no puede ser ejercitada por la Diputación Permanente:",
+    "options": [
+      "Velar por los poderes de las Cámaras aún cuando estas estén reunidas.",
+      "Autorizar la declaración del Estado de Excepción cuando hubiere expirado el mandato de las Cámaras.",
+      "Solicitar que las Cámaras se reúnan en sesión extraordinaria.",
+      "Debatir y aprobar un Decreto-Ley cuando las Cámaras estuvieren disueltas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "De acuerdo con la Constitución Española, ¿Cuál de estas funciones no corresponde a la Diputación Permanente del Congreso de los Diputados?",
+    "options": [
+      "Velar por los poderes de la Cámara cuando ésta no esté reunida.",
+      "Convalidación de Decretos-leyes cuando la Cámara sea disuelta.",
+      "Autorizar al Gobierno la declaración del Estado de Sitio.",
+      "Solicitar la celebración de una sesión extraordinaria de la Cámara."
     ],
     "answer": 2,
     "explicacion": ""

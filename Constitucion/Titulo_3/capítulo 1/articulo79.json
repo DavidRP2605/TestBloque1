@@ -94,5 +94,29 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "Según el artículo 79 de la Constitución, para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros. Dichos acuerdos, para ser válidos:",
+    "options": [
+      "Deberán ser aprobados por las mayorías especiales que, para todo caso, establecen las Leyes Orgánicas.",
+      "Deberán ser aprobados por las mayorías especiales que, para cada caso, establece la Constitución.",
+      "Deberán ser aprobados por la mayoría de los miembros presentes, sin perjuicio de las mayorías especiales que establezcan la Constitución o las leyes orgánicas.",
+      "Deberán ser aprobados por la mayoría de los miembros reales de las Cámaras, al margen de las mayorías especiales que puedan ser establecidas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 79"],
+    "question": "De conformidad con el artículo 79.3 de la Constitución Española, el voto:",
+    "options": [
+      "Es personal e indelegable sólo para los Senadores.",
+      "Es personal, pero delegable, para los Diputados.",
+      "Es personal e indelegable tanto para Diputados como para Senadores.",
+      "Es personal, pero delegable, para los Senadores."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

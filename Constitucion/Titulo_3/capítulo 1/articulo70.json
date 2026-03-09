@@ -106,5 +106,41 @@
     ],
     "answer": 3,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "De acuerdo con el artículo 70.2 de la Constitución, la validez de las actas y credenciales de los miembros de ambas Cámaras estará sometida:",
+    "options": [
+      "Al control de las Cortes Generales, en los términos que establezca la ley electoral.",
+      "Al control parlamentario, en los términos que establezca la ley electoral.",
+      "Al control judicial, en los términos que establezca la ley electoral.",
+      "Al control del Gobierno, en los términos que establezca la ley electoral."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "De conformidad con el artículo 70.1 de la Constitución Española, ¿quién no podrá ser Diputado o Senador?",
+    "options": [
+      "Los miembros de las Fuerzas y Cuerpos de Seguridad en activo.",
+      "Los Magistrados en activo.",
+      "Los miembros de las Juntas Electorales.",
+      "Todas las opciones son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 70"],
+    "question": "De conformidad con el artículo 70.1 de la Constitución, la ley electoral determinará las causas de inelegibilidad e incompatibilidad de los Diputados y Senadores, que comprenderán, en todo caso (señale la incorrecta):",
+    "options": [
+      "Al Defensor del Pueblo.",
+      "A los miembros de las Juntas Electorales.",
+      "A los miembros del Gobierno.",
+      "A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad en activo."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

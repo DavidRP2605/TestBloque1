@@ -127,5 +127,29 @@
     ],
     "answer": 0,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "Según el artículo 73.2 de la Constitución, ¿Cuál de los nombrados a continuación, no puede solicitar sesiones extraordinarias de las Cámaras?",
+    "options": [
+      "La mayoría absoluta de los miembros de cualquiera de las Cámaras.",
+      "El Gobierno.",
+      "El Rey.",
+      "La Diputación Permanente."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 73"],
+    "question": "De acuerdo con el artículo 73.2 de la Constitución Española, las sesiones extraordinarias:",
+    "options": [
+      "Deberán convocarse sobre un orden del día determinado y no serán clausuradas una vez que éste haya sido agotado.",
+      "Serán clausuradas una vez se agote el turno de peticiones y preguntas.",
+      "Deberán convocarse sobre un orden del día determinado y serán clausuradas una vez que éste haya sido agotado.",
+      "Podrán convocarse sobre un orden del día determinado, aunque no es preceptivo."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

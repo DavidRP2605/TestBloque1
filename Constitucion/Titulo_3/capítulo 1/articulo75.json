@@ -118,5 +118,29 @@
     ],
     "answer": 2,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 75"],
+    "question": "El artículo 75 de la Constitución Española establece que las Cámaras podrán delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley, quedando exceptuados:",
+    "options": [
+      "La reforma constitucional, el régimen electoral general, las leyes orgánicas relativas al desarrollo de los derechos fundamentales y de las libertades públicas y los Presupuestos Generales del Estado.",
+      "La reforma constitucional, las cuestiones internacionales, las leyes orgánicas relativas al desarrollo de los derechos fundamentales y de las libertades públicas y los Presupuestos Generales del Estado.",
+      "La reforma constitucional, el régimen electoral general, las leyes de bases y los Presupuestos Generales del Estado.",
+      "La reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del Estado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 78"],
+    "question": "Según el artículo 75.1 de la Constitución, las Cámaras funcionarán:",
+    "options": [
+      "En Pleno, exclusivamente.",
+      "Solamente en Comisiones.",
+      "En Pleno y por Comisiones Permanentes.",
+      "En Pleno y por Comisiones."
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

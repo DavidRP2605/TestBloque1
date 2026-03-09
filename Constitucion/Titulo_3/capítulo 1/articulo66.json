@@ -142,5 +142,65 @@
     ],
     "answer": 3,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De acuerdo a la Constitución, ¿cuál de las siguientes es una potestad de las Cortes Generales?:",
+    "options": [
+      "Dirigir la política interior o exterior.",
+      "La potestad legislativa del Estado.",
+      "Las competencias que les atribuya la Unión Europea.",
+      "La potestad de enjuiciar."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "¿Qué Título de la Constitución Española de 1978 está dedicado a la regulación de las Cortes Generales, y, de cuántos capítulos consta?",
+    "options": [
+      "El Título V y consta de tres capítulos (Capítulo primero: De las Cámaras; Capítulo segundo: De la elaboración de las leyes; y, Capítulo Tercero: De los Tratados Internacionales.)",
+      "El Título VI y consta de tres capítulos (Capítulo primero: De las Cámaras; Capítulo segundo: De la elaboración de las leyes; y, Capítulo Tercero: De los Tratados Internacionales.)",
+      "El Título IV y consta de tres capítulos (Capítulo primero: De las Cámaras; Capítulo segundo: De la elaboración de las leyes; y, Capítulo Tercero: De los Tratados Internacionales.)",
+      "El Título III y consta de tres capítulos (Capítulo primero: De las Cámaras; Capítulo segundo: De la elaboración de las leyes; y, Capítulo Tercero: De los Tratados Internacionales.)"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "Según el artículo 66.1 de la Constitución Española, las Cortes Generales representan:",
+    "options": [
+      "Al Estado español y están formadas por el Congreso de los Diputados y la Cámara de representación territorial.",
+      "A la Nación española y están formadas por la Diputación Permanente del Congreso y por la Diputación Permanente del Senado.",
+      "Al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+      "A los ciudadanos y están formadas por el Pleno y por Comisiones."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De acuerdo con el artículo 66 de la Constitución, ¿Cuál de las siguientes características no corresponde a las Cortes Generales?",
+    "options": [
+      "Es un órgano unicameral.",
+      "Ejercen la potestad legislativa del Estado.",
+      "Son inviolables.",
+      "Controlan la acción del Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 66"],
+    "question": "De acuerdo con el artículo 66 de la Constitución Española, las Cortes Generales, señale la respuesta incorrecta:",
+    "options": [
+      "Las Cortes Generales controlan la acción del Gobierno y tienen las demás competencias que les atribuya la Constitución.",
+      "Las Cortes Generales son inviolables.",
+      "Las Cortes Generales representan al pueblo español.",
+      "Las Cortes Generales ejercen la potestad ejecutiva del Estado."
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

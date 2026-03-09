@@ -166,5 +166,17 @@
     ],
     "answer": 0,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 67"],
+    "question": "De conformidad con el artículo 67.1 de la Constitución Española, con respecto a los miembros de las Cortes Generales:",
+    "options": [
+      "Podrán ser miembros de las dos Cámaras simultáneamente.",
+      "Se podrá acumular el acta de una Asamblea de Comunidad Autónoma con la de Senador.",
+      "Se podrá acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado del Congreso.",
+      "Estarán ligados por mandato imperativo."
+    ],
+    "answer": 1,
+    "explicacion": ""
   }
 ]
