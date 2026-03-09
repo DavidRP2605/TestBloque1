@@ -73,18 +73,6 @@
   },
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
-    "question": "Según el artículo 77 de la Constitución, en relación con las peticiones que pueden recibir las Cámaras, la Constitución prohíbe expresamente:",
-    "options": [
-      "Que tengan carácter colectivo.",
-      "Que se formulen por escrito.",
-      "Que se presenten directamente por manifestaciones ciudadanas.",
-      "Que se formulen individualmente."
-    ],
-    "answer": 2,
-    "explicacion": ""
-  },
-  {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 1", "Articulo 77"],
     "question": "De conformidad con el artículo 77.1 de la Constitución Española, las Cámaras:",
     "options": [
       "Pueden recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
