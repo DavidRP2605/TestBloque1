@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "Según se establece por la Constitución Española de 1978, en caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de:.",
+    "options": [
+      "Proyecto de ley.",
+      "Proposición de ley.",
+      "Decreto-ley.",
+      "Decreto legislativo."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

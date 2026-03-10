@@ -1,0 +1,26 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "Según la Constitución Española, en relación con las leyes orgánicas:",
+    "options": [
+      "La derogación de una ley orgánica requiere el voto favorable de la mayoría absoluta de los miembros del Senado.",
+      "Será una ley orgánica la que regulará las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en esta Constitución",
+      "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de leyes orgánicas.",
+      "Son las relativas al desarrollo de los derechos humanos y de las libertades privadas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "options": [
+      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
+      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
+      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
+      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

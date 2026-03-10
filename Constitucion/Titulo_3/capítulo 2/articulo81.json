@@ -1,50 +1,65 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo III", "Articulo 81"],
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
     "question": "Qué mayoría se requiere en el Congreso para la aprobacion final de una ley organica?",
     "options": [
-      "A. Mayoria de tres quintos del total de los miembros.",
-      "B. Mayoria absoluta de los miembros presentes.",
-      "C. Mayoria simple de los miembros presentes.",
-      "D. Mayoria abosluta del total de los miembros."
+      "Mayoria de tres quintos del total de los miembros.",
+      "Mayoria absoluta de los miembros presentes.",
+      "Mayoria simple de los miembros presentes.",
+      "Mayoria abosluta del total de los miembros."
     ],
     "answer": 3,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo III", "Articulo 81"],
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
     "question": "Las leyes organicas, preferentemente",
     "options": [
-      "A. Son jerarquicamente superiores a las leyes ordinarias.",
-      "B. Son jerarquicamente inferiores a las leyes ordinarias.",
-      "C. Regulan materias diferentes de las reguladas por leyes ordinarias.",
-      "D. Los unicos ejemplos conocidos, son las leyes fundamentales del estado."
+      "Son jerarquicamente superiores a las leyes ordinarias.",
+      "Son jerarquicamente inferiores a las leyes ordinarias.",
+      "Regulan materias diferentes de las reguladas por leyes ordinarias.",
+      "Los unicos ejemplos conocidos, son las leyes fundamentales del estado."
     ],
     "answer": 2,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo III", "Articulo 81"],
-    "question": "Conforme a la CE, Cual es la mayoria requerida en el Congreso para la aprobacion, modificacion o derogacion de una ley organica?",
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "Conforme a la CE, ¿Cuál es la mayoria requerida en el Congreso para la aprobacion, modificacion o derogacion de una ley organica?",
     "options": [
-      "A. Mayoria simple en la votacion final.",
-      "B. Mayoria de tres quintos de los miembros presentes.",
-      "C. Mayoria absoluta del Congreso en una votacion final sobre el conjunto del proyecto.",
-      "D. Mayoria de dos tercios de los miembros presentes."
+      "Mayoria simple en la votacion final.",
+      "Mayoria de tres quintos de los miembros presentes.",
+      "Mayoria absoluta del Congreso en una votacion final sobre el conjunto del proyecto.",
+      "Mayoria de dos tercios de los miembros presentes."
     ],
     "answer": 2,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo III", "Articulo 81"],
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
     "question": "Conforme a la CE, ¿cual de estos derechos debe ser desarrollado mediante ley organica?",
     "options": [
-      "A. El derecho a la propiedad privada.",
-      "B. El derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona.",
-      "C. El derecho de huelga de los trabajadores para la defensa de sus intereses.",
-      "D. El derecho a la proteccion a la salud."
+      "El derecho a la propiedad privada.",
+      "El derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona.",
+      "El derecho de huelga de los trabajadores para la defensa de sus intereses.",
+      "El derecho a la proteccion a la salud."
     ],
     "answer": 2,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "Conforme a lo establecido en el articulo 81 de la Constitución, la aprobación, modificación o derogacion de las leyes organicas exigira:           (examen)",
+    "options": [
+      "Mayoría absoluta del Congreso e igual mayoría del Senado, en una votación final sobre el conjunto de las enmiendas.",
+      "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+      "Mayoría absoluta del Congreso únicamente en los casos en que exista veto establecido por mayoría simple del Senado.",
+      "Mayoria simple del Congreso, en una votación final sobre el conjunto del proyecto."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"]
   }
 ]
