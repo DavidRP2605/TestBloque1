@@ -130,10 +130,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "Una de las siguientes materias no es regulada en el Título Preliminar de la Constitución Española:",
     "options": [
-      "A. Las Asociaciones de Empresarios.",
-      "B. Los Partidos Políticos.",
-      "C. Las Cortes Generales.",
-      "D. Las Fuerzas Armadas."
+      "Las Asociaciones de Empresarios.",
+      "Los Partidos Políticos.",
+      "Las Cortes Generales.",
+      "Las Fuerzas Armadas."
     ],
     "answer": 2,
     "explicacion": ""
@@ -202,10 +202,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "Cual NO es un derecho fundamental?",
     "options": [
-      "A. Derecho a la vida y a la integridad fisica y moral.",
-      "B. Derecho a la educacion.",
-      "C. Derecho de asociacion.",
-      "D. Derecho al secreto de las comunicaciones."
+      "Derecho a la vida y a la integridad fisica y moral.",
+      "Derecho a la educacion.",
+      "Derecho de asociacion.",
+      "Derecho al secreto de las comunicaciones."
     ],
     "answer": 1,
     "explicacion": ""
@@ -214,10 +214,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿Qué parte de la Constitucion Española NO tiene valor normativo o fuerza juridica?",
     "options": [
-      "A. El Titulo Preliminar",
-      "B. El Preambulo",
-      "C. Las Disposiciones adicionales",
-      "D. Todas las partes de la Constitucion tienen fuerza juridica."
+      "El Titulo Preliminar",
+      "El Preambulo",
+      "Las Disposiciones adicionales",
+      "Todas las partes de la Constitucion tienen fuerza juridica."
     ],
     "answer": 1,
     "explicacion": ""
@@ -226,10 +226,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "De conformidad con la Constitución Española, ¿A qué edad los españoles son mayores de edad y en qué artículo de la Constitución se establece?",
     "options": [
-      "A. A los dieciocho años (artículo trece)",
-      "B. A los ventiún años (artículo once)",
-      "C. A los dieciocho años (artículo once)",
-      "D. A los dieciocho años (artículo doce)"
+      "A los dieciocho años (artículo trece)",
+      "A los ventiún años (artículo once)",
+      "A los dieciocho años (artículo once)",
+      "A los dieciocho años (artículo doce)"
     ],
     "answer": 3,
     "explicacion": ""
@@ -238,10 +238,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿En que articulo de la Constitucion se regula el derecho a la clausula de conciencia y al secreto profesional?",
     "options": [
-      "A. En el articulo 19.",
-      "B. En el articulo 24.",
-      "C. En el articulo 20.",
-      "D. En el articulo 27."
+      "En el articulo 19.",
+      "En el articulo 24.",
+      "En el articulo 20.",
+      "En el articulo 27."
     ],
     "answer": 2,
     "explicacion": ""
@@ -250,10 +250,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿Que articulo de la Constitucion Española de 1978 contiene el derecho a la libertad y seguridad individual?",
     "options": [
-      "A. En el articulo 21.",
-      "B. En el articulo 17.",
-      "C. En el articulo 18.",
-      "D. En el articulo 20."
+      "En el articulo 21.",
+      "En el articulo 17.",
+      "En el articulo 18.",
+      "En el articulo 20."
     ],
     "answer": 1,
     "explicacion": ""
@@ -262,10 +262,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿En que articulo de la Constitucion Española se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegraficas y telefonicas, salvo resolucion judicial?",
     "options": [
-      "A. En el articulo 18.",
-      "B. En el articulo 20.",
-      "C. En el articulo 24.",
-      "D. En el articulo 22."
+      "En el articulo 18.",
+      "En el articulo 20.",
+      "En el articulo 24.",
+      "En el articulo 22."
     ],
     "answer": 0,
     "explicacion": ""
@@ -274,10 +274,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿En qué articulo de la Constitucion Española se indica que: la ley regulara el derecho a la clausula de conciencia y al secreto profesional?",
     "options": [
-      "A. En el articulo 19.",
-      "B. En el articulo 24.",
-      "C. En el articulo 20.",
-      "D. En el articulo 27."
+      "En el articulo 19.",
+      "En el articulo 24.",
+      "En el articulo 20.",
+      "En el articulo 27."
     ],
     "answer": 2,
     "explicacion": ""
@@ -286,10 +286,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿En qué articulo de la Constitucion Española se consagra el derecho a la vida y a la integridad fisica y moral?",
     "options": [
-      "A. En el articulo 10.",
-      "B. En el articulo 11.",
-      "C. En el articulo 14.",
-      "D. En el articulo 15."
+      "En el articulo 10.",
+      "En el articulo 11.",
+      "En el articulo 14.",
+      "En el articulo 15."
     ],
     "answer": 3,
     "explicacion": ""
@@ -298,10 +298,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿En qué articulo de la Constitucion Española viene recogido que la ley regulará un procedimiento de \"habeas corpus\" para producir la inmediata puesta a disposicion judicial de toda persona detenida ilegalmente?",
     "options": [
-      "A. En el articulo 16.3.",
-      "B. En el articulo 17.4.",
-      "C. En el articulo 17.3.",
-      "D. En el articulo 18.4."
+      "En el articulo 16.3.",
+      "En el articulo 17.4.",
+      "En el articulo 17.3.",
+      "En el articulo 18.4."
     ],
     "answer": 1,
     "explicacion": ""
@@ -310,10 +310,22 @@
     "titulos": ["Bloque 1", "General"],
     "question": "De conformidad con el articulo 22 de la Constitucion Española, el reconocimiento del derecho de asociacion, está incluido en:",
     "options": [
-      "A. En el capitulo II, seccion primera del Titulo I de la CE.",
-      "B. En el capitulo I, seccion segunda del Titulo I de la CE.",
-      "C. En el capitulo II, seccion segunda del Titulo I de la CE.",
-      "D. En el capitulo I, seccion primera del Titulo I de la CE."
+      "En el capitulo II, seccion primera del Titulo I de la CE.",
+      "En el capitulo I, seccion segunda del Titulo I de la CE.",
+      "En el capitulo II, seccion segunda del Titulo I de la CE.",
+      "En el capitulo I, seccion primera del Titulo I de la CE."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Los derechos y libertades reconocidos en el Capítulo segundo del Título I de la CE, ¿a quiénes vinculan?",
+    "options": [
+      "A las corporaciones de derecho mixto público y privado.",
+      "Ninguna de las anteriores es correcta.",
+      "A la constitución y a la ley.",
+      "A todos los poderes públicos."
     ],
     "answer": 0,
     "explicacion": ""
@@ -322,10 +334,10 @@
     "titulos": ["Bloque 1", "General"],
     "question": "¿De qué trata el Título Primero de la Constitucion Española de 1978?",
     "options": [
-      "A. De los principios generales del Estado.",
-      "B. De los derechos y deberes fundamentales.",
-      "C. De la Corona.",
-      "D. De la organizacion territorial del Estado."
+      "De los principios generales del Estado.",
+      "De los derechos y deberes fundamentales.",
+      "De la Corona.",
+      "De la organizacion territorial del Estado."
     ],
     "answer": 1,
     "explicacion": ""
@@ -376,6 +388,18 @@
       "Es un principio rector de la política social y económica."
     ],
     "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"],
+    "question": "Indica la correcta:",
+    "options": [
+      "El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo tercero del Título I de la CE informarán la legislación positiva, la práctica jurisdicente y la actuación de los poderes públicos. Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.",
+      "El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo tercero del Título I de la CE informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Sólo podrán ser alegados ante la Jurisdicción constitucional de acuerdo con lo que dispongan las leyes que los desarrollen.",
+      "El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo tercero del Título I de la CE informarán la legislación ordinaria, la práctica judicial y la actuación de los poderes públicos. Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.",
+      "El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo tercero del Título I de la CE informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen."
+    ],
+    "answer": 3,
     "explicacion": ""
   },
   {
