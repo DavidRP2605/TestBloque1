@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 84"],
+    "question": "De conformidad con el artículo 84 de la Constitución Española, cuando una proposición de ley o una enmienda sea contraria a una delegación legislativa en vigor:",
+    "options": [
+      "No podrá aprobarse la proposición o enmienda.",
+      "El Gobierno está facultado para oponerse a su tramitación.",
+      "Quedará en suspenso la delegación legislativa hasta que termine la tramitación de la proposición o enmienda.",
+      "Quedará revocada automáticamente la delegación legislativa."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 84"],
+    "question": "Según el artículo 84 de la Constitución Española, si el Gobierno se opone a la tramitación de una enmienda contraria a una delegación legislativa en vigor:",
+    "options": [
+      "Deberá intervenir el Tribunal Constitucional para resolver el consiguiente conflicto de competencias.",
+      "Podrá dejarla sin efecto mediante un Real Decreto.",
+      "Deberá tramitarse la enmienda por el procedimiento de urgencia.",
+      "Podrá presentarse una proposición de ley para la derogación total o parcial de la ley de delegación."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 84"],
+    "question": "De acuerdo con los artículos 82 y 84 de la Constitución Española, referente a los Decretos Legislativos",
+    "options": [
+      "La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea refundir varios textos legales en uno solo o por una ley ordinaria cuando se trate de la formación de textos articulados",
+      "La delegación legislativa no se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente",
+      "Las leyes de delegación no podrán establecer formulas adicionales de control por ser competencia única de los Tribunales",
+      "Cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

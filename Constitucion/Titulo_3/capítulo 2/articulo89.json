@@ -1,0 +1,62 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 89"],
+    "question": "Según el artículo 89 de la CE, ¿De qué forma se establece el proceso de tramitación de las proposiciones de ley?",
+    "options": [
+      "Cada proposición de ley cuenta con su propia regulación específica.",
+      "Las normas reguladoras del Consejo de Estado definen el proceso.",
+      "Es regulado por los reglamentos de las Cámaras.",
+      "No está definido por ninguna regulación."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 89"],
+    "question": "De conformidad con lo recogido en el artículo 89 de la Constitución, ¿Es la tramitación de los proyectos de ley prioritaria a la de las proposiciones de ley?",
+    "options": [
+      "No.",
+      "No, es prioritaria la tramitación de las proposiciones de ley.",
+      "Sí.",
+      "No, salvo que se trate de la aprobación de Estatutos de Autonomía."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 89"],
+    "question": "De acuerdo con el artículo 89 de la Constitución Española, la tramitación de las proposiciones de ley se regulará por:",
+    "options": [
+      "Una ley orgánica.",
+      "Una ley ordinaria.",
+      "Los Reglamentos de las Cámaras.",
+      "El Reglamento de las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 89"],
+    "question": "De acuerdo con el artículo 89 de la Constitución Española, ¿Qué relación de prioridad existe entre los proyectos de ley y las proposiciones de ley?",
+    "options": [
+      "Tienen igual prioridad y se tramitarán en el estricto orden cronológico de presentación.",
+      "Serán prioritarios los proyectos de ley.",
+      "Tendrán prioridad las proposiciones de ley.",
+      "La prioridad será establecida en cada caso por los Presidentes de las Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 89"],
+    "question": "Según el artículo 89 de la Constitución Española, ¿Podrá el Senado tomar en consideración proposiciones de ley?",
+    "options": [
+      "No, la toma en consideración corresponde siempre al Congreso de los Diputados.",
+      "Sólo en aquellas proposiciones que le remitan las Asambleas Legislativas de las Comunidades Autónomas.",
+      "Sí, aunque deberá someterlas después a la toma en consideración del Congreso.",
+      "Sí, remitiéndolas a continuación al Congreso para su trámite en éste como tal proposición."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

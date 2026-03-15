@@ -1,0 +1,69 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 91"],
+    "question": "De conformidad con el artículo 91 de la Constitución, el Rey sancionará las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación, en el plazo de",
+    "options": ["Siete días", "Diez días", "Quince días", "Veinte días"],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 91"],
+    "question": "¿Cuál es el plazo máximo que tiene el Rey para sancionar las leyes aprobadas por las Cortes Generales?",
+    "options": [
+      "No existe un plazo predeterminado.",
+      "15 días.",
+      "10 días.",
+      "9 días."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 91"],
+    "question": "Según el artículo 91 de la Constitución Española, las leyes, una vez aprobadas por las Cortes Generales, deberán ser:",
+    "options": [
+      "Sancionadas por el Rey.",
+      "Refrendadas por el Rey.",
+      "Expedidas por el Rey.",
+      "Convalidadas por el Rey."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 91"],
+    "question": "Según el artículo 91 de la Constitución Española, el Rey, tras sancionar las leyes:",
+    "options": [
+      "Las refrendará y ordenará su inmediata promulgación.",
+      "Las promulgará y ordenará su inmediata convalidación.",
+      "Las promulgará y ordenará su inmediata publicación.",
+      "Las expedirá y ordenará su inmediata promulgación."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 91"],
+    "question": "Según el artículo 91 de la Constitución Española, el Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación. De conformidad con el Código Civil, las leyes entrarán en vigor",
+    "options": [
+      "Al día siguiente de su completa publicación en el «Boletín Oficial del Estado», si en ellas no se dispone otra cosa",
+      "A los quince días de su completa publicación en el «Boletín Oficial del Estado», si en ellas no se dispone otra cosa",
+      "A los veinte días de su completa publicación en el «Boletín Oficial del Estado», si en ellas no se dispone otra cosa",
+      "A los diez días de su completa publicación en el «Boletín Oficial del Estado», si en ellas no se dispone otra cosa"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 91"],
+    "question": "El artículo 91 de la Constitución, determina que las leyes se sancionan",
+    "options": [
+      "Por las Cortes Generales, en un plazo de 20 días desde su aprobación",
+      "Por el Rey, en un plazo de 15 días desde su aprobación",
+      "Por el Rey, en un plazo de 20 días desde su aprobación",
+      "Por las Cortes Generales, en un plazo de 15 días desde su aprobación"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

@@ -501,8 +501,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
-
+    "titulos": ["Bloque 1", "General", "Titulo 2"],
     "question": "En relación con la Constitución, el Título II dedicado a la Corona contiene:",
     "options": [
       "Desde el artículo 55 hasta el artículo 65, ambos incluidos.",
@@ -514,7 +513,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
+    "titulos": ["Bloque 1", "General", "Titulo 2"],
     "question": "¿En qué artículo de la Constitución se recoge el juramento del Príncipe Heredero, al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones?",
     "options": [
       "En el artículo 63.1.",
@@ -526,7 +525,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
+    "titulos": ["Bloque 1", "General", "Titulo 2"],
     "question": "De acuerdo con la Constitución Española, ¿Cuál de las siguientes funciones no es ejercida por el Rey?",
     "options": [
       "Declarar la guerra y hacer la paz, previa autorización del Congreso de los Diputados.",
@@ -538,7 +537,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
+    "titulos": ["Bloque 1", "General", "Titulo 2"],
     "question": "El Título II de la Constitución Española trata de:",
     "options": [
       "Las Cortes Generales.",
@@ -550,7 +549,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
+    "titulos": ["Bloque 1", "General", "Titulo 2"],
     "question": "¿Cuál es la característica del cargo de Jefe de Estado según el Título II de la Constitución?",
     "options": [
       "Es vitalicio, a menos que su titular abdique o renuncie.",
@@ -562,7 +561,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
+    "titulos": ["Bloque 1", "General", "Titulo 2"],
     "question": "¿En qué artículos de la Constitución vienen reguladas las funciones del Rey?",
     "options": [
       "Art. 62, 63 y 65.2.",
@@ -574,7 +573,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
+    "titulos": ["Bloque 1", "General", "Titulo 3"],
     "question": "De conformidad con la Constitución Española, el Título Tercero denominado 'De las Cortes Generales' consta de:",
     "options": [
       "Cinco capítulos.",
@@ -586,7 +585,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
+    "titulos": ["Bloque 1", "General", "Titulo 3"],
     "question": "¿Cuántos Senadores y Diputados son elegidos por Melilla según la Constitución?",
     "options": [
       "Un Senador y un Diputado.",
@@ -598,7 +597,7 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"],
+    "titulos": ["Bloque 1", "General", "Titulo 3"],
     "question": "De conformidad con lo recogido en la Constitución, ¿cuál de las siguientes figuras es elegida por un mandato de 4 años?",
     "options": [
       "Los Diputados cada 4 años y los Senadores cada 5",
@@ -608,6 +607,54 @@
     ],
     "answer": 2,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "Titulo 3"],
+    "question": "En relación a la elaboración de las leyes, el Título III de la Constitución Española establece que",
+    "options": [
+      "Las leyes de bases pueden facultar para dictar normas con carácter retroactivo",
+      "Las leyes de bases pueden autorizar la modificación de la propia ley de bases en supuestos excepcionales",
+      "La delegación legislativa podrá otorgarse al Gobierno de forma tácita para asuntos generales",
+      "La delegación legislativa se agota cuando el Gobierno hace uso de ella publicando la norma correspondiente"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "Titulo 3"],
+    "question": "La Constitución española no recoge expresamente la siguiente tipología normativa",
+    "options": [
+      "Las Órdenes Ministeriales",
+      "Los Decretos-leyes",
+      "Las Leyes Orgánicas",
+      "Los Decretos Legislativos"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "Titulo 3"],
+    "question": "Según lo dispuesto en la Constitución española, ¿cuál de las siguientes opciones no podrá ser sometida a referéndum?",
+    "options": [
+      "La reforma total de la Constitución",
+      "Las decisiones políticas de especial trascendencia",
+      "La declaración del estado de emergencia",
+      "La reforma parcial de la Constitución"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General"]
+  },
+  {
+    "titulos": ["Bloque 1", "General"]
+  },
+  {
+    "titulos": ["Bloque 1", "General"]
+  },
+  {
+    "titulos": ["Bloque 1", "General"]
   },
   {
     "titulos": ["Bloque 1", "General"]

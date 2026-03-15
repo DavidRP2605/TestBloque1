@@ -13,14 +13,134 @@
   },
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
-    "question": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "question": "De conformidad con el artículo 92.1 de la Constitución, ¿Qué decisiones podrán ser sometidas a referéndum de todos los ciudadanos?",
     "options": [
-      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
-      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
-      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
-      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa."
+      "Todas aquellas que el Gobierno estime de interés general.",
+      "Las decisiones políticas de especial trascendencia.",
+      "Las que afecten a la seguridad del Estado.",
+      "Aquellas que el Gobierno estime de interés social."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "En virtud del artículo 92.3 de la Constitución, las condiciones y el procedimiento de las distintas modalidades de referéndum",
+    "options": [
+      "Se regulará por Decreto Legislativo.",
+      "Se regulará por Ley de transferencia.",
+      "Se regulará por Ley Orgánica.",
+      "Se regulará por Ley Ordinaria."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "En relación con el artículo 92.2 de la Constitución, el referéndum consultivo será convocado por el Rey, mediante:",
+    "options": [
+      "Mediante propuesta del Presidente del Gobierno, previamente autorizada por el Consejo de Ministros.",
+      "Mediante propuesta del Congreso de los Diputados, previamente autorizada por el Presidente del Gobierno.",
+      "Mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.",
+      "Mediante propuesta del Presidente del Gobierno, previamente autorizada por el Consejo de Estado."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "¿Qué decisiones políticas se pueden someter a referéndum consultivo de todos los ciudadanos?",
+    "options": [
+      "Las de especial trascendencia.",
+      "Ninguna.",
+      "Cualquier decisión política, si el Rey lo considera necesario.",
+      "Las decisiones menos importantes."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "En virtud del artículo 92 de la CE, las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en la Constitución se regularán mediante:",
+    "options": [
+      "Una ley ordinaria.",
+      "Una ley orgánica.",
+      "Una ley de bases.",
+      "Un Real Decreto."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "De acuerdo con el artículo 92 de la Constitución Española, las decisiones políticas de especial trascendencia podrán ser sometidas:",
+    "options": [
+      "A votación de las Cortes Generales.",
+      "A estudio y autorización del Congreso de los Diputados.",
+      "A referéndum decisorio y vinculante de todos los ciudadanos.",
+      "A referéndum consultivo de todos los ciudadanos."
     ],
     "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "En virtud del artículo 92 de la Constitución Española, ¿Cuál será el procedimiento de convocatoria de referéndum?",
+    "options": [
+      "Será convocado por el Gobierno, previamente autorizado por el Congreso de los Diputados.",
+      "Será convocado por el Congreso de los Diputados, a propuesta exclusiva del Gobierno.",
+      "Será convocado por el Rey, a propuesta del Gobierno, previamente autorizada por las Cortes Generales.",
+      "Será convocado por el Rey, a propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "De acuerdo con lo dispuesto en el artículo 92 de la Constitución, ¿quién debe autorizar los referéndums antes de que sean convocados por el Rey?:",
+    "options": [
+      "El Presidente del Gobierno.",
+      "El Congreso.",
+      "El Senado.",
+      "Las Cortes Generales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "De conformidad con lo recogido en el artículo 92 de la Constitución, ¿qué carácter tendrá el resultado de un referéndum cuando este verse sobre decisiones políticas de especial trascendencia?:",
+    "options": [
+      "Carácter consultivo.",
+      "Carácter vinculante.",
+      "Carácter real.",
+      "Carácter subsidiario."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "Según el artículo 92.2 de la Constitución Española, el referéndum",
+    "options": [
+      "Será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados",
+      "Será autorizado por el Rey, mediante propuesta del Presidente del Gobierno, previamente convocado por el Congreso de los Diputados",
+      "Será convocado por el Rey, mediante petición del Presidente del Gobierno, previamente autorizada por las Cortes Generales",
+      "Será autorizado por el Rey, mediante petición del Presidente del Gobierno, previamente convocado por el Congreso de los Diputados"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 92"],
+    "question": "De conformidad con el artículo 92.2 de la Constitución Española, el referéndum",
+    "options": [
+      "Será propuesta su convocatoria por el Congreso de los Diputados",
+      "Será convocado por el Rey",
+      "Será convocado por el Presidente del Gobierno",
+      "Será precisa para su convocatoria la autorización previa del Rey"
+    ],
+    "answer": 1,
     "explicacion": ""
   }
 ]

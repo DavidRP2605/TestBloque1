@@ -68,25 +68,7 @@ En que situación de cese del Gobierno no se requiere autorización del Rey?
 	"En todas las otras respuestas se requiere autorizacion del Rey.", -
 	"En los suspuestos de pérdidad de confianza parlamentaria.",
 	"El cese motivado por voto de censura.",
-	"El cese de Gobierno por celebración de elecciones."                
-    
-El príncipe heredero de la Corona, ¿debe prestar algún juramento?
-	"Si, a la edad de 14 años debe realizar el mismo juramento que el Rey y su fidelidad a este",
-	"Si, al alcanzar la mayoría de edad debe realizar el mismo juramento que el Rey y su fidelidad a este", -
-	"Si, al ser designado heredero debe realizar el mismo juramento que el Rey y su fidelidad a este.",
-	"No, no debe realizar ningún juramento antes de ser coronado Rey."                
-    
-Conforme a la Constitución, la Regencia (señala la INCORRECTA):
-	"Para poder ser ejercida es preciso ser español.",
-	"Podrá ser ejercida por una persona que será nombrada por las Cortes Generales.",
-	"Se ejercerá por mandato constitucional y siempre en nombre del Rey.",
-	"Podrá ser ejercida por un menor de edad siempre que sea de la familia real."  -                
-    
-Conforme al Titulo II de la Constitución, sobre la Corona:
-	"Todos los actos del Rey estarán siempre refrendados y careceran de validez sin dicho refrendo.",
-	"Solo el Rey puede conceder indultos generales.",
-	"Las abdicaciones y renuncias se resolverán por ley orgánica.", -
-	"Para ejercer la Regencia es preciso ser español, mayor de edad y ser nombrado por las Cortes."                
+	"El cese de Gobierno por celebración de elecciones."                                             
     
 Quién tiene la competencia para declarar el estado de excepción en España? (116)
 	"El Congreso, a propuesta exclusiva del Gobierno",

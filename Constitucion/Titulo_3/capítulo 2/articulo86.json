@@ -1,7 +1,7 @@
 [
   {
     "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
-    "question": "Según se establece por la Constitución Española de 1978, en caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de:.",
+    "question": "Según se establece por la Constitución Española de 1978, en caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de:",
     "options": [
       "Proyecto de ley.",
       "Proposición de ley.",
@@ -9,6 +9,193 @@
       "Decreto legislativo."
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "Según el artículo 86.2 de la Constitución, los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados",
+    "options": [
+      "Convocado al efecto si no estuviere reunido, en el plazo de los veinte días siguientes a su promulgación",
+      "Convocado al efecto si no estuviere reunido, en el plazo de los veinticinco días siguientes a su promulgación",
+      "Convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación",
+      "Convocado al efecto si no estuviere reunido, en el plazo de los quince días siguientes a su promulgación"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "Según el artículo 86 de la Constitución, los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados. Durante ese plazo establecido",
+    "options": [
+      "Podrán ser tramitados por las Cortes Generales como proyectos de ley por el procedimiento de urgencia",
+      "Podrán ser tramitados por el Gobierno como proposiciones de ley por el procedimiento de urgencia",
+      "Podrán ser tramitados por el Congreso de los Diputados como proyectos de ley por un procedimiento especial y sumario",
+      "Podrán ser tramitados por las Cortes Generales como proyecto de ley por un procedimiento especial y sumario"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "¿Qué afirmación es cierta acerca de los Decretos leyes?",
+    "options": [
+      "Están delimitados por una ley de bases.",
+      "Requieren la previa delegación de las Cortes Generales.",
+      "Son dictados por el Gobierno.",
+      "Requieren la previa supervisión del Rey."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "¿En qué situaciones puede el Gobierno dictar disposiciones legislativas provisionales bajo la forma de Decretos-leyes?",
+    "options": [
+      "Ninguna respuesta es correcta.",
+      "En caso de extraordinaria y urgente necesidad.",
+      "En cualquier caso.",
+      "En ningún caso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "Según lo contemplado en el artículo 86 de la Constitución, ¿Cuál es el plazo para que un Decreto-ley promulgado sea sometido a debate y votación en el Congreso?",
+    "options": ["25 días.", "10 días.", "30 días.", "15 días."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "Según el artículo 86 de la CE, ¿Quién tiene la competencia para tramitar un Decreto-ley como proyecto de ley durante el plazo establecido para su debate y votación en el Congreso?",
+    "options": [
+      "El Congreso de los Diputados, a través del procedimiento ordinario.",
+      "Las Cortes, a través del procedimiento de urgencia.",
+      "El Senado.",
+      "Nadie, ya que no se contempla tal posibilidad."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "De acuerdo con el artículo 86 de la Constitución Española, ¿Podrá el Congreso introducir enmiendas parciales en los Decretos-leyes dictados por el Gobierno?",
+    "options": [
+      "No.",
+      "Sí, antes de pronunciarse sobre su convalidación o derogación.",
+      "Sí, siempre que los haya convalidado previamente.",
+      "Sí, en cualquier momento anterior o posterior a la convalidación."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "Según el artículo 86 de la Constitución Española, si se promulgare un Decreto-ley no estando reunido el Congreso:",
+    "options": [
+      "Su convalidación o derogación corresponderá a la Diputación Permanente del Congreso.",
+      "Se aplazará su convalidación o derogación hasta el siguiente período de sesiones.",
+      "Deberá ser convalidado o derogado por la Comisión Legislativa Permanente del Congreso.",
+      "El Congreso será convocado inmediatamente para que se pronuncie sobre su convalidación o derogación."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "Según el artículo 86 de la Constitución, los decretos-leyes:",
+    "options": [
+      "Son los dictados por el Gobierno en caso de extraordinaria y urgente necesidad.",
+      "Son aquellos dictados por el Gobierno, en función de una potestad legislativa delegada por las Cortes.",
+      "Son los dictados por el Senado en caso de urgencia y necesidad imperiosa.",
+      "Son aquellos cuya delegación se realiza mediante Ley de Bases o Ley Orgánica."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "De acuerdo con el artículo 86 de la Constitución Española, ¿Qué forma tomarán las disposiciones legislativas provisionales que dicte el Gobierno?",
+    "options": [
+      "Decretos-leyes.",
+      "Decretos Legislativos.",
+      "Textos articulados.",
+      "Textos refundidos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "De acuerdo con el artículo 86 de la Constitución Española, los Decretos-leyes no podrán afectar:",
+    "options": [
+      "A los derechos, deberes y libertades de los ciudadanos regulados en el Título I.",
+      "Al régimen de las Comunidades Autónomas.",
+      "Al Derecho electoral general.",
+      "A todas las anteriores."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "De acuerdo con el artículo 86 de la Constitución Española, durante el plazo establecido para la convalidación o derogación de los Decretos-leyes, las Cortes podrán tramitarlos, por el procedimiento de urgencia, como:",
+    "options": [
+      "Proyectos de ley.",
+      "Proposiciones de ley.",
+      "Textos articulados.",
+      "Decretos legislativos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "De conformidad con el artículo 86 de la Constitución Española, el debate y votación de totalidad de los Decretos-leyes corresponde:",
+    "options": [
+      "A las Cortes Generales.",
+      "Al Congreso de los Diputados.",
+      "Al Consejo de Ministros.",
+      "Al Senado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "De conformidad con el artículo 86 de la Constitución Española, los Decretos-Leyes:",
+    "options": [
+      "Son disposiciones reglamentarias emanadas del Gobierno y sometidas a debate y votación de totalidad en el Senado.",
+      "Son disposiciones legislativas aprobadas por el Gobierno previa delegación en las Cortes Generales.",
+      "Son disposiciones legislativas provisionales dictadas por el Gobierno y sometidas a debate y votación de totalidad en el Congreso de los Diputados.",
+      "Son disposiciones reglamentarias de carácter general aprobadas por el Consejo de Ministros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "Según establece el artículo 86 de la Constitución Española, los Decretos-Leyes",
+    "options": [
+      "Son normas con rango de Ley que aprueba el Gobierno, previa delegación de las Cortes Generales, para casos de extraordinaria y urgente necesidad, y que una vez aprobados deberán ser sometidos a debate y votación de totalidad al Congreso de los Diputados",
+      "Son normas con rango de Ley que aprueba el Gobierno, sin mediar delegación de las Cortes Generales, aunque una vez aprobados deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados",
+      "Son normas con rango de Ley que aprueba el Gobierno en caso de extraordinaria y urgente necesidad sin mediar delegación de las Cortes Generales, aunque una vez aprobados deberán ser inmediatamente tramitados como proyectos de ley por el procedimiento de urgencia",
+      "Son normas con rango de Ley que aprueba el Gobierno, previa delegación de las Cortes Generales, para casos de extraordinaria y urgente necesidad, y que una vez aprobados podrán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 86"],
+    "question": "De conformidad con el artículo 86.1 de la Constitución, los Decretos-leyes no podrán afectar a:",
+    "options": [
+      "Todas las respuestas son correctas",
+      "Las Instituciones básicas del Estado",
+      "Los deberes y derechos de los ciudadanos",
+      "Al régimen de las Comunidades Autónomas"
+    ],
+    "answer": 0,
     "explicacion": ""
   }
 ]

@@ -60,6 +60,130 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "Atendiendo al artículo 81.2 de la Constitución, la aprobación, modificación o derogación de las leyes orgánicas exigirá",
+    "options": [
+      "La mayoría absoluta del Congreso y del Senado, en una votación final sobre el conjunto del proyecto",
+      "La mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto",
+      "La mayoría de dos tercios del Congreso y del Senado, en una votación final sobre el conjunto del proyecto",
+      "La mayoría absoluta del Senado, en una votación final sobre el conjunto del proyecto"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "De acuerdo con el artículo 81.2 de la Constitución, la aprobación, modificación o derogación de las leyes orgánicas exigirá",
+    "options": [
+      "Mayoría simple del Congreso, en una votación parcial de todas y cada una de las enmiendas",
+      "Mayoría absoluta de las Cortes Generales, en una votación final sobre el conjunto del proyecto",
+      "Mayoría simple del Congreso, en una votación parcial de cada uno de los artículos del proyecto",
+      "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "De acuerdo con el artículo 81.1 de la Constitución, son leyes orgánicas",
+    "options": [
+      "Las relativas al desarrollo de los principios rectores de la política social y económica, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución",
+      "Las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución",
+      "Las relativas al desarrollo de los derechos y deberes de los ciudadanos, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución",
+      "Las relativas a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "De acuerdo con lo dispuesto en el artículo 81 de la Constitución, ¿Cuál de las siguientes materias deberán regularse mediante ley orgánica?",
+    "options": [
+      "Las que desarrollen los derechos fundamentales.",
+      "Las que desarrollen las libertades públicas.",
+      "Las que aprueben los Estatutos de Autonomía.",
+      "Todas las respuestas son ciertas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "De acuerdo con lo dispuesto en el artículo 81 de la Constitución, ¿Cuál de las siguientes materias no es regulada por los Reglamentos de las Cámaras?",
+    "options": [
+      "El régimen electoral general.",
+      "La tramitación de las proposiciones de ley.",
+      "Todas las respuestas son ciertas.",
+      "Las reuniones de las Cámaras para adoptar válidamente acuerdos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "De acuerdo con lo dispuesto en el artículo 81 de la Constitución, son leyes orgánicas:",
+    "options": [
+      "Las que aprueben los Estatutos de Autonomía.",
+      "Las relativas al desarrollo de los derechos fundamentales y de las libertades públicas.",
+      "Todas las respuestas son ciertas.",
+      "Las que aprueben el Régimen Electoral General."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "De conformidad con el artículo 81 de la Constitución Española, no tendrán carácter de leyes orgánicas:",
+    "options": [
+      "Las relativas al desarrollo de los deberes de los ciudadanos.",
+      "Las relativas al desarrollo de los derechos Fundamentales y de las libertades públicas.",
+      "Las que aprueben los Estatutos de Autonomía.",
+      "Las que aprueben el régimen electoral general."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "De conformidad con el artículo 81 de la Constitución Española, tendrán carácter de leyes orgánicas las que regulen:",
+    "options": [
+      "El procedimiento a través del cual deben producirse los actos administrativos.",
+      "El régimen electoral general.",
+      "El desarrollo del derecho al trabajo y el Estatuto de los trabajadores.",
+      "El sistema tributario."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "En virtud del artículo 81 de la Constitución Española, ¿Cómo ha de estar regulado el régimen electoral general?",
+    "options": [
+      "Por ley ordinaria.",
+      "Por ley orgánica.",
+      "Por Real Decreto.",
+      "Por Real Decreto-Ley."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "De conformidad con el artículo 81.1 de la Constitución, el régimen electoral general se regula por ley orgánica. La ley orgánica 5/1985, de 19 de junio, del Régimen Electoral General, establece en el artículo 183.1 que en los supuestos de disolución de corporaciones locales por acuerdo del Consejo de Ministros, previstos en la legislación básica de régimen local por gestión gravemente dañosa para los intereses generales que suponga incumplimiento de sus obligaciones constitucionales, deberá procederse a la convocatoria de elecciones parciales para la constitución de una nueva corporación dentro del plazo de:",
+    "options": ["10 días", "15 días", "Tres meses", "Un mes"],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 81"],
+    "question": "Según el artículo 81, ¿cuál de las siguientes afirmaciones es falsa respecto a las leyes orgánicas?",
+    "options": [
+      "La iniciativa popular no procede en materia propia de ley orgánica",
+      "Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales",
+      "Son leyes orgánicas las que aprueban los Estatutos de Autonomía",
+      "La aprobación de una ley orgánica exige mayoría absoluta del Senado"
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

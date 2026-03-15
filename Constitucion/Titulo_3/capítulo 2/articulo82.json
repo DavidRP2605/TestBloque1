@@ -12,9 +12,243 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "De acuerdo con el artículo 82.2 de la Constitución Española, la delegación legislativa deberá otorgarse",
+    "options": [
+      "Mediante una ley ordinaria cuando su objeto sea la formación de textos articulados.",
+      "Mediante una ley ordinaria cuando no se trate de refundir varios textos legales en uno solo.",
+      "Mediante una ley de bases cuando su objeto sea la formación de textos articulados.",
+      "Mediante una ley de bases cuando se trate de refundir varios textos legales en uno solo."
+    ],
+    "answer": 2,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"]
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "De conformidad con el artículo 82 de la Constitución Española, ¿Sobre cuál de las siguientes materias cabe la delegación legislativa de las Cortes Generales al Gobierno?",
+    "options": [
+      "Desarrollo de derechos fundamentales y libertades públicas.",
+      "Regulación del personal laboral.",
+      "Régimen electoral general.",
+      "Iniciativa legislativa popular."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "El artículo 82.3 de la Constitución establece que la delegación legislativa habrá de otorgarse al Gobierno",
+    "options": [
+      "De forma expresa para materia concreta y con fijación del plazo para su ejercicio.",
+      "Mediante la aprobación de la norma correspondiente, y la delegación no se agota por el uso que de ella haga el Gobierno.",
+      "Mediante la aprobación de la norma correspondiente, y podrá entenderse concedida de modo implícito o por tiempo prolongado.",
+      "Permitiendo la subdelegación a autoridades distintas del propio Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "¿Contempla la posibilidad de que las Cortes Generales deleguen en el Gobierno la potestad de dictar normas sobre materias no incluidas en el artículo 81 de la Constitución?",
+    "options": [
+      "No, salvo en tiempo de guerra.",
+      "No, en ningún caso.",
+      "Depende de la mayoría con que otorgue la potestad.",
+      "Sí."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "¿De acuerdo con la Constitución española de 1978, cómo se establece la delegación legislativa al Gobierno?",
+    "options": [
+      "A través de ley orgánica.",
+      "A través de un reglamento orgánico.",
+      "A través de ley de bases o una ley ordinaria.",
+      "No se permite la delegación legislativa."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "¿Qué afirmación es cierta acerca de los Decretos legislativos?",
+    "options": [
+      "Todas las respuestas siguientes son ciertas.",
+      "Contienen legislación delegada.",
+      "Son normas dictadas por el Gobierno.",
+      "Son normas con rango de ley."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "¿En cuál de las siguientes materias no recoge el artículo 82 de la Constitución la posibilidad de que las Cortes Generales deleguen la potestad de dictar normas con rango de ley al Gobierno?",
+    "options": [
+      "El Régimen electoral General.",
+      "La aprobación de Estatutos de Autonomías.",
+      "Materias determinadas.",
+      "Todas las respuestas son ciertas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "Según el artículo 82 de la Constitución Española, ¿Podrá la delegación legislativa permitir la subdelegación a autoridades distintas del propio Gobierno?",
+    "options": [
+      "Solamente cuando su objeto sea la refundición de textos.",
+      "Sí, siempre que la subdelegación sea en un Ministro.",
+      "No, en ningún caso.",
+      "Sí, siempre que la subdelegación sea en una Comisión Delegada del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "De conformidad con el artículo 82 de la Constitución Española, ¿Podrán las leyes de delegación establecer fórmulas adicionales de control?",
+    "options": [
+      "Sí, sin perjuicio de la competencia propia de los Tribunales.",
+      "No, en ningún caso.",
+      "Únicamente cuando lo autoricen expresamente los Tribunales.",
+      "Podrán establecerlas las leyes de bases, pero no las ordinarias."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "De acuerdo con el artículo 82 de la Constitución Española, ¿Podrá el Gobierno regularizar, aclarar y armonizar los textos legales que haya de refundir como consecuencia de una delegación legislativa mediante ley ordinaria?",
+    "options": [
+      "Sí, en todos los casos.",
+      "No, en ningún caso.",
+      "Solamente cuando así lo especifique la ley de delegación.",
+      "Sólo en los casos en que se refundan tres o más normas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "De acuerdo con el artículo 82 de la Constitución Española, la delegación legislativa para la formación de textos articulados deberá otorgarse mediante:",
+    "options": [
+      "Una ley orgánica.",
+      "Una ley de bases.",
+      "Una ley ordinaria.",
+      "Un decreto legislativo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "Según el artículo 82 de la Constitución Española, la delegación legislativa habrá de otorgarse al Gobierno:",
+    "options": [
+      "De forma expresa.",
+      "Por tiempo indeterminado.",
+      "De modo implícito.",
+      "Para materia incorrecta."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "Según el artículo 82 de la Constitución Española, la delegación legislativa no podrá efectuarse en materia:",
+    "options": [
+      "Tributaria.",
+      "De planificación de la actividad económica.",
+      "Propia de ley orgánica.",
+      "De Seguridad Social."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "Según el artículo 82 de la Constitución Española, ¿Cuándo se agota la delegación legislativa?",
+    "options": [
+      "Cuando termine la legislatura en la que se haya otorgado.",
+      "Cuando termine el plazo para su ejercicio, salvo que el Gobierno no haya hecho uso de ella, en cuyo caso se prorrogará automáticamente la delegación.",
+      "Cuando las Cortes efectúen una nueva delegación.",
+      "Cuando el Gobierno haga uso de ella mediante publicación de la norma correspondiente."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "Según el artículo 82.1 de la Constitución Española, ¿En quién podrán delegar las Cortes Generales la posibilidad de dictar normas con rango de ley?",
+    "options": [
+      "En el Presidente del Gobierno.",
+      "En los Ministros.",
+      "En el Gobierno y en los órganos colegiados ejecutivos de las Comunidades Autónomas.",
+      "Solamente en el Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "Según el artículo 82.2 de la Constitución Española, la refundición de varios textos legales en uno solo ha de hacerse mediante:",
+    "options": [
+      "Ley de bases.",
+      "Ley orgánica.",
+      "Ley de armonización.",
+      "Ley ordinaria."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "De acuerdo con el artículo 82.4 de la Constitución Española, una de las siguientes afirmaciones no es cierta. Las leyes de bases:",
+    "options": [
+      "No podrán autorizar la modificación de la propia ley de bases.",
+      "No podrán facultar para dictar normas con carácter retroactivo.",
+      "No delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio.",
+      "Delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "De acuerdo con los artículos 82 y 84 de la Constitución Española, referente a los Decretos Legislativos",
+    "options": [
+      "La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea refundir varios textos legales en uno solo o por una ley ordinaria cuando se trate de la formación de textos articulados",
+      "La delegación legislativa no se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente",
+      "Las leyes de delegación no podrán establecer formulas adicionales de control por ser competencia única de los Tribunales",
+      "Cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "Según lo dispuesto en el artículo 82, la delegación legislativa habrá de otorgarse",
+    "options": [
+      "De forma expresa, para materia concreta y sin un plazo límite",
+      "De forma expresa, para materia concreta y con un plazo para su ejercicio",
+      "De forma tácita, para la materia que sea y con un plazo",
+      "De forma tácita y sin plazo"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 82"],
+    "question": "Según el artículo 82 de la Constitución, el control sobre las leyes de delegación se efectuará",
+    "options": [
+      "A través de los tribunales y con sus propias formas adicionales de control",
+      "Mediante el Derecho Administrativo",
+      "A través del Defensor del Pueblo",
+      "A través del recurso de contencioso-administrativo, únicamente"
+    ],
+    "answer": 0,
+    "explicacion": ""
   }
 ]

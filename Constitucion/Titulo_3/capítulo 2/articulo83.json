@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 83"],
+    "question": "Según el artículo 83 de la Constitución Española, ¿En qué situaciones está permitido que las Leyes de Bases establezcan normas retroactivas según la Constitución?",
+    "options": [
+      "En determinadas circunstancias.",
+      "A veces.",
+      "Sí.",
+      "En ningún caso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 83"],
+    "question": "Según el artículo 83 de la Constitución Española, ¿Cuál de las siguientes afirmaciones es falsa?",
+    "options": [
+      "Las leyes de bases no podrán autorizar la modificación de la propia ley de bases.",
+      "Las leyes de bases podrán autorizar la refundición de varios textos legales en uno solo.",
+      "Las leyes de bases no podrán facultar para dictar normas con carácter retroactivo.",
+      "Las leyes de bases contendrán delegación legislativa para la formación de textos articulados."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 83"],
+    "question": "Según lo dispuesto en el artículo 83 de la Constitución, ¿están facultadas las leyes de bases para autorizar su propia modificación?",
+    "options": [
+      "Únicamente en materias de interés público.",
+      "No.",
+      "Sí.",
+      "Sólo si la materia afectada es competencia estatal."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 85"],
+    "question": "De conformidad con el artículo 85 de la Constitución Española, las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+    "options": [
+      "Decretos-Leyes",
+      "Decretos Legislativos",
+      "Decretos",
+      "Ley de bases"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 85"],
+    "question": "¿Cómo se denominan las disposiciones del Gobierno que contienen legislación delegada según la Constitución?",
+    "options": [
+      "Ley ordinaria.",
+      "Decretos legislativos.",
+      "Ley orgánica.",
+      "Decretos-leyes."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 85"],
+    "question": "¿A quién corresponde la titularidad de dictar Decretos Legislativos?",
+    "options": [
+      "Al Rey.",
+      "A las Cortes Generales.",
+      "Al Gobierno.",
+      "Al Presidente del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

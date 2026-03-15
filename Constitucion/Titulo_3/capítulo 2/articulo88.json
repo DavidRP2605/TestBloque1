@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 88"],
+    "question": "En virtud del artículo 88 de la Constitución Española, el Consejo de Ministros someterá los proyectos de ley que apruebe:",
+    "options": [
+      "Al Rey, para su expedición.",
+      "Al Consejo de Estado, solicitando de éste los preceptivos informes.",
+      "Al Senado, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.",
+      "Al Congreso, acompañados de una exposición de motivo y de los antecedentes necesarios para pronunciarse sobre ellos."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 88"],
+    "question": "Según lo establecido en el artículo 88 de la Constitución, dentro del Gobierno, ¿a quién corresponde aprobar el proyecto de Ley?:",
+    "options": [
+      "Al Consejo de Ministros.",
+      "Al Presidente del Gobierno.",
+      "Al Consejo de Gobierno.",
+      "Al Ministro de Justicia."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 88"],
+    "question": "De acuerdo con el artículo 88 de la Constitución Española, los proyectos de ley serán aprobados:",
+    "options": [
+      "En el Congreso de los Diputados.",
+      "En Consejo de Ministros.",
+      "En Comisión Legislativa Permanente.",
+      "Por las Cortes Generales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

@@ -10,5 +10,137 @@
     ],
     "answer": 3,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "En virtud del artículo 90.3 de la Constitución Española, en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados, el plazo de que el Senado dispone para vetar o enmendar el proyecto se reducirá a",
+    "options": [
+      "Veinte días hábiles",
+      "Treinta días naturales",
+      "Veinte días naturales",
+      "Treinta días hábiles"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "¿Qué institución o autoridad tiene la potestad de aprobar proyectos de ley?",
+    "options": [
+      "El Rey.",
+      "El Congreso de los Diputados.",
+      "El Consejo de Estado.",
+      "El Presidente del Gobierno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "¿Cuál es la Cámara que tiene la responsabilidad de aprobar en primer lugar un proyecto de ley ordinaria u orgánica?",
+    "options": [
+      "Depende del caso.",
+      "Cualquier Cámara puede hacerlo indistintamente.",
+      "El Congreso de los Diputados.",
+      "El Senado."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "Según el artículo 90 de la CE, ¿Qué mayoría del Senado será necesaria para la oposición del veto a un proyecto de ley aprobado por el Congreso?",
+    "options": [
+      "Mayoría simple.",
+      "Mayoría absoluta.",
+      "Mayoría de dos tercios.",
+      "Mayoría de tres quintos."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "De conformidad con el artículo 90 de la CE, ¿Podrá el Congreso levantar el veto del Senado?",
+    "options": [
+      "No, el veto del Senado es inamovible.",
+      "Sí, ratificando el texto inicial, una vez transcurridos dos meses, por mayoría absoluta.",
+      "Sí, ratificando el texto inicial por mayoría absoluta o, una vez transcurridos dos meses desde la interposición del veto, por mayoría simple.",
+      "Sí, ratificando el texto inicial por mayoría de tres quintos o, una vez transcurridos dos meses desde la interposición del veto, por mayoría absoluta."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "De acuerdo con el artículo 90 de la CE,¿En qué forma deberá pronunciarse el Congreso sobre las enmiendas introducidas por el Senado en un proyecto de ley?",
+    "options": [
+      "Aceptándolas o no por mayoría simple.",
+      "Aceptándolas o no por mayoría absoluta.",
+      "Aceptándolas o no por mayoría de tres quintos.",
+      "Deberá aceptarlas en todo caso."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "De conformidad con el artículo 90 de la CE, ¿De qué plazo dispone el Senado para oponer su veto o introducir enmiendas a los proyectos de ley que, una vez aprobados por el Congreso, le sean remitidos?",
+    "options": [
+      "Dos meses, a partir del día de la recepción del texto.",
+      "Tres meses, a partir del día de la recepción del texto.",
+      "Cinco meses, el día siguiente del de la recepción del texto.",
+      "Dos meses, el día siguiente del de la recepción del texto."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "De acuerdo con el artículo 90 de la Constitución Española, ¿Podrá el Senado introducir enmiendas a los textos legislativos que le sean remitidos por el Congreso de los Diputados?",
+    "options": [
+      "Sí, por mayoría de tres quintos.",
+      "Sí, por mayoría absoluta.",
+      "Sí, por mayoría simple.",
+      "No, sólo podrá vetarlos."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "En virtud del artículo 90 de la Constitución Española, aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta del mismo:",
+    "options": [
+      "Al Presidente del Gobierno.",
+      "Al Presidente del Senado.",
+      "Al Presidente de las Cortes Generales.",
+      "Al Rey."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "De acuerdo con el artículo 90, apartados 2 y 3 de la Constitución Española, en el caso que el Gobierno o el Congreso de los Diputados declare urgente un proyecto de Ley, el Senado tiene un plazo para vetarlo o enmendarlo de",
+    "options": [
+      "Veinte días hábiles a partir del día de la recepción del texto por el Senado",
+      "Veinte días naturales a partir del día de la recepción del texto por el Senado",
+      "Veinte días naturales a contar desde el día de la remisión del texto por el Congreso de los Diputados",
+      "Veinte días hábiles a contar desde el día de remisión del texto por el Congreso de los Diputados"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 90"],
+    "question": "Según el artículo 90.2 de la Constitución, ¿qué mayoría necesita el Congreso para someter el proyecto de ley a la sanción del Rey si dicho texto hubiese sido vetado por el Senado?",
+    "options": [
+      "Mayoría cualificada",
+      "Mayoría de tres quintos",
+      "Mayoría absoluta o mayoría simple, una vez transcurridos dos meses desde el veto",
+      "Mayoría absoluta de cinco cuartos"
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

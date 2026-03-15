@@ -22,5 +22,186 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "De acuerdo con el artículo 87.3 de la Constitución, una ley orgánica regulará las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de Ley, que",
+    "options": [
+      "En todo caso se exigirán no menos de 400.000 firmas acreditadas",
+      "En todo caso se exigirán no menos de 200.000 firmas acreditadas",
+      "En todo caso se exigirán no menos de 300.000 firmas acreditadas",
+      "En todo caso se exigirán no menos de 500.000 firmas acreditadas"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "¿A quién corresponde la iniciativa legislativa según la Constitución?",
+    "options": [
+      "El Congreso.",
+      "El Senado.",
+      "El Gobierno.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "De conformidad con el artículo 87 de la CE, para la defensa de las proposiciones de ley que remitan al Congreso, ¿a cuántos miembros delegarán las Asambleas de las Comunidades Autónomas ante dicha Cámara?",
+    "options": [
+      "Los miembros que estimen oportuno.",
+      "Un máximo de tres miembros.",
+      "Un mínimo de tres miembros.",
+      "Un máximo de cinco miembros."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "En virtud del artículo 87 de la CE, ¿En cuál de las siguientes materias podrá ejercerse la iniciativa legislativa popular?",
+    "options": [
+      "Las de carácter internacional.",
+      "Las relativas a la Seguridad Social.",
+      "Las propias de ley orgánica.",
+      "En ninguna de las materias citadas."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "Según el artículo 87 de la Constitución Española, las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de ley, se regularán mediante:",
+    "options": [
+      "Una ley ordinaria.",
+      "Un Real Decreto.",
+      "Una ley de bases.",
+      "Una ley orgánica."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "De acuerdo con el artículo 87 de la Constitución Española, las Asambleas de las Comunidades Autónomas podrán remitir una proposición de ley:",
+    "options": [
+      "A la Mesa de Congreso.",
+      "A la Mesa del Senado.",
+      "Al Gobierno.",
+      "Al Presidente del Congreso."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "De conformidad con el artículo 87 de la Constitución Española, ¿Podrá ejercerse la iniciativa popular en lo relativo a la prerrogativa de gracia?",
+    "options": [
+      "Sí, salvo en lo referente a indultos generales.",
+      "Sí, aunque no podrá plantear la aplicación de dicha prerrogativa a los supuestos de condena por traición o delitos contra la seguridad del Estado.",
+      "Sí, pero habrá de ser mediante una proposición de ley orgánica.",
+      "No, en ningún caso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "En virtud de lo dispuesto en el artículo 87 de la Constitución, ¿tienen iniciativa legislativa las Asambleas de las Comunidades Autónomas?:",
+    "options": [
+      "No.",
+      "Sí, solicitando del Gobierno la adopción de un proyecto de Ley.",
+      "Sí, podrán remitir a la Mesa del Congreso una proposición de Ley.",
+      "Las respuestas afirmativas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "En virtud del artículo 87 de la Constitución Española, la iniciativa legislativa no corresponde:",
+    "options": [
+      "Al Congreso.",
+      "Al Presidente del Gobierno.",
+      "Al Gobierno.",
+      "Al Senado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "En virtud del artículo 87 de la Constitución Española, ¿Tienen las Comunidades Autónomas iniciativa legislativa en su relación con las leyes estatales?",
+    "options": [
+      "Sí, podrá ejercerla el Presidente de la Comunidad Autónoma.",
+      "Sí, podrá ejercerla el Consejo de Gobierno de la Comunidad Autónoma.",
+      "Sí, podrá ejercerla la Asamblea de la Comunidad Autónoma.",
+      "No, en ningún caso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "De acuerdo con el artículo 87 de la Constitución Española, la iniciativa legislativa corresponde:",
+    "options": [
+      "Al Gobierno, a las Cortes Generales y al Tribunal Constitucional.",
+      "Al Senado, al Gobierno y al Congreso de los Diputados.",
+      "Al Gobierno, al Defensor del Pueblo y al Ministerio Fiscal.",
+      "Al Congreso, al Senado, al Presidente del Gobierno y al Ministerio Fiscal."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "De conformidad con el artículo 87 de la Constitución Española, ¿Podrán las Asambleas de las Comunidades Autónomas solicitar la adopción de proyectos de ley?",
+    "options": [
+      "Sí, a la Mesa del Congreso.",
+      "Sí, a la Mesa del Senado.",
+      "Sí, al Gobierno.",
+      "No."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "De conformidad con la Constitución Española, mediante la iniciativa popular, es posible presentar una proposición de ley que afecte",
+    "options": [
+      "Al derecho de huelga de los trabajadores para la defensa de sus intereses, reconocido en el artículo 28.2 de la Constitución Española",
+      "Al derecho a una vivienda digna y adecuada, reconocido en el artículo 47 de la Constitución Española",
+      "A las posibles formas de colaboración financiera entre las Comunidades Autónomas y el Estado",
+      "Al déficit estructural máximo permitido al Estado y a las Comunidades Autónomas"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "Según el artículo 87.3 de la Constitución Española, la iniciativa popular para la presentación de proposiciones de Ley",
+    "options": [
+      "Se admitirá dicha iniciativa en lo relativo al derecho de gracia",
+      "En cualquier caso no se exigirán más de quinientas mil firmas acreditadas para su ejercicio",
+      "Se ha de regular mediante Ley Ordinaria",
+      "No procederá dicha iniciativa en materias tributarias"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 87"],
+    "question": "Según el artículo 87 de la Constitución, ¿a quién corresponde la iniciativa legislativa?",
+    "options": [
+      "Al Gobierno",
+      "Al Congreso",
+      "Al Senado",
+      "Todas las respuestas son correctas"
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]
