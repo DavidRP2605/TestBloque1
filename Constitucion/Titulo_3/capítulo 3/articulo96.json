@@ -1,0 +1,86 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 96"],
+    "question": "De conformidad con el artículo 96.2 y 94.1 de la Constitución, para la denuncia de los tratados y convenios internacionales:",
+    "options": [
+      "Se requerirá la previa autorización del Congreso de los Diputados, en el caso de tratados de carácter político.",
+      "Se requerirá la previa autorización del Rey, en el caso de tratados o convenios de carácter militar.",
+      "Se requerirá la previa autorización de las Cortes Generales, en el caso de tratados o convenios que impliquen obligaciones financieras para la Hacienda Pública.",
+      "No se requerirá la previa autorización de las Cortes Generales, en el caso de tratados o convenios que supongan modificación o derogación de alguna ley o exijan medidas legislativas para su ejecución."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 96"],
+    "question": "En virtud del artículo 96.1 de la Constitución, los tratados internacionales, formarán parte del ordenamiento interno:",
+    "options": [
+      "Desde su sanción por el Rey.",
+      "Una vez publicado oficialmente en España, si han sido válidamente celebrados.",
+      "A los veinte días de su publicación en el Boletín Oficial del Estado.",
+      "Desde su autorización por las Cortes Generales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 96"],
+    "question": "Según el artículo 96.1 de la Constitución, los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno. Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas:",
+    "options": [
+      "En la forma prevista en los propios tratados, en cualquier caso.",
+      "Mediante acuerdos adoptados en Comisiones Delegadas del Gobierno.",
+      "Previa autorización de las Cortes Generales.",
+      "En la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 96"],
+    "question": "Según el artículo 96 de la Constitución, ¿qué ocurre con los tratados internacionales válidamente celebrados y publicados oficialmente en España?:",
+    "options": [
+      "Formarán parte del ordenamiento jurídico español.",
+      "Sólo podrán ser derogados de acuerdo con las normas generales del Derecho nacional.",
+      "Se aplican, aunque sean contrarios a la Constitución.",
+      "Podrán ser modificados conforme a lo establecido para las leyes orgánicas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 96"],
+    "question": "De conformidad con el artículo 96 de la Constitución Española, ¿Formarán parte del ordenamiento interno los tratados internacionales válidamente celebrados en España?",
+    "options": [
+      "Sí, una vez publicados oficialmente en España.",
+      "Sí desde el momento de su conclusión.",
+      "Sí, una vez ratificados por las Cortes Generales.",
+      "No, en ningún caso."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 96"],
+    "question": "De conformidad con el artículo 96 de la Constitución, ¿qué procedimiento será aplicable para la denuncia de un tratado internacional?:",
+    "options": [
+      "El previsto en la Disposición Adicional Tercera.",
+      "El mismo procedimiento previsto para su aprobación.",
+      "El procedimiento agravado del artículo 169.",
+      "El establezcan las Cortes Generales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 96"],
+    "question": "Según el artículo 96 de la Constitución Española, ¿Qué intervención tendrán las Cortes Generales en la denuncia de los tratados y convenios internacionales?",
+    "options": [
+      "Deberán autorizarla mediante ley orgánica.",
+      "No tendrán intervención alguna.",
+      "Intervendrán de igual forma que la establecida para la aprobación.",
+      "Deberán ratificar la denuncia, una vez formulada esta."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

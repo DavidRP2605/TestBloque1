@@ -10,5 +10,77 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 95"],
+    "question": "Según el artículo 95.1 de la Constitución Española, la celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución:",
+    "options": [
+      "Exigirá la previa revisión constitucional.",
+      "Exigirá su aprobación por Ley Orgánica.",
+      "Exigirá la autorización del Tribunal Constitucional.",
+      "En ningún caso puede celebrarse."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 95"],
+    "question": "En virtud del artículo 95 de la Constitución Española, ¿Quién puede requerir al Tribunal constitucional para que declare si existe o no contradicción entre las estipulaciones de un tratado internacional y la constitución?",
+    "options": [
+      "Solamente el Gobierno.",
+      "El Gobierno o cualquiera de las Cámaras.",
+      "El Congreso exclusivamente.",
+      "Las Cortes Generales únicamente."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 95"],
+    "question": "Respecto a los Tratados Internacionales, de acuerdo al artículo 95 de la Constitución, ¿cuál de los siguientes necesita para su aprobación la previa revisión de la Constitución?:",
+    "options": [
+      "Los que impliquen obligaciones financieras para la Hacienda Pública.",
+      "Los que contengan estipulaciones contrarias a la Constitución.",
+      "Los de carácter militar.",
+      "Ninguno, no hace falta revisar la Constitución por ningún tratado internacional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 95"],
+    "question": "Según el artículo 95 de la Constitución, el Tribunal encargado de examinar las contradicciones entre un Tratado Internacional y la Constitución es:",
+    "options": [
+      "El Tribunal Superior de Justicia.",
+      "El Tribunal Supremo.",
+      "La Audiencia Nacional.",
+      "El Tribunal Constitucional."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 95"],
+    "question": "De acuerdo al artículo 95 de la Constitución, ¿quién puede requerir al Tribunal Constitucional para que declare si un Tratado Internacional contiene estipulaciones contrarias a la Constitución?:",
+    "options": [
+      "El Senado.",
+      "El Gobierno.",
+      "El Congreso.",
+      "Todas las respuestas son ciertas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 95"],
+    "question": "Según el artículo 95 de la CE, ¿cuál de los siguientes órganos es el competente para decidir si existe contradicción entre un Tratado Internacional y la Constitución?:",
+    "options": [
+      "El Senado.",
+      "Las Cortes Generales.",
+      "El Congreso.",
+      "El Tribunal Constitucional."
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

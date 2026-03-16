@@ -1,0 +1,50 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 93"],
+    "question": "Según el artículo 93 de la Constitución Española, la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución:",
+    "options": [
+      "Podrá autorizarse mediante ley ordinaria, previa autorización de las Cortes Generales.",
+      "Podrá autorizarse por mayoría de dos tercios de ambas Cámaras y ser ratificada en referéndum.",
+      "No es posible, salvo que se modifique la Constitución Española.",
+      "Podrá autorizarse mediante ley orgánica."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 93"],
+    "question": "¿A quién corresponde la garantía del cumplimiento de los Tratados Internacionales por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución y de las resoluciones emanadas de los organismos internacionales o supranacionales titulares de la cesión?",
+    "options": [
+      "Al Congreso de los Diputados solamente.",
+      "Al Rey.",
+      "Al Presidente del Gobierno en exclusiva.",
+      "A las Cortes Generales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 93"],
+    "question": "¿Cuál de los siguientes órganos es el encargado de garantizar el cumplimiento de los Tratados Internacionales, de acuerdo al artículo 93 de la Constitución?:",
+    "options": [
+      "A las Cortes Generales o al Gobierno, según los casos.",
+      "A las Cortes Generales.",
+      "Al Congreso.",
+      "Al Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 3", "Articulo 93"],
+    "question": "De acuerdo con el artículo 93 de la Constitución Española, la celebración de tratados por los que se atribuye a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución:",
+    "options": [
+      "Está prohibida por la Constitución.",
+      "Se habrá de autorizar mediante ley orgánica.",
+      "Es competencia exclusiva de las Cortes Generales.",
+      "Requerirá la previa autorización de las Cortes Generales por mayoría absoluta de cada una de las Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]
