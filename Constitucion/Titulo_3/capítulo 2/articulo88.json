@@ -34,5 +34,48 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 88"],
+    "question": "¿Qué debe acompañar obligatoriamente a un proyecto de ley cuando el Gobierno lo somete al Congreso?:",
+    "options": [
+      "Una memoria económica únicamente.",
+      "Una exposición de motivos y los antecedentes necesarios para pronunciarse sobre ellos.",
+      "El dictamen favorable del Consejo de Estado.",
+      "Las enmiendas de la oposición."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 88"],
+    "question": "¿Ante qué cámara debe presentar el Gobierno sus proyectos de ley según el artículo 88?:",
+    "options": [
+      "Ante ambas cámaras simultáneamente.",
+      "Ante el Senado.",
+      "Ante el Congreso de los Diputados.",
+      "Ante la Mesa de las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 88"],
+    "question": "En relación con el artículo 88, la iniciativa legislativa ejercida por el Gobierno recibe el nombre de:",
+    "options": [
+      "Proposición de ley.",
+      "Anteproyecto de ley.",
+      "Decreto-Ley.",
+      "Proyecto de ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 88"],
+    "question": "En relación con el artículo 88, la iniciativa legislativa ejercida por el Gobierno recibe el nombre de:",
+    "options": ["aaaaaaaaa", "aaaaaaaaa", "aaaaaaaaa", "aaaaaaaaa"],
+    "answer": 3,
+    "explicacion": ""
   }
 ]
