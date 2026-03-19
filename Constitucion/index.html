@@ -678,6 +678,13 @@
             if (typeof checkAnswer === 'function') checkAnswer();
           }
         }
+        // pasar a la siguiente pregunta con flecha derecha
+        if (e.key === "ArrowRight") {
+          const nextBtn = document.getElementById("next-btn");
+          if (nextBtn && nextBtn.style.display !== "none") {
+            nextBtn.click();
+          }
+        }
       });
 
       populateSelectors();
