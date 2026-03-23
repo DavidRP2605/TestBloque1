@@ -176,6 +176,12 @@
       let mode = "examen";
       let userAnswers = [];
       let tituloActual = "";
+      // Variables para almacenar la selección actual para reinicio
+      let currentBloque = "";
+      let currentTitulo = "";
+      let currentCapitulos = [];
+      let currentArticulos = [];
+      let currentTestSize = 15;
 
       function loadQuestions() {
         const data = localStorage.getItem("preguntasTAI");
@@ -370,6 +376,13 @@
         // Tamaño del test según selección del usuario (por defecto 15)
         const testSize = parseInt(document.getElementById("testSize").value) || 15;
 
+        // Guardar selección actual para reinicio
+        currentBloque = bloque;
+        currentTitulo = titulo;
+        currentCapitulos = capitulos.slice();
+        currentArticulos = articulos.slice();
+        currentTestSize = testSize;
+
         // Si se seleccionó capítulo(s) (y NO artículo(s)), construimos
         // un test de hasta `testSize` preguntas 
         if (capitulos.length > 0 && articulos.length === 0) {
@@ -484,6 +497,28 @@
         showQuestion();
       }
 
+      function restartQuiz() {
+        // Restaurar los valores de los selects
+        document.getElementById("bloque").value = currentBloque;
+        document.getElementById("titulo").value = currentTitulo;
+        document.getElementById("testSize").value = currentTestSize;
+
+        // Restaurar capítulos seleccionados
+        const capituloSelect = document.getElementById("capitulo");
+        Array.from(capituloSelect.options).forEach(opt => {
+          opt.selected = currentCapitulos.includes(opt.value);
+        });
+
+        // Restaurar artículos seleccionados
+        const articuloSelect = document.getElementById("articulo");
+        Array.from(articuloSelect.options).forEach(opt => {
+          opt.selected = currentArticulos.includes(opt.value);
+        });
+
+        // Iniciar el quiz con el mismo modo
+        startQuiz(mode);
+      }
+
       function showQuestion() {
         const q = questions[currentQuestion];
         const container = document.getElementById("question-container");
@@ -588,7 +623,7 @@
         `
           )
           .join("")}
-        <button onclick="location.reload()">🔁 Reiniciar</button>
+        <button onclick="restartQuiz()">🔁 Reiniciar</button>
         <a href="estadisticas.html">📊 Ver estadísticas</a>
         <a href="index.html" hover="color:red">🏠 Volver al Test</a>
       `;
