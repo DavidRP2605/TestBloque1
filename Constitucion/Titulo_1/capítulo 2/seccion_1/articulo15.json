@@ -15,10 +15,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
     "question": "¿Cuales de los siguientes derechos están recogidos en el articulo 15 de la Constitucion Española?",
     "options": [
-      "A. Derecho a la libertad y a la seguridad.",
-      "B. Derecho a la vida y a la integridad fisica y moral.",
-      "C. Derecho a la intimidad personal y familiar y a la propia imagen.",
-      "D. Derecho a elegir libremente su residencia y a circular por el territorio nacional."
+      "Derecho a la libertad y a la seguridad.",
+      "Derecho a la vida y a la integridad fisica y moral.",
+      "Derecho a la intimidad personal y familiar y a la propia imagen.",
+      "Derecho a elegir libremente su residencia y a circular por el territorio nacional."
     ],
     "answer": 1,
     "explicacion": ""
@@ -27,10 +27,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
     "question": "Cual NO es un derecho fundamental?",
     "options": [
-      "A. Derecho a la vida y a la integridad fisica y moral.",
-      "B. Derecho a la educacion.",
-      "C. Derecho de asociacion.",
-      "D. Derecho al secreto de las comunicaciones."
+      "Derecho a la vida y a la integridad fisica y moral.",
+      "Derecho a la educacion.",
+      "Derecho de asociacion.",
+      "Derecho al secreto de las comunicaciones."
     ],
     "answer": 1,
     "explicacion": ""
@@ -39,10 +39,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
     "question": "De acuerdo con el articulo 15 de la Constitucion Española, ¿Quienes tienen derecho a la vida y a la integridad fisica y moral, sin que, en ningun caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes?",
     "options": [
-      "A. Los ciudadanos.",
-      "B. Los españoles.",
-      "C. Todos.",
-      "D. Los españoles de origen y los extranjeros con residencia legal en España."
+      "Los ciudadanos.",
+      "Los españoles.",
+      "Todos.",
+      "Los españoles de origen y los extranjeros con residencia legal en España."
     ],
     "answer": 2,
     "explicacion": ""
@@ -51,10 +51,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
     "question": "De acuerdo con el articulo 15 de la Constitucion Española, todos tienen derecho a la vida y a la integridad física y moral:",
     "options": [
-      "A. Pudiendo ser sometidos a tortura ni a penas o tratos inhumanos o degradantes, de conformidad con lo dispuesto por las leyes penales militares.",
-      "B. Sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes.",
-      "C. De conformidad con la Declaracion Universal de Derechos Humanos.",
-      "D. No pudiendo ser sometidos a tratos degradantes, de conformidad con los tratados y acuerdos internacionales ratificados por España."
+      "Pudiendo ser sometidos a tortura ni a penas o tratos inhumanos o degradantes, de conformidad con lo dispuesto por las leyes penales militares.",
+      "Sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes.",
+      "De conformidad con la Declaracion Universal de Derechos Humanos.",
+      "No pudiendo ser sometidos a tratos degradantes, de conformidad con los tratados y acuerdos internacionales ratificados por España."
     ],
     "answer": 1,
     "explicacion": ""
@@ -63,12 +63,36 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
     "question": "Según el artículo 15 de la Constitucion Española, ¿Está la pena de muerte abolida por la Constitucion?",
     "options": [
-      "A. Sí, excepto para los delitos de terrorismo.",
-      "B. Sí, salvo para los delitos de traición o contra la seguridad del Estado.",
-      "C. Sí, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
-      "D. No, la Constitucion no trata sobre la abolición de la pena de muerte."
+      "Sí, excepto para los delitos de terrorismo.",
+      "Sí, salvo para los delitos de traición o contra la seguridad del Estado.",
+      "Sí, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+      "No, la Constitucion no trata sobre la abolición de la pena de muerte."
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
+    "question": "El artículo 15 de la Constitución distingue, de mayor a menor gravedad:",
+    "options": [
+      "Tratos degradantes, tortura y penas inhumanas.",
+      "Penas inhumanas, tratos degradantes y tortura.",
+      "Tortura, tratos inhumanos y tratos degradantes.",
+      "Tortura, tratos degradantes y penas inhumanas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 15"],
+    "question": "En relación con la excepción constitucional sobre la pena de muerte para tiempos de guerra, señale la afirmación correcta:",
+    "options": [
+      "La Ley Orgánica 11/1995 suprimió la pena de muerte del Código Penal Militar también para tiempo de guerra.",
+      "El Código Penal Militar vigente contempla la pena de muerte para tiempos de guerra.",
+      "Dicha excepción fue eliminada por la reforma constitucional de 1992.",
+      "La excepción solo se aplica a militares extranjeros en territorio español."
+    ],
+    "answer": 0,
     "explicacion": ""
   }
 ]
