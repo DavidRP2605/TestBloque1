@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "Señale cuál de las siguientes NO es una causa de cese del Gobierno conforme al artículo 101 de la Constitución:            (examen)",
+    "options": [
+      "Tras la celebración de elecciones generales.",
+      "En los casos de pérdida de la confianza parlamentana previstos en la Constitución.",
+      "Por presentación de una moción de censura.",
+      "Por dimisión o fallecimiento de su Presidente."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "Según lo establecido en el artículo 98 de la CE:       (examen)",
+    "options": [
+      "Del Presidente, de los Vicepresidentes, en su caso, de los Ministros, de los Subsecretarios y de los demás miembros que establezca la ley.",
+      "Del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.",
+      "Del Presidente, de los Ministros, en su caso, de los Vicepresidentes y de los demás miembros que establezca la ley.",
+      "Del Presidente, de los Ministros, en su caso, de los Vicepresidentes, de los Subsecretarios y de los demás miembros que establezca la ley."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]
