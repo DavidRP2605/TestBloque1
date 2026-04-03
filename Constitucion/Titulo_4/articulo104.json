@@ -1,0 +1,74 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 104"],
+    "question": "De conformidad con el artículo 104.2 de la Constitución, las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad, deben determinarse:",
+    "options": [
+      "Mediante ley ordinaria.",
+      "Mediante ley de bases.",
+      "Están previstas tales materias expresamente en la Constitución.",
+      "Mediante ley orgánica."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 104"],
+    "question": "De acuerdo con el artículo 104.1 de la Constitución, las Fuerzas y Cuerpos de Seguridad, bajo la dependencia:",
+    "options": [
+      "De las Fuerzas Armadas, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.",
+      "Del Rey, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.",
+      "Del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.",
+      "Del Presidente del Gobierno, tendrán, como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 104"],
+    "question": "De conformidad con el artículo 104 de la Constitución Española, se establece la obligatoriedad de regulación mediante ley orgánica de:",
+    "options": [
+      "El procedimiento a través del cual deben producirse los actos administrativos.",
+      "Las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad.",
+      "El sistema de incompatibilidades de los funcionarios.",
+      "Las garantías para la imparcialidad de los funcionarios en el ejercicio de sus funciones."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 104"],
+    "question": "De conformidad con el artículo 104 de la Constitución Española, ¿De quién dependen las Fuerzas y Cuerpos de seguridad?",
+    "options": [
+      "Del Ministerio del Interior.",
+      "De los Jueces, de los Tribunales y del Ministerio Fiscal.",
+      "Del Gobierno.",
+      "Del Ministerio de Defensa."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 104"],
+    "question": "Entre las funciones que el artículo 104 de la Constitución atribuye a las Fuerzas y Cuerpos de seguridad, no figura:",
+    "options": [
+      "Garantizar la seguridad ciudadana.",
+      "Proteger el libre ejercicio de los derechos.",
+      "Garantizar la paz civil y la seguridad jurídica y defender el ordenamiento constitucional.",
+      "Proteger el libre ejercicio de las libertades."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 104"],
+    "question": "De acuerdo con el artículo 104 de la Constitución Española, ¿Cuál de las siguientes es misión de las Fuerzas y Cuerpos de seguridad?",
+    "options": [
+      "Proteger el libre ejercicio de los derechos y libertades.",
+      "Garantizar el cumplimiento de los deberes de los ciudadanos.",
+      "Garantizar la soberanía e independencia de España y su integridad territorial.",
+      "Garantizar la seguridad gubernamental."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

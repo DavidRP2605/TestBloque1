@@ -1,0 +1,50 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 106"],
+    "question": "De acuerdo con el artículo 106 de la Constitución Española, la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican, es controlado por:",
+    "options": [
+      "El Defensor del Pueblo.",
+      "El Gobierno.",
+      "Las Cortes Generales.",
+      "Los Tribunales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 106"],
+    "question": "En virtud del artículo 106 de la Constitución Española, ¿Tendrán los particulares derecho a ser indemnizados por las lesiones que sufran en sus bienes y derechos como consecuencia del funcionamiento de los servicios públicos?",
+    "options": [
+      "Sólo en los casos de fuerza mayor.",
+      "Sí, salvo en los casos de fuerza mayor.",
+      "Sí, incluso en los casos de fuerza mayor.",
+      "No, en ningún caso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 106"],
+    "question": "En virtud de lo dispuesto en el artículo 106 de la Constitución, ¿por qué motivos tendrán derecho los particulares a ser indemnizados?",
+    "options": [
+      "Ninguna respuesta es correcta.",
+      "Por toda lesión que sufran en sus bienes y derechos, como consecuencia del funcionamiento de los servicios públicos, salvo en los casos de fuerza mayor.",
+      "Por toda lesión sufrida en sus bienes, como consecuencia del funcionamiento de los servicios públicos, aun en los casos de fuerza mayor.",
+      "Cuando el daño sufrido sea grave."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 106"],
+    "question": "En virtud de lo dispuesto en el artículo 106 de la Constitución, en el caso de que un particular sufriera una lesión como consecuencia del funcionamiento de los servicios públicos debido a fuerza mayor, ¿tendría derecho a una indemnización?",
+    "options": [
+      "No.",
+      "Sí, en todo caso.",
+      "Sí, siempre y cuando la fuerza mayor se haya podido prever.",
+      "Sí, pero con una indemnización monetaria nunca superior a 500.000 euros."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

@@ -10,5 +10,161 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "De acuerdo con el artículo 103.2 de la Constitución, los órganos de la Administración del Estado son creados, regidos y coordinados:",
+    "options": [
+      "De acuerdo con la Constitución y las exigencias del Gobierno.",
+      "De acuerdo con la Constitución y el resto del ordenamiento jurídico.",
+      "De acuerdo con la ley.",
+      "De acuerdo con lo que dispongan las leyes que lo desarrollen."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "¿Qué artículo de la Constitución Española recoge los principios a los que debe ajustarse la Administración Pública en su actuación?",
+    "options": [
+      "El artículo 102 (principios de eficacia, jerarquía, centralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.)",
+      "El artículo 103 (principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.)",
+      "El artículo 104 (principios de eficiencia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.)",
+      "El artículo 105 (principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.)"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "De conformidad con el artículo 103.3 de la Constitución, la ley regulará:",
+    "options": [
+      "El estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.",
+      "El estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito, esfuerzo, capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.",
+      "El estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la eficacia en el ejercicio de sus funciones.",
+      "El estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y prohibiciones y las garantías para la imparcialidad en el ejercicio de sus funciones."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "En virtud del artículo 103.1 de la Constitución, la Administración Pública actúa de acuerdo con los siguientes principios (señale la incorrecta):",
+    "options": [
+      "Jerarquía.",
+      "Desconcentración.",
+      "Descentralización.",
+      "Eficiencia."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "De acuerdo con el artículo 103 de la Constitución Española, la Administración Pública actúa con sometimiento pleno:",
+    "options": [
+      "Al Gobierno de la Nación.",
+      "Al Rey, al Gobierno y al Poder Legislativo.",
+      "Al Jefe del Estado, al Presidente y demás miembros del Gobierno, al Congreso de los Diputados y al Senado.",
+      "A la ley y al Derecho."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "Según el artículo 103 de la Constitución Española, el estatuto de los funcionarios públicos se regulará por:",
+    "options": [
+      "Una ley orgánica.",
+      "La ley.",
+      "Real Decreto.",
+      "Una ley de bases."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "De acuerdo con el artículo 103 de la Constitución Española, la ley regulará el acceso a la función pública de acuerdo con los principios de:",
+    "options": [
+      "Mérito y capacidad.",
+      "Participación e igualdad.",
+      "Democracia y libertad.",
+      "Eficacia y jerarquía."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "En virtud del artículo 103 de la Constitución Española, ¿Tendrán derecho a sindicación los funcionarios?",
+    "options": [
+      "Sólo en los casos que determine expresamente la ley.",
+      "Sí, aunque la ley regulará las peculiaridades de su ejercicio.",
+      "No, en ningún caso.",
+      "Sí, salvo los funcionarios de las Fuerzas y Cuerpos de seguridad y los demás funcionarios excluidos expresamente de este derecho mediante ley."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "En virtud del artículo 103.1 de la Constitución, ¿a qué ente u órgano nos referimos cuando hablamos de los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación en la administración pública?",
+    "options": [
+      "A las Cortes Generales.",
+      "Al Consejo General del Poder Judicial.",
+      "Al Gobierno.",
+      "A la Administración pública."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "Indique cuál de las siguientes opciones no es un principio inspirador de la actividad de la Administración Pública de acuerdo al artículo 103 de la Constitución:",
+    "options": [
+      "El principio de descentralización.",
+      "El principio de eficacia.",
+      "El principio de proporcionalidad.",
+      "El principio de coordinación."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "El artículo 103 de la Constitución determina que los funcionarios deben ejercer sus funciones:",
+    "options": [
+      "Con presteza.",
+      "Con arte.",
+      "Imparcialmente.",
+      "Proporcionalmente."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "En virtud del artículo 103 de la Constitución, ¿cómo califica la Constitución el sometimiento que la Administración debe tener a la ley y al Derecho?",
+    "options": [
+      "Como eficaz.",
+      "Como parcial.",
+      "Como pleno.",
+      "Como supremo."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 103"],
+    "question": "¿De acuerdo a qué principios actúa la Administración Pública según el artículo 103 de la Constitución española?:",
+    "options": [
+      "Eficacia, jerarquía y descentralización.",
+      "Solo eficacia y jerarquía.",
+      "Solo eficacia y descentralización.",
+      "Solo jerarquía y descentralización."
+    ],
+    "answer": 0,
+    "explicacion": ""
   }
 ]

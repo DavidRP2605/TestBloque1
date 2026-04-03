@@ -645,16 +645,33 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"]
+    "titulos": ["Bloque 1", "General", "Titulo 4"],
+    "question": "¿Qué artículo de la Constitución Española recoge los principios a los que debe ajustarse la Administración Pública en su actuación?",
+    "options": [
+      "El artículo 102 (principios de eficacia, jerarquía, centralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.)",
+      "El artículo 103 (principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.)",
+      "El artículo 104 (principios de eficiencia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.)",
+      "El artículo 105 (principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.)"
+    ],
+    "answer": 1,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"]
+    "titulos": ["Bloque 1", "General", "Titulo 4"],
+    "question": "¿Qué Título de la Constitución se denomina 'Del Gobierno y de la Administración'?",
+    "options": ["TÍTULO III.", "TÍTULO VI.", "TÍTULO IV.", "TÍTULO V."],
+    "answer": 2,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"]
+    "titulos": ["Bloque 1", "General", "Titulo 4"],
+    "question": "¿En qué artículo de la Constitución viene recogida la composición del Gobierno?",
+    "options": ["Artículo 99.", "Artículo 98.", "Artículo 97.", "Artículo 102."],
+    "answer": 1,
+    "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General"]
+    "titulos": ["Bloque 1", "General", "Titulo 5"]
   },
   {
     "titulos": ["Bloque 1", "General"]

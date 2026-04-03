@@ -1,0 +1,105 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "Según el artículo 97 de la Constitución Española, una de las siguientes afirmaciones no es cierta. El Gobierno:",
+    "options": [
+      "Dirige la Administración civil y militar y la defensa del Estado.",
+      "Dirige la política interior y exterior.",
+      "Aprueba los Presupuestos Generales del Estado.",
+      "Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "Según el artículo 97 de la Constitución Española, ¿Cuál de las siguientes funciones no está atribuida al Gobierno?",
+    "options": [
+      "Dirigir la Administración civil y militar y la defensa del Estado.",
+      "Ejercer la función legislativa y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+      "Dirigir la política interior y exterior.",
+      "Ejercer la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "Según el artículo 97 de la Constitución Española, la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes, corresponden al:",
+    "options": ["Rey.", "Congreso de los Diputados.", "Gobierno.", "Senado."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "Según el artículo 97 de la Constitución Española, ¿A quién atribuye la Constitución la potestad reglamentaria del Estado?",
+    "options": [
+      "A los Ministros del Gobierno.",
+      "A las Cortes Generales.",
+      "Al Gobierno.",
+      "Al Presidente del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "En virtud del artículo 97 de la Constitución Española, ¿Cuál de las siguientes competencias corresponde al Gobierno?",
+    "options": [
+      "El mando supremo de las Fuerzas Armadas.",
+      "Dirigir la defensa del Estado.",
+      "Declarar la guerra y hacer la paz, previa autorización de las Cortes Generales.",
+      "Declarar el estado de sitio."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "El artículo 97 de la Constitución determina que el Gobierno:",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "No dirige la Administración Militar.",
+      "Ejerce la potestad reglamentaria.",
+      "Ejerce la potestad legislativa originariamente."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "El artículo 97 de la Constitución determina que, al Gobierno le corresponde:",
+    "options": [
+      "Dirige la política interior y exterior.",
+      "Ejerce la función ejecutiva.",
+      "La potestad reglamentaria.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "¿Qué órgano es el encargado de dirigir la defensa del Estado, de acuerdo a lo establecido en el artículo 97 de la Constitución?",
+    "options": [
+      "Las Fuerzas y Cuerpos de Seguridad.",
+      "El Gobierno.",
+      "Las Cortes Generales.",
+      "El Congreso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 97"],
+    "question": "El artículo 97 de la Constitución determina que la política interior y exterior es dirigida por:",
+    "options": [
+      "Las Cortes Generales.",
+      "El Congreso.",
+      "El Gobierno.",
+      "El Rey."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

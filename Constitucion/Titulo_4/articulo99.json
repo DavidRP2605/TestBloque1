@@ -10,5 +10,245 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De acuerdo con el artículo 99.5 de la Constitución, si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso:",
+    "options": [
+      "El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
+      "El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Gobierno en funciones.",
+      "El Rey disolverá el Congreso y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
+      "El Rey disolverá el Congreso y convocará nuevas elecciones con el refrendo del Presidente del Gobierno en funciones."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De acuerdo en el artículo 99.3 de la Constitución, en la primera votación, para ser nombrado Presidente del Gobierno, deberá ser otorgada por el Congreso de los Diputados la confianza:",
+    "options": [
+      "Por mayoría absoluta de sus miembros.",
+      "Por mayoría simple de sus miembros.",
+      "Por mayoría de dos tercios de sus miembros.",
+      "Por mayoría de tres quintos de sus miembros."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "En virtud del artículo 99.3 de la Constitución, ¿Quién elige al Presidente del Gobierno?",
+    "options": [
+      "Las Cortes Generales.",
+      "El Congreso de los Diputados.",
+      "El Rey.",
+      "El Senado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "En virtud del artículo 99.5 de la Constitución Española ¿Cuál es el plazo, si transcurrido el cual ningún candidato alcanza la mayoría necesaria para ser nombrado Presidente del Gobierno, en el que se convocará nuevas elecciones con el refrendo del Presidente del Congreso?",
+    "options": [
+      "Dos meses, a partir de la tercera votación de investidura.",
+      "Tres meses, a partir de la segunda votación de investidura.",
+      "Dos meses, a partir de la primera votación de investidura.",
+      "Un mes, a partir de la segunda votación de investidura."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De conformidad con el artículo 99.1 de la Constitución, ¿Quién propondrá un candidato a la Presidencia del Gobierno, después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda?",
+    "options": [
+      "Los representantes designados por los Grupos políticos con representación parlamentaria, previa consulta a las Cortes Generales, y a través del Rey.",
+      "El Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso.",
+      "El Presidente del Gobierno saliente, previa consulta al Presidente del Congreso, y a través del Rey.",
+      "El Presidente del Congreso, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Rey."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "Atendiendo al artículo 99.3 de la Constitución Española, la confianza al Presidente, en una segunda votación, se entenderá otorgada si obtuviere:",
+    "options": [
+      "Mayoría de tres quintos.",
+      "Mayoría simple.",
+      "Mayoría de dos tercios.",
+      "Mayoría absoluta."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "Según el artículo 99.3 de la Constitución, si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgarse su confianza a dicho candidato, el Rey le nombrará Presidente. De no alcanzarse dicha mayoría, se someterá la misma propuesta a nueva votación:",
+    "options": [
+      "Sesenta y cinco horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría absoluta.",
+      "Cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.",
+      "Cuarenta y cinco horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría absoluta.",
+      "Cuarenta horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De conformidad con el artículo 99 de la Constitución Española, el candidato propuesto por el Rey a la Presidencia del Gobierno expondrá el programa político del Gobierno que pretenda formar ante:",
+    "options": [
+      "El Rey.",
+      "El Congreso de los Diputados.",
+      "El Senado.",
+      "Las Cortes Generales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De acuerdo con el artículo 99, el candidato que haya obtenido la confianza del Congreso de los Diputados, será nombrado Presidente del Gobierno:",
+    "options": [
+      "Por el Presidente del Congreso en reunión y sesión conjunta de ambas Cámaras.",
+      "Por el Presidente del Gobierno saliente, actuando en funciones.",
+      "Por el Rey.",
+      "Por el Presidente del Congreso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "En virtud del artículo 99.1, la proposición del Presidente del Gobierno se realizará a traves:",
+    "options": [
+      "Del Rey.",
+      "Del Presidente del Congreso .",
+      "Del Presidente de las Cortes Generales.",
+      "De la Diputación Permanente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "En relación con el artículo 99 de la Constitución Española, ¿En cuál de los siguientes casos no será necesaria la propuesta de un candidato a la Presidencia del Gobierno?",
+    "options": [
+      "Después de cada renovación del Congreso de los Diputados.",
+      "Después de cada renovación del Senado.",
+      "Tras la dimisión del Gobierno por no obtener una votación favorable en una cuestión de confianza.",
+      "Será necesaria en todos los casos citados."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "Según el artículo 99 de la Constitución Española, antes de proponer un candidato a la Presidencia del Gobierno, el Rey deberá consultar con:",
+    "options": [
+      "El candidato que vaya a proponer, a efectos de su aceptación o no del cargo.",
+      "Los Presidentes del Congreso y del Senado.",
+      "El Consejo de Estado.",
+      "Los representantes designados por los Grupos políticos con representación parlamentaria."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De acuerdo con el artículo 99 de la Constitución Española, la propuesta de candidato a la Presidencia del Gobierno deberá formularla el Rey a través de:",
+    "options": [
+      "El Presidente del Congreso.",
+      "Los Presidentes del Congreso y del Senado.",
+      "La Mesa del Congreso de los Diputados.",
+      "El Presidente de las Cortes Generales."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De conformidad con el artículo 99 de la Constitución Española, se entenderá otorgada la confianza al candidato propuesto para la Presidencia del Gobierno cuando en la primera votación obtenga el voto de:",
+    "options": [
+      "La mayoría absoluta de los miembros de cada una de las Cámaras.",
+      "La mayoría simple de los miembros de cada una de las Cámaras.",
+      "La mayoría absoluta de los miembros del Congreso de los Diputados.",
+      "Tres quintos de los miembros del Congreso de los Diputados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De conformidad con el artículo 99 de la Constitución Española, ¿Qué procedimiento habrá de seguirse si en la segunda votación no se otorgase la confianza para la investidura al candidato propuesto para la Presidencia del Gobierno?",
+    "options": [
+      "Se repetirá la votación en el plazo de quince días.",
+      "Se tramitarán sucesivas propuestas.",
+      "Se repetirá la votación en el plazo de dos meses.",
+      "Se disolverán ambas Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "En virtud del artículo 99 de la Constitución Española, ¿Quién refrendará el acto del Rey de disolver ambas Cámaras y convocar nuevas elecciones, previsto para el caso de que ningún candidato obtuviere la confianza del Congreso en el plazo de dos meses?",
+    "options": [
+      "El Presidente del Gobierno cesante.",
+      "El Ministro del Interior.",
+      "El Presidente del Tribunal Constitucional.",
+      "El Presidente del Congreso de los Diputados."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "Según el artículo 99 de la Constitución, ¿debe el candidato propuesto a Presidente del Gobierno solicitar la confianza de la Cámara?",
+    "options": [
+      "Sí, a ambas Cámaras.",
+      "No, en ningún caso.",
+      "Sí.",
+      "Sí, pero sólo al Senado."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "¿Cuál de los siguientes cargos será el competente para disolver las Cámaras en el caso de que ningún candidato a Presidente del Gobierno hubiera obtenido la confianza del Congreso transcurrido el plazo establecido de acuerdo al artículo 99 de la Constitución?",
+    "options": [
+      "El Presidente del Senado.",
+      "El Presidente del Congreso.",
+      "El anterior Presidente del Gobierno.",
+      "El Rey."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "¿Quién propone a un candidato a la Presidencia del Gobierno según el artículo 99 de la Constitución?:",
+    "options": [
+      "El Presidente del Consejo de Estado.",
+      "El Rey, a través del Presidente del Congreso.",
+      "No se puede presentar ningún candidato.",
+      "El Presidente del Senado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 99"],
+    "question": "De acuerdo con lo establecido en el artículo 99 de la Constitución, si realizadas la primera y la segunda votación para el nombramiento del candidato a Presidente Gobierno el mismo no lograra obtener la confianza del Congreso, ¿cómo se procede?:",
+    "options": [
+      "El Gobierno cesa automáticamente.",
+      "Se deberán tramitar sucesivas propuestas en la misma forma prevista para las anteriores votaciones.",
+      "Se disolverían las Cámaras.",
+      "Se disolverían las Cámaras y se convocan nuevas elecciones automáticamente."
+    ],
+    "answer": 1,
+    "explicacion": ""
   }
 ]

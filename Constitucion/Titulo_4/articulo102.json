@@ -1,0 +1,86 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 102"],
+    "question": "De conformidad con el artículo 102.2 de la Constitución, si la acusación contra el Presidente o contra los demás miembros del Gobierno fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones:",
+    "options": [
+      "Sólo podrá ser planteada por iniciativa de la tercera parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo.",
+      "Sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo.",
+      "Sólo podrá ser planteada por iniciativa de la tercera parte de los miembros del Congreso, y con la aprobación de la mayoría simple del mismo.",
+      "Sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría simple del mismo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 102"],
+    "question": "De acuerdo con el artículo 102.1 de la Constitución, la responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso:",
+    "options": [
+      "Ante la Sala de lo Civil del Tribunal Supremo.",
+      "Ante la Sala de lo Penal del Tribunal Supremo.",
+      "Ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo.",
+      "Ante la Sala de lo Social del Tribunal Supremo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 102"],
+    "question": "En virtud del artículo 102 de la Constitución Española, ¿A qué supuestos de responsabilidad criminal del Presidente o de los demás miembros del Gobierno, contemplados en el artículo 102 de la Constitución, será aplicable la prerrogativa real de gracia?",
+    "options": [
+      "A cualesquiera de ellos.",
+      "A ninguno de ellos.",
+      "Sólo a los de traición u otros delitos contra la seguridad del Estado.",
+      "A todos, salvo a los de traición y demás delitos contra la seguridad del Estado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 102"],
+    "question": "De acuerdo con el artículo 102 de la Constitución Española, la acusación al presidente o a los demás miembros del Gobierno por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada con la aprobación de:",
+    "options": [
+      "La mayoría absoluta del Congreso de los Diputados.",
+      "La mayoría absoluta de ambas Cámaras.",
+      "La mayoría de tres quintos de los miembros del Congreso de los Diputados.",
+      "La mayoría simple de la Cámara en la que se haya presentado la iniciativa para la acusación."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 102"],
+    "question": "En virtud del artículo 102 de la Constitución Española, la acusación al Presidente o a los demás miembros del Gobierno por traición o por cualquier delito contra la seguridad del Estado, sólo podrá ser planteada por iniciativa de:",
+    "options": [
+      "La décima parte de los miembros de cualquiera de las Cámaras.",
+      "La cuarta parte de los miembros de cualquiera de las Cámaras.",
+      "La cuarta parte de los miembros del Congreso de los Diputados.",
+      "La mayoría absoluta de los miembros del Congreso de los Diputados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 102"],
+    "question": "En virtud de lo comprendido en el artículo 102 de la Constitución, ¿ante quién será exigible la responsabilidad penal del Ministro de Justicia?",
+    "options": [
+      "El Juzgado Central de lo Penal.",
+      "La Audiencia Nacional.",
+      "El Tribunal Constitucional.",
+      "El Tribunal Supremo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 102"],
+    "question": "De conformidad con lo recogido en el artículo 102 de la Constitución, ¿en qué casos no será aplicable la prerrogativa real de gracia?",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "A los Ministros responsables.",
+      "Al Presidente del Gobierno responsable criminalmente.",
+      "Al Vicepresidente del Gobierno responsable criminalmente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

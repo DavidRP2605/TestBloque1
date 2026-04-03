@@ -10,5 +10,144 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "De conformidad con el artículo 98.3 de la Constitución Española, una de las siguientes afirmaciones no es cierta. Los miembros del Gobierno:",
+    "options": [
+      "No podrán ejercer actividad profesional o mercantil alguna.",
+      "Podrán ejercer otras funciones representativas distintas a las propias del mandato parlamentario.",
+      "No podrán ejercer otras funciones representativas que las propias del mandato parlamentario.",
+      "No podrán ejercer otra función pública que no derive de su cargo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "De conformidad con el artículo 98.1 de la Constitución, ¿Cuál de las siguientes figuras es prescindible en la composición del Gobierno?",
+    "options": [
+      "El Presidente.",
+      "Los Ministros.",
+      "Los Vicepresidentes.",
+      "El Presidente y los Ministros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "De conformidad con el artículo 98.4 de la Constitución, ¿Cómo se regulará el estatuto e incompatibilidades de los miembros del Gobierno?",
+    "options": [
+      "Por ley ordinaria.",
+      "Por ley orgánica.",
+      "Por Real Decreto acordado en el Consejo de Ministros.",
+      "Por Real Decreto del Presidente del Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "Según el artículo 98.2 de la Constitución, la acción del Gobierno y la coordinación de las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión, es realizada:",
+    "options": [
+      "Por el Presidente del Gobierno.",
+      "Por el Secretariado del Gobierno.",
+      "Por las Cortes Generales.",
+      "Por el Jefe del Estado."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "De conformidad con el artículo 98 de la Constitución Española, el Estatuto e incompatibilidades de los miembros del Gobierno se regulará por:",
+    "options": [
+      "Real Decreto.",
+      "Una ley orgánica.",
+      "Una ley de bases.",
+      "La ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "De acuerdo con el artículo 98 de la Constitución Española, ¿Qué actividades profesionales o mercantiles pueden ejercer los miembros del Gobierno?",
+    "options": [
+      "Solamente aquellas que autorice expresamente el Congreso de los Diputados.",
+      "Sólo las de tipo profesional.",
+      "Ninguna.",
+      "Sólo las de tipo mercantil."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "En virtud del artículo 98 de la Constitución Española, ¿Tienen los miembros del Gobierno responsabilidad directa en su gestión?",
+    "options": [
+      "Sí, todos.",
+      "No, su responsabilidad es colegiada.",
+      "Solamente el Presidente.",
+      "Sólo el Presidente y los Vicepresidentes."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "Según el artículo 98.3 de la Constitución Española, ¿Qué funciones representativas pueden ejercer los miembros del Gobierno?",
+    "options": [
+      "Ninguna.",
+      "Sólo las propias del mandato parlamentario.",
+      "Cualesquiera.",
+      "Sólo las de Diputado al Congreso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "De acuerdo con lo establecido en el artículo 98 de la Constitución, los miembros del Gobierno no podrán:",
+    "options": [
+      "Ejercer la potestad reglamentaria.",
+      "Realizar funciones públicas que no deriven de su cargo.",
+      "Dirigir la Administración Militar y la defensa del Estado.",
+      "Dirigir la Administración Civil."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "¿Cuál es la composición del Gobierno según el artículo 98 de la Constitución?",
+    "options": [
+      "Presidente y Vicepresidentes, si los hubiere.",
+      "Demás miembros que establezca la ley.",
+      "Ministros.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "¿En qué artículo de la Constitución viene recogida la composición del Gobierno?",
+    "options": ["Artículo 99.", "Artículo 98.", "Artículo 97.", "Artículo 102."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 98"],
+    "question": "Según el artículo 98, ¿cuál de las siguientes es una función del Presidente del Gobierno?:",
+    "options": [
+      "Dirigir la acción del Gobierno.",
+      "No ejercer otras funciones representativas que las propias del mandato parlamentario.",
+      "Coordinar las funciones del resto de los miembros del mismo.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]

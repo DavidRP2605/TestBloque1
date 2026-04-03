@@ -10,5 +10,125 @@
     ],
     "answer": 2,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "Según el artículo 101.1 de la Constitución, ¿En cuál de los siguientes casos no cesa el Gobierno?",
+    "options": [
+      "Tras la celebración de elecciones generales.",
+      "En los casos de pérdida de la confianza parlamentaria previstos en la Constitución.",
+      "Por fallecimiento de su Presidente.",
+      "Por dimisión del Vicepresidente."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "De conformidad con el artículo 101 de la Constitución, el Gobierno cesa (señale la incorrecta):",
+    "options": [
+      "Tras la celebración de elecciones generales.",
+      "En los casos de pérdida de la confianza parlamentaria previstos en la Constitución.",
+      "Por enfermedad muy grave de su Presidente.",
+      "Por dimisión o fallecimiento de su Presidente."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "De conformidad con el artículo 101.2 de la Constitución, hasta la toma de posesión del nuevo Gobierno:",
+    "options": [
+      "No continuará en funciones el Gobierno cesante.",
+      "Continuará en funciones el Secretariado del Gobierno cesante exclusivamente.",
+      "Continuará en funciones el Presidente del Gobierno cesante exclusivamente.",
+      "Continuará en funciones el Gobierno cesante."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "De conformidad con el artículo 101 de la Constitución Española, entre las causas de cese del Gobierno establecidas por el artículo 101 de la Constitución, no figura:",
+    "options": [
+      "La negligencia, incapacidad o incompetencia apreciadas por mayoría absoluta de ambas Cámaras.",
+      "La pérdida de la confianza parlamentaria.",
+      "La celebración de elecciones generales.",
+      "La dimisión o el fallecimiento del Presidente del Gobierno."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "En virtud del artículo 101 de la Constitución Española, en caso de cese y hasta la toma de posesión del nuevo Gobierno:",
+    "options": [
+      "Las funciones del Gobierno serán asumidas por la Comisión Delegada del Gobierno para situaciones crisis.",
+      "El Gobierno cesante continuará en funciones.",
+      "La Comisión de Subsecretarios, bajo la presidencia del Vicepresidente del Gobierno asumirá las funciones del Gobierno.",
+      "Las funciones del Gobierno serán asumidas por el Presidente cesante, con el apoyo del Consejo de Estado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "De acuerdo al artículo 101 de la Constitución, ¿cuál de los siguientes casos produce el cese del Gobierno?",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "Por dimisión de su Presidente.",
+      "Tras la celebración de elecciones generales.",
+      "Por fallecimiento de su Presidente."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "Según lo contemplado en el artículo 101 de la Constitución, el Gobierno cesante continuará en sus funciones hasta:",
+    "options": [
+      "La convocatoria de las próximas elecciones generales.",
+      "Que así lo decida el Presidente.",
+      "Nueva votación en las Cortes Generales.",
+      "La toma de posesión del nuevo Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "De conformidad con lo recogido en el artículo 101 de la Constitución, una vez celebradas elecciones generales, el Gobierno anterior debe:",
+    "options": [
+      "Proponer un nuevo candidato.",
+      "Dimitir.",
+      "Cesar.",
+      "Disolverse."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "¿En qué situaciones cesa el Gobierno según el artículo 101 de la Constitución?:",
+    "options": [
+      "Todas las respuestas son correctas.",
+      "Por la celebración de elecciones generales.",
+      "Por dimisión o fallecimiento del Presidente del Gobierno.",
+      "Por la pérdida de la confianza parlamentaria."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 101"],
+    "question": "De conformidad con el artículo 101 de la Constitución, ¿qué ocurriría si falleciera el Presidente del Gobierno?:",
+    "options": [
+      "El Congreso debería de otorgar su confianza a otro diputado.",
+      "El Gobierno en pleno debe presentar su dimisión.",
+      "El Gobierno cesa en sus funciones.",
+      "El Vicepresidente primero asumirá las funciones de Presidente del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
   }
 ]

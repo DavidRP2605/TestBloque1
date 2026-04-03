@@ -1,0 +1,57 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 107"],
+    "question": "De conformidad con el artículo 107 la Constitución Española, ¿Quién es el supremo órgano consultivo del Gobierno?",
+    "options": [
+      "El Consejo de Estado. Una ley ordinaria regulará su composición y su competencia.",
+      "El Consejo General del Poder Judicial. Una ley ordinaria regulará su composición y su competencia.",
+      "El Consejo de Estado. Una ley orgánica regulará su composición y su competencia.",
+      "El Consejo General del Poder Judicial. Una ley orgánica regulará su composición y su competencia."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 107"],
+    "question": "Según el artículo 107 de la Constitución, el Consejo de Estado es el supremo órgano consultivo:",
+    "options": [
+      "Del Gobierno. Una ley ordinaria regulará su composición y competencia.",
+      "Del Congreso. Una ley orgánica regulará su composición y competencia.",
+      "Del Congreso. Una ley ordinaria regulará su composición y competencia.",
+      "Del Gobierno. Una ley orgánica regulará su composición y competencia."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 107"],
+    "question": "De conformidad con el artículo 107 de la Constitución Española, el Consejo de Estado es:",
+    "options": [
+      "El supremo órgano consultivo del Estado.",
+      "El supremo órgano consultivo del parlamento español.",
+      "El supremo órgano informante del Gobierno.",
+      "El supremo órgano consultivo del Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 107"],
+    "question": "De acuerdo con el artículo 107 de la Constitución Española, la composición y competencia del Consejo de Estado se regulará por:",
+    "options": [
+      "Una ley ordinaria.",
+      "Una ley orgánica.",
+      "Un Real Decreto.",
+      "Una ley de bases."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 107"],
+    "question": "De acuerdo con el artículo 107 de la Constitución Española, el Consejo de Estado es un órgano de carácter:",
+    "options": ["Consultivo.", "Ejecutivo.", "Decisorio.", "Legislativo."],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

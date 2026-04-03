@@ -1,0 +1,110 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "De acuerdo con el artículo 105 de la Constitución Española, la ley regulará:",
+    "options": [
+      "La audiencia de los ciudadanos, siempre a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.",
+      "El procedimiento a través del cual deben producirse los actos administrativos, que en ningún caso, garantiza la audiencia del interesado.",
+      "El acceso de los ciudadanos a los archivos y registros administrativos, aún cuando afecten a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.",
+      "La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "Según el artículo 105.1 de la Constitución, la ley regulará, la audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley:",
+    "options": [
+      "En el procedimiento de elaboración de las disposiciones administrativas que le afecten y en el procedimiento a través del cual deben producirse los actos administrativos.",
+      "En el procedimiento a través del cual deben producirse los actos administrativos.",
+      "En el procedimiento de elaboración de las disposiciones administrativas que le afecten.",
+      "En todos los procedimientos que le afecten."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "En virtud del artículo 105 de la Constitución Española, el acceso de los ciudadanos a los archivos y registros administrativos:",
+    "options": [
+      "Se regulará por una ley orgánica.",
+      "Está prohibido por la Constitución con el fin de preservar la intimidad de las personas.",
+      "Deberá regularse por ley.",
+      "Sólo será posible en los casos expresamente establecidos por una ley orgánica."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "De acuerdo con el artículo 105 de la Constitución Española, ¿Cómo deberá regularse el procedimiento a través del cual deben producirse los actos administrativos?",
+    "options": [
+      "Por vía reglamentaria.",
+      "Por ley.",
+      "Por ley orgánica.",
+      "Por Real Decreto."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "En virtud del artículo 105 de la Constitución Española, la audiencia de los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten, se llevará a cabo:",
+    "options": [
+      "Siempre directamente.",
+      "Siempre a través de las organizaciones y asociaciones reconocidas por la ley.",
+      "A través de los partidos políticos o los sindicatos de trabajadores, según los casos.",
+      "Directamente o a través de las organizaciones y asociaciones reconocidas por la ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "Entre los límites que establece el artículo 105 de la Constitución en relación con el derecho de acceso de los ciudadanos a los archivos y registros administrativos, no figura lo que afecte a:",
+    "options": [
+      "La averiguación de los delitos.",
+      "La Administración militar.",
+      "La intimidad de las personas.",
+      "La seguridad y defensa del Estado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "Conforme al artículo 105 de la Constitución, la ley regulará el procedimiento administrativo, garantizando, cuando proceda:",
+    "options": [
+      "La apertura de un período de información pública.",
+      "La retroactividad de los actos administrativos favorables.",
+      "La presentación de alegaciones por los interesados.",
+      "La audiencia del interesado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "De acuerdo al artículo 105, letra c) de la Constitución, ¿el procedimiento de producción de actos administrativos siempre garantiza la audiencia del interesado?",
+    "options": [
+      "No.",
+      "Cuando proceda.",
+      "Sí, a través de las organizaciones y asociaciones reconocidas por ley.",
+      "Sí, siempre."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 105"],
+    "question": "De acuerdo con el artículo 105 de la Constitución Española, la ley regulará:",
+    "options": [
+      "La audiencia de los ciudadanos, siempre a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.",
+      "El procedimiento a través del cual deben producirse los actos administrativos, que en ningún caso, garantiza la audiencia del interesado.",
+      "El acceso de los ciudadanos a los archivos y registros administrativos, aún cuando afecten a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.",
+      "La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

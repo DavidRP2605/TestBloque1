@@ -1,0 +1,38 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 100"],
+    "question": "De conformidad con el artículo 62 y artículo 100 de la Constitución Española, y el artículo 12 de la Ley 50/1997, de 27 de noviembre, del Gobierno ¿Por medio de qué documento se nombra a un Ministro?",
+    "options": [
+      "Por Orden Ministerial.",
+      "Por Ley.",
+      "Por Real Decreto acordado en el Consejo de Ministros.",
+      "Por Real Decreto."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 100"],
+    "question": "En virtud del artículo 100 de la Constitución Española, los demás miembros del Gobierno, distintos a su Presidente:",
+    "options": [
+      "Serán nombrados y separados por el Rey, a propuesta del Presidente del Gobierno.",
+      "Serán nombrados y separados por el Rey con el refrendo del Presidente del Congreso.",
+      "Serán nombrados y separados por el Presidente del Gobierno con el refrendo del Rey.",
+      "Serán nombrados y separados por el Presidente del Gobierno con el refrendo del Presidente del Congreso."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 4", "Capitulo 0", "Articulo 100"],
+    "question": "De acuerdo al artículo 100 de la Constitución, ¿quién propone al Vicepresidente Primero del Gobierno?",
+    "options": [
+      "Las Cortes Generales.",
+      "El Rey.",
+      "El Presidente del Gobierno.",
+      "El Consejo de Ministros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]
