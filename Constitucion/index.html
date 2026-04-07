@@ -211,6 +211,27 @@
         bloqueSel.addEventListener("change", updateTitulos);
         document.getElementById("titulo").addEventListener("change", updateCapitulos);
         document.getElementById("capitulo").addEventListener("change", updateArticulos);
+
+        // Restaurar última selección
+        const ultima = JSON.parse(localStorage.getItem("ultimaSeleccion") || "{}");
+        if (ultima.bloque) document.getElementById("bloque").value = ultima.bloque;
+        if (ultima.testSize) document.getElementById("testSize").value = ultima.testSize;
+        updateTitulos();
+        if (ultima.titulo) document.getElementById("titulo").value = ultima.titulo;
+        updateCapitulos();
+        if (ultima.capitulos && ultima.capitulos.length > 0) {
+          const capituloSelect = document.getElementById("capitulo");
+          Array.from(capituloSelect.options).forEach(opt => {
+            opt.selected = ultima.capitulos.includes(opt.value);
+          });
+        }
+        updateArticulos();
+        if (ultima.articulos && ultima.articulos.length > 0) {
+          const articuloSelect = document.getElementById("articulo");
+          Array.from(articuloSelect.options).forEach(opt => {
+            opt.selected = ultima.articulos.includes(opt.value);
+          });
+        }
       }
 
       function updateTitulos() {
@@ -375,6 +396,15 @@
 
         // Tamaño del test según selección del usuario (por defecto 15)
         const testSize = parseInt(document.getElementById("testSize").value) || 15;
+
+        // Guardar selección en localStorage
+        localStorage.setItem("ultimaSeleccion", JSON.stringify({
+          bloque: bloque,
+          titulo: titulo,
+          capitulos: capitulos,
+          articulos: articulos,
+          testSize: testSize
+        }));
 
         // Guardar selección actual para reinicio
         currentBloque = bloque;
