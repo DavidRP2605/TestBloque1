@@ -1,0 +1,165 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "La Constitución Española de 1978 en su artículo 113 establece que:  (examen)",
+    "options": [
+      "El Congreso de los Diputados puede exigir la responsabilidad jurídica del Gobierno mediante la adopción por mayoría absoluta de la moción de censura.",
+      "El Congreso de los Diputados puede exigir la responsabilidad judicial del Gobierno mediante la adopción por mayoría absoluta de la moción de censura.",
+      "El Congreso de los Diputados puede exigir la responsabilidad civil del Gobierno mediante la adopción por mayoría absoluta de la moción de censura.",
+      "El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción por mayoría absoluta de la moción de censura."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "Según se expone en el artículo 113 de la Constitución Española, la moción de censura deberá ser propuesta por:  (examen)",
+    "options": [
+      "Al menos la décima parte de los Diputados.",
+      "Al menos un veinte por ciento de los Diputados.",
+      "Al menos la décima parte de cada una de las Cámaras.",
+      "Al menos 20 Diputados y 20 Senadores."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "Según el artículo 113.4 de la Constitución, si la moción de censura no fuere aprobada por el Congreso, sus signatarios:",
+    "options": [
+      "No podrán presentar otra durante la misma legislatura.",
+      "No podrán presentar otra antes de que transcurran seis meses desde que fue presentada la primera.",
+      "No podrán presentar otra durante el mismo período de sesiones.",
+      "No podrán presentar otra antes de que transcurra un año desde que se haya votado el rechazo de la primera."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "De acuerdo con el artículo 113.3 de la Constitución, la moción de censura no podrá ser votada hasta que, desde su presentación, hayan transcurrido:",
+    "options": [
+      "Veinte días. En los diez primeros días de dicho plazo podrán presentarse mociones alternativas.",
+      "Cinco días. En los dos primeros días de dicho plazo podrán presentarse mociones alternativas.",
+      "Diez días. En los cinco primeros días de dicho plazo podrán presentarse mociones alternativas.",
+      "Quince días. En los diez primeros días de dicho plazo podrán presentarse mociones alternativas."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "Según el artículo 113.2 de la Constitución, la moción de censura deberá ser propuesta:",
+    "options": [
+      "Al menos por la cuarta parte de los Diputados, y habrá de incluir un candidato a Presidencia del Gobierno.",
+      "Al menos por la décima parte de los Diputados, y habrá de incluir dos candidatos a Presidencia del Gobierno.",
+      "Al menos por la cuarta parte de los Diputados, y habrá de incluir dos candidatos a Presidencia del Gobierno.",
+      "Al menos por la décima parte de los Diputados, y habrá de incluir un candidato a Presidencia del Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "De conformidad con el artículo 113.3 de la Constitución, la moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación. Las mociones alternativas:",
+    "options": [
+      "Podrán presentarse dentro de los dos primeros días del plazo previo a la votación de la moción primeramente formulada.",
+      "Podrán presentarse dentro de los tres primeros días del plazo previo a la votación de la moción primeramente formulada.",
+      "Podrán presentarse en cualquier momento dentro del plazo previo a la votación de la moción primeramente formulada.",
+      "No podrán presentarse dentro de los dos primeros días del plazo previo a la votación de la moción primeramente formulada."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "De conformidad con el artículo 113.1 de la Constitución, el Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante:",
+    "options": [
+      "La adopción por mayoría de dos tercios de la moción de censura.",
+      "La adopción por mayoría simple de la moción de censura.",
+      "La adopción por mayoría de tres quintos de la moción de censura.",
+      "La adopción por mayoría absoluta de la moción de censura."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "En virtud del artículo 113.3 de la Constitución, ¿Cuántos días deben transcurrir desde que se presente una moción de censura hasta que pueda ser votada?",
+    "options": ["Cuatro días.", "Cinco días.", "Dos días.", "Tres días."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "De conformidad con el artículo 113 de la Constitución Española, señale cuál de las siguientes afirmaciones en relación con la moción de censura es correcta",
+    "options": [
+      "Deberá ser propuesta al menos por cincuenta Diputados, y habrá de incluir a un candidato a la Presidencia del Gobierno",
+      "No podrá ser votada hasta que transcurran dos días desde su presentación",
+      "La moción de censura se adoptará por mayoría absoluta del Congreso de los Diputados",
+      "Si la moción de censura no fuera aprobada por el Congreso, sus signatarios podrán presentar otra durante el mismo período de sesiones"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "¿Cuál de las siguientes respuestas define la “moción de censura” de acuerdo a lo estipulado en el artículo 113 de la Constitución?",
+    "options": [
+      "Es la forma en que las asambleas legislativas de las Comunidades Autónomas pueden exigir responsabilidad política al Gobierno.",
+      "Es la forma en que el Congreso puede exigir responsabilidad social al Gobierno.",
+      "Es la forma en que el Congreso puede exigir responsabilidad política y administrativa al Gobierno.",
+      "Es la forma en que el Congreso puede exigir responsabilidad política al Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "En virtud del artículo 113 de la Constitución Española, ¿Deberán incluir un candidato a la Presidencia del Gobierno la cuestión de confianza y la moción de censura?",
+    "options": [
+      "Sí, ambas.",
+      "Sólo deberá incluirlo la moción de censura.",
+      "Sólo deberá incluirlo la cuestión de confianza.",
+      "No, ninguna de ellas."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "En el caso en que se presentara una moción de censura, ¿contempla la Constitución la posibilidad de que se presenten mociones alternativas?",
+    "options": [
+      "Ninguna de las respuestas es correcta.",
+      "No.",
+      "Sí, en cualquier momento antes de la votación.",
+      "Sí, pero sólo durante los 2 primeros días del plazo para su votación."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "En virtud de lo comprendido en el artículo 113 de la Constitución, ¿qué les sucederá a los signatarios de una moción de censura en caso de no ser aprobada?:",
+    "options": [
+      "No podrán presentar otra en un tiempo inferior a 3 meses.",
+      "Deberán presentarán la dimisión.",
+      "Los mismos no podrán presentar otra durante el mismo período de sesiones.",
+      "Estos no podrán presentar otra en ningún otro momento de la legislatura."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 113"],
+    "question": "El artículo 113 de la CE, determina que para que sea válida una moción de censura, debe incluir:",
+    "options": [
+      "El programa político del nuevo Gobierno.",
+      "Un candidato a la Presidencia del Gobierno.",
+      "Al menos, 50 firmas entre Diputados y Senadores.",
+      "Una manifestación de política general."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

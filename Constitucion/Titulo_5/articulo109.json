@@ -1,0 +1,77 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 109"],
+    "question": "De conformidad con el artículo 109 de la Constitución, las Cámaras y sus Comisiones podrán recabar, a través de los Presidentes de aquéllas, la información y ayuda que precisen:",
+    "options": [
+      "Sólo del Gobierno y de sus Departamentos.",
+      "Exclusivamente del Gobierno y de las Comunidades Autónomas.",
+      "Del Gobierno y de sus Departamentos y de cualesquiera autoridades del Estado y de las Comunidades Autónomas.",
+      "Exclusivamente de las autoridades del Estado y de las Comunidades Autónomas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 109"],
+    "question": "En virtud del artículo 109 de la Constitución Española, ¿Qué órganos del Poder Legislativo podrán recabar la información y ayuda que precisen del Gobierno y de sus Departamentos?",
+    "options": [
+      "Sólo el Congreso de los Diputados",
+      "Solamente el Senado",
+      "Las Cámaras y sus Comisiones",
+      "Las Cortes Generales y las Asambleas Legislativas de las Comunidades Autónomas, exclusivamente"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 109"],
+    "question": "En virtud del artículo 109 de la Constitución Española, las Cámaras y sus Comisiones podrán recabar la información y ayuda que precisen del Gobierno y de sus Departamentos a través de",
+    "options": [
+      "El Presidente del Gobierno",
+      "Los Presidentes de las Cámaras",
+      "El Ministro de Relaciones con las Cortes y de la Secretaría de Gobierno",
+      "El Presidente de las Cortes Generales"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 109"],
+    "question": "Respecto a la posibilidad de que el Senado reclame la información que necesita del Gobierno recogida en el artículo 109, ¿a través de quién deberá hacerlo, según la Constitución?",
+    "options": [
+      "Por medio de su Diputación permanente.",
+      "Por medio del Presidente del Congreso, exclusivamente.",
+      "Por medio del Presidente del Senado.",
+      "Por medio del Presidente de las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 109"],
+    "question": "En virtud del artículo 109 de la Constitución Española, ¿Podrán las Cámaras y sus Comisiones recabar información y ayuda de cualesquiera autoridades de las Comunidades Autónomas?",
+    "options": [
+      "No, sólo podrán recabarla de las autoridades del Estado.",
+      "Sí, al igual que de las del Estado.",
+      "Sólo de las de aquellas Comunidades Autónomas que tengan Asamblea Legislativa.",
+      "Unicamente de los Presidentes y de los Consejos Gobierno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 109"],
+    "question": "¿Contempla el artículo 109 de la Constitución la posibilidad de que las Cámaras legislativas puedan recabar la ayuda que precisen de las autoridades de las Comunidades Autónomas?:",
+    "options": [
+      "Sí.",
+      "La Constitución no contempla nada al respecto.",
+      "No, salvo que una ley así lo determine.",
+      "No, pero sí viene recogido en los Estatutos autonómicos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 109"]
+  }
+]

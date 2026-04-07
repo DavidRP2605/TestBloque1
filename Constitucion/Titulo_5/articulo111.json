@@ -1,0 +1,77 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 111"],
+    "question": "De acuerdo con el artículo 111.1 de la Constitución Española, una de las siguientes afirmaciones es cierta:",
+    "options": [
+      "Las interpelaciones son realizadas por las Cámaras y las preguntas por las Comisiones, tanto al Gobierno como a cada uno de sus miembros.",
+      "Sólo el Presidente del Gobierno está sometido a las interpelaciones y preguntas que se le formulen en las Cámaras.",
+      "Las interpelaciones y preguntas al Gobierno y a cada uno de sus miembros se formularán por las Cámaras y por sus Comisiones.",
+      "El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 111"],
+    "question": "De conformidad con el artículo 111.1 de la Constitución, el Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debate los Reglamentos establecerán:",
+    "options": [
+      "Un tiempo mínimo mensual.",
+      "Un tiempo máximo mensual.",
+      "Un tiempo mínimo semanal.",
+      "Un tiempo máximo semanal."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 111"],
+    "question": "Según el artículo 111.2 de la Constitución Española, una de las siguientes afirmaciones es cierta:",
+    "options": [
+      "Toda moción podrá dar lugar a una interpelación en la que la Cámara manifieste su posición.",
+      "Toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición.",
+      "Toda pregunta podrá dar lugar a una interpelación en la que la Cámara manifieste su oposición.",
+      "Toda pregunta podrá dar lugar a una moción en la que la Cámara manifieste su posición."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 111"],
+    "question": "Según el artículo 111.1 de la Constitución Española, el sometimiento a las interpelaciones y preguntas que se le formulen en las cámaras afecta",
+    "options": [
+      "Al Presidente del Gobierno, exclusivamente",
+      "Exclusivamente al Gobierno en su conjunto",
+      "Al Gobierno y a cada uno de sus miembros",
+      "Al Gobierno, a las autoridades administrativas y a los funcionarios de las distintas Administraciones Públicas"
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 111"],
+    "question": "De conformidad con el artículo 111.2 de la Constitución Española, toda interpelación podrá dar lugar a",
+    "options": [
+      "Una censura",
+      "Una moción",
+      "Una reprobación",
+      "Una revocación"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 111"],
+    "question": "¿Contempla el artículo 111 de la Constitución, la posibilidad de que todas las interpelaciones al Gobierno puedan dar lugar a una moción en la que la Cámara manifieste su posición?:",
+    "options": [
+      "Sólo cuando la interpelación la haya formulado el Congreso.",
+      "Sí.",
+      "No.",
+      "Sólo cuando se dirige al presidente del Gobierno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 111"]
+  }
+]

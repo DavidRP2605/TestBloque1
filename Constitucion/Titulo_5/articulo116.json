@@ -1,0 +1,435 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "El estado de sitio, según la Constitución española de 1978, será declarado por:   (examen)",
+    "options": [
+      "La mayoría simple del Congreso de los Diputados, a propuesta exclusiva del Gobierno.",
+      "La mayoría absoluta del Senado, a propuesta exclusiva del Rey.",
+      "La mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Rey.",
+      "La mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "¿Quien y bajo que requisito declara el estado de excepción?",
+    "options": [
+      "Las Cortes Generales, a propuesta del Gobierno.",
+      "El Rey, a propuesta del Presidente del Gobierno.",
+      "El Gobierno, dando cuenta posteriormente al Congreso.",
+      "El Gobierno, previa autorizacion del Congreso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Según el artículo 116.2 de la Constitución, el estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta:",
+    "options": [
+      "Al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo.",
+      "Al Rey, sin cuya autorización no podrá ser prorrogado dicho plazo.",
+      "Al Consejo de Ministros, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo.",
+      "Al Congreso de los Diputados, siendo improrrogable dicho plazo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De conformidad con el artículo 116.6 de la Constitución, la declaración de los estados de alarma, de excepción y de sitio:",
+    "options": [
+      "No modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.",
+      "Modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.",
+      "Modificarán el principio de responsabilidad del Gobierno pero no el de sus agentes reconocidos en la Constitución y en las leyes.",
+      "No modificarán el principio de responsabilidad del Gobierno pero sí el de sus agentes reconocidos en la Constitución y en las leyes."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo con el artículo 116.4 de la Constitución, el ámbito territorial, duración y condiciones del estado de sitio, serán determinados por:",
+    "options": [
+      "Las Cortes Generales.",
+      "El Congreso.",
+      "El Rey.",
+      "El Gobierno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De conformidad con el artículo 116.5 de la Constitución, mientras estén declarados algunos de los estados de alarma, excepción o de sitio:",
+    "options": [
+      "Sólo es posible disolver el Congreso en los casos previstos constitucionalmente.",
+      "No podrá procederse a la disolución del Congreso.",
+      "Podrá procederse a la disolución del Congreso sólo estando vigente el estado de alarma pero no cuando estén declarados los estados de excepción o el de sitio.",
+      "Sólo es posible disolver el Congreso cuando el ámbito territorial del estado declarado no sea superior a una Comunidad Autónoma."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De conformidad con el artículo 116.5 de la Constitución Española, no podrá procederse a la disolución del Congreso mientras estén declarados algunos de los estados de alarma, excepción o de sitio, quedando:",
+    "options": [
+      "Automáticamente convocada la Diputación Permanente si no estuvieren en período de sesiones.",
+      "Automáticamente convocadas las Cámaras si no estuvieren en período de sesiones.",
+      "Automáticamente convocada la Diputación Permanente si estuvieren en período de sesiones.",
+      "Automáticamente convocadas las Cámaras si estuvieren en período de sesiones."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "En virtud del artículo 116.5 de la Constitución, disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a cualquiera de los estados de alarma, excepción o sitio:",
+    "options": [
+      "Las competencias del Congreso serán asumidas por el Gobierno de la Nación.",
+      "Quedarán automáticamente convocadas las Cámaras si estuvieren en período de sesiones.",
+      "Las competencias del Congreso serán asumidas por su Diputación Permanente.",
+      "Su funcionamiento, así como el de los demás poderes constitucionales del Estado, podrán interrumpirse durante la vigencia de estos estados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo con el artículo 116.3 de la Constitución, el estado de excepción:",
+    "options": [
+      "Será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización de las Cortes Generales.",
+      "Será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno.",
+      "Será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados.",
+      "Será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, dando cuenta al Congreso de los Diputados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo con el artículo 116.2 de la Constitución, el estado de alarma:",
+    "options": [
+      "Será declarado por el Presidente del Gobierno previa deliberación del Consejo de Ministros.",
+      "Será declarado por las Cortes Generales, mediante Ley Orgánica, por un plazo máximo de quince días.",
+      "Será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días.",
+      "Será declarado por el Rey, a instancia del Gobierno tras decreto acordado en Consejo de Ministros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "En relación con el artículo 116.2 de la Constitución, el estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo. El decreto determinará:",
+    "options": [
+      "El ámbito territorial a que se extienden los efectos de la declaración.",
+      "El ámbito territorial a que se extiende y su duración.",
+      "El ámbito territorial, duración y condiciones.",
+      "La duración y condiciones."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De conformidad con el artículo 116.3 de la Constitución, la autorización y proclamación del estado de excepción deberá determinar expresamente:",
+    "options": [
+      "Su ámbito territorial, duración y condiciones.",
+      "Los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de quince días, prorrogables por otro plazo igual, con los mismos requisitos.",
+      "El ámbito territorial a que se extienden los efectos de la declaración.",
+      "Los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de treinta días, prorrogables por otro plazo igual, con los mismos requisitos."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Según el artículo 116 de la Constitución Española, no requiere previa autorización del Congreso de los Diputados la declaración del estado de:",
+    "options": [
+      "Alarma.",
+      "Excepción.",
+      "Sitio.",
+      "Ni el estado de alarma ni el estado sitio."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo con el artículo 116.4 de la Constitución Española, el plazo máximo de duración del estado de sitio:",
+    "options": [
+      "Será de treinta días.",
+      "Será de quince días.",
+      "Se determinará por el Congreso.",
+      "Será de seis meses."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "En relación con el artículo 116.1 de la Constitución, los estados de alarma, de excepción y de sitio, y las competencias y limitaciones correspondientes:",
+    "options": [
+      "Se regulará por ley ordinaria.",
+      "Se regulará por ley orgánica.",
+      "Se regulará mediante decreto acordado en Consejo de Ministros.",
+      "Se regulará por los Reglamentos de las Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo con el artículo 116 de la Constitución Española, en relación a la regulación de los estados de alarma, excepción y sitio, indique la respuesta correcta:",
+    "options": [
+      "El estado de alarma será declarado mediante decreto del Consejo de Ministros por un plazo máximo de quince días, dando cuenta a las Cortes Generales, reunidas al efecto.",
+      "El estado de excepción será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados.",
+      "El estado de sitio será declarado por el Gobierno, a propuesta de la mayoría del Congreso de los Diputados, que determinará su ámbito territorial, duración y condiciones.",
+      "Los estados de alarma, excepción y sitio serán declarados por decreto del Gobierno previa autorización del Congreso de los Diputados, dando cuenta al Senado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De conformidad con el artículo 116 de la Constitución Española, ¿La autorización y proclamación de qué estado, deberá determinar expresamente los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de treinta días prorrogables por otro plazo igual, con los mismos requisitos?",
+    "options": [
+      "Del estado de sitio.",
+      "Del estado de excepción.",
+      "Del estado de alarma.",
+      "Del estado de alarma y del estado de sitio."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De conformidad con el artículo 116.2 de la Constitución Española, el estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo",
+    "options": [
+      "Mínimo de diez días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo",
+      "Máximo de quince días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo",
+      "Mínimo de veinte días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo",
+      "Mínimo de quince días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo"
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Según el artículo 116.4 de la Constitución Española, el estado de sitio será declarado, a propuesta exclusiva del Gobierno por",
+    "options": [
+      "La mayoría simple del Congreso de los Diputados",
+      "La mayoría absoluta del Senado",
+      "El Gobierno mediante decreto acordado en el Consejo de Ministros",
+      "La mayoría absoluta del Congreso de los Diputados"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo al artículo 116 de la Constitución, ¿mediante qué disposición normativa podrá el Gobierno declarar el estado de alarma?",
+    "options": ["Reglamento.", "Ley Orgánica.", "Ley Ordinaria.", "Decreto."],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "¿Podrá ser prorrogado el plazo máximo de duración del estado de alarma establecido en el artículo 116.2 de la Constitución?",
+    "options": [
+      "Siempre que el Gobierno lo estime necesario.",
+      "Solo con la autorización de las Cortes Generales por mayoría absoluta de cada una de las Cámaras.",
+      "Sólo con la autorización del Congreso de los Diputados.",
+      "No, en ningún caso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Según el artículo 116.6 de la Constitución Española, ¿En qué forma modificarán los estados de alarma, excepción o sitio el principio de responsabilidad del Gobierno reconocido en la Constitución y las leyes?",
+    "options": [
+      "No lo modificarán.",
+      "El Gobierno no responderá políticamente ante Congreso.",
+      "El Gobierno podrá dictar reglamentos excepcionales sujetos al control de los Tribunales.",
+      "Los miembros del Gobierno no podrán incurrir responsabilidad penal durante la vigencia de los mencionados estados."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Según el artículo 116.4 de la Constitución Española, ¿Qué duración máxima fija la Constitución para el estado de sitio?",
+    "options": [
+      "Quince días.",
+      "Treinta días.",
+      "Dos meses.",
+      "No fija plazo máximo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo a lo estipulado en el artículo 116 de la Constitución, ¿qué ocurre con las Cámaras al ser declarado un estado de sitio sin estar en período de sesiones?:",
+    "options": [
+      "Se disuelven automáticamente.",
+      "Quedan convocadas automáticamente.",
+      "Asumen las funciones de éstas las Diputaciones permanentes.",
+      "Asume las funciones de éstas el Gobierno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Respecto a la duración del estado de alarma contemplada en el artículo 116 de la Constitución, señale la respuesta correcta:",
+    "options": [
+      "No podrá ser prorrogado.",
+      "Sí podrá ser prorrogado, en cualquier caso.",
+      "Sí podrá ser prorrogado, con la autorización del Congreso.",
+      "Sí podrá ser prorrogado, con la autorización de las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Conforme al artículo 116.5 de la Constitución Española, si se declarare alguno de los estados de alarma, excepción o sitio, no estando las Cámaras en periodo de sesiones:",
+    "options": [
+      "Sus competencias serán asumidas por las respectivas Diputaciones Permanentes, hasta el comienzo de un nuevo periodo ordinario de sesiones.",
+      "Sus competencias serán asumidas por los respectivos Presidentes, hasta el comienzo del siguiente periodo ordinario de sesiones.",
+      "Sus competencias serán asumidas por la Diputación Permanente del Congreso hasta la terminación del estado declarado.",
+      "Quedarán automáticamente convocadas las Cámaras."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo con el artículo 116.2 de la Constitución Española, ¿A qué ámbito territorial se extenderán los efectos del estado de alarma?",
+    "options": [
+      "A todo el territorio nacional, en todos los casos.",
+      "A una Comunidad Autónoma, como máximo.",
+      "A una provincia, como máximo.",
+      "Al que se determine en el decreto de declaración."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "El artículo 116 de la Constitución determina que el estado de excepción tendrá una duración máxima de:",
+    "options": [
+      "Según lo determinado por las Cortes Generales.",
+      "30 días.",
+      "Un mes.",
+      "20 días."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Respecto al tiempo máximo puede durar un estado de alarma, el artículo 116 de la Constitución determina que será de:",
+    "options": ["10 días.", "15 días.", "30 días.", "Siete días."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "En virtud de lo dispuesto en el artículo 116 la Constitución, ¿cuál de los siguientes estados no puede ser declarado por el Gobierno?:",
+    "options": [
+      "Todos pueden ser declarado por el Gobierno.",
+      "El estado de alarma.",
+      "El estado de excepción.",
+      "El estado de sitio."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Conforme al artículo 116.3 de la Constitución Española, ¿Podrá el Gobierno prorrogar el estado de excepción?",
+    "options": [
+      "Sí, por un plazo de quince días, previa autorización las Cortes Generales.",
+      "Sí, por un plazo de treinta días, previa autorización del Congreso de los Diputados.",
+      "Sí, por un plazo de quince días, dando inmediata cuenta al Congreso de los Diputados.",
+      "No, la prórroga del estado de excepción es competencia al Congreso de los Diputados."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "En virtud de lo dispuesto en el artículo 116 de la Constitución, ¿por quién y cómo podrá ser declarado el estado de sitio?:",
+    "options": [
+      "El órgano facultado es el Gobierno a través de Decreto legislativo.",
+      "El órgano facultado es el Gobierno, mediante decreto acordado por el Consejo de Ministros.",
+      "El órgano facultado es el Gobierno, mediante decreto acordado por el Consejo de Estado.",
+      "El órgano facultado es el Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "De acuerdo a lo previsto en el artículo 116 de la Constitución, ¿qué deberá recoger expresamente la autorización y proclamación del estado de excepción?:",
+    "options": [
+      "Sus efectos del mismo.",
+      "La duración.",
+      "El ámbito territorial al que se extiende.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "En virtud del artículo 116.5 de la Constitución, ¿qué sucedería si, estando disuelto el Congreso, se declarara un estado de excepción?:",
+    "options": [
+      "Se convocan elecciones automáticamente.",
+      "Se convocarían las Cámaras automáticamente.",
+      "Las competencias del Congreso serían asumidas por la Diputación permanente.",
+      "Las competencias del Congreso serían asumidas por el Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "Respecto a la posibilidad de disolver el Congreso, el artículo 116 de la Constitución determina que no se podrá realizar en el siguiente supuesto:",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "En el estado de alarma.",
+      "En el estado de sitio.",
+      "En el estado de excepción."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 116"],
+    "question": "¿Contempla el artículo 116 de la Constitución la posibilidad de que el funcionamiento del Congreso pueda ser interrumpido durante el estado de alarma?:",
+    "options": [
+      "Sí, aunque no disuelto.",
+      "Sí y también disuelto.",
+      "No.",
+      "Sí, con la previa autorización de las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "question": "El artículo 116 de la Constitución determina respecto a la declaración del estado de sitio, que:",
+    "options": [
+      "No podrá suspender derechos.",
+      "No modificará el principio de responsabilidad del Gobierno.",
+      "No podrá suspender derechos de forma individual.",
+      "Modificará el principio de responsabilidad del Gobierno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

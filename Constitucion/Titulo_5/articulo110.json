@@ -1,0 +1,80 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 110"],
+    "question": "De acuerdo con el artículo 110.2 de la Constitución, los miembros del Gobierno:",
+    "options": [
+      "Podrán solicitar que informen ante las Cámaras y sus Comisiones funcionarios de sus Departamentos.",
+      "No tienen facultad para hacerse oír en las Cámaras ni en sus Comisiones.",
+      "Tienen acceso limitado a las sesiones de las Cámaras y a sus Comisiones.",
+      "Tienen acceso a las sesiones de las Cámaras y sus Comisiones pero no tienen la facultad de hacerse oír en ellas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 110"],
+    "question": "De conformidad con el artículo 110.1 de la Constitución, la presencia de los miembros del Gobierno:",
+    "options": [
+      "Sólo podrá ser reclamada por sus Comisiones.",
+      "Podrá ser reclamada tanto por el Presidente de cada Cámara como por los Presidentes de las Comisiones.",
+      "Podrá ser reclamada tanto por las Cámaras como por sus Comisiones.",
+      "Sólo podrá ser reclamada por las Cámaras."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 110"],
+    "question": "De conformidad con el artículo 110.2 de la Constitución Española, ¿Tienen los miembros del Gobierno acceso a las sesiones de las Cámaras y a sus Comisiones?",
+    "options": [
+      "Sí, así como la facultad de hacerse oír en ellas",
+      "Sí, pero no la facultad de hacerse oír en ellas",
+      "Sólo cuando su presencia sea reclamada expresamente por los citados órganos",
+      "Únicamente a las sesiones plenarias de las Cámaras"
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 110"],
+    "question": "De acuerdo con lo dispuesto en el artículo 110 la Constitución, ¿cuál de los siguientes órganos puede reclamar la presencia de los miembros del Gobierno?",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "El Senado.",
+      "El Congreso.",
+      "Las Comisiones del Congreso y el Senado."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 110"],
+    "question": "Según lo dispuesto en el artículo 110 la Constitución, ¿quién puede reclamar la presencia de los miembros del Gobierno?",
+    "options": [
+      "Las Comunidades Autónomas.",
+      "Las comisiones del Congreso.",
+      "Los presidentes de las Comunidades Autónomas.",
+      "Los Ayuntamientos."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 110"],
+    "question": "De acuerdo con el artículo 110.2 de la Constitución Española, ¿Podrán los miembros del Gobierno solicitar que informen funcionarios de sus Departamentos ante las Cámaras y sus Comisiones?",
+    "options": [
+      "No, los funcionarios sólo podrán informar a iniciativa de las Cámaras.",
+      "No, sólo podrán informar ante las Cámaras y sus Comisiones los Ministros y Secretarios de Estado.",
+      "No, los funcionarios sólo podrán informar ante las Comisiones, en tanto que los Ministros lo harán ante las Cámaras.",
+      "Sí, en cualquier caso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 110"]
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 110"]
+  }
+]

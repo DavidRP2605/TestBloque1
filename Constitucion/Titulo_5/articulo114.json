@@ -1,0 +1,113 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "Según el artículo 114.1 de la Constitución, si el Congreso niega su confianza al Gobierno:",
+    "options": [
+      "El Gobierno presentará su dimisión ante el Congreso de los Diputados, procediéndose a continuación a la designación del Presidente del Gobierno, según lo dispuesto en el artículo 99.",
+      "El Gobierno presentará su dimisión ante las Cortes Generales, procediéndose a continuación a la designación del Presidente del Gobierno, según lo dispuesto en el artículo 99.",
+      "El Gobierno presentará su dimisión al Rey, procediéndose a continuación a la designación del Presidente del Gobierno, según lo dispuesto en el artículo 99.",
+      "El Presidente del Gobierno presentará su dimisión ante las Cortes Generales, procediéndose a continuación a la designación del Presidente del Gobierno, según lo dispuesto en el artículo 99."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "Según el artículo 114.2 de la Constitución, se entiende investido de la confianza un candidato a Presidente del Gobierno en el supuesto de que prospere:",
+    "options": [
+      "Una moción de censura.",
+      "Cualquier moción presentada en las Cortes Generales contra el Gobierno.",
+      "Una interpelación al efecto.",
+      "Una cuestión de confianza planteada."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "Atendiendo al artículo 114.2 de la Constitución, si el Congreso adopta una moción de censura:",
+    "options": [
+      "El Presidente del Gobierno presentará su dimisión a las Cortes Generales y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara. El Rey le nombrará Presidente del Gobierno.",
+      "El Presidente del Gobierno presentará su dimisión al Rey y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara. El Rey le nombrará Presidente del Gobierno.",
+      "El Gobierno presentará su dimisión al Rey y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara. El Rey le nombrará Presidente del Gobierno.",
+      "El Gobierno presentará su dimisión a las Cortes Generales y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara. El Rey le nombrará Presidente del Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "Según el artículo 114.1 de la Constitución, ¿A quién debe presentar el Gobierno su dimisión, en el supuesto de que no obtenga la mayoría necesaria en una votación de cuestión de confianza?",
+    "options": [
+      "Al Consejo de Ministros.",
+      "A las Cortes Generales.",
+      "Al Rey.",
+      "Al Congreso de los Diputados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "Según lo contemplado en el artículo 114 de la Constitución, ¿qué ocurriría si el Senado niega su confianza al Presidente del Gobierno en una cuestión de confianza?",
+    "options": [
+      "Que éste debe presentar una propuesta de disolución.",
+      "Que éste debe presentar su dimisión.",
+      "No ocurriría nada.",
+      "Que se aprueba la moción de censura."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "Según el artículo 114 de la Constitución Española, si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión y:",
+    "options": [
+      "El Rey propondrá un candidato a la presidencia del Gobierno, según lo dispuesto en el artículo 99 de la Constitución.",
+      "El Rey disolverá ambas Cámaras y convocará elecciones generales, con el refrendo del Presidente del Congreso.",
+      "El Rey nombrará Presidente del Gobierno al candidato incluido en la moción de censura, una vez que el Congreso le otorgue su confianza en la votación de investidura.",
+      "El Rey nombrará Presidente del Gobierno el candidato incluido en la moción de censura, que se entenderá investido de la confianza del Congreso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "De conformidad con el artículo 114 de la Constitución Española, ¿Cuál será el procedimiento para la designación de un nuevo Presidente de Gobierno, tras la negación por el Congreso de la confianza solicitada por el Gobierno?",
+    "options": [
+      "El Rey nombrará Presidente al candidato incluido en la cuestión de confianza.",
+      "El Rey propondrá un candidato, conforme al procedimiento establecido en el artículo 99.",
+      "Se nombrará Presidente al Vicepresidente del Gobierno.",
+      "El Presidente del Congreso propondrá un candidato."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "Según el artículo 114 de la Constitución Española, ¿Deberá el Gobierno presentar su dimisión al Rey en los casos de pérdida de la confianza parlamentaria o de adopción de una moción de censura por el Congreso?",
+    "options": [
+      "Sí, en ambos casos.",
+      "Sólo en el supuesto de que el Congreso adopte una moción de censura.",
+      "Sólo en caso de que no obtenga del Congreso la confianza solicitada.",
+      "No, en ninguno de los supuestos citados."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"],
+    "question": "De acuerdo con el artículo 114 de la Constitución Española, si el Congreso niega su confianza al Gobierno:",
+    "options": [
+      "Se disolverán ambas Cámaras.",
+      "Se procederá a la disolución del Congreso.",
+      "Se designará Presidente al candidato incluido en la cuestión de confianza.",
+      "Todas las respuestas son falsas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 114"]
+  }
+]

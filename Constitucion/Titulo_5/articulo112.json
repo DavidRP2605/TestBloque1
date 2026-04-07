@@ -1,0 +1,89 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 112"],
+    "question": "De conformidad con el artículo 112 de la Constitución, el Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma:",
+    "options": [
+      "La mayoría de dos tercios de los Diputados.",
+      "La mayoría simple de los Diputados.",
+      "La mayoría absoluta de los Diputados.",
+      "La mayoría de tres quintos de los Diputados."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 112"],
+    "question": "De conformidad con el artículo 112 de la Constitución Española ¿Quién puede plantear la cuestión de confianza?:",
+    "options": [
+      "El Gobierno.",
+      "El Congreso de los Diputados.",
+      "El Rey.",
+      "El Presidente del Gobierno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 112"],
+    "question": "De acuerdo con el artículo 112 de la Constitución Española, la cuestión de confianza (señale la correcta):",
+    "options": [
+      "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante las Cortes Generales la cuestión de confianza sobre su programa o sobre una declaración de política general.",
+      "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría absoluta de los miembros del Congreso de los Diputados.",
+      "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general.",
+      "La confianza se entenderá otorgada cuando vote a favor de la misma una cuarta parte de los miembros del Congreso de los Diputados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 112"],
+    "question": "De acuerdo con el artículo 112 de la Constitución, ¿Cuál de los siguientes trámites es necesario realizar antes de plantear una cuestión de confianza?",
+    "options": [
+      "Deliberación del Presidente del Gobierno.",
+      "Deliberación del Consejo de Ministros.",
+      "Comunicación al Congreso de los Diputados.",
+      "Comunicación a las Cortes Generales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 112"],
+    "question": "De acuerdo con el artículo 112 de la Constitución Española, el Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. ¿Cuándo se entenderá otorgada la confianza?",
+    "options": [
+      "Cuando vote a favor de la misma tres quintos de los Diputados.",
+      "Cuando vote a favor de la misma la mayoría absoluta de los Diputados.",
+      "Cuando vote a favor de la misma la mayoría simple de los Diputados.",
+      "Cuando vote a favor de la misma dos tercios de los Diputados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 112"],
+    "question": "De conformidad con el artículo 112 de la Constitución Española, ¿Ante quién puede plantearse la cuestión de confianza?",
+    "options": [
+      "Ante el Congreso de los Diputados.",
+      "Ante cualquiera de las Cámaras.",
+      "Ante las Cortes Generales.",
+      "Ante el pueblo, mediante referéndum."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 112"],
+    "question": "En virtud del artículo 112 de la Constitución, ¿de qué órgano necesitará la previa deliberación el Presidente del Gobierno antes de plantear una cuestión de confianza ante el Congreso?:",
+    "options": [
+      "Del Senado.",
+      "Del Consejo de Estado.",
+      "Del Consejo de Ministros.",
+      "De las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 112"]
+  }
+]

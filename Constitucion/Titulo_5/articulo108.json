@@ -1,0 +1,50 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 108"],
+    "question": "Según la Constitución Española, el Gobierno responde solidariamente en su gestión política ante:",
+    "options": [
+      "Las Cámaras y sus Comisiones.",
+      "El Rey.",
+      "El Senado.",
+      "El Congreso de los Diputados."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 108"],
+    "question": "¿De qué manera responde el Gobierno en su gestión política según el artículo 108?",
+    "options": [
+      "Francamente.",
+      "Solidariamente.",
+      "Seriamente.",
+      "Rapidamente."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 108"],
+    "question": "De acuerdo con el artículo 108 de la Constitución, el Gobierno responde:",
+    "options": [
+      "Subsidiariamente en su gestión política ante el Congreso de los Diputados.",
+      "Solidariamente en su gestión política ante las Cortes Generales.",
+      "Solidariamente en su gestión política ante el Congreso de los Diputados.",
+      "Subsidiariamente en su gestión política ante las Cortes Generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 108"],
+    "question": "Según lo establecido en la Constitución, ¿qué afirmación es cierta en cuanto a la gestión política del Gobierno?:",
+    "options": [
+      "Este responderá solidariamente.",
+      "El Congreso de los Diputados puede exigirla mediante la moción de censura.",
+      "Responde ante el Congreso de los Diputados.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

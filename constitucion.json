@@ -666,12 +666,76 @@
   {
     "titulos": ["Bloque 1", "General", "Titulo 4"],
     "question": "¿En qué artículo de la Constitución viene recogida la composición del Gobierno?",
-    "options": ["Artículo 99.", "Artículo 98.", "Artículo 97.", "Artículo 102."],
+    "options": [
+      "Artículo 99.",
+      "Artículo 98.",
+      "Artículo 97.",
+      "Artículo 102."
+    ],
     "answer": 1,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General", "Titulo 5"]
+    "titulos": ["Bloque 1", "General", "Titulo 5"],
+    "question": "¿En qué Título de la Constitución Española se regulan las relaciones entre el Gobierno y las Cortes Generales?:",
+    "options": [
+      "En el Título III",
+      "En el Título VII",
+      "En el Título IV",
+      "En el Título V"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "Titulo 5"],
+    "question": "De acuerdo con la Constitución Española, ¿En cuál de las siguientes decisiones no interviene el Senado?",
+    "options": [
+      "En el nombramiento del Regente.",
+      "En la aprobación de los Presupuestos Generales del Estado.",
+      "En la aprobación de leyes orgánicas.",
+      "En la adopción de una moción de censura."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "Titulo 5"],
+    "question": "Dentro de la Constitución, ¿en qué artículo viene regulada la figura de la cuestión de confianza?:",
+    "options": ["Art. 114.", "Art. 115.", "Art. 112.", "Art. 110."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "Titulo 5"],
+    "question": "Dentro de la Constitución, ¿en qué artículo viene regulados los estados de alarma, excepción y sitio?:",
+    "options": ["Art. 116", "Art. 115", "Art. 114", "Art. 113"],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "Titulo 5"],
+    "question": "De acuerdo con lo establecido en la Constitución, ¿en qué supuestos no podrán disolverse las Cámaras?:",
+    "options": [
+      "Cuando se haya declarado el estado de alarma, sitio o excepción.",
+      "Cuando esté en trámite una moción de censura.",
+      "Cuando no haya transcurrido un año desde la anterior disolución, salvo lo dispuesto en el artículo 99, apartado 5.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "Titulo 5"],
+    "question": "¿En qué casos es necesaria la autorización del Congreso según lo estipulado en la Constitución?:",
+    "options": [
+      "Para obligar al Estado por medio de tratados políticos.",
+      "Para declarar el estado de excepción.",
+      "Para prorrogar el estado de alarma.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
   },
   {
     "titulos": ["Bloque 1", "General"]

@@ -1,0 +1,158 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "Según el artículo 115.1 de la Constitución, el Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será decretada:",
+    "options": [
+      "Por el Presidente del Gobierno. El decreto de disolución fijará la fecha de las elecciones.",
+      "Por el Presidente del Congreso. El decreto de disolución fijará la fecha de las elecciones.",
+      "Por el Rey. El decreto de disolución fijará la fecha de las elecciones.",
+      "Por el Gobierno de la Nación. El decreto de disolución fijará la fecha de las elecciones."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "De conformidad con el artículo 115.1 de la Constitución, el Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será decretada por el Rey. El decreto de la disolución fijará:",
+    "options": [
+      "El compromiso de convocar elecciones en un plazo máximo de sesenta días.",
+      "El compromiso de convocar elecciones en un plazo máximo de dos meses.",
+      "La fecha de las elecciones.",
+      "El compromiso de convocar elecciones en un plazo máximo de veinticinco días."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "De conformidad con el artículo 115.2 de la Constitución Española, la propuesta de disolución del Congreso, del Senado o de las Cortes Generales:",
+    "options": [
+      "Podrá presentarse en cualquier momento de la legislatura.",
+      "No podrá presentarse cuando esté en trámite una cuestión de confianza.",
+      "No podrá presentarse cuando esté en trámite una interpelación de las que den lugar a una moción.",
+      "No podrá presentarse cuando esté en trámite una moción de censura."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "Según el artículo 115.2 de la Constitución Española, en caso de que se efectúe una propuesta de disolución anticipada de las Cortes Generales, estando en trámite una moción de censura:",
+    "options": [
+      "No podrá presentarse dicha propuesta.",
+      "Se entenderá desestimada dicha propuesta.",
+      "Se acordará la disolución cuando se concluya la moción.",
+      "Podrá presentarse dicha propuesta."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "Según el artículo 115.1 de la Constitución Española, el Presidente del Gobierno:",
+    "options": [
+      "Previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será dictada por el Rey.",
+      "Previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será autorizada por el Rey.",
+      "Previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será sancionada por el Rey.",
+      "Previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será decretada por el Rey."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "De acuerdo con lo establecido en el artículo 115 de la Constitución, el Presidente de Gobierno podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales:",
+    "options": [
+      "Todas las respuestas son ciertas.",
+      "Incluso estando en trámite una moción de censura.",
+      "Bajo su responsabilidad.",
+      "Sin necesidad de previa deliberación del Consejo de Ministros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "Conforme al artículo 115.3 de la Constitución Española, salvo lo dispuesto en el artículo 99.5 de la Constitución no procederá nueva disolución de las Cámaras:",
+    "options": [
+      "Antes de que transcurran tres años desde la anterior.",
+      "Antes de que transcurran dos años desde la anterior.",
+      "Antes de que transcurra un año desde la anterior.",
+      "Antes de que transcurran seis meses desde la anterior."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "De acuerdo con el artículo 115 de la Constitución Española, ¿Quién podrá proponer la disolución de las Cámaras?",
+    "options": [
+      "El Presidente del Gobierno, previa autorización del Congreso de los Diputados.",
+      "Los respectivos Presidentes, previa autorización de la mayoría absoluta de cada Cámara.",
+      "El Presidente de las Cortes Generales, bajo su exclusiva responsabilidad.",
+      "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "Según el artículo 115 de la Constitución Española, ¿Será posible la disolución de una sola de las Cámaras?",
+    "options": [
+      "Sí, podrán disolverse el Congreso, el Senado o las Cortes Generales.",
+      "No, sólo podrán disolverse las Cortes Generales.",
+      "Sólo podrá disolverse por separado el Congreso de los Diputados.",
+      "Sólo podrá disolverse el Senado."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "En virtud del artículo 115 de la Constitución Española, en caso de disolución de las Cámaras, las elecciones se celebrarán:",
+    "options": [
+      "En la fecha que fije el decreto de disolución.",
+      "Veinticinco días después de la fecha de disolución.",
+      "Entre los treinta días y los cincuenta días desde la fecha de disolución.",
+      "En la fecha que determine la Diputación Permanente del Congreso de los Diputados."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "¿Determina la Constitución la necesidad de la previa deliberación de algún órgano antes de que el Presidente del Gobierno pueda proponer la disolución del Congreso?:",
+    "options": [
+      "No, aunque la Comisión Mixta de las Cortes Generales se pronunciará al respecto.",
+      "Sí, del Consejo de Estado.",
+      "No, aunque la Diputación Permanente del Congreso emitirá un informe.",
+      "Sí, del Consejo de Ministros."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "En virtud de lo comprendido en el artículo 115 de la Constitución, ¿cuál de los siguientes órganos puede proponer la disolución del Congreso?:",
+    "options": [
+      "El Consejo de Ministros.",
+      "El Presidente del Gobierno.",
+      "Las Cortes Generales.",
+      "El Presidente del Congreso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 5", "Capitulo 0", "Articulo 115"],
+    "question": "Según el artículo 115.1 de la CE, el decreto de disolución de las Cortes Generales deberá incluir:",
+    "options": [
+      "La responsabilidad política del Gobierno.",
+      "El nuevo candidato a Presidente de Gobierno.",
+      "La fecha de las elecciones.",
+      "Un calendario con posibles fechas para la celebración de elecciones."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]
