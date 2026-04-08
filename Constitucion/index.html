@@ -145,12 +145,7 @@
         <select id="articulo" multiple></select>
 
         <label for="testSize">Tamaño del test:</label>
-        <select id="testSize">
-          <option value="5">5</option>
-          <option value="10">10</option>
-          <option value="15" selected>15</option>
-          <option value="20">20</option>
-        </select>
+        <input type="number" id="testSize" value="15" min="1" max="100" style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box;">
         <p>Selecciona modo:</p>
         <button onclick="startQuiz('practica')">Modo Práctica 🧠</button>
         <button onclick="startQuiz('examen')">Modo Examen 📝</button>
