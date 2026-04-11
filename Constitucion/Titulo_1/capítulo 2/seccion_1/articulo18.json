@@ -39,10 +39,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
     "question": "De conformidad con el articulo 18.3 de la Constitucion, se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegraficas y telefonicas, salvo:",
     "options": [
-      "A. Resolucion judicial o administrativa.",
-      "B. Resolucion administrativa.",
-      "C. Resolucion judicial.",
-      "D. Resolucion judicial motivada."
+      "Resolucion judicial o administrativa.",
+      "Resolucion administrativa.",
+      "Resolucion judicial.",
+      "Resolucion judicial motivada."
     ],
     "answer": 2,
     "explicacion": ""
@@ -51,10 +51,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
     "question": "En relacion con el articulo 18.1 de la Constitucion Española, ¿Cual de los siguientes derechos no está garantizado?",
     "options": [
-      "A. El derecho a la intimidad familiar.",
-      "B. El derecho a la imagen publica.",
-      "C. El derecho al honor.",
-      "D. El derecho a la intimidad personal."
+      "El derecho a la intimidad familiar.",
+      "El derecho a la imagen publica.",
+      "El derecho al honor.",
+      "El derecho a la intimidad personal."
     ],
     "answer": 1,
     "explicacion": ""
@@ -63,10 +63,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
     "question": "Según el artículo 18.2 de la Constitucion Española, el domicilio es inviolable. No obstante, se podrá entrar y registrar en los casos siguientes (señale la incorrecta):",
     "options": [
-      "A. Por resolucion policial.",
-      "B. Con consentimiento del titular.",
-      "C. En caso de flagrante delito.",
-      "D. Por resolucion judicial."
+      "Por resolucion policial.",
+      "Con consentimiento del titular.",
+      "En caso de flagrante delito.",
+      "Por resolucion judicial."
     ],
     "answer": 0,
     "explicacion": ""
@@ -75,10 +75,10 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
     "question": "De acuerdo con el artículo 18.2 de la Constitucion Española, ¿En qué casos se puede proceder a la entrada en un domicilio particular?",
     "options": [
-      "A. Con el consentimiento del titular o resolucion judicial, salvo en caso de flagrante delito.",
-      "B. Con el consentimiento del titular o resolucion administrativa, salvo en caso de flagrante delito.",
-      "C. Exclusivamente con resolucion administrativa, salvo en caso de flagrante delito.",
-      "D. Exclusivamente con resolucion judicial, salvo en caso de flagrante delito."
+      "Con el consentimiento del titular o resolucion judicial, salvo en caso de flagrante delito.",
+      "Con el consentimiento del titular o resolucion administrativa, salvo en caso de flagrante delito.",
+      "Exclusivamente con resolucion administrativa, salvo en caso de flagrante delito.",
+      "Exclusivamente con resolucion judicial, salvo en caso de flagrante delito."
     ],
     "answer": 0,
     "explicacion": ""
@@ -87,12 +87,24 @@
     "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
     "question": "De conformidad con el artículo 18.4 de la Constitucion Española, con el fin de garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos, la ley:",
     "options": [
-      "A. Fomentará el uso de la informática.",
-      "B. Prohibirá el uso de la informática.",
-      "C. Limitará el uso de la informática.",
-      "D. Penalizará el uso de la informática."
+      "Fomentará el uso de la informática.",
+      "Prohibirá el uso de la informática.",
+      "Limitará el uso de la informática.",
+      "Penalizará el uso de la informática."
     ],
     "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 1", "Capitulo 2", "Articulo 18"],
+    "question": "Conforme el artículo 18.4 de la Constitución Española, la ley limitará el uso de la informática para garantizar:",
+    "options": [
+      "El derecho al honor, a la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.",
+      "El secreto de las comunicaciones y la protección de datos de carácter personal, salvo en caso de flagrante delito o resolución judicial.",
+      "La seguridad pública, la libertad de expresión, el honor de las personas en el entorno digital y el derecho a la información veraz.",
+      "El pleno ejercicio de los derechos de los ciudadanos en el entorno digital, especialmente a la protección de datos personales y el acceso universal a la información pública."
+    ],
+    "answer": 0,
     "explicacion": ""
   }
 ]

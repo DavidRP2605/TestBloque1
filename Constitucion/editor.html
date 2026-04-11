@@ -215,14 +215,15 @@
     // Abrir modal para editar pregunta
     function abrirModalEditar(i) {
       const p = preguntas[i];
-      document.getElementById("bloque").value = p.titulos[0] || "";
-      document.getElementById("titulo").value = p.titulos[1] || "";
-      if (p.titulos && p.titulos.length > 3) {
-        document.getElementById("capitulo").value = p.titulos[2] || "";
-        document.getElementById("articulo").value = p.titulos[3] || "";
+      const titulos = p.titulos || [];
+      document.getElementById("bloque").value = titulos[0] || "";
+      document.getElementById("titulo").value = titulos[1] || "";
+      if (titulos.length > 3) {
+        document.getElementById("capitulo").value = titulos[2] || "";
+        document.getElementById("articulo").value = titulos[3] || "";
       } else {
         document.getElementById("capitulo").value = "";
-        document.getElementById("articulo").value = p.titulos[2] || "";
+        document.getElementById("articulo").value = titulos[2] || "";
       }
       document.getElementById("pregunta").value = p.question;
       document.getElementById("opt1").value = p.options[0];
@@ -316,7 +317,7 @@
         card.className = "question-card";
         const iconoDificultad = p.dificultad === "facil" ? "🟢" : p.dificultad === "dificil" ? "🔴" : "🟡";
         card.innerHTML = `
-          <strong>${p.titulos.join(" > ")}</strong> ${iconoDificultad} <em>${p.dificultad || "medio"}</em><br>
+          <strong>${(p.titulos || []).join(" > ")}</strong> ${iconoDificultad} <em>${p.dificultad || "medio"}</em><br>
           ${p.question}<br>
           <em>✔️ Correcta: ${p.options[p.answer]}</em><br>
           ${p.explicacion ? `<small>💡 ${p.explicacion}</small><br>` : ""}

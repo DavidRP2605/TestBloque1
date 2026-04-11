@@ -34,5 +34,17 @@
     ],
     "answer": 1,
     "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 3", "Capitulo 2", "Articulo 83"],
+    "question": "Conforme al artículo 83 de la Constitución Española, las leyes de bases no podrán en ningúncaso::",
+    "options": [
+      "Regular sobre materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.",
+      "Contravenir mandato judicial en proceso de ejecución ni contradecir jurisdicción aplicable que pueda crear ambigüedad legislativa o inseguridad jurídica.",
+      "Modificar la autorización de la propia ley de bases.",
+      "Facultar para dictar normas con carácter retroactivo."
+    ],
+    "answer": 3,
+    "explicacion": ""
   }
 ]
