@@ -1,0 +1,50 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 165"],
+    "question": "De conformidad con el artículo 165 de la Constitución, el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones, se regulará por:",
+    "options": [
+      "Una ley orgánica.",
+      "Consta tal normativa en la propia Constitución.",
+      "Una ley de bases.",
+      "Una ley ordinaria."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 165"],
+    "question": "¿El funcionamiento de que órgano regulará una ley orgánica según el artítuclo 165 de la CE?:",
+    "options": [
+      "Tribunal Supremo.",
+      "Tribunal Constitucional.",
+      "El Ministerio de Administraciones Públicas.",
+      "Tribunal Superior de Justicia."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 165"],
+    "question": "Según el art. 165, ¿qué aspectos del Tribunal Constitucional serán regulados por ley orgánica?",
+    "options": [
+      "La demarcación territorial de sus sedes.",
+      "Su presupuesto y la relación con el Poder Judicial.",
+      "Únicamente la elección de sus magistrados.",
+      "Su funcionamiento, el estatuto de sus miembros y el procedimiento ante el mismo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 165"],
+    "question": "¿A qué condiciones de ejercicio de las acciones ante el Tribunal Constitucional se refiere el artículo 165?",
+    "options": [
+      "A las condiciones de gratuidad absoluta.",
+      "Al plazo máximo de 30 días para cualquier recurso.",
+      "A la obligatoriedad de comparecer con abogado y procurador en todos los casos.",
+      "A las condiciones para el ejercicio de las acciones ante el mismo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

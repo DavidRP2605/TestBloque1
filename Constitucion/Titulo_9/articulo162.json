@@ -1,0 +1,189 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "De conformidad con el artículo 162.2 de la Constitución, se dispuso que, exceptuando los casos de recurso de inconstitucionalidad y de recurso de amparo:",
+    "options": [
+      "La ley orgánica determinará las personas y órganos legitimados.",
+      "Las personas y órganos legitimados serán los mismos que lo están para interponer recurso de inconstitucionalidad.",
+      "Las personas y órganos legitimados serán los mismos que lo están para interponer recurso de amparo.",
+      "La ley ordinaria determinará las personas y órganos legitimados."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "De conformidad con el artículo 162.1 de la Constitución, ¿Quiénes están legitimados para interponer el recurso de inconstitucionalidad?",
+    "options": [
+      "El Presidente del Gobierno, el Ministerio Fiscal, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+      "El Presidente del Gobierno, el Defensor del Pueblo, 40 Diputados, 40 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+      "El Presidente del Gobierno, el Ministerio Fiscal, 40 Diputados, 40 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+      "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "De acuerdo con el artículo 162.2 de la Constitución, no están legitimados para interponer el recurso de amparo:",
+    "options": [
+      "Toda persona natural o jurídica que invoque interés legítimo.",
+      "El Ministerio Fiscal.",
+      "El Defensor del Pueblo.",
+      "Las Asambleas legislativas de las Comunidades Autónomas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "Según el artículo 162.1 de la Constitución, no están legitimados para interponer recurso de inconstitucionalidad:",
+    "options": [
+      "El Ministerio Fiscal.",
+      "Cincuenta Senadores.",
+      "El Presidente del Gobierno.",
+      "Los órganos colegiados ejecutivos de las Comunidades Autónomas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "De acuerdo con el artículo 162.1 de la Constitución, está legitimado para interponer el recurso de amparo:",
+    "options": [
+      "50 Diputados.",
+      "El Presidente del Gobierno.",
+      "El Defensor del Pueblo.",
+      "Los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "En virtud del artículo 162 de la Constitución Española, el número de Senadores necesario para poder interponer su recurso de inconstitucionalidad es de:",
+    "options": ["Quince.", "Treinta.", "Cuarenta.", "Cincuenta."],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "De acuerdo con el artículo 162.1 de la Constitución Española, están legitimados para interponer recurso de inconstitucionalidad:",
+    "options": [
+      "Los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+      "40 Diputados.",
+      "El Ministerio Fiscal.",
+      "Toda persona natural o jurídica que invoque un interés legítimo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "En virtud del artículo 162 de la Constitución Española, ¿Cuál de los siguientes órganos está legitimado para interponer recursos de inconstitucionalidad?",
+    "options": [
+      "El Ministerio Fiscal.",
+      "El Consejo General del Poder Judicial.",
+      "El Consejo de Estado.",
+      "El Defensor del Pueblo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "De conformidad con el artículo 162 de la Constitución Española, no estará legitimado para interponer el recurso de amparo:",
+    "options": [
+      "El Consejo de Ministros.",
+      "El Defensor del Pueblo.",
+      "El Ministerio Fiscal.",
+      "Toda persona natural o jurídica que invoque un interés legítimo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "En virtud del artículo 162 de la Constitución Española, ¿Qué recursos podrá interponer el Ministerio Fiscal ante el Tribunal Constitucional?",
+    "options": [
+      "Solamente los de inconstitucionalidad.",
+      "Solamente los de amparo.",
+      "Los de inconstitucionalidad y amparo.",
+      "Ninguno."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "De acuerdo con el artículo 162 de la Constitución Española, la Constitución faculta para interponer recursos de inconstitucionalidad:",
+    "options": [
+      "Al Gobierno.",
+      "Al Presidente del Gobierno.",
+      "A los miembros del Gobierno.",
+      "A ninguno de los anteriores."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "¿Quién de los siguientes está legitimado para interponer recurso de amparo según el artículo 162 de la Constitución?:",
+    "options": [
+      "Una persona natural o jurídica que invoque un interés legítimo.",
+      "Una persona natural con un interés legítimo.",
+      "Una persona natural o jurídica.",
+      "Una persona jurídica tenga o no un interés legítimo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "Según el artículo 162 de la Constitución, cuando una persona considere violado uno de sus derechos fundamentales, podrá interponer:",
+    "options": [
+      "Recurso contencioso-administrativo.",
+      "Una cuestión de inconstitucionalidad.",
+      "Un recurso de amparo.",
+      "Un recurso de inconstitucionalidad."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "Según el artículo 162 de la Constitución, ¿cuál de los siguientes recursos puede interponer el Defensor del Pueblo?:",
+    "options": [
+      "El recurso contencioso-administrativo y el de amparo.",
+      "El recurso de amparo.",
+      "El recurso de inconstitucionalidad.",
+      "Tanto el recurso de inconstitucionalidad como el de amparo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "Según lo contemplado en el artículo 162 de la CE, ¿está cualquier persona jurídica legitimada para interponer un recurso de inconstitucionalidad?",
+    "options": [
+      "Sí, siempre que tenga un interés legítimo.",
+      "Sí.",
+      "No, sólo pueden las personas naturales.",
+      "No están legitimadas en ningún caso."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 162"],
+    "question": "En virtud de lo comprendido en el artículo 162 de la CE, ¿puede cualquier persona natural interponer un recurso de amparo?",
+    "options": [
+      "Sí, siempre que tenga la nacionalidad española.",
+      "Sí, en cualquier caso de interés público.",
+      "No, únicamente pueden las personas jurídicas.",
+      "No, es necesario que invoque un interés legítimo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

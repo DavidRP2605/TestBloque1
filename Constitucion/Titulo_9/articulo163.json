@@ -1,0 +1,110 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "En virtud del artículo 163 de la Constitución, la cuestión de inconstitucionalidad ante el Tribunal Constitucional podrá ser planteada:",
+    "options": [
+      "Por el Ministerio Fiscal.",
+      "Por el Defensor del Pueblo.",
+      "Por la persona física o jurídica que invoque un interés legítimo.",
+      "Por un órgano judicial."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "En relación con el artículo 163 de la Constitución, para que la cuestión de inconstitucionalidad pueda ser interpuesta, será preciso que:",
+    "options": [
+      "La norma tenga rango de Ley Orgánica.",
+      "Un órgano judicial considere, en algún proceso, que una norma, sea o no aplicable al caso, pueda ser contraria a la Constitución.",
+      "Un órgano judicial considere, en algún proceso, que una norma, no aplicable al caso, pueda ser contraria a la Constitución.",
+      "De la validez de tal norma dependa el fallo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "Según el artículo 163 de la Constitución, el planteamiento de la cuestión de inconstitucionalidad ante el Tribunal Constitucional:",
+    "options": [
+      "En ningún caso producirá efectos suspensivos sobre la norma afectada.",
+      "Siempre producirá efectos suspensivos.",
+      "Sólo producirá efectos suspensivos cuando libremente lo acuerde el Tribunal Constitucional al admitir la cuestión a trámite.",
+      "Sólo producirá efectos suspensivos cuando la norma cuestionada afecte a los derechos fundamentales y libertades públicas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "De conformidad con el artículo 163 de la Constitución Española, para que la cuestión de inconstitucionalidad pueda ser interpuesta, será preciso:",
+    "options": [
+      "Que un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución.",
+      "Que cualquier órgano de la Administración del Estado considere, en algún proceso, que una norma con rango de ley orgánica, aplicable o no al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución.",
+      "Que cualquier órgano de la Administración del Estado considere, en algún proceso, que una norma con rango de ley orgánica, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución.",
+      "Que un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable o no al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "De conformidad con el artículo 163 de la Constitución Española, cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley:",
+    "options": [
+      "Que en ningún caso serán suspensivos.",
+      "Que siempre serán suspensivos.",
+      "Que sólo producirá efectos suspensivos cuando libremente lo acuerde el Tribunal Constitucional al admitir la cuestión a trámite.",
+      "Que sólo producirá efectos suspensivos cuando la norma cuestionada afecte a los derechos fundamentales y libertades públicas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "De acuerdo con el artículo 163 de la Constitución Española, cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley aplicable al caso y de cuya validez dependa el fallo, pueda ser contraria a la Constitución:",
+    "options": [
+      "No aplicará dicha norma a la hora de dictar sentencia y dará traslado de ésta al Tribunal Constitucional para su revisión.",
+      "Trasladará todo lo actuado al Tribunal Constitucional para que sea éste quien dicte sentencia en el proceso judicial.",
+      "Planteará la cuestión ante el Tribunal Constitucional.",
+      "Interpondrá un recurso ante el Tribunal Constitucional."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "Según el artículo 163 de la CE, ¿qué requisito debe cumplir una norma para que pueda plantearse sobre la misma una cuestión de constitucionalidad por un órgano judicial?:",
+    "options": [
+      "El fallo del órgano judicial debe depender de la constitucionalidad de la norma.",
+      "Debe ser aplicable al caso concreto.",
+      "Debe tener rango de ley en todo caso.",
+      "Todas las respuestas son ciertas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "Según lo dispuesto en el artículo 163, ¿por quién podrá ser planteada la inconstitucionalidad de una norma si esta se aprecia en un proceso judicial?:",
+    "options": [
+      "A instancia de parte por el Ministerio Fiscal.",
+      "Únicamente por las partes interesadas en el proceso.",
+      "Por el propio órgano judicial.",
+      "Cualquiera de los mencionados."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 163"],
+    "question": "De acuerdo al artículo 163 de la CE, ¿qué efectos tendrá el planteamiento de la cuestión de constitucionalidad?:",
+    "options": [
+      "Efectos suspensivos.",
+      "Los que determine la ley, además de suspensivos.",
+      "Los que determine la ley, pero nunca suspensivos.",
+      "Efectos suspensivos sólo si lo determina la ley."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

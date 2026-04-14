@@ -1,0 +1,134 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "De acuerdo con el artículo 164.1 de la Constitución, las sentencias dictadas por el Tribunal Constitucional:",
+    "options": [
+      "Tienen valor de cosa juzgada a partir del día siguiente a su publicación y no cabe recurso alguno contra ellas.",
+      "Tienen valor de cosa juzgada a partir del día siguiente al de su notificación y no cabe recurso alguno contra ellas.",
+      "No tienen valor de cosa juzgada.",
+      "Tienen valor de cosa juzgada a partir del día siguiente al que se dicten y no cabe recurso alguno contra ellas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "De conformidad con el artículo 164.1 de la Constitución, los votos particulares que pueda haber en las sentencias dictadas por el Tribunal Constitucional:",
+    "options": [
+      "No deberán ser publicados junto a la sentencia.",
+      "Podrán ser publicados cuando así lo inste el Magistrado autor del voto.",
+      "Se publicarán con las sentencias.",
+      "No caben votos particulares en las sentencias dictadas por el Tribunal Constitucional."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "En relación con el artículo 164.1 de la Constitución, las sentencias dictadas por el Tribunal Constitucional:",
+    "options": [
+      "Tienen plenos efectos frente a todos, todas las que se limiten a la estimación subjetiva de un derecho.",
+      "Tienen plenos efectos frente a todos las que declaren la inconstitucionalidad de una norma que no tenga fuerza de Ley.",
+      "Nunca tienen plenos efectos frente a todos.",
+      "Tienen plenos efectos frente a todos, todas las que no se limiten a la estimación subjetiva de un derecho."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "Según el artículo 164.1 de la Constitución, las sentencias del Tribunal Constitucional:",
+    "options": [
+      "Se publicarán en el Boletín de Información del Ministerio de Justicia con los votos particulares, si los hubiere.",
+      "No se publicarán en el Boletín Oficial del Estado.",
+      "Se publicarán en el Boletín Oficial del Estado con los votos particulares, si los hubiere.",
+      "Se publicarán en el Boletín Oficial del Estado sin los votos particulares, si los hubiere."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "De acuerdo con el artículo 164.1 de la Constitución, contra las sentencias dictadas por el Tribunal Constitucional:",
+    "options": [
+      "Cabe recurso de aclaración.",
+      "Cabe recurso de casación.",
+      "Cabe recurso de revisión.",
+      "No cabe recurso alguno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "En virtud del artículo 164.1 de la Constitución Española, ¿Habrán de publicarse en el Boletín Oficial del Estado las sentencias del Tribunal Constitucional?",
+    "options": [
+      "No, se publicarán solamente los votos particulares.",
+      "No se publicarán en ningún caso.",
+      "Sí, con los votos particulares, si los hubiere.",
+      "Solamente en los casos en que hubiere votos particulares."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "En virtud del artículo 164.2 de la Constitución Española, ¿Subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad declarada en una sentencia del Tribunal Constitucional?",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, salvo que en el fallo se disponga otra cosa.",
+      "Sólo cuando lo hubiere solicitado expresamente su órgano que interpuso el recurso.",
+      "No, salvo que la parte declarada inconstitucional suponga una minoría de los artículos de la ley."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "De acuerdo con la literalidad del artículo 164 de la CE, cuando una sentencia del Tribunal Constitucional declare la inconstitucionalidad parcial de una ley, ¿qué le sucede al resto de la misma?:",
+    "options": [
+      "Que también será inconstitucional.",
+      "Que continuará en vigor, salvo que el fallo disponga otra cosa.",
+      "Que continuará en vigor, siempre y cuando tenga sentido sin la parte inconstitucional.",
+      "Que el Gobierno podrá treinta días para confirmar su vigencia."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "A tenor de lo dispuesto en el artículo 164 de la CE, ¿habrán de ser publicados los votos particulares de las sentencias del Tribunal Constitucional?:",
+    "options": [
+      "Únicamente en los recursos de inconstitucionalidad por ser de interés general.",
+      "Sí.",
+      "No, ya que forman parte del proceso interno de toma de decisión.",
+      "Sí, en caso de que sean del Presidente del Tribunal Constitucional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "Según el artículo 164 de la CE, ¿qué efectos tiene una sentencia del Tribunal Constitucional que declare la inconstitucionalidad de una ley?:",
+    "options": [
+      "Efectos frente a las partes del proceso de inconstitucionalidad.",
+      "Efectos suspensivos hasta que el Gobierno reemplace la ley.",
+      "Efectos frente a todos.",
+      "Plenos efectos frente a todos."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 164"],
+    "question": "Según el artículo 164.1 de la Constitución, ¿cuándo adquieren la condición de cosa juzgada las sentencias emitidas por el Tribunal Constitucional?",
+    "options": [
+      "Depende de lo que se decida en la sentencia.",
+      "Desde el día siguiente de su publicación.",
+      "El mismo día de su publicación.",
+      "A partir del momento en que se recibe la notificación en el domicilio del interesado."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

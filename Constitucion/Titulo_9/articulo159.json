@@ -1,37 +1,336 @@
 [
   {
-    "titulos": ["Bloque 1", "Titulo IX", "Articulo 159"],
-    "question": "El Tribunal Constitucional",
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Señale la respuesta FALSA, el Tribunal Constitucional se compone de 12 miembros nombrados por el Rey, de ellos:   (examen)",
     "options": [
-      "A. Es un organo jurisdiccional integrado en el poder judicial.",
-      "B. Es un organo constitucional no integrado en el poder judicial.",
-      "C. No es un organo jurisdiccional ni constitucional.",
-      "D. Ninguna de las anteriores es correcta."
+      "4 a propuesta del Congreso por mayoría de tres quintos de sus miembros.",
+      "4 a propuesta del Senado por mayoría de dos quintos de sus miembros.",
+      "2 a propuesta del Gobierno.",
+      "2 a propuesta del Consejo General del Poder Judicial."
     ],
     "answer": 1,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo IX", "Articulo 159"],
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Según la Constitución Española, de los miembros que componen el Tribunal Constitucional, 4 de ellos son a propuesta del::   (examen)",
+    "options": [
+      "Congreso por mayoría de tres quintos de sus miembros.",
+      "Senado por mayoría de dos quintos de sus miembros.",
+      "Gobierno.",
+      "Consejo General del Poder Judicial."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Según el artículo 159 de la Constitución Española, el Tribunal Constitucional se compone de:   (examen)",
+    "options": [
+      "Doce miembros nombrados por el Rey; de ellos, tres serán a propuesta del Congreso por mayoría de tres quintos de sus miembros.",
+      "Doce miembros nombrados por el Rey; de ellos, cuatro serán a propuesta del Congreso por mayoría de tres quintos de sus miembros.",
+      "Dieciséis miembros nombrados por el Rey; de ellos, cuatro serán a propuesta del Congreso por mayoría de tres quintos de sus miembros.",
+      "Dieciséis miembros nombrados por el Rey; de ellos, tres serán a propuesta del Congreso por mayoría de tres quintos de sus miembros."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Según lo establecido en el artículo 159 de la Constitución Española de 1978, los miembros del Tribunal Constitucional serán designados por períodos de:   (examen)",
+    "options": [
+      "9 años y se renovarán por terceras partes cada 3.",
+      "9 años y se renovarán por terceras partes cada 2.",
+      "6 años y se renovarán por terceras partes cada 3.",
+      "6 años y se renovarán por terceras partes cada 2."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "El Tribunal Constitucional:",
+    "options": [
+      "Es un organo jurisdiccional integrado en el poder judicial.",
+      "Es un organo constitucional no integrado en el poder judicial.",
+      "No es un organo jurisdiccional ni constitucional.",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
     "question": "Cuantos miembros del Tribunal Constitucional son nombrados por el Rey?",
     "options": [
-      "A. 4 miembros.",
-      "B. 8 miembros.",
-      "C. 12 miembros.",
-      "D. El Rey no nombra miembros del Tribunal Constitucional."
+      "4 miembros.",
+      "8 miembros.",
+      "12 miembros.",
+      "El Rey no nombra miembros del Tribunal Constitucional."
     ],
     "answer": 2,
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "Titulo IX", "Articulo 159"],
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
     "question": "Conforme al art. 159 de la CE, ¿cuantos miembros del Tribunal Constitucional son propuestos por el Senado?",
     "options": [
-      "A. Dos miembros.",
-      "B. Cuatro miembros.",
-      "C. Seis miembros.",
-      "D. Ocho miembros."
+      "Dos miembros.",
+      "Cuatro miembros.",
+      "Seis miembros.",
+      "Ocho miembros."
     ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De conformidad con el artículo 159.3 de la Constitución, los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán:",
+    "options": [
+      "Por cuartas partes cada dos años.",
+      "Por terceras partes cada tres años.",
+      "Por mitades cada tres años.",
+      "Íntegramente cada nueve años."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "En virtud del artículo 159.2 de la Constitución, los miembros del Tribunal Constitucional deberán ser nombrados entre:",
+    "options": [
+      "Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de diez años de ejercicio profesional.",
+      "Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de veinte años de ejercicio profesional.",
+      "Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de veinticinco años de ejercicio profesional.",
+      "Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "En virtud del artículo 159.2 de la Constitución, los miembros del tribunal Constitucional deberán ser nombrados entre (señale la incorrecta):",
+    "options": [
+      "Funcionarios públicos.",
+      "Profesores de Universidad.",
+      "Abogados.",
+      "Jueces."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De acuerdo con el artículo 159.5 de la Constitución, los miembros del Tribunal Constitucional serán:",
+    "options": [
+      "Independientes y responsables en el ejercicio de su mandato.",
+      "Independientes e inamovibles en el ejercicio de su mandato.",
+      "Inamovibles e irresponsables en el ejercicio de su mandato.",
+      "Irresponsables e independientes en el ejercicio de su mandato."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De conformidad con el artículo 159.1 de la Constitución, una de las siguientes afirmaciones no es cierta. Los miembros del Tribunal Constitucional serán propuestos:",
+    "options": [
+      "Dos a propuesta del Gobierno.",
+      "Cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros.",
+      "Dos a propuesta del Senado por mayoría de tres quintos de sus miembros.",
+      "Dos a propuesta del Consejo General del Poder Judicial."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Según artículo 159.4 de la Constitución, uno de los siguientes cargos o condiciones es compatible con la de miembro del Tribunal Constitucional:",
+    "options": [
+      "Con la condición de Juez, Magistrado o Fiscal en excedencia.",
+      "Con todo mandato representativo.",
+      "Con cualquier actividad profesional o mercantil.",
+      "Con los cargos políticos o administrativos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De conformidad con el artículo 159.1 de la Constitución, el Gobierno propone el nombramiento de los siguientes miembros del Tribunal Constitucional:",
+    "options": ["No propone a ningún miembro.", "Dos.", "Tres.", "Uno."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De conformidad con el artículo 159.2 de la Constitución, los miembros del Tribunal Constitucional deberán ser juristas de reconocida competencia con:",
+    "options": [
+      "Más de diez años de ejercicio profesional.",
+      "Más de quince años de ejercicio profesional.",
+      "Más de cinco años de ejercicio profesional.",
+      "Más de veinte años de ejercicio profesional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "En virtud del artículo 159.4 de la Constitución, los miembros del Tribunal Constitucional se verán afectados por el mismo régimen de incompatibilidades que:",
+    "options": [
+      "Los miembros del poder judicial.",
+      "Los Diputados y los Senadores.",
+      "Los funcionarios de la Administración de Justicia.",
+      "Los miembros del poder ejecutivo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De conformidad con el artículo 159.2 de la Constitución Española, ¿Cuántos años de ejercicio profesional son exigidos para poder ser nombrado miembro del Tribunal Constitucional?",
+    "options": [
+      "Más de diez.",
+      "Más de doce.",
+      "Más de quince.",
+      "Más de nueve."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "En virtud del artículo 159.1 de la Constitución Española, ¿Cuántos miembros del Tribunal Constitucional son nombrados a propuesta del Pleno del Consejo General del Poder Judicial?",
+    "options": ["Cuatro.", "Dos.", "Cinco.", "Tres."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De conformidad con el artículo 159.1 de la Constitución Española, los miembros del Tribunal Constitucional son nombrados a propuesta de:",
+    "options": [
+      "El Congreso y el Senado.",
+      "El Gobierno, el Tribunal Supremo, el Congreso y el Senado.",
+      "El Consejo de Estado.",
+      "El Congreso, el Senado, el Gobierno y el Consejo General del Poder Judicial."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Según el artículo 159.1 de la Constitución Española, ¿Quién nombra a los miembros del Tribunal Constitucional?",
+    "options": [
+      "El Congreso, el Senado y el Gobierno.",
+      "El Congreso, el Senado, el Gobierno y el Consejo General del Poder Judicial.",
+      "Las Cortes Generales.",
+      "El Rey."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De conformidad con el artículo 159.5 de la Constitución Española, ¿De quién dependerá los miembros del Tribunal Constitucional?",
+    "options": [
+      "De las Cortes Generales.",
+      "Del órgano que los haya propuesto.",
+      "Del Consejo General del Poder Judicial.",
+      "De nadie."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Según el artículo 159.1 de la Constitución Española, ¿Qué mayorías se exigen en el Congreso y en el Senado para la propuesta de miembros del Tribunal Constitucional?",
+    "options": [
+      "Mayoría absoluta de la Cámara correspondiente.",
+      "Mayoría de dos tercios de la correspondiente Cámara.",
+      "Mayoría de tres quintos de la correspondiente Cámara.",
+      "Mayoría de tres cuartos de la correspondiente Cámara."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "En virtud del artículo 159.2 de la Constitución Española, todos los miembros del Tribunal Constitucional deberán reunir el requisito de ser:",
+    "options": [
+      "Jueces, Magistrados o Fiscales.",
+      "Funcionarios de alguna Administración Pública.",
+      "Diputados o Senadores.",
+      "Juristas de reconocida competencia."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De acuerdo con el artículo 159.1 de la Constitución Española, ¿Cuántos miembros del Tribunal Constitucional son nombrados a propuesta del Congreso de los Diputados?",
+    "options": ["Tres.", "Cuatro.", "Seis.", "Diez."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "¿Cuál de las siguientes afirmaciones es falsa en relación con los miembros del Tribunal Constitucional, según el artículo 159?:",
+    "options": [
+      "La condición de miembro del Tribunal Constitucional es incompatible con el desempeño de funciones directivas en un partido político o en un sindicato.",
+      "La condición de miembro del Tribunal Constitucional es compatible con todo mandato representativo.",
+      "Son independientes e inamovibles en el ejercicio de su mandato.",
+      "Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "En virtud del artículo 159, de los miembros que componen el Tribunal Constitucional, el Gobierno nombrará a:",
+    "options": [
+      "Uno.",
+      "Dos.",
+      "Cuatro.",
+      "El Gobierno los propone, pero son nombrados por el Rey."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "¿Con cuál de los siguientes cargos es incompatible la condición de miembro del Tribunal Constitucional, según lo dispuesto en el artículo 159?:",
+    "options": [
+      "Con el ejercicio de la carrera judicial y fiscal.",
+      "Con los cargos políticos o administrativos.",
+      "Con todo mandato representativo.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Según el artículo 159 de la CE, ¿cuántos años de ejercicio profesional necesitaría un senador para poder ser nombrado miembro del Tribunal Constitucional?:",
+    "options": [
+      "Más de 15 años.",
+      "15 años.",
+      "10 años.",
+      "Es incompatible con todo mandado representativo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "Según el artículo 159, ¿de entre cuál de los siguientes cargos se pueden nombrar miembros del Tribunal Constitucional?:",
+    "options": ["Diputado.", "Abogado.", "Senador.", "Sindicalista."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 159"],
+    "question": "De acuerdo al artículo 159 de la Constitución, ¿cuántos miembros del Tribunal Constitucional serán propuestos por el Rey?",
+    "options": ["Todos.", "Ninguno.", "Doce.", "Cuatro."],
     "answer": 1,
     "explicacion": ""
   }

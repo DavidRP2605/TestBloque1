@@ -1,0 +1,282 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "Señale la respuesta correcta según lo establecido en el artículo 161 de la Constitución:   (examen)",
+    "options": [
+      "El Tribunal Constitucional es competente para conocer del recurso de amparo contra leyes y disposiciones normativas con rango de ley.",
+      "El Tribunal Supremo es competente para conocer del recurso de amparo contra leyes y disposiciones normativas con rango de ley.",
+      "El Tribunal Constitucional es competente para conocer del recurso de inconstitucionalidad contra leyes y disposiciones normativas con rango de ley.",
+      "El Tribunal Supremo es competente para conocer del recurso de inconstitucionalidad contra leyes y disposiciones normativas con rango de ley."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De acuerdo con el artículo 161.1 de la Constitución, el Tribunal Constitucional no es competente para conocer:",
+    "options": [
+      "Del recurso de amparo por violación de los derechos y libertades no referidos en el art. 53.2. de la Constitución, en los casos y formas que la ley establezca.",
+      "De los conflictos de competencia entre el Estado y las Comunidades Autónomas.",
+      "Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+      "De los conflictos de competencia entre las Comunidades Autónomas."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De conformidad con el artículo 161.2 de la Constitución, el Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas. La impugnación:",
+    "options": [
+      "No producirá la suspensión de la disposición o resolución recurrida.",
+      "Producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a seis meses.",
+      "Producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a cinco meses.",
+      "Producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo superior a cinco meses."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "En virtud del artículo 161.1 de la Constitución, la declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia:",
+    "options": [
+      "Afectará a la norma concreta, sin que pierdan el valor de cosa juzgada la sentencia o sentencias recaídas.",
+      "Afectará a todo el ordenamiento jurídico.",
+      "Afectará a la norma concreta, perdiendo el valor de cosa juzgada la sentencia o sentencias recaídas.",
+      "No afectará a norma alguna, al no producir la declaración de inconstitucionalidad efectos retroactivos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De acuerdo con el artículo 161.1 de la Constitución, el Tribunal Constitucional tiene jurisdicción:",
+    "options": [
+      "En todo el territorio español, excepto en Ceuta y Melilla.",
+      "En todo el territorio peninsular.",
+      "En todo el territorio español y, en cuestiones de Derecho Internacional, en toda Europa.",
+      "En todo el territorio español."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "En virtud del artículo 161.2 de la Constitución, las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas:",
+    "options": [
+      "Son impugnables por el Gobierno ante la Jurisdicción Ordinaria.",
+      "Son impugnables por el Gobierno ante el Tribunal Constitucional.",
+      "Son impugnables ante el Tribunal Constitucional por las distintas instituciones y organismos autonómicos afectados.",
+      "No son impugnables ante el Tribunal Constitucional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De conformidad con el artículo 161.1 de la Constitución Española, ¿Qué efectos producirá la declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia?",
+    "options": [
+      "Afectará a ésta, y la sentencia o sentencias recaídas perderán el valor de cosa juzgada.",
+      "No afectará a ésta, y la sentencia o sentencias recaídas no perderán el valor de cosa juzgada.",
+      "Afectará a ésta, si bien la sentencia o sentencias recaídas no perderán el valor de cosa juzgada.",
+      "No afectará a ésta, si bien la sentencia o sentencias recaídas perderán el valor de cosa juzgada."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De acuerdo con el artículo 161 de la Constitución Española, el órgano competente para conocer de los conflictos de competencias entre Comunidades Autónomas es:",
+    "options": [
+      "El Tribunal Supremo.",
+      "El Tribunal Constitucional.",
+      "El Ministerio de Administraciones Públicas.",
+      "La jurisdicción contencioso-administrativa."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De conformidad con el artículo 161.1 de la Constitución Española, ¿Ante quién se presenta el recurso de amparo?",
+    "options": [
+      "Ante cualquier juzgado o tribunal.",
+      "Ante el Tribunal Constitucional.",
+      "Ante el Consejo General del Poder Judicial.",
+      "Ante el Tribunal Supremo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "Según el artículo 161.2 de la Constitución Española, la impugnación por el Gobierno ante el Tribunal Constitucional de las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas producirá su:",
+    "options": ["Derogación.", "Suspensión.", "Anulación.", "Revocación."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "Según el artículo 161.1 de la Constitución Española, el recurso de amparo podrá interponerse por violación de los derechos y libertades referidos por la Constitución en su artículo:",
+    "options": ["52.3.", "53.2.", "54.", "55.1."],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De conformidad con el artículo 161.2 de la Constitución Española, el Tribunal Constitucional deberá ratificar o levantar la suspensión de las disposiciones o resoluciones de las Comunidades Autónomas que hayan sido recurridas por el Gobierno ante él, en un plazo no superior a:",
+    "options": ["Tres meses.", "Cuatro meses.", "Cinco meses.", "Seis meses."],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "Según el artículo 161.1 de la Constitución Española, el Tribunal Constitucional no es competente para resolver:",
+    "options": [
+      "Recursos de inconstitucionalidad.",
+      "Recursos de casación.",
+      "Recursos de amparo.",
+      "Conflictos de competencia entre Comunidades Autónomas."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "Según el artículo 161.1 de la Constitución Española, el recurso de inconstitucionalidad puede interponerse contra:",
+    "options": [
+      "Leyes Orgánicas exclusivamente.",
+      "Leyes y disposiciones normativas con rango inferior a la ley.",
+      "Cualquier clase de disposiciones normativas.",
+      "Leyes y disposiciones normativas con fuerza de ley."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "Según lo previsto en el artículo 161 de la CE, la jurisdicción del Tribunal Constitucional, se extenderá a:",
+    "options": [
+      "Todo el territorio europeo.",
+      "Todo el territorio nacional.",
+      "Sólo a las Comunidades Autónomas que hayan accedido por la vía ordinaria.",
+      "Todas las Comunidades Autónomas que cuenten con más de una provincia."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "La violación de cuál de los siguientes derechos será susceptible de recurso de amparo de acuerdo al artículo 161 de la Constitución:",
+    "options": [
+      "El derecho al medio ambiente.",
+      "El derecho a la negociación colectiva.",
+      "El derecho a una vivienda digna.",
+      "El derecho de asociación."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "¿Contempla el artículo 161 de la CE la posibilidad de que un Decreto Legislativo sea susceptible de un recurso de inconstitucionalidad?:",
+    "options": [
+      "Depende de la materia que regule.",
+      "No, en ningún caso.",
+      "Sí, al ser una norma con fuerza de ley.",
+      "No, al no ser una norma con fuerza de ley."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "En virtud de lo contemplado en el artículo 161 de la Constitución, el Tribunal Constitucional no tiene competencia para conocer del:",
+    "options": [
+      "Recurso de inconstitucionalidad.",
+      "Recurso de amparo.",
+      "De la cuestión de inconstitucionalidad.",
+      "Recurso contencioso-administrativo."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "¿Qué órgano judicial es el encargado de declarar las leyes inconstitucionales, de acuerdo al artículo 161 de la Constitución?",
+    "options": [
+      "Cualquier Tribunal Superior de Justicia.",
+      "Únicamente el Tribunal Constitucional.",
+      "Las Cortes Generales, además del Tribunal Constitucional.",
+      "El Tribunal Constitucional y el Tribunal Supremo."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De acuerdo al artículo 161 de la Constitución, ¿puede interponerse un recurso de inconstitucionalidad contra un Reglamento?",
+    "options": [
+      "Únicamente si es reglamento orgánico.",
+      "Sí, al tener fuerza de ley.",
+      "Depende de la materia que regule.",
+      "No."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "Los conflictos de competencias entre el Estado y las Comunidades Autónomas, ¿por quién serán conocidos en virtud de lo contemplado en el artículo 161?",
+    "options": [
+      "Por el Gobierno.",
+      "Por el Tribunal Constitucional.",
+      "Por el Presidente del Tribunal Constitucional.",
+      "Por la Sala Administrativa del Tribunal Constitucional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "¿Contra cuál de las siguientes opciones cabrá la interposición de un recurso de inconstitucionalidad, según el artículo 161 de la CE?",
+    "options": [
+      "Contra actos administrativos que violen derechos fundamentales.",
+      "Contra los Decretos-leyes.",
+      "Contra la violación de los derechos fundamentales donde quiera que estén regulados.",
+      "Contra Reglamentos."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De conformidad con el artículo 161 de la Constitución, al Tribunal Constitucional le competerá conocer de:",
+    "options": [
+      "Los conflictos de competencia Estado-Comunidades Autónomas.",
+      "Los recursos de inconstitucionalidad.",
+      "Los recursos de amparo.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "Dentro de la CE, ¿en qué artículo vienen reguladas las competencias del Tribunal Constitucional?",
+    "options": ["Art. 158.", "Art. 159.", "Art. 160.", "Art. 161."],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 161"],
+    "question": "De acuerdo al artículo 161 de la Constitución, la siguiente tipología normativa no es susceptible de un recurso de inconstitucionalidad:",
+    "options": [
+      "Los Reglamentos.",
+      "Las Leyes.",
+      "Los Decretos-leyes.",
+      "Los Decretos Legislativos."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  }
+]

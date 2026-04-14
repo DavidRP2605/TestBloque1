@@ -1,0 +1,69 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 160"],
+    "question": "De conformidad con el artículo 160 de la Constitución, el Presidente del Tribunal Constitucional será nombrado entre sus miembros por:",
+    "options": [
+      "Las Cortes Generales.",
+      "El Rey.",
+      "El Gobierno.",
+      "El Pleno del Tribunal Constitucional."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 160"],
+    "question": "De conformidad con el artículo 160 de la Constitución, ¿A propuesta de quién será nombrado el Presidente del Tribunal Constitucional?",
+    "options": [
+      "A propuesta del mismo Tribunal en pleno.",
+      "A propuesta del pleno del Consejo General del Poder Judicial.",
+      "A propuesta del Congreso de los Diputados.",
+      "A propuesta del pleno del Tribunal Supremo."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 160"],
+    "question": "De acuerdo con el artículo 160 de la Constitución, el Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno y por un período de:",
+    "options": ["Dos años", "Nueve años", "Tres años", "Seis años"],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 160"],
+    "question": "En virtud del artículo 160 de la Constitución, el Presidente del Tribunal Constitucional será nombrado:",
+    "options": [
+      "Por las Cortes Generales, de entre los miembros del Consejo General del Poder Judicial.",
+      "Por el Rey, de entre los miembros del Tribunal Constitucional.",
+      "Por el Congreso de los Diputados, de entre los miembros del Tribunal Constitucional.",
+      "Por el Rey, de entre los miembros del Consejo General del Poder Judicial."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 160"],
+    "question": "De acuerdo con el artículo 160 de la Constitución Española, el Presidente del Tribunal Constitucional será nombrado por:",
+    "options": [
+      "El Rey, a propuesta del Tribunal Supremo en pleno.",
+      "El Rey, a propuesta del Consejo General del Poder Judicial.",
+      "El Presidente del Congreso, a propuesta del Tribunal Constitucional en Pleno.",
+      "El Rey, a propuesta del Tribunal Constitucional en pleno."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 9", "Capitulo 0", "Articulo 160"],
+    "question": "En virtud de lo dispuesto en el artículo 160, ¿por quién es propuesto el Presidente del Tribunal Constitucional?:",
+    "options": [
+      "Por el Presidente del Gobierno.",
+      "Por las Cortes Generales.",
+      "Por el Rey.",
+      "Por el Pleno del Tribunal Constitucional."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

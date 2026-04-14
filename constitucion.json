@@ -750,6 +750,28 @@
     "explicacion": ""
   },
   {
+    "titulos": ["Bloque 1", "General", "titulo 9"],
+    "question": "¿En qué artículo del Título IX de la Constitución Española se regula la legitimación para acudir al Tribunal Constitucional?",
+    "options": [
+      "En el artículo 161.",
+      "En el artículo 162.",
+      "En el artículo 163.",
+      "En el artículo 164."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "titulo 9"],
+    "question": "Dentro de la CE, ¿en qué artículo vienen reguladas las competencias del Tribunal Constitucional?",
+    "options": ["Art. 158.", "Art. 159.", "Art. 160.", "Art. 161."],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "titulo 9"]
+  },
+  {
     "titulos": ["Bloque 1", "General"]
   }
 ]
