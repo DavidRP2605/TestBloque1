@@ -1,0 +1,98 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "De acuerdo con el artículo 167.3 de la Constitución, aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten:",
+    "options": [
+      "Dentro de los treinta días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+      "Dentro de los veinte días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+      "Dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+      "Dentro de los diez días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "De conformidad con el artículo 167.1 de la Constitución, los proyectos de reforma constitucional deberán ser aprobados:",
+    "options": [
+      "Por la mayoría absoluta de cada una de las Cámaras.",
+      "Por una mayoría de dos tercios de cada una de las Cámaras.",
+      "Por una mayoría de tres quintos de cada una de las Cámaras.",
+      "Por una mayoría de tres cuartos de cada una de las Cámaras."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "Según el artículo 167.1 de la Constitución, los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras. Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores, que presentará un texto que será votado por el Congreso y el Senado. De no lograrse mediante el procedimiento referenciado, se establece en el artículo 167.2 de la Constitución que:",
+    "options": [
+      "Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de dos tercios, podrá aprobar la reforma.",
+      "Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de tres quintos, podrá aprobar la reforma.",
+      "Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de tres cuartos, podrá aprobar la reforma.",
+      "Siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría absoluta, podrá aprobar la reforma."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "En virtud del artículo 167.2 de la Constitución, de no lograrse la aprobación del proyecto, tras la falta de acuerdo entre las Cámaras, culminados que sean los trámites marcados constitucionalmente:",
+    "options": [
+      "El Congreso, por mayoría de dos tercios, podrá aprobar la reforma, siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado.",
+      "Cada Cámara, por mayoría absoluta, podrá aprobar la reforma.",
+      "Sólo se podrá aprobar el texto, si hubiere obtenido al menos el voto favorable de la mayoría absoluta del Congreso.",
+      "En ningún caso podrá continuarse adelante con la tramitación del proyecto de reforma constitucional."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "Cuando un proyecto de reforma constitucional no afecte a las materias recogidas en el artículo 168 de la misma, según el art 167.1 ¿qué mayoría de cada Cámara será necesaria para la aprobación de dicha reforma?:",
+    "options": [
+      "Tres cuartas partes.",
+      "Dos tercios de los miembros.",
+      "Tres quintas partes.",
+      "Un tercio de los miembros."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "En virtud del artículo 167.1 de la Constitución Española ¿Cómo se intentará resolver la falta de acuerdo entre ambas Cámaras en el proceso de aprobación de un proyecto de reforma constitucional?",
+    "options": [
+      "Con la mediación del Tribunal Constitucional.",
+      "Devolviendo el proyecto de reforma que tenga en cuenta las sugerencias formuladas por ambas Cámaras.",
+      "Mediante la celebración de una sesión conjunta de ambas Cámaras para eliminar divergencias y llevar a cabo una votación final sobre un nuevo proyecto de reforma.",
+      "Mediante la creación de una Comisión paritaria de Diputados y Senadores que presentará un texto que será votado por el Congreso y el Senado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "En virtud del artículo 167.3 de la Constitución Española, ¿En qué caso se deberá someter a referéndum para su ratificación la reforma constitucional aprobada por las Cortes Generales?",
+    "options": [
+      "En ningún caso.",
+      "Se someterá a referéndum en todos los casos.",
+      "Cuando así lo soliciten una décima parte de los miembros de ambas Cámaras, dentro de los quince días siguientes a su aprobación.",
+      "Cuando así lo soliciten una décima parte de los miembros de cualquiera de las Cámaras, dentro de los quince días siguientes a su aprobación."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "En virtud del artículo 167.1 de la Constitución Española ¿Cómo se intentará resolver la falta de acuerdo entre ambas Cámaras en el proceso de aprobación de un proyecto de reforma constitucional?",
+    "options": [
+      "Con la mediación del Tribunal Constitucional.",
+      "Devolviendo el proyecto de reforma que tenga en cuenta las sugerencias formuladas por ambas Cámaras.",
+      "Mediante la celebración de una sesión conjunta de ambas Cámaras para eliminar divergencias y llevar a cabo una votación final sobre un nuevo proyecto de reforma.",
+      "Mediante la creación de una Comisión paritaria de Diputados y Senadores que presentará un texto que será votado por el Congreso y el Senado."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  }
+]

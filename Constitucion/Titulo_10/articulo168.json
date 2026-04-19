@@ -1,0 +1,230 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "Según el artículo 168 de la Constitución, cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, en caso de ser aprobada la reforma por las Cortes Generales:",
+    "options": [
+      "Será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+      "No será sometida a referéndum para su ratificación.",
+      "Será sometida a referéndum para su ratificación.",
+      "Será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los veinte días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "De conformidad con el artículo 168.2, las Cámaras deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado:",
+    "options": [
+      "Por mayoría de tres quintos de ambas Cámaras.",
+      "Por mayoría de dos tercios de ambas Cámaras.",
+      "Por mayoría absoluta del Senado y por mayoría de dos tercios del Congreso.",
+      "Por mayoría absoluta de ambas Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "Atendiendo al artículo 168.2 de la Constitución, las Cámaras elegidas:",
+    "options": [
+      "Podrán ratificar la decisión y proceder al estudio del nuevo texto constitucional.",
+      "Deberán dar por terminado el proceso de reforma constitucional si la fuerza política que la promovió ha perdido más de la tercera parte de los votos en las elecciones generales.",
+      "Deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras.",
+      "Deberán convocar nuevo referéndum para la ratificación de la reforma constitucional."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "De conformidad con el artículo 168.1 de la Constitución, cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se procederá a la aprobación del principio:",
+    "options": [
+      "Por mayoría absoluta de cada Cámara, y a la disolución inmediata de las Cortes.",
+      "Por mayoría de tres quintos de cada Cámara, y a la disolución inmediata de las Cortes.",
+      "Por mayoría de tres cuartos de cada Cámara, y a la disolución inmediata de las Cortes.",
+      "Por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "De acuerdo con el artículo 168.1 de la Constitución, se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes, cuando se propusiere la revisión total de la Constitución o una parcial que afecte al:",
+    "options": [
+      "Al Título preliminar, al Capítulo primero del Título I, o al Título II.",
+      "Al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II.",
+      "Al Título preliminar, al Capítulo segundo, Sección segunda del Título I, o al Título II.",
+      "Al Título preliminar, al Capítulo tercero del Título I, o al Título II."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "De acuerdo con el artículo 168.1 de la Constitución, la iniciativa para la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la:",
+    "options": [
+      "Abdicación del titular de la Corona.",
+      "Entrada en vigor del estado de excepción.",
+      "Disolución inmediata de las Cortes.",
+      "Convocatoria de elecciones generales."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "De conformidad con el artículo 168.1 de la Constitución, se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes, cuando se propusiere:",
+    "options": [
+      "La revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo primero del Título I, o al Título II.",
+      "La revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo tercero del Título I, o al Título II.",
+      "La revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II.",
+      "La revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección segunda del Título I, o al Título II."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "¿Cuál de las siguientes cuestiones no requiere el procedimiento de reforma previsto en el artículo 168.1 de la Constitución Española?",
+    "options": [
+      "La Corona.",
+      "Los derechos fundamentales y de las libertades públicas.",
+      "Los principios básicos de la Constitución.",
+      "Las garantías de las libertades y derechos fundamentales."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "Según el artículo 168.2 de la Constitución Española, las Cámaras elegidas tras la disolución de las Cortes motivada por la aprobación del principio de reforma esencial de la Constitución, deberán.",
+    "options": [
+      "Votar inmediatamente el nuevo texto constitucional.",
+      "Someter a referéndum el principio de reforma.",
+      "Reunirse en sesión conjunta para elaborar el nuevo texto constitucional.",
+      "Ratificar la decisión de las Cámaras anteriores y proceder al estudio del nuevo texto constitucional."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "En virtud del artículo 168.3 de la Constitución Española, ¿Se deberá someter a referéndum para su ratificación la reforma esencial de la Constitución aprobada por las Cortes Generales?",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, en todo caso.",
+      "Sólo cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+      "Sólo cuando se trate de reforma total de la Constitución y además lo soliciten las Cortes Generales."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "Según el artículo 168.1 de la Constitución Española, señale cuál de las siguientes reformas constitucionales no exige un procedimiento especial para su aprobación:",
+    "options": [
+      "Revisión parcial que afecte al Título Preliminar.",
+      "Revisión parcial que afecte a la Sección Segunda del Capítulo Primero del Título I.",
+      "Revisión parcial que afecte al Título II.",
+      "Revisión total de la Constitución."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "¿En cuál de los siguientes casos de reforma constitucional será necesaria la aprobación por mayoría de dos tercios de cada Cámara?:",
+    "options": [
+      "En todo caso será necesaria dicha mayoría.",
+      "Cuando la misma afecte al reparto de competencias entre el Estado y las Comunidades Autónomas.",
+      "En caso de que afectara al Título VI.",
+      "Cuando la reforma afecte a los derechos fundamentales y libertades públicas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "Respecto al procedimiento de reforma constitucional recogido en el artículo 168, ¿en qué casos será necesario convocar referéndum?:",
+    "options": [
+      "Cuando así lo soliciten, dentro de los quince días siguientes a la aprobación, una décima parte de los miembros del Congreso o el Senado.",
+      "Cuando así lo soliciten por mayoría de dos tercios el Congreso o el Senado.",
+      "En toda reforma contemplada en ese artículo.",
+      "En ningún caso."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "Cuando, en virtud del artículo 168, se hayan disuelto las Cámaras en el procedimiento extraordinario de reforma, el siguiente paso es:",
+    "options": [
+      "Convocar un referéndum.",
+      "Elegir a las nuevas Cámaras, que deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, el cual deberá ser aprobado por dos tercios de ambas Cámaras.",
+      "Crear una Comisión paritaria de Diputados y Senadores, que ratifique la decisión y apruebe definitivamente la reforma.",
+      "La ratificación de la reforma por acuerdo de las Cortes Generales, y la convocatoria de referéndum."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "De conformidad con lo estipulado en la Constitución, ¿en cuál de los siguientes casos será necesaria la disolución de las Cámaras una vez que haya sido aprobada una reforma de la misma?:",
+    "options": [
+      "En cualquier caso.",
+      "Cuando se pretenda modificar el Título II.",
+      "Cuando se haya reformado el Título VII.",
+      "En ningún caso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "¿Contempla la Constitución la posibilidad de que las Asambleas de las Comunidades Autónomas puedan delegar la defensa de su proposición de reforma constitucional a unos miembros ante el Congreso?:",
+    "options": [
+      "Sí, un máximo de cinco miembros.",
+      "No, la proposición se traslada a Mesa que en la encargada de continuar las gestiones.",
+      "Sí, un máximo de tres miembros.",
+      "La proposición de reforma sólo podrá ser defendida por el Presidente de dicha Comunidad Autónoma."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "De acuerdo a la Constitución, para reformar las atribuciones del Rey, será necesario:",
+    "options": [
+      "La aprobación de la reforma por mayoría absoluta y ratificación por referéndum.",
+      "La aprobación del principio por mayoría de dos tercios de cada Cámara y la disolución inmediata de las Cortes.",
+      "Utilizar el procedimiento de reforma constitucional recogido en el artículo 167 de la misma.",
+      "La aprobación por una mayoría de tres quintos de cada Cámara."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 167"],
+    "question": "La reforma del artículo de la Constitución Española que prohíbe los Tribunales de Honor en el ámbito de la Administración civil requiere para su aprobación:",
+    "options": [
+      "Mayoría de tres quintos de cada una de las Cámaras.",
+      "Mayoría de dos tercios del Congreso, siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado.",
+      "Mayoría de dos tercios de cada Cámara.",
+      "Mayoría absoluta de cada una de las Cámaras."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 168"],
+    "question": "Según lo contemplado en el artículo 168 de la Constitución, ¿es necesario someter a referéndum una reforma total de la misma?:",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, siempre.",
+      "Sí, cuando así lo soliciten una décima parte de los miembros de las Cortes Generales.",
+      "Sí, cuando así lo soliciten una décima parte de los miembros del Congreso."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]

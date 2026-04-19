@@ -1,0 +1,62 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 166"],
+    "question": "En virtud del artículo 166 de la Constitución, la iniciativa de reforma constitucional:",
+    "options": [
+      "Sólo corresponderá al Gobierno.",
+      "Sólo corresponderá al Congreso y al Senado.",
+      "Se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87.",
+      "No podrá corresponder en ningún caso, ni directa ni indirectamente, a las Asambleas de Comunidades Autónomas."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 166"],
+    "question": "Según el artículo 166 de la Constitución Española, ¿A quién corresponde la iniciativa de reforma constitucional?",
+    "options": [
+      "Al Tribunal Constitucional.",
+      "A las Cortes Generales en todo caso.",
+      "Al Gobierno, al Congreso, al Senado y a las Asambleas de las Comunidades Autónomas.",
+      "Siempre al Gobierno."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 166"],
+    "question": "Según el artículo 166 de la Constitución, la reforma constitucional por iniciativa popular:",
+    "options": [
+      "Requiere 500.000 firmas acreditadas.",
+      "Será regulada por una ley orgánica.",
+      "No cabe en los procedimientos de reforma constitucional.",
+      "Se articulará a través de la Mesa del Congreso que recibirá la misma."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 166"],
+    "question": "De acuerdo al artículo 166 de la Constitución, la iniciativa de reforma constitucional de las Comunidades Autónomas:",
+    "options": [
+      "No pueden ejercerla directamente, sino que deberán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de Ley.",
+      "Únicamente es admisible cuando se refiera a materias que afecten a sus competencias.",
+      "Corresponde a la Asamblea legislativa de la Comunidad Autónoma por mayoría de dos tercios.",
+      "Sólo pueden realizar reformas que necesiten del procedimiento ordinario."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 166"],
+    "question": "¿Contempla la Constitución la posibilidad de que las Asambleas de las Comunidades Autónomas puedan delegar la defensa de su proposición de reforma constitucional a unos miembros ante el Congreso?:",
+    "options": [
+      "Sí, un máximo de cinco miembros.",
+      "No, la proposición se traslada a Mesa que en la encargada de continuar las gestiones.",
+      "Sí, un máximo de tres miembros.",
+      "La proposición de reforma sólo podrá ser defendida por el Presidente de dicha Comunidad Autónoma."
+    ],
+    "answer": 2,
+    "explicacion": ""
+  }
+]

@@ -769,7 +769,55 @@
     "explicacion": ""
   },
   {
-    "titulos": ["Bloque 1", "General", "titulo 9"]
+    "titulos": ["Bloque 1", "General", "titulo 10"],
+    "question": "De conformidad con la Constitución, el Título X. De la reforma constitucional, consta de:",
+    "options": [
+      "Siete artículos (desde el artículo 163 hasta el artículo 169, ambos incluidos.)",
+      "Seis artículos (desde el artículo 164 hasta el artículo 169, ambos incluidos.)",
+      "Cinco artículos (desde el artículo 165 hasta el artículo 169, ambos incluidos.)",
+      "Cuatro artículos (desde el artículo 166 hasta el artículo 169, ambos incluidos.)"
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "titulo 10"],
+    "question": "El Título Décimo de la Constitución Española de 1978 trata:",
+    "options": [
+      "De la reforma constitucional.",
+      "Del Tribunal Constitucional.",
+      "Del Defensor del Pueblo.",
+      "De la organización territorial del Estado."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "titulo 10"],
+    "question": "En cuanto a la posibilidad de reformar la Constitución, ¿cuántos procedimientos se recogen en la misma?:",
+    "options": [
+      "Un procedimiento urgente.",
+      "Un único procedimiento para casos extraordinarios.",
+      "Un solo procedimiento de carácter ordinario.",
+      "Dos procedimientos, uno ordinario y otro extraordinario."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "titulo 10"],
+    "question": "Según lo dispuesto en la Constitución, ¿en cuál de los siguientes supuestos será necesario someter a referéndum la aprobación de una reforma de la misma?:",
+    "options": [
+      "Cuando afecte al Título II.",
+      "Cuando así lo soliciten, dentro de los quince días siguientes a la aprobación, una décima parte de los miembros del Congreso.",
+      "Cuando así lo soliciten, dentro de los quince días siguientes a la aprobación, una décima parte de los miembros del Senado.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "General", "titulo 10"]
   },
   {
     "titulos": ["Bloque 1", "General"]

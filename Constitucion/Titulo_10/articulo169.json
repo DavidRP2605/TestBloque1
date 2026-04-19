@@ -1,0 +1,62 @@
+[
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 169"],
+    "question": "En virtud del artículo 169 de la Constitución, la reforma constitucional:",
+    "options": [
+      "Podrá iniciarse en cualquier momento.",
+      "No podrá iniciarse en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.",
+      "Podrá iniciarse en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.",
+      "Podrá iniciarse exclusivamente en tiempo de guerra."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 169"],
+    "question": "De conformidad con el artículo 169 de la Constitución Española, no podrá iniciarse la reforma constitucional:",
+    "options": [
+      "En tiempo de guerra.",
+      "En tiempo de paz.",
+      "En estado de urgencia.",
+      "En estado de excepción."
+    ],
+    "answer": 0,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 169"],
+    "question": "En virtud del artículo 169 de la Constitución, la reforma constitucional podrá iniciarse:",
+    "options": [
+      "En cualquier momento.",
+      "No cuando no se encuentren reunidas las Cámaras.",
+      "Exclusivamente en tiempo de guerra.",
+      "No en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 169"],
+    "question": "Según lo contemplado en el artículo 169 de la Constitución, ¿qué procedimiento habrá de seguirse cuando se pretende reformar la Constitución durante un estado de sitio?:",
+    "options": [
+      "El procedimiento extraordinario.",
+      "Se deberá obtener aprobación de ambas Cámaras por mayoría de dos tercios.",
+      "Habrá que disolverse las Cámaras y convocarse elecciones generales.",
+      "No podrá reformarse la Constitución."
+    ],
+    "answer": 3,
+    "explicacion": ""
+  },
+  {
+    "titulos": ["Bloque 1", "Titulo 10", "Capitulo 0", "Articulo 169"],
+    "question": "¿Es posible, según el artículo 169 de la Constitución, iniciar una reforma constitucional mientras esté vigente alguno de los estados previstos en el artículo 116 de la misma?:",
+    "options": [
+      "Sí, previa autorización del Presidente del Gobierno.",
+      "No.",
+      "No, salvo autorización del Rey.",
+      "Sí, con autorización por mayoría absoluta de ambas Cámaras."
+    ],
+    "answer": 1,
+    "explicacion": ""
+  }
+]
