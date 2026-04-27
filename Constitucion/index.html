@@ -137,8 +137,8 @@
       <div id="selector-temas">
         <label for="bloque">Bloque:</label>
         <select id="bloque"></select>
-        <label for="titulo">Título:</label>
-        <select id="titulo"></select>
+        <label for="titulo">Título: <small style="color:#666; font-weight:normal">(Ctrl+click para múltiples)</small></label>
+        <select id="titulo" multiple size="5"></select>
         <label for="capitulo">Capítulo: <small style="color:#666; font-weight:normal">(Ctrl+click para múltiples)</small></label>
         <select id="capitulo" multiple></select>
         <label for="articulo">Artículo: <small style="color:#666; font-weight:normal">(Ctrl+click para múltiples)</small></label>
@@ -173,7 +173,7 @@
       let tituloActual = "";
       // Variables para almacenar la selección actual para reinicio
       let currentBloque = "";
-      let currentTitulo = "";
+      let currentTitulos = [];
       let currentCapitulos = [];
       let currentArticulos = [];
       let currentTestSize = 15;
@@ -212,7 +212,14 @@
         if (ultima.bloque) document.getElementById("bloque").value = ultima.bloque;
         if (ultima.testSize) document.getElementById("testSize").value = ultima.testSize;
         updateTitulos();
-        if (ultima.titulo) document.getElementById("titulo").value = ultima.titulo;
+        if (ultima.titulos && ultima.titulos.length > 0) {
+          const tituloSelect = document.getElementById("titulo");
+          Array.from(tituloSelect.options).forEach(opt => {
+            opt.selected = ultima.titulos.includes(opt.value);
+          });
+        } else if (ultima.titulo) {
+          document.getElementById("titulo").value = ultima.titulo;
+        }
         updateCapitulos();
         if (ultima.capitulos && ultima.capitulos.length > 0) {
           const capituloSelect = document.getElementById("capitulo");
@@ -253,15 +260,19 @@
       }
       function updateCapitulos() {
         const bloque = document.getElementById("bloque").value;
-        const titulo = document.getElementById("titulo").value;
+        const titulosSeleccionados = Array.from(document.getElementById("titulo").selectedOptions)
+          .map((opt) => opt.value)
+          .filter(Boolean);
         const capitulos = [
           ...new Set(
             allQuestions
-              .filter(
-                (q) =>
+              .filter((q) => {
+                const titulos_check = titulosSeleccionados.length === 0;
+                return (
                   (!bloque || q.titulos?.[0] === bloque) &&
-                  (!titulo || q.titulos?.[1] === titulo)
-              )
+                  (titulos_check || titulosSeleccionados.includes(q.titulos?.[1]))
+                );
+              })
               .map((q) => (q.titulos && q.titulos.length > 3 ? q.titulos[2] : null))
               .filter(Boolean)
           ),
@@ -282,7 +293,9 @@
 
       function updateArticulos() {
         const bloque = document.getElementById("bloque").value;
-        const titulo = document.getElementById("titulo").value;
+        const titulosSeleccionados = Array.from(document.getElementById("titulo").selectedOptions)
+          .map((opt) => opt.value)
+          .filter(Boolean);
         const capituloSelect = document.getElementById("capitulo");
         const capitulos = Array.from(capituloSelect.selectedOptions).map(opt => opt.value).filter(v => v !== "");
         
@@ -292,10 +305,11 @@
               .filter((q) => {
                 const qCap = q.titulos && q.titulos.length > 3 ? q.titulos[2] : "";
                 const qArt = q.titulos && q.titulos.length > 3 ? q.titulos[3] : q.titulos?.[2];
+                const titulos_check = titulosSeleccionados.length === 0;
                 const capitulos_check = capitulos.length === 0;
                 return (
                   (!bloque || q.titulos?.[0] === bloque) &&
-                  (!titulo || q.titulos?.[1] === titulo) &&
+                  (titulos_check || titulosSeleccionados.includes(q.titulos?.[1])) &&
                   (capitulos_check || capitulos.includes(qCap))
                 );
               })
@@ -379,7 +393,9 @@
       function startQuiz(selectedMode) {
         mode = selectedMode;
         const bloque = document.getElementById("bloque").value;
-        const titulo = document.getElementById("titulo").value;
+        const titulos = Array.from(document.getElementById("titulo").selectedOptions)
+          .map(opt => opt.value)
+          .filter(v => v !== "");
         
         // Obtener múltiples selecciones de capítulos
         const capituloSelect = document.getElementById("capitulo");
@@ -395,7 +411,7 @@
         // Guardar selección en localStorage
         localStorage.setItem("ultimaSeleccion", JSON.stringify({
           bloque: bloque,
-          titulo: titulo,
+          titulos: titulos,
           capitulos: capitulos,
           articulos: articulos,
           testSize: testSize
@@ -403,7 +419,7 @@
 
         // Guardar selección actual para reinicio
         currentBloque = bloque;
-        currentTitulo = titulo;
+        currentTitulos = titulos.slice();
         currentCapitulos = capitulos.slice();
         currentArticulos = articulos.slice();
         currentTestSize = testSize;
@@ -418,7 +434,8 @@
             const qTitulo = q.titulos?.[1] || "";
             const qCap = q.titulos && q.titulos.length > 3 ? q.titulos[2] : "";
             const qArt = q.titulos && q.titulos.length > 3 ? q.titulos[3] : q.titulos?.[2];
-            if (( !bloque || qBloque === bloque) && (!titulo || qTitulo === titulo) && capitulos.includes(qCap)) {
+            const titulo_check = titulos.length === 0;
+          if (( !bloque || qBloque === bloque) && (titulo_check || titulos.includes(qTitulo)) && capitulos.includes(qCap)) {
               if (!qArt) return;
               agrupadas[qArt] = agrupadas[qArt] || [];
               agrupadas[qArt].push(JSON.parse(JSON.stringify(q)));
@@ -449,8 +466,9 @@
           questions = seleccion;
           // Barajar la selección final para mayor aleatoriedad
           shuffleArray(questions);
+          const titulosStr = titulos.length > 1 ? `${titulos.length} títulos` : (titulos.length === 1 ? titulos[0] : "");
           const capitulosStr = capitulos.length === 1 ? capitulos[0] : `${capitulos.length} capítulos`;
-          tituloActual = [bloque, titulo, capitulosStr].filter(Boolean).join(" > ") || "General";
+          tituloActual = [bloque, titulosStr, capitulosStr].filter(Boolean).join(" > ") || "General";
         } else {
           // Copia profunda de las preguntas filtradas para no mutar allQuestions
           questions = allQuestions
@@ -459,9 +477,10 @@
               const qArt = q.titulos && q.titulos.length > 3 ? q.titulos[3] : q.titulos?.[2];
               const capitulos_check = capitulos.length === 0;
               const articulos_check = articulos.length === 0;
-              return (
+              const titulos_check = titulos.length === 0;
+          return (
                 (!bloque || q.titulos?.[0] === bloque) &&
-                (!titulo || q.titulos?.[1] === titulo) &&
+                (titulos_check || titulos.includes(q.titulos?.[1])) &&
                 (capitulos_check || capitulos.includes(qCap)) &&
                 (articulos_check || articulos.includes(qArt))
               );
@@ -480,9 +499,10 @@
               shuffleArray(questions);
             }
 
+            const titulosStr = titulos.length > 1 ? `${titulos.length} títulos` : (titulos.length === 1 ? titulos[0] : "");
             const capitulosStr = capitulos.length > 1 ? `${capitulos.length} capítulos` : (capitulos.length === 1 ? capitulos[0] : "");
             const articulosStr = articulos.length > 1 ? `${articulos.length} artículos` : (articulos.length === 1 ? articulos[0] : "");
-            tituloActual = [bloque, titulo, capitulosStr, articulosStr].filter(Boolean).join(" > ") || "General";
+            tituloActual = [bloque, titulosStr, capitulosStr, articulosStr].filter(Boolean).join(" > ") || "General";
         }
 
         // Barajar orden de preguntas
@@ -525,7 +545,10 @@
       function restartQuiz() {
         // Restaurar los valores de los selects
         document.getElementById("bloque").value = currentBloque;
-        document.getElementById("titulo").value = currentTitulo;
+        const tituloSelect = document.getElementById("titulo");
+        Array.from(tituloSelect.options).forEach(opt => {
+          opt.selected = currentTitulos.includes(opt.value);
+        });
         document.getElementById("testSize").value = currentTestSize;
 
         // Restaurar capítulos seleccionados
