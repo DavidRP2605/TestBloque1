@@ -83,7 +83,7 @@
       }
       #result {
         margin-top: 15px;
-        display: flex;
+        display: none;
         justify-content: center;
         text-align: center;
         min-height: 3rem;
@@ -689,7 +689,9 @@
           )
           .join("")}
       `;
-        document.getElementById("result").textContent = "";
+        const resEl = document.getElementById("result");
+        resEl.textContent = "";
+        resEl.style.display = 'none';
 
         // Actualizar barra de progreso (preguntas respondidas / total)
         const pb = document.getElementById('progress-bar');
@@ -730,6 +732,7 @@
           } else {
             resultDiv.innerHTML = `<div class="practice-feedback incorrect"><div>❌ Incorrecto</div><div style="font-style:italic; margin-top:6px;">Correcta: ${q.options[q.answer]}</div></div>`;
           }
+          resultDiv.style.display = 'flex';
         }
 
         const nextBtn = document.getElementById("next-btn");
@@ -791,6 +794,8 @@
           </div>
         </div>`;
 
+        // Mostrar contenedor de resultado
+        result.style.display = 'flex';
         guardarEstadisticas();
       }
 
@@ -808,7 +813,9 @@
         document.getElementById("selector-temas").style.display = "block";
         const instru = document.getElementById("instruccion-botones");
         if (instru) instru.style.display = "none";
-        document.getElementById("result").textContent = "";
+        const _r = document.getElementById("result");
+        _r.textContent = "";
+        _r.style.display = 'none';
         // Desactivar estilos del modo test
         document.body.classList.remove('in-test');
         const pb = document.getElementById('progress-bar');
